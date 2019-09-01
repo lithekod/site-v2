@@ -3,14 +3,14 @@
     <head>
         <meta charset="utf-8">
 		<link rel='icon' type='image/png' href='https://lithekod.se/static/img/icon.png'>
-        <title>LiTHe kod - Programmerings problem</title>
+        <title>LiTHe kod - Programming problems</title>
 <script>
     window.onload = () => {
         let title = document.querySelector("#title");
         let desc = document.querySelector("#desc");
 
         let problems = [
-            ["Find the sum of primes!", 
+            ["Fun with sum primes!", 
              () => { 
                  let s = `What is the sum of the first <span class="interesting">?? prime numbers</span>?`;
                  return s.replace("??", 88 + Math.floor(Math.random() * 50)); 
@@ -18,12 +18,12 @@
 
             ["A bit of change!", 
              () => { 
-                 let s = `You're a cashire and want to give change on <span class="interesting">??kr</span>.
+                 let s = `You're a cashier. A person has just bought a product, but paid an excess of <span class="interesting">??kr</span>.
                           You have coins worth <span class="interesting">1kr, 3kr, 5kr and 7kr</span>.<br>
-                          In <span class="interesting">how many ways</span> can you exchange the money?`;
+                          In <span class="interesting">how many ways</span> can you return the change?`;
                  return s.replace("??", 11 + Math.floor(Math.random() * 10)); 
              }],
-            ["Placing the queens!", 
+            ["Aligning aristocrats!", 
              () => { 
                  return `Chezz (the budget version of chess) is a game played on a <span class="interesting">5x5</span>
                          board of square tiles.  In this game, there is a piece called the queen. Queens can move up, down, left,
@@ -114,9 +114,9 @@
         <article>
             <h1>How this works</h1>
             <div>
-                <p>Bellow you'll find a problem, do try and solve it by writing a program in the supplied text editor.
-                If you have any questions, don't be afraid to ask. <br>
-                (Due to safety reasons, we won't allow you to run scripts without talking to us first. <span class="heart"><3</span> )
+                <p>Bellow you'll find a problem; your task is to try to solve it by writing a program in the supplied text editor.
+                If you have any questions, don't be afraid to ask (we don't bite). <br>
+                (Due to security concerns, we won't allow you to run scripts without talking to us first. <span class="heart"><3</span>)
                 </p>
             </div>
             <h1 id="title">Loading...</h1>
