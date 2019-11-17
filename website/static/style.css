@@ -72,6 +72,8 @@ nav {
     left: calc(-50vw - 2px);
     z-index: 100;
 
+    scrollbar-width: none;
+
     /* Display */
     width: 50vw;
     max-width: 15em;
@@ -88,6 +90,10 @@ nav {
 
     /* Other */
     transition: 0.2s ease; /* Animation speed of opening navigation bar */
+}
+
+nav::-webkit-scrollbar {
+    display: none;
 }
 
 nav>label {
