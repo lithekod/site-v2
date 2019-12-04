@@ -18,16 +18,18 @@ på hur många problem som löses innan slutet av tävlingen.
 
 De 10 bästa deltagarna kommer att vinna presentkort med motsvarande summor:
 
-0.  1500 kr
-1.  1000 kr
-2.  750 kr
-3.  500 kr
-4.  500 kr
-5.  500 kr
-6.  200 kr
-7.  200 kr
-8.  200 kr
-9.  200 kr
+<ol start="0">
+<li> 1500 kr </li>
+<li> 1000 kr </li>
+<li> 750 kr </li>
+<li> 500 kr </li>
+<li> 500 kr </li>
+<li> 500 kr </li>
+<li> 200 kr </li>
+<li> 200 kr </li>
+<li> 200 kr </li>
+<li> 200 kr </li>
+</ol>
 
 Vinnarna kommer att utses främst utifrån antal lösta problem och därefter
 utifrån poäng som utdelas av Advent of Code.
