@@ -122,33 +122,161 @@ window.onload = () => {
     }
 
     // Fancy header image.
-    let canvas = document.getElementById("fancy-pants-graphics");
-    canvas.width = canvas.offsetWidth;
-    canvas.height = canvas.offsetHeight;
-    let ctx = canvas.getContext("2d");
+    {
+        // Some doom source code put here for reference.
+        let text = `
+void G_BuildTiccmd (ticcmd_t* cmd) 
+{ 
+    int		i; 
+    boolean	strafe;
+    boolean	bstrafe; 
+    int		speed;
+    int		tspeed; 
+    int		forward;
+    int		side;
+    
+    ticcmd_t*	base;
 
-    let colors = [
-        { r: 0,   g: 0,   b: 255 },
-        { r: 255, g: 255,   b: 0 },
-        { r: 0,   g: 255, b: 0 },
-        { r: 255, g: 0,   b: 255 },
-    ];
+    base = I_BaseTiccmd ();		// empty, or external driver
+    memcpy (cmd,base,sizeof(*cmd)); 
+	
+    cmd->consistancy = 
+	consistancy[consoleplayer][maketic%BACKUPTICS]; 
 
-    let current_color = Math.floor(Math.random() * colors.length);
-    let color_offset = Math.floor(Math.random() * (colors.length - 1) + 1);
-    let random_color = () => {
-        current_color = (current_color + color_offset) % colors.length;
-        return colors[current_color];
-    };
+ 
+    strafe = gamekeydown[key_strafe] || mousebuttons[mousebstrafe] 
+	|| joybuttons[joybstrafe]; 
+    speed = gamekeydown[key_speed] || joybuttons[joybspeed];
+ 
+    forward = side = 0;
+    
+    // use two stage accelerative turning
+    // on the keyboard and joystick
+    if (joyxmove < 0
+	|| joyxmove > 0  
+	|| gamekeydown[key_right]
+	|| gamekeydown[key_left]) 
+	turnheld += ticdup; 
+    else 
+	turnheld = 0; 
 
-    for (let q = 0; q < 5; q++) {
-        let x = Math.random() * canvas.width;
-        let y = Math.random() * canvas.height;
-        let c = random_color();
-        ctx.fillStyle = "rgba(" + c.r + ", " + c.g + ", " + c.b + ", 0.2)";
-        ctx.beginPath();
-        ctx.arc(x, y, canvas.width / 2, 0, 2 * Math.PI);
-        ctx.fill();
+    if (turnheld < SLOWTURNTICS) 
+	tspeed = 2;             // slow turn 
+    else 
+	tspeed = speed;
+    
+    // let movement keys cancel each other out
+    if (strafe) 
+    { 
+	if (gamekeydown[key_right]) 
+	{
+	    // fprintf(stderr, "strafe right\n");
+	    side += sidemove[speed]; 
+	}
+	if (gamekeydown[key_left]) 
+	{
+	    //	fprintf(stderr, "strafe left\n");
+	    side -= sidemove[speed]; 
+	}
+	if (joyxmove > 0) 
+	    side += sidemove[speed]; 
+	if (joyxmove < 0) 
+	    side -= sidemove[speed]; 
+ 
+    } 
+    else 
+    { 
+	if (gamekeydown[key_right]) 
+	    cmd->angleturn -= angleturn[tspeed]; 
+	if (gamekeydown[key_left]) 
+	    cmd->angleturn += angleturn[tspeed]; 
+	if (joyxmove > 0) 
+	    cmd->angleturn -= angleturn[tspeed]; 
+	if (joyxmove < 0) 
+	    cmd->angleturn += angleturn[tspeed]; 
+    } 
+ 
+    if (gamekeydown[key_up]) 
+    {
+	// fprintf(stderr, "up\n");
+	forward += forwardmove[speed]; 
+    }
+    if (gamekeydown[key_down]) 
+    {
+	// fprintf(stderr, "down\n");
+	forward -= forwardmove[speed]; 
+    }
+    if (joyymove < 0) 
+	forward += forwardmove[speed]; 
+    if (joyymove > 0) 
+	forward -= forwardmove[speed]; 
+    if (gamekeydown[key_straferight]) 
+	side += sidemove[speed]; 
+    if (gamekeydown[key_strafeleft]) 
+	side -= sidemove[speed];
+    
+    // buttons
+    cmd->chatchar = HU_dequeueChatChar(); 
+ 
+    if (gamekeydown[key_fire] || mousebuttons[mousebfire] 
+	|| joybuttons[joybfire]) 
+	cmd->buttons |= BT_ATTACK; 
+ 
+    if (gamekeydown[key_use] || joybuttons[joybuse] ) 
+    { 
+	cmd->buttons |= BT_USE;
+	// clear double clicks if hit use button 
+	dclicks = 0;                   
+    } 
+
+    // chainsaw overrides 
+    for (i=0 ; i<NUMWEAPONS-1 ; i++)        
+	if (gamekeydown['1'+i]) 
+	{ 
+	    cmd->buttons |= BT_CHANGE; 
+	    cmd->buttons |= i<<BT_WEAPONSHIFT; 
+	    break; 
+	}`
+        let canvas = document.getElementById("fancy-pants-graphics");
+        canvas.width = canvas.offsetWidth;
+        canvas.height = canvas.offsetHeight;
+        let ctx = canvas.getContext("2d");
+
+        let colors = [
+            { r: 255, g: 255,   b: 0 },
+        ];
+
+        let current_color = Math.floor(Math.random() * colors.length);
+        let color_offset = Math.floor(Math.random() * (colors.length - 1) + 1);
+        let random_color = () => {
+            current_color = (current_color + color_offset) % colors.length;
+            return colors[current_color];
+        };
+
+        const linefeed = 16;
+        ctx.font = linefeed + "px monospace";
+        ctx.fillStyle = "#DDD";
+        ctx.rotate(Math.random * 10 - 0.4);
+        let x = -canvas.width * 0.2;
+        for (let w = 0; w < 2; w++) {
+            x += canvas.width * 0.4;
+            let y = -Math.random() * canvas.height;
+            let lines = text.split("\n");
+            for (let q = 0; q < 20; q++) {
+                ctx.fillText(lines[q], x, y);
+                y += linefeed;
+            }
+        }
+
+        for (let q = 0; q < 2; q++) {
+            let x = Math.random() * canvas.width;
+            let y = Math.random() * canvas.height;
+            let c = random_color();
+            ctx.fillStyle = "rgba(" + c.r + ", " + c.g + ", " + c.b + ", 0.2)";
+            ctx.beginPath();
+            ctx.arc(x, y, canvas.width / 3, 0, 2 * Math.PI);
+            ctx.fill();
+        }
     }
 
     // Super secret easter egg
