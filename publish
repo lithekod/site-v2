@@ -1,5 +1,18 @@
 #!/usr/bin/env bash
 
+PUBLISH=1
+while [[ $# -gt 0 ]]
+do
+    key="$1"
+    case $key in
+    -d|--dry-run)
+        PUBLISH=0
+        shift
+        shift
+        ;;
+    esac
+done
+
 errors=0
 # Ensure changes are committed
 if [[ $(git status -s) ]]; then
@@ -7,14 +20,8 @@ if [[ $(git status -s) ]]; then
 	errors=1
 fi
 
-# Make sure the person running this script has rsync
-if ! type rsync &> /dev/null; then
-    echo "Error: You have to install rsync to run this script"
-	errors=1
-fi
-
 # Ensure user is publishing from master branch
-if [[ "$(git rev-parse --abbrev-ref HEAD)" != "master" ]]; then
+if [[ "$(git rev-parse --abbrev-ref HEAD)" != "master" ]] && [[ $PUBLISH -eq 1 ]]; then
 	echo "Error: Can only publish from \"master\" branch"
 	errors=1
 fi
@@ -46,16 +53,20 @@ if [[ $? -ne 0 ]]; then
 fi
 
 echo "Moving static files..."
-rsync -a website/build/* .
-rsync -a website/other/* .
+cp -r website/build/* .
+cp -r website/other/* .
 
-echo "Sending files to remote..."
-git add --all
-git commit -m "Publish $(date -I)" --no-gpg-sign
-git push -f --set-upstream origin gh-pages
+if [[ $PUBLISH -eq 1 ]]; then
+    echo "Sending files to remote..."
+    git add --all
+    git commit -m "Publish $(date -I)" --no-gpg-sign
+    git push -f --set-upstream origin gh-pages
 
-echo "Removing temporary branch..."
-git checkout -
-git branch -D gh-pages
+    echo "Removing temporary branch..."
+    git checkout -
+    git branch -D gh-pages
 
-echo "Done publishing"
+    echo "Done publishing"
+else
+    echo "Skipping push"
+fi
