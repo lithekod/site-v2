@@ -40,7 +40,7 @@ python freezer.py
 if [[ $? -ne 0 ]]; then
 	echo "Failed to build, have you setup the environment."
 	echo "Removing temporary branch..."
-	git checkout master
+	git checkout -
 	git branch -D gh-pages
 	exit 1
 fi
@@ -55,7 +55,7 @@ git commit -m "Publish $(date -I)" --no-gpg-sign
 git push -f --set-upstream origin gh-pages
 
 echo "Removing temporary branch..."
-git checkout master
+git checkout -
 git branch -D gh-pages
 
 echo "Done publishing"
