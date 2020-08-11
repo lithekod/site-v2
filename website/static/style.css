@@ -281,13 +281,32 @@ input[type="checkbox"]:checked+#body #dark-theme {
 #fancy-pants-graphics {
     position: absolute;
     max-height: 10em;
-    height: 15vh;
+    height: 25vh;
     width: 100vw;
     top: 0px;
     left: 0px;
     padding: 0px;
     background-color: #F0F;
+    z-index: 0;
 }
+
+#header-graphic {
+    position: relative;
+    display: block;
+    margin-top: 1vh;
+    width: calc(100vw - 2 * var(--margin));
+    max-width: var(--max-article-width);
+    max-height: 10em;
+    height: 25vh;
+    margin-left: auto;
+    margin-right: auto;
+    z-index: 1;
+}
+
+#header-graphic img {
+    width: 100%;
+}
+
 
 header {
     max-height: 10em;
@@ -296,19 +315,9 @@ header {
     margin-bottom: 2em;
 }
 
-header img {
-    position: relative;
-    margin-top: 1vh;
-    width: calc(100vw - 2 * var(--margin));
-    max-height: 10em;
-    height: 25vh;
-    left: 0px;
-    bottom: 1em;
-    margin-left: var(--margin);
-    margin-right: var(--margin);
-}
-
 article {
+    position: relative;
+    z-index: 2;
     font-size: 1em;
     max-width: var(--max-article-width);
     padding-left: var(--margin);
