@@ -1,4 +1,5 @@
 ;;Place this file your home directory (the command: "cd" will bring you there)
+;;This file changes the deafult Copy/Cut/Paste/Undo commands in Emacs to Windows-Defaults
 
 ;;If region is not active – no visible selection –
 ;;then deafult shortcuts works as it as it does normally in Emacs
