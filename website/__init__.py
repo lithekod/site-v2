@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import markdown2
 
-from flask import Flask, render_template, redirect
+from flask import Flask, render_template, redirect, send_file
 
 app = Flask(__name__, static_folder='static')
 
@@ -150,11 +150,11 @@ def competitions_en():
 
 @app.route("/gamejam/se/")
 def gamejam_se():
-    return render_page("website/pages/gamejam_se.md", "/gamejam/", 4, True) 
+    return render_page("website/pages/gamejam_se.md", "/gamejam/", 4, True)
 
 @app.route("/gamejam/en/")
 def gamejam_en():
-    return render_page("website/pages/gamejam_en.md", "/gamejam/", 4, False) 
+    return render_page("website/pages/gamejam_en.md", "/gamejam/", 4, False)
 
 @app.route("/organization/se/")
 def organization_se():
@@ -238,6 +238,16 @@ def microjam_en():
 def gitcheatsheet():
     """ The git cheat-sheet of doom! """
     return static_page("website/other/gitcheatsheet.html")
+
+@app.route("/vimrc")
+def vimrc():
+    """ Get the vimrc. """
+    return send_file("other/vimrc", attachment_filename=".vimrc", as_attachment=True)
+
+@app.route("/emacs_config")
+def emacs():
+    """ Get the vimrc. """
+    return send_file("other/emacs_config", attachment_filename=".emacs", as_attachment=True)
 
 @app.route("/lacc/")
 def lacc():

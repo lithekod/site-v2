@@ -1,0 +1,10 @@
+;;Place this file your home directory (the command: "cd" will bring you there)
+
+;;If region is not active – no visible selection –
+;;then deafult shortcuts works as it as it does normally in Emacs
+
+(cua-mode t)
+(setq cua-auto-tabify-rectangles nil) ;; Don't tabify after rectangle command
+(transient-mark-mode 1) ;; No region when it is not highlighted
+(setq cua-keep-region-after-copy t) ;; Standard Windows behaviour
+
