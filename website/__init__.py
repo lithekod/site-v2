@@ -246,7 +246,7 @@ def vimrc():
 
 @app.route("/emacs_config")
 def emacs():
-    """ Get the vimrc. """
+    """ Get the emacs config. """
     return send_file("other/emacs_config", attachment_filename=".emacs", as_attachment=True)
 
 @app.route("/lacc/")
