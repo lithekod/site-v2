@@ -1,6 +1,6 @@
 " A simple default configuration for beginner Vim usage.
 "
-" If you have any questions about this file, send and email to
+" If you have any questions about this file, send an email to
 " edvth289@student.liu.se, made with <3 by LiTHe kod.
 
 " This is strictly for Vim, not the ancient Vi.
@@ -8,6 +8,13 @@ set nocompatible
 
 " Keep the undo history, lets you close the buffer and
 " still undo.
+if !isdirectory($HOME."/.vim")
+    call mkdir($HOME."/.vim", "", 0770)
+endif
+if !isdirectory($HOME."/.vim/undo-dir")
+    call mkdir($HOME."/.vim/undo-dir", "", 0700)
+endif
+set undodir=~/.vim/undo-dir
 set undofile
 
 " Gives space around the cursor when scrolling.
@@ -54,4 +61,3 @@ augroup python
     " Make sure Vim gets the memo about syntax.
     set syntax=python
 augroup END
-

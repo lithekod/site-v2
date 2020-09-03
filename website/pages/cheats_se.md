@@ -13,4 +13,4 @@ Kom ihåg att döpa om den till ".vimrc"!
 ## <a href="/emacs_config" download=".emacs">.emacs</a>
 En konfiguration för Emacs som förenklar några av svårigheterna
 med att först börja använda Emacs. Värt att undersöka!
-Komihåg att döpa om den till ".emacs"!
+Kom ihåg att döpa om den till ".emacs"!
