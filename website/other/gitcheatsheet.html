@@ -2,14 +2,14 @@
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta charset="utf-8"/>
-		<link rel='icon' type='image/png' href='https://lithekod.se/static/img/icon.png'>
+        <link rel='icon' type='image/png' href='https://lithekod.se/static/img/icon.png'>
         <title>Git Cheat Sheet</title>
 <style>
 
 .heart {
     color: #C11;
-	animation-direction: alternate;
-	animation-name: heart-anim;
+    animation-direction: alternate;
+    animation-name: heart-anim;
     animation-duration: 2s;
     animation-iteration-count: infinite;
 }
@@ -20,16 +20,16 @@
 }
 
 body {
-	padding: 0px;
-	margin: 0px;
-	font-family: serif;
-	width: 80%;
-	max-width: 50em;
-	margin-left: auto;
-	margin-right: auto;
-	margin-top: 2em;
+    padding: 0px;
+    margin: 0px;
+    font-family: serif;
+    width: 80%;
+    max-width: 50em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2em;
 
-	background-color: #EEE;
+    background-color: #EEE;
 }
 
 footer {
@@ -44,50 +44,50 @@ footer {
 }
 
 .text-box.terminology {
-	background-color: #CCC;
-	padding: 1em;
-	border-radius: 0.3em;
+    background-color: #CCC;
+    padding: 1em;
+    border-radius: 0.3em;
 }
 
 .text-box.terminology div {
-	margin-top: 2em;
+    margin-top: 2em;
 }
 
 .text-box.terminology .term {
-	font-size: 1.3em;
-	text-decoration: bold;
-	color: #A55;
-	margin-bottom: 0.5em;
+    font-size: 1.3em;
+    text-decoration: bold;
+    color: #A55;
+    margin-bottom: 0.5em;
 
 }
 
 .text-box.terminology .desc {
-	font-size: 1.0em;
-	text-decoration: bold;
-	margin-top: 0.5em;
+    font-size: 1.0em;
+    text-decoration: bold;
+    margin-top: 0.5em;
 }
 
 .avoid-wrap {
-	display: inline-block;
+    display: inline-block;
 }
 
 .text-box.code {
-	padding: 1em;
-	border-radius: 0.3em;
-	background-color: #222;
-	font-family: monospace;
-	font-size: 1.2em;
-	color: #CCC;
+    padding: 1em;
+    border-radius: 0.3em;
+    background-color: #222;
+    font-family: monospace;
+    font-size: 1.2em;
+    color: #CCC;
     overflow-x: scroll;
     white-space: nowrap;
 }
 
 .text-box.code .comment {
-	color: #6A6;
+    color: #6A6;
 }
 
 .text-box.code .change-me {
-	color: #A6A;
+    color: #A6A;
 }
 
 a {
@@ -102,101 +102,101 @@ a:hover {
 </style>
     </head>
     <body>
-		<h1><span class="avoid-wrap">The ultimate git cheat sheet</span><span class="avoid-wrap">(of doom)</span></h1>
+        <h1><span class="avoid-wrap">The ultimate git cheat sheet</span><span class="avoid-wrap">(of doom)</span></h1>
         <p>Git can be very confusing and hard to grasp. This is a small little
         cheat sheet with things you might need. If you need further help...
         Ask someone who looks smart.</p>
-		<h2>Why should I bother learning git?</h2>
-		<p>Many of the most powerful tools are hard to learn - Git is no different. Learning Git will let you work with people more easily on large code bases, move changes over the network, organize your work, structure your team and save you from the horrible effects of hard drive failures.<span class="avoid-wrap">(It will also make you objectively cooler <span class="heart"><3</span>)</span></p>
-		<div class="text-box terminology">
-			<h1>Terminology</h1>
-			<div>
-				<p class="term">Repository/Repo</p><p class="desc">A project</p>
-			</div>
-			<div>
-				<p class="term">Commit</p><p class="desc">A bundle of changes</p>
-			</div>
-			<div>
-				<p class="term">Staged</p><p class="desc">Mark changes as "I want to keep these".</p>
-			</div>
-			<div>
-				<p class="term">Branch</p><p class="desc">A bundle of commits (A bundle of bundles with changes)</p>
-			</div>
-			<div>
-				<p class="term">Hash</p><p class="desc">A series of letters 0-F, usually looks like "25bb8e26be86e67c235f47fc37e5" (also come as the shortened version "25bb8e26"</p>
-			</div>
-			<div>
-				<p class="term">Remote</p><p class="desc">The project, but on a different computer you can interact with.</p>
-			</div>
-			<div>
-				<p class="term">Upstream</p><p class="desc">The "main" repository, usually on someone else's computer. (This is a form of remote, but it's your "main man", the guy you go to when everyone else leaves you.)</p>
-			</div>
-		</div>
-		<h1>Make a Git repo</h1>
+        <h2>Why should I bother learning git?</h2>
+        <p>Many of the most powerful tools are hard to learn - Git is no different. Learning Git will let you work with people more easily on large code bases, move changes over the network, organize your work, structure your team and save you from the horrible effects of hard drive failures.<span class="avoid-wrap">(It will also make you objectively cooler <span class="heart"><3</span>)</span></p>
+        <div class="text-box terminology">
+            <h1>Terminology</h1>
+            <div>
+                <p class="term">Repository/Repo</p><p class="desc">A project</p>
+            </div>
+            <div>
+                <p class="term">Commit</p><p class="desc">A bundle of changes</p>
+            </div>
+            <div>
+                <p class="term">Staged</p><p class="desc">Mark changes as "I want to keep these".</p>
+            </div>
+            <div>
+                <p class="term">Branch</p><p class="desc">A bundle of commits (A bundle of bundles with changes)</p>
+            </div>
+            <div>
+                <p class="term">Hash</p><p class="desc">A series of letters 0-F, usually looks like "25bb8e26be86e67c235f47fc37e5" (also come as the shortened version "25bb8e26"</p>
+            </div>
+            <div>
+                <p class="term">Remote</p><p class="desc">The project, but on a different computer you can interact with.</p>
+            </div>
+            <div>
+                <p class="term">Upstream</p><p class="desc">The "main" repository, usually on someone else's computer. (This is a form of remote, but it's your "main man", the guy you go to when everyone else leaves you.)</p>
+            </div>
+        </div>
+        <h1>Make a Git repo</h1>
         <div class="text-box code">
-                <p>$ git init</p>
-                <p><span class="comment"># Give in the URL to your upstream repo</span></p>
-                <p>$ git remote set-url origin <span class="change-me">"https://gitlab.ida.liu.se/liuid123/reponame"</span></p>
+            <p>$ git init</p>
+            <p><span class="comment"># Give in the URL to your upstream repo</span></p>
+            <p>$ git remote set-url origin <span class="change-me">"https://gitlab.ida.liu.se/liuid123/reponame"</span></p>
         </div>
         <h1>Show staged changes (to be committed)</h1>
         <div class="text-box code">
-			<p>$ git diff --staged</p>
+            <p>$ git diff --staged</p>
         </div>
         <h1>Show unstaged changes</h1>
         <div class="text-box code">
-			<p>$ git diff</p>
+            <p>$ git diff</p>
         </div>
-		<h1>Push changes</h1>
+        <h1>Push changes</h1>
         <div class="text-box code">
-                <p><span class="comment"># Tell git what files/directories you want to keep</span></p>
-                <p>$ git add <span class="change-me">file dir/ *.py</span></p>
-                <p><span class="comment"># Make sure the right files are staged</span></p>
-                <p>$ git status</p>
-                <p><span class="comment"># Create the commit and describe it</span></p>
-                <p>$ git commit -m <span class="change-me">"Remove bug"</span></p>
-                <p><span class="comment"># Send them to someone else's computer</span></p>
-                <p>$ git push</p>
+            <p><span class="comment"># Tell git what files/directories you want to keep</span></p>
+            <p>$ git add <span class="change-me">file dir/ *.py</span></p>
+            <p><span class="comment"># Make sure the right files are staged</span></p>
+            <p>$ git status</p>
+            <p><span class="comment"># Create the commit and describe it</span></p>
+            <p>$ git commit -m <span class="change-me">"Remove bug"</span></p>
+            <p><span class="comment"># Send them to someone else's computer</span></p>
+            <p>$ git push</p>
         </div>
-		<h1>Checkout a specific commit</h1>
+        <h1>Checkout a specific commit</h1>
         <div class="text-box code">
-                <p><span class="comment"># Copy the hash for the commit you want</span></p>
-                <p>$ git log</p>
-                <p><span class="comment"># Paste what you copied in the last command</span></p>
-                <p>$ git checkout <span class="change-me">25bb8e26be86e67c235f47fc37e578a699c69a1e</span></p>
+            <p><span class="comment"># Copy the hash for the commit you want</span></p>
+            <p>$ git log</p>
+            <p><span class="comment"># Paste what you copied in the last command</span></p>
+            <p>$ git checkout <span class="change-me">25bb8e26be86e67c235f47fc37e578a699c69a1e</span></p>
         </div>
         <h1>Remove all uncommitted work</h1>
         <div class="text-box code">
-			<p>$ git reset</p>
+            <p>$ git reset</p>
         </div>
-		<h1>Create and switch to a new branch</h1>
+        <h1>Create and switch to a new branch</h1>
         <div class="text-box code">
             <p>$ git checkout -b <span class="change-me">descriptive-branch-name</span></p>
         </div>
-		<h1>Merge a branch</h1>
+        <h1>Merge a branch</h1>
         <div class="text-box code">
-                <p><span class="comment"># Move to the branch you want to have both changes, usually "master"</span></p>
-                <p>$ git checkout <span class="change-me">branch-to-merge-from</span></p>
-                <p><span class="comment"># Merge in the new branch</span></p>
-                <p>$ git merege <span class="change-me">topic-branch-to-merge</span></p>
+            <p><span class="comment"># Move to the branch you want to have both changes, usually "master"</span></p>
+            <p>$ git checkout <span class="change-me">branch-to-merge-from</span></p>
+            <p><span class="comment"># Merge in the new branch</span></p>
+            <p>$ git merege <span class="change-me">topic-branch-to-merge</span></p>
         </div>
         <h1>Solve a merge conflict</h1>
         <div class="text-box code">
-                <p><span class="comment"># See which files have conflicts</span></p>
-                <p>$ git status</p>
-                <p><span class="comment"># Edit the files and make sure they look like you want.</span></p>
-                <p><span class="comment"># Git adds ">>>>>>>>>> HEAD" to show where conflicts are</span></p>
-                <p><span class="comment"># When done simply add them and commit</span></p>
-                <p>$ git add <span class="change-me">file dir/ *.py</span></p>
-                <p>$ git commit -m <span class="change-me">"Descriptive message"</span></p>
+            <p><span class="comment"># See which files have conflicts</span></p>
+            <p>$ git status</p>
+            <p><span class="comment"># Edit the files and make sure they look like you want.</span></p>
+            <p><span class="comment"># Git adds ">>>>>>>>>> HEAD" to show where conflicts are</span></p>
+            <p><span class="comment"># When done simply add them and commit</span></p>
+            <p>$ git add <span class="change-me">file dir/ *.py</span></p>
+            <p>$ git commit -m <span class="change-me">"Descriptive message"</span></p>
         </div>
         <h1>Move un-commited changes to another branch</h1>
         <div class="text-box code">
             <p><span class="comment"># Put the changes in the stash</span></p>
-			<p>$ git stash</p>
+            <p>$ git stash</p>
             <p><span class="comment"># Check out the branch to move to</span></p>
             <p>$ git checkout <span class="change-me">better-branch</span></p>
             <p><span class="comment"># Move the changes from the stash</span></p>
-			<p>$ git stash apply</p>
+            <p>$ git stash apply</p>
         </div>
 
         <footer>
