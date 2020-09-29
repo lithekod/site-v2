@@ -6,8 +6,6 @@ Sidan är kontinuerligt uppdaterad så de senaste tävlingarna ligger längst up
 
 ## [IMPA](/impa/se)
 
-## [Coding Cup](/codingcup/se)
+## [NCPC 2020](/ncpc/se)
 
 ## [Advent of Code](/aoc/se)
-
-## [NCPC 2020](/ncpc/se)
