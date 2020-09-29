@@ -10,4 +10,4 @@ Sidan är kontinuerligt uppdaterad så de senaste tävlingarna ligger längst up
 
 ## [Advent of Code](/aoc/se)
 
-## [NCPC 2019](/ncpc/se)
+## [NCPC 2020](/ncpc/se)

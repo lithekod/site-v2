@@ -10,4 +10,4 @@ The page is updated continually so that the latest competitions appear first.
 
 ## [Advent of Code](/aoc/en)
 
-## [NCPC 2019](/ncpc/en)
+## [NCPC 2020](/ncpc/en)
