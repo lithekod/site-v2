@@ -11,6 +11,7 @@
 	animation-direction: alternate;
 	animation-name: heart-anim;
     animation-duration: 2s;
+    animation-iteration-count: infinite;
 }
 
 @keyframes heart-anim {
@@ -116,7 +117,7 @@ a:hover {
 				<p class="term">Commit</p><p class="desc">A bundle of changes</p>
 			</div>
 			<div>
-				<p class="term">Stage</p><p class="desc">Mark changes as "I want to keep these".</p>
+				<p class="term">Staged</p><p class="desc">Mark changes as "I want to keep these".</p>
 			</div>
 			<div>
 				<p class="term">Branch</p><p class="desc">A bundle of commits (A bundle of bundles with changes)</p>
@@ -176,7 +177,7 @@ a:hover {
                 <p><span class="comment"># Move to the branch you want to have both changes, usually "master"</span></p>
                 <p>$ git checkout <span class="change-me">branch-to-merge-from</span></p>
                 <p><span class="comment"># Merge in the new branch</span></p>
-                <p>$ git checkout <span class="change-me">topic-branch-to-merge</span></p>
+                <p>$ git merege <span class="change-me">topic-branch-to-merge</span></p>
         </div>
         <h1>Solve a merge conflict</h1>
         <div class="text-box code">
