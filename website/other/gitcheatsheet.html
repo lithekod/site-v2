@@ -105,11 +105,27 @@ a:hover {
         <h1><span class="avoid-wrap">The ultimate git cheat sheet</span> <span class="avoid-wrap">(of doom)</span></h1>
         <p>git can be very confusing and hard to grasp. This is a small little
         cheat sheet with things you might need. If you need further help...
-        ask someone who looks smart.</p>
+        ask someone who looks smart.
+        </p>
+        <div>
+            <h2>Table of contents</h2>
+            <ul>
+                <li><a class="toc-link" href="#toc-make-a-git-repo">Make a git repo</a></li>
+                <li><a class="toc-link" href="#toc-show-unstaged-changes">Show unstaged changes</a></li>
+                <li><a class="toc-link" href="#toc-show-staged-changes">Show staged changes (to be committed)</a></li>
+                <li><a class="toc-link" href="#toc-push-changes">Push changes</a></li>
+                <li><a class="toc-link" href="#toc-unstage">Unstage all staged files (opposite of git add)</a></li>
+                <li><a class="toc-link" href="#toc-throw-away">Throw away all unstaged changes</a></li>
+                <li><a class="toc-link" href="#toc-create-and-switch">Create and switch to a new branch</a></li>
+                <li><a class="toc-link" href="#toc-merge-branch">Merge a branch</a></li>
+                <li><a class="toc-link" href="#toc-solve-merge-conflict">Solve a merge conflict</a></li>
+                <li><a class="toc-link" href="#toc-move-to-another-branch">Move un-commited changes to another branch</a></li>
+            </ul>
+        </div>
         <h2>Why should I bother learning git?</h2>
         <p>Many of the most powerful tools are hard to learn - git is no different. Learning git will let you work with people more easily on large code bases, move changes over the network, organize your work, structure your team and save you from the horrible effects of hard drive failures. <span class="avoid-wrap">(It will also make you objectively cooler <span class="heart"><3</span>)</span></p>
         <div class="text-box terminology">
-            <h2>Terminology</h2>
+            <h2 id="toc-terminology">Terminology</h2>
             <div>
                 <p class="term">Repository/Repo</p><p class="desc">A project</p>
             </div>
@@ -129,21 +145,21 @@ a:hover {
                 <p class="term">Remote</p><p class="desc">The repository, but on a different computer you can interact with.</p>
             </div>
         </div>
-        <h2>Make a git repo</h2>
+        <h2 id="toc-make-a-git-repo">Make a git repo</h2>
         <div class="text-box code">
             <p>$ git init</p>
             <p><span class="comment"># Set the URL to your upstream repo</span></p>
             <p>$ git remote add origin <span class="change-me">"https://gitlab.liu.se/liuid123/reponame"</span></p>
         </div>
-        <h2>Show unstaged changes</h2>
+        <h2 id="toc-show-unstaged-changes">Show unstaged changes</h2>
         <div class="text-box code">
             <p>$ git diff</p>
         </div>
-        <h2>Show staged changes (to be committed)</h2>
+        <h2 id="toc-show-staged-changes">Show staged changes (to be committed)</h2>
         <div class="text-box code">
             <p>$ git diff --staged</p>
         </div>
-        <h2>Push changes</h2>
+        <h2 id="toc-push-changes">Push changes</h2>
         <div class="text-box code">
             <p><span class="comment"># Tell git what files/directories you want to keep</span></p>
             <p>$ git add <span class="change-me">file dir/ *.py</span></p>
@@ -154,26 +170,26 @@ a:hover {
             <p><span class="comment"># Send them to someone else's computer</span></p>
             <p>$ git push</p>
         </div>
-        <h2>Unstage all staged files (opposite of git add)</h2>
+        <h2 id="toc-unstage">Unstage all staged files (opposite of git add)</h2>
         <div class="text-box code">
             <p>$ git reset</p>
         </div>
-        <h2>Throw away all unstaged changes</h2>
+        <h2 id="toc-throw-away">Throw away all unstaged changes</h2>
         <div class="text-box code">
             <p>$ git checkout -- .</p>
         </div>
-        <h2>Create and switch to a new branch</h2>
+        <h2 id="toc-create-and-switch">Create and switch to a new branch</h2>
         <div class="text-box code">
             <p>$ git checkout -b <span class="change-me">descriptive-branch-name</span></p>
         </div>
-        <h2>Merge a branch</h2>
+        <h2 id="toc-merge-branch">Merge a branch</h2>
         <div class="text-box code">
             <p><span class="comment"># Move to the branch you want to have both changes on, usually "master"</span></p>
             <p>$ git checkout <span class="change-me">branch-to-merge-into</span></p>
             <p><span class="comment"># Merge the other branch</span></p>
             <p>$ git merge --no-ff <span class="change-me">branch-to-merge</span></p>
         </div>
-        <h2>Solve a merge conflict</h2>
+        <h2 id="toc-solve-merge-conflict">Solve a merge conflict</h2>
         <div class="text-box code">
             <p><span class="comment"># See which files have conflicts</span></p>
             <p>$ git status</p>
@@ -183,7 +199,7 @@ a:hover {
             <p>$ git add <span class="change-me">file dir/ *.py</span></p>
             <p>$ git commit -m <span class="change-me">"Descriptive message"</span></p>
         </div>
-        <h2>Move un-commited changes to another branch</h2>
+        <h2 id="toc-move-to-another-branch">Move un-commited changes to another branch</h2>
         <div class="text-box code">
             <p><span class="comment"># Put the changes in the stash</span></p>
             <p>$ git stash</p>
