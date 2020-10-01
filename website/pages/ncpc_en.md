@@ -1,9 +1,47 @@
-# NCPC 2019
+# NCPC 2020
 
-NCPC has ended and will return next year. We hope to see you then!
+Here follows some information about the Nordic Collegiate Programming Contest
+2020.
+
+* Registration will open soon
+* [General information about NCPC](https://nordic.icpc.io/#ncpc)
+
+Due to Covid-19 the contest will look a bit different than usual. Teams will be
+able to compete from home if they so wish, and due to this there is a limit of
+one computer per team member rather than the usual one computer per team.
+
+For those interested and willing, Lithe kod will offer access to university
+computer labs and free food on the day of the contest. Due to the new rules
+above, however, this is not a requirement for participating. For those competing
+on-site we will begin at 10:00 in Ada Lovelace, door 27 in B-huset, with
+information about the contest rules and a few words from our sponsors. The
+presentation will be streamed for those competing at home.
+
+We will also have a warm up one week before the contest (October 31) in our
+[Discord server](https://discord.gg/UG5YYsN), starting at around 11:00. Come and
+questions about competitive programming in general or NCPC specifically. There
+won't be any planned happenings, so if you're wondering how competitive
+programming actually works, this is a good place to ask.
+
+Registrations will be handled through the link at the top for teams of sizes up
+to three people. If you don't have a team to compete with and don't want to
+compete by yourself (or you are two people looking for a third), send an e-mail
+to <a href="mailto:vordf@lithekod.se">vordf@lithekod.se</a> with "ncpc
+registration" somewhere in the subject line. Please include if you are ICPC
+eligible (see below) and if you want to compete on-site or not. Due to the
+current situation, a wish to compete off-site will take priority.
+
+Note that prizes and progress to nationals can only be offered to teams that are
+ICPC eligible, that is, if your participants:
+
+* Have not participated in NCPC or equivalent five different years
+* Have not participated in ICPC two different years
+* Were born in 1997 or later
+* Began studying at a university or a comparable institution in 2016 or later
 
 <div id="sponsor-container">
     <img class="sponsor" src="/static/img/idainfront_logo.png" alt="ida infront">
     <img class="sponsor" src="/static/img/opera_dark_logo.png" alt="opera">
     <img class="sponsor" src="/static/img/ericsson_logo.png" alt="ericsson">
+    <img class="sponsor" src="/static/img/axis.png" alt="axis">
 </div>
