@@ -23,7 +23,7 @@ questions about competitive programming in general or NCPC specifically. There
 won't be any planned happenings, so if you're wondering how competitive
 programming actually works, this is a good place to ask.
 
-Registrations will be handled through the link at the top for teams of sizes up
+Registrations will be handled through the link at the top for teams with up
 to three people. If you don't have a team to compete with and don't want to
 compete by yourself (or you are two people looking for a third), send an e-mail
 to <a href="mailto:vordf@lithekod.se">vordf@lithekod.se</a> with "ncpc
