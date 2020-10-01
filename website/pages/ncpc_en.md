@@ -10,7 +10,7 @@ Due to Covid-19 the contest will look a bit different than usual. Teams will be
 able to compete from home if they so wish, and due to this there is a limit of
 one computer per team member rather than the usual one computer per team.
 
-For those interested and willing, Lithe kod will offer access to university
+For those interested and willing, LiTHe kod will offer access to university
 computer labs and free food on the day of the contest. Due to the new rules
 above, however, this is not a requirement for participating. For those competing
 on-site we will begin at 10:00 in Ada Lovelace, door 27 in B-huset, with
