@@ -32,7 +32,8 @@ eligible (see below) and if you want to compete on-site or not. Due to the
 current situation, a wish to compete off-site will take priority.
 
 Note that prizes and progress to nationals can only be offered to teams that are
-ICPC eligible, that is, if your participants:
+[ICPC eligible](https://icpc.global/regionals/rules), that is, if your
+participants:
 
 * Have not participated in NCPC or equivalent five different years
 * Have not participated in ICPC two different years
