@@ -1,6 +1,7 @@
 # NCPC 2020
 
-Här finns information om Nordic Collegiate Programming Contest 2020.
+Här finns information om Nordic Collegiate Programming Contest 2020. Tävlingen
+kommer gå 7 november.
 
 * Registering kommer öppna inom kort
 * [Generell information om NCPC](https://nordic.icpc.io/#ncpc)
