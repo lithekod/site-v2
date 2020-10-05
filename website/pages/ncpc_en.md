@@ -39,7 +39,7 @@ programming actually works, this is a good place to ask.
 
 Registrations will be handled through the link at the top for teams with up
 to three people. If you don't have a team to compete with and don't want to
-compete by yourself (or you are two people looking for a third), send an e-mail
+compete by yourself (or if you are two people looking for a third), send an e-mail
 to <a href="mailto:vordf@lithekod.se">vordf@lithekod.se</a> with "ncpc
 registration" somewhere in the subject line, at or before November 1. Please include if you are ICPC
 eligible (see below) and if you want to compete on-site or not. Due to the

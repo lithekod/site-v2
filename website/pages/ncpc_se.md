@@ -40,7 +40,7 @@ fungerar är det här ett prima tillfälle att fråga.
 
 Anmälan till tävlingen kommer kunna göras via en länk längst upp för lag med upp
 till tre medlemmar. Om du vill tävla men inte har ett lag och inte vill delta
-ensam kan du skicka ett e-postmeddelande till <a
+ensam (eller om du redan har en lagkamrat och letar efter en tredje medlem) kan du skicka ett e-postmeddelande till <a
 href="mailto:vordf@lithekod.se">vordf@lithekod.se</a> med "ncpc-registrering"
 någonstans i titeln senast 1 november. Ange om du är ICPC-kvalificerad eller inte (se nedan) och
 om du kan tänka dig att tävla på plats eller inte. På grund av rådande situation
