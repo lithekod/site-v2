@@ -1,10 +1,24 @@
 # NCPC 2020
 
-Here follows some information about the Nordic Collegiate Programming
-Contest 2020. The contest will be held at November 7.
+Here follows some information about the [Nordic Collegiate Programming
+Contest 2020](https://nordic.icpc.io/ncpc2020/). The contest will be held at November 7.
 
-* Registration will open soon
-* [General information about NCPC](https://nordic.icpc.io/#ncpc)
+## Schedule
+
+Viktiga datum:
+* October 31 - Warm-up in [our Discord server](https://discord.gg/UG5YYsN)
+* November 1 - Last day for contacting us in case you need a team
+* November 4 - Last day for [registering your team](https://icpc.global/regionals/finder/Nordic-2020)
+* November 7 - Contest!
+
+Tävlingsschema 7 november:
+* 10:00 - Intro presentation
+* 11:00 - Contest starts!
+* ??:?? - Free lunch for on-site
+* 16:00 - Contest ends
+* 16:?? - Outro presentation
+
+## Details
 
 Due to Covid-19 the contest will look a bit different than usual. Teams will be
 able to compete from home if they so wish, and due to this there is a limit of
@@ -27,11 +41,11 @@ Registrations will be handled through the link at the top for teams with up
 to three people. If you don't have a team to compete with and don't want to
 compete by yourself (or you are two people looking for a third), send an e-mail
 to <a href="mailto:vordf@lithekod.se">vordf@lithekod.se</a> with "ncpc
-registration" somewhere in the subject line. Please include if you are ICPC
+registration" somewhere in the subject line, at or before November 1. Please include if you are ICPC
 eligible (see below) and if you want to compete on-site or not. Due to the
 current situation, a wish to compete off-site will take priority.
 
-Note that prizes and progress to nationals can only be offered to teams that are
+Note that prizes and progress to nationals can only be offered for teams that are
 [ICPC eligible](https://icpc.global/regionals/rules), that is, if your
 participants:
 

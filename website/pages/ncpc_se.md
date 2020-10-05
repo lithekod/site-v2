@@ -1,10 +1,24 @@
 # NCPC 2020
 
-Här finns information om Nordic Collegiate Programming Contest 2020. Tävlingen
-kommer gå 7 november.
+Här finns information om [Nordic Collegiate Programming
+Contest](https://nordic.icpc.io/ncpc2020/) 2020. Tävlingen kommer gå 7 november.
 
-* Registering kommer öppna inom kort
-* [Generell information om NCPC](https://nordic.icpc.io/#ncpc)
+## Schema
+
+Viktiga datum:
+* 31 oktober - Uppvärmning i [vår Discordserver](https://discord.gg/UG5YYsN)
+* 1 november - Sista dagen att kontakta oss för hjälp att hitta ett lag
+* 4 november - Sista dag för [laganmälan](https://icpc.global/regionals/finder/Nordic-2020)
+* 7 november - Tävling!
+
+Tävlingsschema 7 november:
+* 10:00 - Intropresentation
+* 11:00 - Tävlingen börjar!
+* ??:?? - Gratis lunch för on-site
+* 16:00 - Tävlingen avslutas
+* 16:?? - Slutpresentation
+
+## Detaljer
 
 På grund av Covid-19 kommer tävlingen se lite annorlunda ut än tidigare år. Lag
 som vill kommer tillåtas tävla hemifrån, och på grund av detta kommer
@@ -28,7 +42,7 @@ Anmälan till tävlingen kommer kunna göras via en länk längst upp för lag m
 till tre medlemmar. Om du vill tävla men inte har ett lag och inte vill delta
 ensam kan du skicka ett e-postmeddelande till <a
 href="mailto:vordf@lithekod.se">vordf@lithekod.se</a> med "ncpc-registrering"
-någonstans i titeln. Ange om du är ICPC-kvalificerad eller inte (se nedan) och
+någonstans i titeln senast 1 november. Ange om du är ICPC-kvalificerad eller inte (se nedan) och
 om du kan tänka dig att tävla på plats eller inte. På grund av rådande situation
 kommer en önskan om att inte vara på plats ta prioritet.
 
