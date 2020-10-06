@@ -46,7 +46,7 @@ någonstans i titeln senast 1 november. Ange om du är ICPC-kvalificerad eller i
 om du kan tänka dig att tävla på plats eller inte. På grund av rådande situation
 kommer en önskan om att inte vara på plats ta prioritet.
 
-Priser och framsteg till NWERC kan endast erbjudas lag som är [berättigade till
+Framsteg till NWERC kan endast erbjudas lag som är [berättigade till
 ICPC](https://icpc.global/regionals/rules), det vill säga om deltagarna:
 
 * Inte har deltagit i NCPC eller motsvarande fem olika år
