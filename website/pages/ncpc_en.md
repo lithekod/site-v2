@@ -45,7 +45,7 @@ registration" somewhere in the subject line, at or before November 1. Please inc
 eligible (see below) and if you want to compete on-site or not. Due to the
 current situation, a wish to compete off-site will take priority.
 
-Note that prizes and progress to nationals can only be offered for teams that are
+Note that progress to nationals can only be offered to teams that are
 [ICPC eligible](https://icpc.global/regionals/rules), that is, if your
 participants:
 
