@@ -23,7 +23,10 @@ More information can be found on the IMPA
 
 <div id="sponsor-container">
     <img class="sponsor" src="/static/img/idainfront_logo.png" alt="ida infront">
-    <img class="sponsor" src="/static/img/opera_dark_logo.png" alt="opera">
-    <img class="sponsor" src="/static/img/ericsson_logo.png" alt="ericsson">
-    <img class="sponsor" src="/static/img/axis.png" alt="axis">
+    <img class="sponsor only-dark-theme" src="/static/img/opera_dark_logo.png" alt="opera">
+    <img class="sponsor only-light-theme" src="/static/img/opera_logo.png" alt="opera">
+    <img class="sponsor only-dark-theme" src="/static/img/ericsson.svg" alt="ericsson">
+    <img class="sponsor only-light-theme" src="/static/img/ericsson_logo.png" alt="ericsson">
+    <img class="sponsor only-dark-theme" src="/static/img/axis.png" alt="axis">
+    <img class="sponsor only-light-theme" src="/static/img/axis_light.jpg" alt="axis">
 </div>
