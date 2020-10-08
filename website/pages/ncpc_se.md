@@ -6,12 +6,14 @@ Contest](https://nordic.icpc.io/ncpc2020/) 2020. Tävlingen kommer gå 7 novembe
 ## Schema
 
 Viktiga datum:
+
 * 31 oktober - Uppvärmning i [vår Discordserver](https://discord.gg/UG5YYsN)
 * 1 november - Sista dagen att kontakta oss för hjälp att hitta ett lag
 * 4 november - Sista dag för [laganmälan](https://icpc.global/regionals/finder/Nordic-2020)
 * 7 november - Tävling!
 
 Tävlingsschema 7 november:
+
 * 10:00 - Intropresentation
 * 11:00 - Tävlingen börjar!
 * ??:?? - Gratis lunch för on-site

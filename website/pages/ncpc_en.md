@@ -6,12 +6,14 @@ Contest 2020](https://nordic.icpc.io/ncpc2020/). The contest will be held at Nov
 ## Schedule
 
 Important dates:
+
 * October 31 - Warm-up in [our Discord server](https://discord.gg/UG5YYsN)
 * November 1 - Last day for contacting us in case you need a team
 * November 4 - Last day for [registering your team](https://icpc.global/regionals/finder/Nordic-2020)
 * November 7 - Contest!
 
 Contest schedule November 7:
+
 * 10:00 - Intro presentation
 * 11:00 - Contest starts!
 * ??:?? - Free lunch for on-site
