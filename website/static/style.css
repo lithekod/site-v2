@@ -606,7 +606,7 @@ img.sponsor {
     display: flex;
     flex-flow: wrap;
     align-items: center;
-    background: var(--footer-bg-color);
+    /*background: var(--footer-bg-color);*/
 }
 
 /* Snow for when it's December */
