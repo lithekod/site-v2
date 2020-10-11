@@ -57,7 +57,8 @@ ICPC](https://icpc.global/regionals/rules), det vill säga om deltagarna:
 * Började studera vid ett universitet eller jämförbart 2016 eller senare
 
 <div id="sponsor-container">
-    <img class="sponsor" src="/static/img/idainfront_logo.png" alt="ida infront">
+    <img class="sponsor only-dark-theme" src="/static/img/idainfront_dt.png" alt="ida infront">
+    <img class="sponsor only-light-theme" src="/static/img/idainfront_lt.png" alt="ida infront">
     <img class="sponsor only-dark-theme" src="/static/img/opera_dt.png" alt="opera">
     <img class="sponsor only-light-theme" src="/static/img/opera_lt.png" alt="opera">
     <img class="sponsor only-dark-theme" src="/static/img/ericsson_dt.svg" alt="ericsson">
