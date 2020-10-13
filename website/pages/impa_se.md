@@ -23,10 +23,10 @@ Mer information finns på IMPAs [hemsida](https://www.ida.liu.se/projects/impa/n
 <div id="sponsor-container">
     <img class="sponsor only-dark-theme" src="/static/img/idainfront_dt.png" alt="ida infront">
     <img class="sponsor only-light-theme" src="/static/img/idainfront_lt.png" alt="ida infront">
-    <img class="sponsor only-dark-theme" src="/static/img/opera_dt.png" alt="opera">
-    <img class="sponsor only-light-theme" src="/static/img/opera_lt.png" alt="opera">
     <img class="sponsor only-dark-theme" src="/static/img/ericsson_dt.svg" alt="ericsson">
     <img class="sponsor only-light-theme" src="/static/img/ericsson_lt.png" alt="ericsson">
+    <img class="sponsor only-dark-theme" src="/static/img/opera_dt.png" alt="opera">
+    <img class="sponsor only-light-theme" src="/static/img/opera_lt.png" alt="opera">
     <img class="sponsor only-dark-theme" src="/static/img/axis_dt.png" alt="axis">
     <img class="sponsor only-light-theme" src="/static/img/axis_lt.jpg" alt="axis">
 </div>
