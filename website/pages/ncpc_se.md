@@ -16,7 +16,7 @@ Tävlingsschema 7 november:
 
 * 10:00 - Intropresentation
 * 11:00 - Tävlingen börjar!
-* ??:?? - Gratis lunch för on-site
+* 13:00 (ungefär) - Gratis lunch för on-site
 * 16:00 - Tävlingen avslutas
 * 16:?? - Slutpresentation
 

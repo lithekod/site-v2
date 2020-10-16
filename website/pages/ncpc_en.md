@@ -16,7 +16,7 @@ Contest schedule November 7:
 
 * 10:00 - Intro presentation
 * 11:00 - Contest starts!
-* ??:?? - Free lunch for on-site
+* 13:00 (ish) - Free lunch for on-site
 * 16:00 - Contest ends
 * 16:?? - Outro presentation
 
