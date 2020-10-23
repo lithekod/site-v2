@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 import markdown2
 
-from flask import Flask, render_template, redirect, send_file
+from flask import Flask, render_template, redirect, send_file, request
+from urllib.parse import urlparse
 
 app = Flask(__name__, static_folder='static')
 
@@ -52,6 +53,11 @@ def redirect_external(url):
     """
     return render_template("redirect.html", url=url)
 
+@app.before_request
+def domain_redir():
+    netloc = urlparse(request.url).netloc
+    if netloc == "liugamejam.se":
+        return redirect("/gamejam/en/")
 
 """Temporary pages
 These pages should be removed when apropriate.
