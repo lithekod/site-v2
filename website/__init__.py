@@ -53,198 +53,66 @@ def redirect_external(url):
     return render_template("redirect.html", url=url)
 
 
-"""Temporary pages
-These pages should be removed when apropriate.
-"""
+# ========== Temporary pages ==========
+# These pages should be removed when apropriate.
 
 @app.route("/lodol/")
 def lodol():
     return redirect_external("https://docs.google.com/forms/d/e/1FAIpQLSd1A_bXgJWW4jYTlbce5R0mvlCTNs6dMk1Kv4lHDiekuTomEQ/viewform")
 
 
-"""Redirects
-The default page when accessing a link will be in swedish.
-"""
-
-@app.route("/")
-def index_redir(): return redirect("/se/")
-
-@app.route("/posts/")
-def posts_redir(): return redirect("/meetings/")
-
-@app.route("/contact/")
-def contact_redir(): return redirect("/contact/se/")
-
-@app.route("/aoc/")
-def aoc_redir(): return redirect("/aoc/se/")
-
-@app.route("/competitions/")
-def competitions_redir(): return redirect("/competitions/se/")
-
-@app.route("/organization/")
-def organization_redir(): return redirect("/organization/se/")
-
-@app.route("/cheats/")
-def cheats_redir(): return redirect("/cheats/se/")
-
-@app.route("/ncpc/")
-def ncpc_redir(): return redirect("/ncpc/se/")
-
-@app.route("/impa/")
-def impa_redir(): return redirect("/impa/se/")
-
-@app.route("/codingcup/")
-def codingcup_redir():
-    return redirect("/codingcup/se/")
-
-@app.route("/microjam/")
-def microjam_redir():
-    return redirect("/microjam/se")
-
-@app.route("/gamejam/")
-def gamejam_redir():
-    return redirect("/gamejam/se")
+# ========== Redirects ==========
+# Redirect to the snake-ribs documentation.
 
 @app.route("/snake-ribs")
 @app.route("/snake-ribs/")
 def snake_ribs():
     return redirect_external("https://lithekod.github.io/snake-ribs/")
 
-@app.route("/meetings/")
-def meetings_redir(): return redirect("/meetings/se")
+# ========== Pages ==========
+# These are the main pages on the LiTHe kod website.
 
+def create_view(md_file, url, swedish):
+    """ Return a function that returns a page. """
+    return lambda: render_page(md_file, url, swedish)
 
-"""Pages on sidebar
-These pages are shown on and can be accessed from the sidebar.
-The render_page is given an index to indicate which link
-from the sidebar to highlight.
-"""
+def create_redirect(to):
+    """ Return a function that returns a redirect. """
+    return lambda: redirect(to)
 
-@app.route("/se/")
-def index_se():
-    """ Swedish Index page """
-    return render_page("website/pages/index_se.md", "/", True)
+pages = [
+    ("/",                 "website/pages/index_{}.md"),
+    ("/contact/",         "website/pages/contact_{}.md"),
+    ("/competitions/",    "website/pages/competitions_{}.md"),
+    ("/gamejam/",         "website/pages/gamejam_{}.md"),
+    ("/organization/",    "website/pages/organization_{}.md"),
+    ("/cheats/",          "website/pages/cheats_{}.md"),
+    ("/ncpc/",            "website/pages/ncpc_{}.md"),
+    ("/impa/",            "website/pages/impa_{}.md"),
+    ("/aoc/",             "website/pages/aoc_{}.md"),
+    ("/codingcup/",       "website/pages/codingcup_{}.md"),
+    ("/microjam/",        "website/pages/microjam_{}.md"),
+    ("/meetings/",        "website/pages/meetings_{}.md"),
+]
 
-@app.route("/en/")
-def index_en():
-    """ English Index page """
-    return render_page("website/pages/index_en.md", "/", False)
+for url, md_file in pages:
+    swedish_url = url + "se/"
+    english_url = url + "en/"
 
-@app.route("/contact/se/")
-def contact_se():
-    """ Swedish Contact page """
-    return render_page("website/pages/contact_se.md", "/contact/", True)
+    # Swedish version
+    view = create_view(md_file.format("se"), url, True)
+    app.add_url_rule(swedish_url, swedish_url, view)
 
-@app.route("/contact/en/")
-def contact_en():
-    """ English Contact page """
-    return render_page("website/pages/contact_en.md", "/contact/", False)
+    # English version
+    view = create_view(md_file.format("en"), url, False)
+    app.add_url_rule(english_url, english_url, view)
 
-@app.route("/competitions/se/")
-def competitions_se():
-    """ Swedish Competitons page """
-    return render_page("website/pages/competitions_se.md", "/competitions/", True)
+    # Redirect /url/ -> /url/se/
+    app.add_url_rule(url, url, create_redirect(swedish_url))
 
-@app.route("/competitions/en/")
-def competitions_en():
-    """ English Competitons page """
-    return render_page("website/pages/competitions_en.md", "/competitions/", False)
-
-@app.route("/gamejam/se/")
-def gamejam_se():
-    return render_page("website/pages/gamejam_se.md", "/gamejam/", True)
-
-@app.route("/gamejam/en/")
-def gamejam_en():
-    return render_page("website/pages/gamejam_en.md", "/gamejam/", False)
-
-@app.route("/organization/se/")
-def organization_se():
-    """ Swedish Organization page """
-    return render_page("website/pages/organization_se.md", "/organization/", True)
-
-@app.route("/organization/en/")
-def organization_en():
-    """ English Organization page """
-    return render_page("website/pages/organization_en.md", "/organization/", False)
-
-@app.route("/cheats/se/")
-def cheats_se():
-    """ Swedish Cheats page """
-    return render_page("website/pages/cheats_se.md", "/cheats/", True)
-
-@app.route("/cheats/en/")
-def cheats_en():
-    """ English Cheats page """
-    return render_page("website/pages/cheats_en.md", "/cheats/", False)
-
-"""Other pages
-These pages can be accessed from a direct link. They do not show up
-on the sidebar. render_page is therefore given the index -1
-which results in no page being highlighted on the sidebar.
-"""
-
-@app.route("/ncpc/se/")
-def ncpc_se():
-    """ Swedish NCPC page """
-    return render_page("website/pages/ncpc_se.md", "/ncpc/", True)
-
-@app.route("/ncpc/en/")
-def ncpc_en():
-    """ English NCPC page """
-    return render_page("website/pages/ncpc_en.md", "/ncpc/", False)
-
-@app.route("/impa/se/")
-def impa_se():
-    """ Swedish IMPA page """
-    return render_page("website/pages/impa_se.md", "/impa/", True)
-
-@app.route("/impa/en/")
-def impa_en():
-    """ English IMPA page """
-    return render_page("website/pages/impa_en.md", "/impa/", False)
-
-@app.route("/aoc/se/")
-def aoc_se():
-    """ Swedish Advent of Code page """
-    return render_page("website/pages/aoc_se.md", "/aoc/", True,
-                       injection=aoc_standings())
-
-@app.route("/aoc/en/")
-def aoc_en():
-    """ English Advent of Code page """
-    return render_page("website/pages/aoc_en.md", "/aoc/", False,
-                       injection=aoc_standings())
-
-@app.route("/codingcup/se/")
-def codingcup_se():
-    """ Swedish Coding Cup page """
-    return render_page("website/pages/codingcup_se.md", "/codingcup/", True)
-
-@app.route("/codingcup/en/")
-def codingcup_en():
-    """ English Coding Cup page """
-    return render_page("website/pages/codingcup_en.md", "/codingcup/", False)
-
-@app.route("/microjam/se/")
-def microjam_se():
-    """ Swedish microjam page """
-    return render_page("website/pages/microjam_se.md", "/microjam/", True)
-
-@app.route("/microjam/en/")
-def microjam_en():
-    """ English microjam page """
-    return render_page("website/pages/microjam_en.md", "/microjam/", False)
-
-@app.route("/meetings/se/")
-def meetings_se():
-    """Swedish meetings page"""
-    return render_page("website/pages/meetings_se.md", "/meetings/", True)
-
-@app.route("/meetings/en/")
-def meetings_en():
-    """Enligsh meetings page"""
-    return render_page("website/pages/meetings_en.md", "/meetings/", False)
+# ========== Other pages ==========
+# These pages can be accessed from a direct link. They do not show up
+# on the sidebar.
 
 @app.route("/gitcheatsheet/")
 def gitcheatsheet():
@@ -266,10 +134,14 @@ def lacc():
     """ LiTHe kod's Amazing Coding Challenges """
     return static_page("website/other/lacc.html")
 
-""" Redirects from old pages.
-These pages used to exist but not anymore. They redirect to the new content
-so old links still work.
-"""
+# ========== Old redirects ==========
+# These pages used to exist, but not anymore. They redirect to the new content
+# so old links still work.
+
+@app.route("/posts/")
+def posts_index():
+    return redirect("/meetings/se/")
+
 @app.route("/posts/se/")
 def posts_se():
     return redirect("/meetings/se/")
@@ -278,6 +150,20 @@ def posts_se():
 def posts_en():
     return redirect("/meetings/en/")
 
+# ========== Errorhandlers ==========
+# For now we only handle pages that are not found.
+
+@app.errorhandler(404)
+def not_found(e):
+    """ 404 Page """
+    return render_page("website/pages/404.md", "/404/", False), 404
+
+@app.route("/404.html")
+def not_found_gh_pages():
+    """ 404 page to please GitHub pages """
+    return render_page("website/pages/404.md", "/404/", False)
+
+# ========== Other ==========
 
 def aoc_standings():
     """ Get the current standings in AoC. """
@@ -301,21 +187,7 @@ def aoc_standings():
                            trees=round(raised / 10),
                            contestants=placements)
 
-
-"""Errorhandlers
-For now we only handle pages that are not found.
-"""
-
-@app.errorhandler(404)
-def not_found(e):
-    """ 404 Page """
-    return render_page("website/pages/404.md", "/404/", False), 404
-
-@app.route("/404.html")
-def not_found_gh_pages():
-    """ 404 page to please GitHub pages """
-    return render_page("website/pages/404.md", "/404/", False)
-
+# ========== Running ==========
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000)
