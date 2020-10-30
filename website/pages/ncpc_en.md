@@ -36,10 +36,10 @@ one computer per team member rather than the usual one computer per team.
 computer labs and free food on the day of the contest. Due to the new rules
 above, however, this is not a requirement for participating. For those competing
 on-site we will begin at 10:00 in Ada Lovelace, door 27 in B-huset, with
-information about the contest rules and a few words from our sponsors. The
-presentation will be streamed for those competing at home.~~
+information about the contest rules and a few words from our sponsors.~~
 
-We will begin at 10:00 in [our Discord Server](https://discord.gg/UG5YYsN).
+We will begin at 10:00 in [our Discord Server](https://discord.gg/UG5YYsN) with
+a streamed intro presentation.
 
 We will also have a warm up one week before the contest (October 31) in our
 Discord server, starting at around 11:00. Come and ask

@@ -36,10 +36,10 @@ vanliga en dator per lag.
 lunch på tävlingsdagen. På grund av reglerna ovan är det inte ett krav för att
 vara med i tävlingen. För de som tävlar på plats kommer arrangemanget börja
 10:00 i Ada Lovelace, ingång 27 till B-Huset, med information om
-tävlingsreglerna och ord från våra sponsorer. För de som tävlar hemifrån kommer
-presentationen streamas.~~
+tävlingsreglerna och ord från våra sponsorer.~~
 
-Arrangemanget börjar 10:00 i [vår Discordserver](https://discord.gg/UG5YYsN).
+Arrangemanget börjar 10:00 i [vår Discordserver](https://discord.gg/UG5YYsN) med
+en streamad intropresentation.
 
 Vi kommer också ha en uppvärmning en vecka innan tävlingen (31 oktober) i vår
 Discordserver med start ~11.00. Kom och ställ
