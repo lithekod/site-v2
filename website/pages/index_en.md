@@ -4,11 +4,13 @@ LiTHe kod is a student association at Linköping University whose mission
 is to promote and inspire the interest for programming,
 software engineering and everything related.
 
-We were founded in the fall of 2013 to organize code meetups where students could
-meet, talk and help each other with everything code related.
-We have since continued to develop and now we arrange several types of activities
-such as study visits, workshops, lectures, GameJams, programming competitions and
-of course code meetups.
+We were founded in the fall of 2013 to organize code meetups where students
+could meet, talk and help each other with everything code related.  We have
+since continued to develop and we now arrange several types of activities such
+as study visits, workshops, lectures, Game Jams, programming competitions and of
+course code meetups every Tuesday at 5 pm. <a
+href="http://lithehack.se/">Lithehack</a>, usually located on Campus Norrköping,
+can nowadays be found online for more "traditional" coding help (kodstugor).
 
 <div id="introduction">
 	<div class="intro-card">
@@ -16,8 +18,8 @@ of course code meetups.
 		<i class="symbol fas fa-mug-hot"></i>
 		<p>
 			<!--At 5pm every Tuesday we meet in Café Java to discuss everything related to programming.-->
-			(COVID-19) Meetups are now held in our <a href="https://discord.gg/UG5YYsN">discord server</a>.
-			But will resume as usuall in Café Java when COVID-19 subsides.
+			(COVID-19) Meetups are now held in our <a href="https://discord.gg/UG5YYsN">discord server</a>,
+			but will resume as usual in Café Java when COVID-19 subsides.
 		</p>
 	</div>
 	<div class="intro-card">
@@ -49,7 +51,7 @@ Here are some links to events we arrange:
 # Are you a student?
 
 Great! It is you that we are working for.
-Because no matter your knowledge there is always an activity just for you and
+No matter your knowledge there is always an activity just for you and
 your programming interests.
 
 Maybe you want to learn more about version control in Git,
@@ -59,7 +61,7 @@ or maybe you just want to meet new people who share your interests!
 # Becoming a member
 
 You can become a member by contacting us. The easies way to do that
-is to go to one of our meetups that we have every Tuesday at 17.00 in Café Java.
+is to go to one of our meetups that we have every Tuesday at 5 pm.
 
 The fee of 20kr gives you membership for life, not to mention all
 the memories you will make!
@@ -69,5 +71,5 @@ the memories you will make!
 LiTHe kod is a gathering point where many of the sharpest and most engaged data/IT
 students at Linköping University are included.
 
-By working together with us to arrange activities you get a perfect opportunity to
+By working together with us to arrange activities you get the perfect opportunity to
 meet these students and create an interest for you as a future employer.
