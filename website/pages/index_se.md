@@ -10,7 +10,7 @@ utvecklas och arrangerar idag en rad olika typer av aktiviteter såsom
 studiebesök, workshops, föreläsningar, Game Jams och programmeringstävlingar.
 Kodstugorna har övergått till meetups som vi har varje tisdag klockan 17. <a
 href="http://lithehack.se/">Lithehack</a>, som vanligtvis befinner sig på Campus
-Norrköping, håller numera till på nätet för mer "traditionella" kodstugor.
+Norrköping, håller numera till online för mer "traditionella" kodstugor.
 
 <div id="introduction">
 	<div class="intro-card">
