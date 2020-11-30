@@ -657,3 +657,7 @@ img.sponsor {
     border: none;
     height: 80em;
 }
+
+#leaderboard-container {
+    text-align: center;
+}
