@@ -20,6 +20,8 @@ Mer information om priser kommer senare!
     <img class="sponsor" src="/static/img/mindroad_logo.png" alt="Mindroad">
 </div>
 
+<hr>
+
 <div id="leaderboard-container">
     <iframe class="only-light-theme" id="leaderboard" src="https://lithekod.lysator.liu.se/leaderboard/?lightmode=true"></iframe>
     <iframe class="only-dark-theme" id="leaderboard" src="https://lithekod.lysator.liu.se/leaderboard/"></iframe>
