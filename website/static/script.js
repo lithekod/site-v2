@@ -44,6 +44,8 @@ window.onload = () => {
                 let dt = (timestamp - last_snow_update) / 1000 || 0.01;
                 last_snow_update = timestamp;
 
+                let num_in_top_left = 0;
+
                 snow_ctx.clearRect(0, 0, snow_ctx.canvas.width, snow_ctx.canvas.height);
                 for (let i = 0; i < snowflakes.length; i++) {
                     snowflakes[i].x += snowflakes[i].vx * dt;
@@ -54,6 +56,10 @@ window.onload = () => {
                     if (snowflakes[i].x - snowflakes[i].radius > snow_ctx.canvas.width) {
                         snowflakes[i].x = -snowflakes[i].radius;
                     }
+                    if (snowflakes[i].x < 50 && snowflakes[i].y < 50) {
+                        num_in_top_left++;
+                    }
+
                     snow_ctx.beginPath();
                     snow_ctx.ellipse(snowflakes[i].x,
                         snowflakes[i].y,
@@ -63,6 +69,9 @@ window.onload = () => {
                         0,
                         2 * Math.PI);
                     snow_ctx.fill();
+                }
+                if (num_in_top_left > 20) {
+                    setTimeout(window.onresize, 0);
                 }
             }, 1000 / FPS);
         };
