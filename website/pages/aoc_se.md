@@ -1,8 +1,11 @@
 <div id="important-information">
     <p>
-        På grund av oförutsedda konsekvenser var vi idag tvugna att återställa
+        (2020-12-01) På grund av oförutsedda konsekvenser var vi idag tvugna att återställa
         leaderboarden. Om du inte är med i leaderboarden längre behöver du gå med
-        igen. Notera också att det endast är studerande vid LiU som får delta.
+        igen.
+    </p>
+    <p>
+        (2020-12-04) Vi har också lagt till information om icke-tävlande nedan.
     </p>
     <p>
         Ursäkta röran // LiTHe kod
@@ -21,13 +24,28 @@ gåvor, så därför kommer LiTHe kod att donera 20kr för varje löst deluppgif
 Givetvis kommer vi ha en Advent of Code-kickoff på meetupen den första december!
 Ses där!
 
-Leaderboarden nedan sorteras lite annorlunda från den som finns på Advent of
-Code-sidan. Detta är vår officiella sortering som prioriterar stjärnor först
-och poäng därefter.
+Utöver vår Advent of Code-leaderboard håller LiTHe kod i en egen tävling. Vi
+använder en lite annorlunda sortering än den på Advent of Codes hemsida där vi i
+första hand sorterar efter stjärnor och sedan poäng. Endast LiU-studerande får
+vara med och tävla om priserna men det går att trycka på en superavancerad knapp
+för att visa även icke-tävlande. Om du tycker att du visst studerar på LiU men
+inte är med på listan får du gärna kontakta någon i styrelsen så löser vi det.
+(Du kan också kontakta oss om du inte vill vara med i tävlingen.)
 
-Priser delas ut enligt följande efter tävlingens slut: Första plats 1500kr,
-andra plats 1100kr, tredje plats 750kr, 4:e till och med 6:e plats 500kr, 7:e
-till och med 10:e plats 250kr.
+Priserna delas ut enligt följande efter tävlingens slut.
+
+<ol start="0">
+<li>1500 SEK</li>
+<li>1100 SEK</li>
+<li>750 SEK </li>
+<li>500 SEK </li>
+<li>500 SEK </li>
+<li>500 SEK </li>
+<li>250 SEK </li>
+<li>250 SEK </li>
+<li>250 SEK </li>
+<li>250 SEK </li>
+</ol>
 
 <div id="sponsor-container">
     <img class="sponsor" src="/static/img/mindroad_logo.png" alt="Mindroad">

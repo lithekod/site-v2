@@ -1,8 +1,11 @@
 <div id="important-information">
     <p>
-        Due to unforseen consequences we were forced to reset the leaderboard
+        (2020-12-01) Due to unforseen consequences we were forced to reset the leaderboard
         today. If you are no longer in the leaderboard, you need to join it
-        again. Note also that only students at LiU are allowed to participate.
+        again.
+    </p>
+    <p>
+        (2020-12-04) We've also added information about non-competitors below.
     </p>
     <p>
         Excuse the mess // LiTHe kod
@@ -21,12 +24,30 @@ problem. 10 sek to COVID-19 research and 10 sek to Advent of Code itself. There
 will of course be a kickoff for Advent of Code at the meetup the first of
 December! See you there!
 
-The leaderboard below is sorted a bit different from the one at the Advent of
-Code site. This is our official sorting which prioritizes stars first and
-points second.
+In addition to our Advent of Code leaderboard, we also arrange our own
+competition. We use a sorting that's a little different to the one on Advent of
+Code's site where we primarily sort by number of stars and secondarily by the
+number of points. Only people studying at LiU are eligible to compete but you
+can press a super advanced button below to also show non-competitors. If you
+think that you should be on the competition list but aren't, please contact
+someone in the board and we'll take a look at it. (You can also contact us if
+you don't want to be on the competition list.)
 
-Prizes are dealt out according to the following after the competition has
-ended: First place 1500 sek, second place 1100 sek, third place 750 sek, 4:th to and including 6:th place 500 sek, 7:th to and including 10:th place 250 sek.
+Prizes are dealt out according to the following after the competition has ended:
+
+<ol start="0">
+<li>1500 SEK</li>
+<li>1100 SEK</li>
+<li>750 SEK </li>
+<li>500 SEK </li>
+<li>500 SEK </li>
+<li>500 SEK </li>
+<li>250 SEK </li>
+<li>250 SEK </li>
+<li>250 SEK </li>
+<li>250 SEK </li>
+</ol>
+
 
 <div id="sponsor-container">
     <img class="sponsor" src="/static/img/mindroad_logo.png" alt="Mindroad">
