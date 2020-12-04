@@ -34,7 +34,7 @@ ended: First place 1500 sek, second place 1100 sek, third place 750 sek, 4:th to
 
 <hr>
 
-<label class="toggle-aoc" for="aoc-trigger"><span class="only-aoc-some">Show eligible</span><span class="only-aoc-all">Show all</span></label>
+<label class="toggle-aoc" for="aoc-trigger"><span class="only-aoc-some">Show all</span><span class="only-aoc-all">Show eligible</span></label>
 <div id="leaderboard-container">
     <span class="only-aoc-all">
     <iframe class="only-light-theme leaderboard"
