@@ -5,8 +5,11 @@ from flask import Flask, render_template, redirect, send_file
 
 app = Flask(__name__, static_folder='static')
 
+# ========== Navigation ==========
 # Elements used to create navigation bar
 # ((Name_se, Name_en), Url, Internal?)
+# TODO: remove or change 'Internal'
+
 navigation = [
     (("Start", "Start"),               "/",              True),
     (("Kontakt", "Contact us"),        "/contact/",      True),
@@ -16,6 +19,9 @@ navigation = [
     (("Fusk", "Cheats"),               "/cheats/",       True),
 ]
 
+# ========== Helper functions ==========
+# These functions make it easy to render files into pages or
+# redirecting to other pages.
 
 def render_page(path, url, swedish, injection=""):
     """Render a Markdown file into a page on the website.
@@ -53,12 +59,17 @@ def redirect_external(url):
     return render_template("redirect.html", url=url)
 
 
+def create_view(md_file, url, swedish):
+    """ Return a function that returns a page. """
+    return lambda: render_page(md_file, url, swedish)
+
+
+def create_redirect(to):
+    """ Return a function that returns a redirect. """
+    return lambda: redirect(to)
+
 # ========== Temporary pages ==========
 # These pages should be removed when apropriate.
-
-@app.route("/lodol/")
-def lodol():
-    return redirect_external("https://docs.google.com/forms/d/e/1FAIpQLSd1A_bXgJWW4jYTlbce5R0mvlCTNs6dMk1Kv4lHDiekuTomEQ/viewform")
 
 
 # ========== Redirects ==========
@@ -71,14 +82,6 @@ def snake_ribs():
 
 # ========== Pages ==========
 # These are the main pages on the LiTHe kod website.
-
-def create_view(md_file, url, swedish):
-    """ Return a function that returns a page. """
-    return lambda: render_page(md_file, url, swedish)
-
-def create_redirect(to):
-    """ Return a function that returns a redirect. """
-    return lambda: redirect(to)
 
 pages = [
     ("/",                 "website/pages/index_{}.md"),
@@ -164,6 +167,8 @@ def not_found_gh_pages():
     return render_page("website/pages/404.md", "/404/", False)
 
 # ========== Running ==========
+# Running this file will allow nonlocal devices to access the page.
+# Used when, for example, testing on a phone.
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000)
