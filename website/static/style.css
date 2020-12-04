@@ -563,6 +563,18 @@ footer a:hover {
     }
 }
 
+.toggle-aoc {
+    border-radius: 2px;
+    padding: 5px;
+    font-weight: bold;
+    box-shadow: 0px 0px 2px 1px var(--highlight-color);
+}
+
+.toggle-aoc:hover {
+    box-shadow: 0px 0px 3px 2px var(--highlight-color);
+    cursor: pointer;
+}
+
 #standings {
     max-width: 20em;
     margin-left: auto;
