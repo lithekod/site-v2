@@ -10,7 +10,7 @@
 }
 
 /* Configure themes */
-#theme-trigger[type="checkbox"]:checked + #body {
+#theme-trigger[type="checkbox"]:checked ~ #body {
     /* Light theme */
     --primary-color: #111;
     --background-color: #FFF;
@@ -29,7 +29,7 @@
     --hide-dark: none;
 }
 
-#theme-trigger[type="checkbox"]:not(:checked) + #body {
+#theme-trigger[type="checkbox"]:not(:checked) ~ #body {
     /* Dark theme */
     --primary-color: #eee;
     --background-color: var(--dark-background-color);
@@ -54,6 +54,22 @@
 
 #body .only-dark-theme {
     display: var(--hide-dark) !important;
+}
+
+#aoc-trigger[type="checkbox"]:checked ~ #body {
+    --hide-aoc-all: none;
+}
+
+#aoc-trigger[type="checkbox"]:not(:checked) ~ #body {
+    --hide-aoc-some: none;
+}
+
+#body .only-aoc-some {
+    display: var(--hide-aoc-all) !important;
+}
+
+#body .only-aoc-all {
+    display: var(--hide-aoc-some) !important;
 }
 
 #body {

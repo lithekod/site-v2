@@ -27,7 +27,7 @@ def render_page(path, url, swedish, injection=""):
     """
     nav_index = next((i for i, (_, u, _) in enumerate(navigation) if u == url), -1)
     return render_template("page.html",
-            html=markdown2.markdown_path(path),
+            html=markdown2.markdown_path(path, extras=["break-on-newline"]),
             injection=injection,
             url=url,
             navigation=navigation,
