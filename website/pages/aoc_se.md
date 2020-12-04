@@ -35,7 +35,7 @@ till och med 10:e plats 250kr.
 
 <hr>
 
-<label class="toggle-aoc" for="aoc-trigger"><span class="only-aoc-some">Visar tävlande</span><span class="only-aoc-all">Visar alla</span></label>
+<label class="toggle-aoc" for="aoc-trigger"><span class="only-aoc-some">Visa tävlande</span><span class="only-aoc-all">Visa alla</span></label>
 <div id="leaderboard-container">
     <span class="only-aoc-all">
     <iframe class="only-light-theme leaderboard"
