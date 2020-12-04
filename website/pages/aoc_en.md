@@ -34,10 +34,17 @@ ended: First place 1500 sek, second place 1100 sek, third place 750 sek, 4:th to
 
 <hr>
 
-<label class="toggle-aoc" for="aoc-trigger"><span class="only-aoc-some">Toggle On</span><span class="only-aoc-all">Toggle Off</span></label>
+<label class="toggle-aoc" for="aoc-trigger"><span class="only-aoc-some">Showing eligible</span><span class="only-aoc-all">Showing all</span></label>
 <div id="leaderboard-container">
-    <iframe class="only-light-theme" id="leaderboard"
+    <span class="only-aoc-all">
+    <iframe class="only-light-theme leaderboard"
             src="https://lithekod.lysator.liu.se/leaderboard/?lightmode=true"></iframe>
-    <iframe class="only-dark-theme" id="leaderboard"
+    <iframe class="only-dark-theme leaderboard"
             src="https://lithekod.lysator.liu.se/leaderboard/"></iframe>
+    </span><span class="only-aoc-some">
+    <iframe class="only-light-theme leaderboard"
+            src="https://lithekod.lysator.liu.se/leaderboard/?lightmode=true&some=true"></iframe>
+    <iframe class="only-dark-theme leaderboard"
+            src="https://lithekod.lysator.liu.se/leaderboard/?some=true"></iframe>
+    </span>
 </div>

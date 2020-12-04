@@ -35,7 +35,17 @@ till och med 10:e plats 250kr.
 
 <hr>
 
+<label class="toggle-aoc" for="aoc-trigger"><span class="only-aoc-some">Visar tävlande</span><span class="only-aoc-all">Visar alla</span></label>
 <div id="leaderboard-container">
-    <iframe class="only-light-theme" id="leaderboard" src="https://lithekod.lysator.liu.se/leaderboard/?lightmode=true"></iframe>
-    <iframe class="only-dark-theme" id="leaderboard" src="https://lithekod.lysator.liu.se/leaderboard/"></iframe>
+    <span class="only-aoc-all">
+    <iframe class="only-light-theme leaderboard"
+            src="https://lithekod.lysator.liu.se/leaderboard/?lightmode=true"></iframe>
+    <iframe class="only-dark-theme leaderboard"
+            src="https://lithekod.lysator.liu.se/leaderboard/"></iframe>
+    </span><span class="only-aoc-some">
+    <iframe class="only-light-theme leaderboard"
+            src="https://lithekod.lysator.liu.se/leaderboard/?lightmode=true&some=true"></iframe>
+    <iframe class="only-dark-theme leaderboard"
+            src="https://lithekod.lysator.liu.se/leaderboard/?some=true"></iframe>
+    </span>
 </div>
