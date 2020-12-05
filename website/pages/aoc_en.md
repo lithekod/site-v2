@@ -8,6 +8,10 @@
         (2020-12-04) We've also added information about non-competitors below.
     </p>
     <p>
+        (2020-12-05) We are aware the leaderboawrd isn't showing. We are working
+        to resolve this.
+    </p>
+    <p>
         Excuse the mess // LiTHe kod
     </p>
 </div>

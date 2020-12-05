@@ -8,6 +8,10 @@
         (2020-12-04) Vi har också lagt till information om icke-tävlande nedan.
     </p>
     <p>
+        (2020-12-05) Vi är medvetna om att leaderboarden inte visas. Vi jobbar
+        på att lösa detta så snart som möjligt.
+    </p>
+    <p>
         Ursäkta röran // LiTHe kod
     </p>
 </div>
