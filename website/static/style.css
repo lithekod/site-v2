@@ -435,8 +435,7 @@ footer a:hover {
 .profile-card {
     background: var(--footer-bg-color);
     display: inline-block;
-    margin: 1em 2em;
-    text-align: center;
+    margin: 1em 0em;
 
     border-radius: 0.5em;
 }
@@ -447,26 +446,40 @@ footer a:hover {
     height: 20em;
     display: block;
     margin: 0;
+    float: left;
+    margin-right: 1em;
 
     border-radius: 0.5em 0.5em 0 0;
+}
+
+.profile-card:nth-child(even) img {
+    float: right;
+    margin-right: 0em;
+    margin-left: 1em;
 }
 
 /* Heading for name */
 .profile-card h2 {
     margin: 0;
+    margin-top: 0.5em;
+    text-align: center;
+}
+
+.profile-card-desc {
+    font-size: 1em;
+    margin: 1em;
 }
 
 /* Heading for role and email */
-.profile-card p {
+.profile-card-sub {
     font-size: 0.7em;
     margin-top: 0;
     margin-bottom: 0.5em;
+    text-align: center;
 }
 
 /* Container for Cards */
 #card-container {
-    display: flex;
-    flex-flow: row wrap;
     justify-content: center;
 }
 
@@ -560,6 +573,17 @@ footer a:hover {
         bottom: 0em;
         margin-top: 0.1em;
         margin-bottom: 0.1em;
+    }
+}
+
+@media screen and (max-width: 40em) {
+    .profile-card img {
+        float: none !important;
+        margin-right: auto !important;
+        margin-left: auto !important;
+        margin-top: 1em;
+        margin-bottom: 0.5em;
+        height: 100%;
     }
 }
 
