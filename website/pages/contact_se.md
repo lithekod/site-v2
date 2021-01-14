@@ -194,7 +194,7 @@ verksamhetsansvarig!
 
 Som verksamhetsansvarig är man kontaktperson för företag, vilket innebär lite
 planering och ganska mycket mailande. Posten är perfekt för dig som är duktig på
-att organisera och är sugen på att slipa dsina mail-skills.
+att organisera och är sugen på att slipa dina mail-skills.
 
 </p>
 <p class="profile-card-desc">
