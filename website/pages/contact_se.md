@@ -1,5 +1,16 @@
 # Kontakt
 
+<div id="important-information">
+
+<p>
+
+Sök styrelsen! <a href="https://forms.gle/L5j9SQdbqMr1cDms5">Ansökan sker via
+formulär.</a> Läs mer om vad de olika posterna gör här nedan.
+
+</p>
+
+</div>
+
 Har du någon fråga? Tveka inte att kontakta oss!
 Vi nås på [Facebook](https://www.facebook.com/LitheKod/),
 men framförallt i vår [Discord-server](https://discord.gg/UG5YYsN) eller vår [Slack-grupp](https://lithe-kod.slack.com/).

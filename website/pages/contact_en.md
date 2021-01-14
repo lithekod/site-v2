@@ -1,5 +1,17 @@
 # Contact us
 
+<div id="important-information">
+
+<p>
+
+Apply to the board! <a href="https://forms.gle/L5j9SQdbqMr1cDms5">The form can
+be found here.</a> Read on for more information about the different posts.
+Unfortunately they're only available in Swedish.
+
+</p>
+
+</div>
+
 Have a question? Don't hesitate to contact us!
 You can reach us on [Facebook](https://www.facebook.com/LitheKod/),
 but we are more available in our [Discord server](https://discord.gg/UG5YYsN) or our [Slack group](https://lithe-kod.slack.com/).
