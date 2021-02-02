@@ -2,6 +2,9 @@
     <p>
         Join the <a href="https://liu-se.zoom.us/j/68016746136">zoom meeting</a>!
     </p>
+    <p>
+        <a href="https://github.com/lithekod/git-in-git/releases/download/presentation/git-in-git.zip">slides and exercises</a> - <a href="https://github.com/lithekod/git-in-git/releases/download/presentation/slides.pdf">only slides</a>
+    </p>
 </div>
 
 # Git Workshop

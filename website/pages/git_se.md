@@ -2,6 +2,9 @@
     <p>
         Gå med i <a href="https://liu-se.zoom.us/j/68016746136">zoom-rummet</a>!
     </p>
+    <p>
+        <a href="https://github.com/lithekod/git-in-git/releases/download/presentation/git-in-git.zip">slides och övningar</a> - <a href="https://github.com/lithekod/git-in-git/releases/download/presentation/slides.pdf">bara slides</a>
+    </p>
 </div>
 
 # Git-workshop
