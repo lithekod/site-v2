@@ -19,9 +19,9 @@ is the agenda for the meeting.
 - Choice of adjuster as well as counters
 - Determining the voting list
 - Resolution on the meeting's statutory announcement
-- Previous boards' report of the previous financial year
-- Financial report of the board for the previous financial year
-- The auditor's review of the previous financial year's board work
+- Report of the financial year
+- Financial report of the board
+- The auditor's review of the boards work
 - Decision on discharge from liability of the board of the previous financial year
 - Election of Chairman 21/22
 - Election of Vice Chairman 21/22
