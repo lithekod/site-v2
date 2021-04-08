@@ -8,10 +8,10 @@ auditor's review followed by a decision on discharge from liability ("beslut om
 ansvarsfrihet"). During the spring meeting the next financial year's board is
 voted on.
 
-## Fall meeting 2020
+## Spring meeting 2021
 
-The fall meeting will be held in our [Discord
-server](https://discord.gg/F8KNV89), Tuesday 24th of November at 5:15pm. Below
+The spring meeting will be held in our [Discord
+server](https://discord.gg/F8KNV89), Tuesday 18th of May at 5:15pm. Below
 is the agenda for the meeting.
 
 - Election of meeting chairman
@@ -23,7 +23,17 @@ is the agenda for the meeting.
 - Financial report of the board for the previous financial year
 - The auditor's review of the previous financial year's board work
 - Decision on discharge from liability of the board of the previous financial year
+- Election of ordförande 21/22
+- Election of vice ordförande 21/22
+- Election of kassör 21/22
+- Election of verksamhetsansvarig 21/22
+- Election of PR-ansvarig 21/22
+- Election of webansvarig 21/22
+- Election of Game Jam-ansvarig 21/22
+- Election of revisor 21/22
+- Determining of the budget for 21/22
+- Determining of the member fee for 21/22
 - Motions and bills
 - Other questions
 
-###### 2020-10-17
+###### 2021-04-08

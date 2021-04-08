@@ -8,10 +8,10 @@ nästa verksamhetsårs styrelse in. På både höst- och vårmöten kan motioner
 propositioner lyftas av såväl styrelsen som medlemmar. Nästföljande stormöte
 beskrivs nedan.
 
-## Höstmöte 2020
+## Vårmöte 2021
 
-Höstmötet kommer att hållas i vår [discordserver](https://discord.gg/F8KNV89),
-tisdag 24:e november kl 17.15. Samtliga medlemmar får närvara med rösträtt.
+Vårmötet kommer att hållas i vår [discordserver](https://discord.gg/F8KNV89),
+tisdag 18:e maj kl 17.15. Samtliga medlemmar får närvara med rösträtt.
 Nedan följer höstmötets föredragningslista.
 
 - Val av mötesordförande
@@ -19,11 +19,21 @@ Nedan följer höstmötets föredragningslista.
 - Val av justeringsperson tillika rösträknare
 - Fastställande av röstlängden
 - Beslut om mötets stadgeenliga utlysande
-- Föregående verksamhetsårs styrelses verksamhetsberättelse
-- Föregående verksamhetsårs styrelses ekomomiska berättelse
-- Revisorns granskning av föregående verksamhetsårs styrelses arbete
+- Styrelsens verksamhetsberättelse
+- Styrelsens ekomomiska berättelse
+- Revisorns granskning av verksamhetsåret
 - Beslut om ansvarsfrihet av föregående verksamhetsårs styrelse
+- Val av ordförande 21/22
+- Val av vice ordförande 21/22
+- Val av kassör 21/22
+- Val av verksamhetsansvarig 21/22
+- Val av PR-ansvarig 21/22
+- Val av webansvarig 21/22
+- Val av Game Jam-ansvarig 21/22
+- Val av revisor 21/22
+- Fastställande av föreningens budget 21/22
+- Fastställande av medlemsavgift 21/22
 - Motioner och propositioner
 - Övriga frågor
 
-###### 2020-10-17
+###### 2021-04-08
