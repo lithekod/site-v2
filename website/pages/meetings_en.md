@@ -23,14 +23,14 @@ is the agenda for the meeting.
 - Financial report of the board for the previous financial year
 - The auditor's review of the previous financial year's board work
 - Decision on discharge from liability of the board of the previous financial year
-- Election of ordförande 21/22
-- Election of vice ordförande 21/22
-- Election of kassör 21/22
-- Election of verksamhetsansvarig 21/22
-- Election of PR-ansvarig 21/22
-- Election of webansvarig 21/22
-- Election of Game Jam-ansvarig 21/22
-- Election of revisor 21/22
+- Election of Chairman 21/22
+- Election of Vice Chairman 21/22
+- Election of Cashier 21/22
+- Election of Executive Manager 21/22
+- Election of PR 21/22
+- Election of Web 21/22
+- Election of Game Jam Manager 21/22
+- Election of Auditor 21/22
 - Determining of the budget for 21/22
 - Determining of the member fee for 21/22
 - Motions and bills
