@@ -10,6 +10,8 @@ Detta följs upp av speltestning av gamla game jam-spel, fritt häng och snack o
 
 Evenemanget kommer ske på distans i [LiU Game Jams discordserver](https://discord.gg/eHgXYMS).
 
+---
+
 # Spring Game Jam 2021
 
 Snart är det dags för årets upplaga av Spring Game Jam!
@@ -17,11 +19,20 @@ Den 7:e-9:e maj är det dags att dra fram tangentborden, ritplattorna och mikrof
 På grund av ihållande sjukdom i världen kommer detta jam ske på distans via [LiU Game Jams discordserver](https://discord.gg/eHgXYMS).
 Ta även gärna en titt på vårat [Facebook-evenemang](https://www.facebook.com/events/718957842117923) och gå med på vår [Itch.io](https://itch.io/jam/spring-game-jam-2021).
 
-<h4 class="highlight">Vad är ett gamejam?</h4>
+---
+
+# Vad är ett gamejam?
 
 Ett game jam är ett event där programmerare, konstnärer och gamers går ihop för att skapa spel; både datorspel och brädspel.
 Alla våra game jams har sina egna slumpmässigt valda teman för inspiration och en 48-timmarsgräns att skapa sitt spel på!
-Besök vår [Facebook-sida](https://www.facebook.com/liugamejam/) eller följ oss på [Twitter](https://twitter.com/LiuGameJam) för uppkommande evenemang!
+
+# Få nyheter
+
+Nya events kommer i följande kanaler.
+
+- [LiU Game Jams Discord server](https://discord.gg/eHgXYMS).
+- [Facebook page](https://www.facebook.com/liugamejam/)
+- [Twitter](https://twitter.com/LiuGameJam)
 
 <!-- Begin Mailchimp Signup Form -->
 <style>
@@ -60,41 +71,92 @@ Besök vår [Facebook-sida](https://www.facebook.com/liugamejam/) eller följ os
 
 <!--End mc_embed_signup-->
 
-<h4 class="highlight">Liu Game Jams arkiv</h4>
+---
+
+# FAQ
+
+### Vem är välkommen?
+Alla är välkomna, både studenter och icke-studenter. Ingen förkunskap krävs och evenemangen är gratis.
+
+
+### Var hålls era evenemang?
+
+På grund av COVID-19 hålls en del av våra evenemang via [LiU Game Jams discordserver](https://discord.gg/tP2kDvgQKn). Vi hoppas återgå till fysiska event när det är avklarat.
+
+### Hur väljs grupper? Behöver jag ett team?
+
+Grupper kommer sättas ihop slumpmässigt för brainstorming, men du kan arbeta med vem du vill. Startgrupperna ger dig möjlighet att hitta människor med liknande idéer som dig. Vi ser till att alla hittar någon att arbeta med.
+
+### Behöver jag kunna programmera?
+
+Nej, inte alls! Speldesign täcker alla möjliga områden så som konst, musik, design, storywriting, nivå skapning och problemlösning. Alla som vill skapa är välkommna.
+
+---
+
+# Historia
+LiU Game Jam har arrangerat events sedan 2012. Det startade som sin egna grupp men slogs samman med LiTHe kod år 2015.
+I samband med jammen har vi också arrangerat workshops för en massa spelmotorer och verktyg.
 
 Om du vill se spel som andra har skapat på våra evenemang, kolla på spelen i vårt [arkiv](https://itch.io/c/64050/liu-game-jam). Du kan också titta på vårt [gamla nyhetsbrev](http://us12.campaign-archive2.com/home/?u=092a6fffba8f6063437a51495&id=c3863c4bf5).
 
-<h4 class="highlight">Vem är välkommen?</h4>
+### 2021
 
-Alla är välkomna, både studenter och icke-studenter. Ingen förkunskap krävs och evenemangen är gratis.
+- Spring Game Jam 2021 - [Itch.io](https://itch.io/jam/spring-game-jam-2021)
+- Global Game Jam Linköping 2021 - *"Lost and Found"* - [Itch.io](https://itch.io/jam/global-game-jam-linkoping-2021), [Global Game Jam](https://globalgamejam.org/2021/jam-sites/liu-game-jam)
 
-<h4 class="highlight">Var hålls era evenemang?</h4>
+### 2020
 
-**På grund av COVID-19 hålls en del av våra evenemang via [LiU Game Jams discordserver](https://discord.gg/tP2kDvgQKn), se det specifika evenemang som du är intresserad av för mer information.**
+- Fall Game Jam 2020 - *"Distance Plain", "Giant 2020"* - [Itch.io](https://itch.io/jam/liu-fall-game-jam-2020)
+- Spring Game Jam 2020 - *"Orange Expansions", "Ghoul Reassembly"* - [Itch.io](https://itch.io/jam/liu-spring-game-jam-2020)
+- Global Game Jam Linköping 2020 - *"Repair"* - [Global Game Jam](https://globalgamejam.org/2020/jam-sites/liu-game-jam-ggj-2020)    
 
-Våra evenemang hålls på CreActive i Linköping. Det finns trådlöst internet, gratis te, varm choklad och kaffe.
+### 2019
 
-<h4 class="highlight">FAQ</h4>
+- Fall Game Jam 2019 - *"Wild West Planes, but with eyes", "Compost War: Two worlds, one truck", "Musical tentacles"*
+- Spring Game Jam 2019 - *"Spinning Change", "GODZILLA In Real Life", "Very large Pizza cutter""*
+- Global Game Jam Linköping 2019 - *"What home means to you"* - [Global Game Jam](https://globalgamejam.org/2019/jam-sites/liu-game-jam/games)
 
-- <em class="highlight">Får jag sova på evenemanget?</em> <br>
-Nej. Du får inte sova på CreActive.
+### 2018
 
-- <em class="highlight">Finns mat tillgängligt?</em> <br>
-Vi beställer mat tillsammans under både fredag och lördag kväll. Om du vill vara med, lägg din  beställning och betala innan 19:00 båda kvällarna. Priset ligger runt 80~100 kr per rätt, och du kan betala via Swish eller kort. <br>
-Det finns gratis frukost på lördag och söndag. Frukt, snacks, och varma drycker finns tillgängligt gratis under evenemanget. Om du tar med dig egen mat så finns kyl och mikrovågsungnar tillgängliga.
+- Fall Game Jam 2018 - *"Metal Time travel", "Navy Nightmare", "Big sound House"*
+- Spring Game Jam 2018 - *"Extreme-dancing King", "Coyote Solitude"*
+- Global Game Jam 2018 Linköping - *"Transmission"* - [Global Game Jam](https://globalgamejam.org/2018/jam-sites/liu-game-jam)       
 
-- <em class="highlight">Hur väljs grupper? Behöver jag ett team?</em> <br>
-Grupper kommer sättas ihop slumpmässigt för brainstorming, men du kan arbeta med vem du vill. Startgrupperna ger dig möjlighet att hitta människor med liknande idéer som dig. Vi ser till att alla hittar någon att arbeta med.
+### 2017
 
-- <em class="highlight">Bör jag ta med mig min dator eller något annat?</em> <br>
-Det beror på hur du gillar att arbeta. At ta med sig sin egna dator är upp till var och en, dock så rekommenderar vi det. CreActive erbjuder gratis wi-fi. Om du vill köpa frukost/lunch eller vara med på våra gemensamma mat-beställningar på fredag eller lördag kväll, se till att ha med dig pengar. Du kan betala med Swish eller kort.
+- Fall Game Jam 2017 - *"Royal Styling", "Flat abuse", "Speedy Cactus"*
+- Spring Game Jam 2017  - *"Highschool Race", "Icecream monsters", "Pixel Erasers"*
+- Global Game Jam 2017 Linköping - *"Waves"* - [Global Game Jam](https://globalgamejam.org/2017/jam-sites/liu-game-jam)
 
-- <em class="highlight">Behöver jag kunna programmera?</em> <br>
-Nej, inte alls! Speldesign täcker alla möjliga områden så som konst, musik, design, storywriting, nivå skapning och problemlösning. Alla som vill skapa är välkommna.
+### 2016
 
-<h4 class="highlight">Bra verktyg</h4>
+- Fall Game Jam 2016 - *"Duck Crabs", "Chocolate Guitars", "Angry monkeys (but with more legs)"*
+- Spring Game Jam 2016 - *"Zombie Feelings", "Pink Song-contest", "Mountain Chicken"*
+- Global Game Jam 2016 - *"Ritual"* - [Global Game Jam](https://globalgamejam.org/2016/jam-sites/liu-game-jam)
 
-**Verktyg för att skapa datorspel**
+### 2015
+
+- Fall Game Jam 2015 - *"Roundabout Battle", "Raging Change"*
+- Spring Game Jam 2015 - *"Disruptive rabbits"*
+- Linköping Global Game Jam 2015 - *"What do we do now"* - [Global Game Jam](https://globalgamejam.org/2015/jam-sites/liu-game-jam)  
+
+### 2014
+
+- Fall (of the) Game Jam 2014 - *"Rocket Castle"*
+
+### 2013
+
+- Spring Game Jam 2013
+
+### 2012
+
+- Global Game Jam 2012 - *"Ouroboros"*
+
+---
+
+# Bra verktyg
+
+### Verktyg för att skapa datorspel
 
 - 3D (eller 2D) 
     - [Unity (C#)](http://unity3d.com/)
@@ -108,28 +170,27 @@ Nej, inte alls! Speldesign täcker alla möjliga områden så som konst, musik, 
     - [Haxeflixel (Haxe)](http://haxeflixel.com/)
     - [Scratch (Visuell scriptning)](https://scratch.mit.edu/)
 
-**Verktyg för att skapa grafik**
+### Verktyg för att skapa grafik
 
 - [Blender 3D (3D-modellering och mer)](https://www.blender.org/)
 - [MagicaVoxel (Voxelredigerare)](https://ephtracy.github.io/)
 - [Krita (2D-ritning och animation)](https://krita.org/)
 
-**Verktyg för att skapa ljudeffekter**
+### Verktyg för att skapa ljudeffekter
 
 - [bfxr (Online old school ljudeffektsgenerator)](http://www.bfxr.net/)
 - [Sunvox (Modulär synth / tracker)](http://www.warmplace.ru/soft/sunvox/)
 - [BeepBox (Online chiptune tracker)](http://www.beepbox.co/)
 
-**Gratis spelresurser**
+### Gratis spelresurser
 
 - [OpenGameArt.org (Allmängods och Creative Commons spelresurser)](http://opengameart.org/)
 - [Itch.io spelresurser](https://itch.io/game-assets)
 
-**Verktyg för att hålla koll på projektet**
+### Verktyg för att hålla koll på projektet
 
 - [git](https://git-scm.com/)
     - [GitLab](http://gitlab.com/)
     - [GitHub](http://github.com/)
     - [LiU GitLab](https://gitlab.liu.se/)
-- [SourceTree (frontend för git)](https://www.sourcetreeapp.com/)
-- [Git kraken (cross platform frontend för git)](https://www.gitkraken.com/)
+    - [SourceTree (frontend för git)](https://www.sourcetreeapp.com/)
