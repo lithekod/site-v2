@@ -28,48 +28,13 @@ Alla våra game jams har sina egna slumpmässigt valda teman för inspiration oc
 
 # Få nyheter
 
-Nya events kommer i följande kanaler.
+Nyheter kan följas i dessa kanaler. 
 
 - [LiU Game Jams Discord server](https://discord.gg/eHgXYMS).
 - [Facebook page](https://www.facebook.com/liugamejam/)
 - [Twitter](https://twitter.com/LiuGameJam)
+- [Nyhetsbrev](http://us12.campaign-archive2.com/home/?u=092a6fffba8f6063437a51495&id=c3863c4bf5)
 
-<!-- Begin Mailchimp Signup Form -->
-<style>
-    #mc-embedded-subscribe {
-        background-color: #1ec6ba;
-        display: inline-block;
-        border: none;
-        border-radius: 3px;
-        padding: 0.25em 0.5em;
-    }
-    div.clear, .mc-field-group {
-        display: inline-block;
-    }
-    #mce-EMAIL {
-        border: none;
-        border-radius: 2px;
-        padding: 0.25em 0.5em;
-    }
-</style>
-<div id="mc_embed_signup">
-<form action="https://liugamejam.us12.list-manage.com/subscribe/post?u=092a6fffba8f6063437a51495&amp;id=c3863c4bf5" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-        <h4 class="highlight">Prenumerera på våra mailutskick</h4>
-        <div class="mc-field-group">
-        <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="email-adress">
-        </div>
-    <div id="mce-responses" class="clear">
-        <div class="response" id="mce-error-response" style="display:none"></div>
-        <div class="response" id="mce-success-response" style="display:none"></div>
-    </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_092a6fffba8f6063437a51495_c3863c4bf5" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Prenumerera" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
-</form>
-</div>
-
-<!--End mc_embed_signup-->
 
 ---
 
@@ -102,25 +67,29 @@ Om du vill se spel som andra har skapat på våra evenemang, kolla på spelen i 
 ### 2021
 
 - Spring Game Jam 2021 - [Itch.io](https://itch.io/jam/spring-game-jam-2021)
-- Global Game Jam Linköping 2021 - *"Lost and Found"* - [Itch.io](https://itch.io/jam/global-game-jam-linkoping-2021), [Global Game Jam](https://globalgamejam.org/2021/jam-sites/liu-game-jam)
+- Global Game Jam Linköping 2021 - *"Lost and Found"* -
+[Itch.io](https://itch.io/jam/global-game-jam-linkoping-2021), [Global Game Jam](https://globalgamejam.org/2021/jam-sites/liu-game-jam),
+ [Intro](https://www.youtube.com/watch?v=yKhhIuSa49M), [Presentation](https://www.youtube.com/watch?v=lEk12BYQYgo)
 
 ### 2020
 
-- Fall Game Jam 2020 - *"Distance Plain", "Giant 2020"* - [Itch.io](https://itch.io/jam/liu-fall-game-jam-2020)
-- Spring Game Jam 2020 - *"Orange Expansions", "Ghoul Reassembly"* - [Itch.io](https://itch.io/jam/liu-spring-game-jam-2020)
-- Global Game Jam Linköping 2020 - *"Repair"* - [Global Game Jam](https://globalgamejam.org/2020/jam-sites/liu-game-jam-ggj-2020)    
+- Fall Game Jam 2020 - *"Distance Plain", "Giant 2020"* - [Itch.io](https://itch.io/jam/liu-fall-game-jam-2020),
+ [Intro](https://www.youtube.com/watch?v=wJ1pcaT8opk), [Presentation](https://www.youtube.com/watch?v=MpBZgX6GBuY)
+- Spring Game Jam 2020 - *"Orange Expansions", "Ghoul Reassembly"* - [Itch.io](https://itch.io/jam/liu-spring-game-jam-2020),      
+ [Intro](https://www.youtube.com/watch?v=yKhhIuSa49M), [Presentation](https://www.youtube.com/watch?v=MpBZgX6GBuY)
+- Global Game Jam Linköping 2020 - *"Repair"* - [Global Game Jam](https://globalgamejam.org/2020/jam-sites/liu-game-jam-ggj-2020)  
 
 ### 2019
 
-- Fall Game Jam 2019 - *"Wild West Planes, but with eyes", "Compost War: Two worlds, one truck", "Musical tentacles"*
-- Spring Game Jam 2019 - *"Spinning Change", "GODZILLA In Real Life", "Very large Pizza cutter""*
+- Fall Game Jam 2019 - *"Wild West Planes, but with eyes", "Compost War: Two worlds, one truck", "Musical tentacles"* - [Presentation](https://www.facebook.com/349988561805129/videos/799393110511100)
+- Spring Game Jam 2019 - *"Spinning Change", "GODZILLA In Real Life", "Very large Pizza cutter""* - [Presentation](https://www.facebook.com/349988561805129/videos/297587374524542)
 - Global Game Jam Linköping 2019 - *"What home means to you"* - [Global Game Jam](https://globalgamejam.org/2019/jam-sites/liu-game-jam/games)
 
 ### 2018
 
 - Fall Game Jam 2018 - *"Metal Time travel", "Navy Nightmare", "Big sound House"*
-- Spring Game Jam 2018 - *"Extreme-dancing King", "Coyote Solitude"*
-- Global Game Jam 2018 Linköping - *"Transmission"* - [Global Game Jam](https://globalgamejam.org/2018/jam-sites/liu-game-jam)       
+- Spring Game Jam 2018 - *"Extreme-dancing King", "Coyote Solitude"* - [Presentation](https://www.facebook.com/349988561805129/videos/1279817882155521)
+- Global Game Jam 2018 Linköping - *"Transmission"* - [Global Game Jam](https://globalgamejam.org/2018/jam-sites/liu-game-jam)     
 
 ### 2017
 
@@ -138,11 +107,12 @@ Om du vill se spel som andra har skapat på våra evenemang, kolla på spelen i 
 
 - Fall Game Jam 2015 - *"Roundabout Battle", "Raging Change"*
 - Spring Game Jam 2015 - *"Disruptive rabbits"*
-- Linköping Global Game Jam 2015 - *"What do we do now"* - [Global Game Jam](https://globalgamejam.org/2015/jam-sites/liu-game-jam)  
+- Linköping Global Game Jam 2015 - *"What do we do now"* - [Global Game Jam](https://globalgamejam.org/2015/jam-sites/liu-game-jam)
 
 ### 2014
 
 - Fall (of the) Game Jam 2014 - *"Rocket Castle"*
+- Global Game Jam 2014 - *"We don't see things as they are, we see them as we are"*
 
 ### 2013
 
