@@ -41,8 +41,8 @@ Nyheter kan följas i dessa kanaler.
 # FAQ
 
 ### Vem är välkommen?
-Alla är välkomna, både studenter och icke-studenter. Ingen förkunskap krävs och evenemangen är gratis.
 
+Alla är välkomna, både studenter och icke-studenter. Ingen förkunskap krävs och evenemangen är gratis.
 
 ### Var hålls era evenemang?
 
@@ -67,9 +67,7 @@ Om du vill se spel som andra har skapat på våra evenemang, kolla på spelen i 
 ### 2021
 
 - Spring Game Jam 2021 - [Itch.io](https://itch.io/jam/spring-game-jam-2021)
-- Global Game Jam Linköping 2021 - *"Lost and Found"* -
-[Itch.io](https://itch.io/jam/global-game-jam-linkoping-2021), [Global Game Jam](https://globalgamejam.org/2021/jam-sites/liu-game-jam),
- [Intro](https://www.youtube.com/watch?v=yKhhIuSa49M), [Presentation](https://www.youtube.com/watch?v=lEk12BYQYgo)
+- Global Game Jam Linköping 2021 - *"Lost and Found"* - [Itch.io](https://itch.io/jam/global-game-jam-linkoping-2021), [Global Game Jam](https://globalgamejam.org/2021/jam-sites/liu-game-jam), [Intro](https://www.youtube.com/watch?v=yKhhIuSa49M), [Presentation](https://www.youtube.com/watch?v=lEk12BYQYgo)
 
 ### 2020
 
@@ -145,6 +143,7 @@ Om du vill se spel som andra har skapat på våra evenemang, kolla på spelen i 
 - [Blender 3D (3D-modellering och mer)](https://www.blender.org/)
 - [MagicaVoxel (Voxelredigerare)](https://ephtracy.github.io/)
 - [Krita (2D-ritning och animation)](https://krita.org/)
+- [MakeHuman (3D-modeller av människor)](http://www.makehumancommunity.org/)
 
 ### Verktyg för att skapa ljudeffekter
 

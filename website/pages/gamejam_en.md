@@ -38,9 +38,9 @@ New events will be announced in the following channels.
 
 # FAQ
 
-### Who are welcome?
+### Am I welcome?
 
-Everybody is welcome, student and non-student alike. No previous experience is needed and the event is free of charge.
+All are welcome, student and non-student alike. No previous experience is needed and the event is free of charge.
 
 ### Where are your events held?
 
@@ -66,9 +66,7 @@ Check out games  from our jams in the [archive collection](https://itch.io/c/640
 ### 2021
 
 - Spring Game Jam 2021 - [Itch.io](https://itch.io/jam/spring-game-jam-2021)
-- Global Game Jam Linköping 2021 - *"Lost and Found"* - 
-[Itch.io](https://itch.io/jam/global-game-jam-linkoping-2021), [Global Game Jam](https://globalgamejam.org/2021/jam-sites/liu-game-jam),
- [Intro](https://www.youtube.com/watch?v=yKhhIuSa49M), [Presentation](https://www.youtube.com/watch?v=lEk12BYQYgo)
+- Global Game Jam Linköping 2021 - *"Lost and Found"* - [Itch.io](https://itch.io/jam/global-game-jam-linkoping-2021), [Global Game Jam](https://globalgamejam.org/2021/jam-sites/liu-game-jam), [Intro](https://www.youtube.com/watch?v=yKhhIuSa49M), [Presentation](https://www.youtube.com/watch?v=lEk12BYQYgo)
 
 ### 2020
 
@@ -146,6 +144,7 @@ These tools works great for game jams and are mostly free.
 - [Blender 3D (3D modelling and more)](https://www.blender.org/)
 - [MagicaVoxel (Voxel editor)](https://ephtracy.github.io/)
 - [Krita (2D drawing and animation)](https://krita.org/)
+- [MakeHuman (3D-models of humans)](http://www.makehumancommunity.org/)
 
 ### Tools for making sound effects
 
