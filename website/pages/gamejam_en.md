@@ -61,7 +61,7 @@ Not at all! Game design covers all kind of fields such as art, music, design, st
 LiU Game Jam has been been around since 2012. It started as its own group but joined forces with LiTHe kod in 2015. 
 In connection to the jams we have also arranged workshops in a number of different game engines and tools.
 
-Check out games  from our jams in the [archive collection](https://itch.io/c/64050/liu-game-jam). 
+Check out games from our jams in the [archive collection](https://itch.io/c/64050/liu-game-jam). 
 
 ### 2021
 
