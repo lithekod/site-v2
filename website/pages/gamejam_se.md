@@ -42,7 +42,7 @@ Alla event sker på LiU Game Jams Discord. Tider är angivna i Central European 
 Ett game jam är ett event där programmerare, konstnärer och gamers går ihop för att skapa spel; både datorspel och brädspel.
 Alla våra game jams har sina egna slumpmässigt valda teman för inspiration och en 48-timmarsgräns att skapa sitt spel på!
 
-# Få nyheter
+# Nyheter
 
 Nyheter kan följas i dessa kanaler. 
 
