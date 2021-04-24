@@ -2,7 +2,7 @@
 
 # Spring Game Jam 2021
 
-*18:00 7:e Maj - 19:00 9:e Maj*
+*18:00 7:e maj - 19:00 9:e maj*
 
 Snart är det dags för årets upplaga av Spring Game Jam!
 Den 7:e-9:e maj är det dags att dra fram tangentborden, ritplattorna och mikrofonerna för en helg fylld av spelskapande.
