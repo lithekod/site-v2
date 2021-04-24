@@ -19,7 +19,7 @@ Alla event sker på LiU Game Jams Discord. Tider är angivna i Central European 
 **Fredag Maj 7e:**
 
 - 17:30 - Intro-chill (Optional)
-- 18.00 - Intro stream
+- 18.00 - Intro-stream
     - Temaskapning
     - Brainstorming
     - Lagskapande
