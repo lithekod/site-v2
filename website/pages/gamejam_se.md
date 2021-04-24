@@ -8,9 +8,9 @@ Snart är det dags för årets upplaga av Spring Game Jam!
 Den 7:e-9:e maj är det dags att dra fram tangentborden, ritplattorna och mikrofonerna för en helg fylld av spelskapande.
 På grund av ihållande sjukdom i världen kommer detta jam ske på distans via Discord.
 
-- [Discord invite](https://discord.gg/eHgXYMS)
-- [Itch.io jam](https://itch.io/jam/spring-game-jam-2021)
-- [Facebook event](https://www.facebook.com/events/718957842117923)
+- [Discordserver](https://discord.gg/eHgXYMS)
+- [Itch.io-jam](https://itch.io/jam/spring-game-jam-2021)
+- [Facebook-event](https://www.facebook.com/events/718957842117923)
 
 ### Schema
 
