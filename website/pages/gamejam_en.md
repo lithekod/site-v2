@@ -161,7 +161,7 @@ These tools works great for game jams and are mostly free.
 - [MagicaVoxel (Voxel editor)](https://ephtracy.github.io/)
 - [Krita (2D drawing and animation)](https://krita.org/)
 - [MakeHuman (3D-models of humans)](http://www.makehumancommunity.org/)
-- [Simplygon (3D-modell optimization)](https://www.simplygon.com/)
+- [Simplygon (3D-model optimization)](https://www.simplygon.com/)
 
 ### Tools for making sound effects
 
