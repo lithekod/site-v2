@@ -16,7 +16,7 @@ På grund av ihållande sjukdom i världen kommer detta jam ske på distans via 
 
 Alla event sker på LiU Game Jams Discord. Tider är angivna i Central European Summer Time (CEST); UTC+2.
 
-**Fredag Maj 7e:**
+**Fredag 7:e maj:**
 
 - 17:30 - Intro-chill (Optional)
 - 18.00 - Intro-stream
