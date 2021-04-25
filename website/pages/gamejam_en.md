@@ -13,7 +13,7 @@ Because of persistent sickness throughout the world, this jam will be held remot
 
 ### Schedule
 
-All events takes place on the LiU Game Jam Discord.  Times are given in Central European Summer Time (CEST) i.e. UTC+2.
+All events take place on the LiU Game Jam Discord.  Times are given in Central European Summer Time (CEST) i.e. UTC+2.
 
 **Friday May 7th:**
 
