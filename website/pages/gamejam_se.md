@@ -27,7 +27,7 @@ Alla event sker på LiU Game Jams Discord. Tider är angivna i Central European 
 **Lördag 8:e maj:**
 
 - 18:00 - Halvtidsredovisning
-- 22:00 - Night-chill (Optional)
+- 22:00 - Night-chill (frivilligt)
 
 **Söndag 9:e maj:**
 
