@@ -94,6 +94,8 @@ pages = [
     ("/contact/",         "website/pages/contact_{}.md"),
     ("/competitions/",    "website/pages/competitions_{}.md"),
     ("/gamejam/",         "website/pages/gamejam_{}.md"),
+    ("/gamejam/history/", "website/pages/gamejam_history_{}.md"),
+    ("/gamejam/tools/",   "website/pages/gamejam_tools_{}.md"),
     ("/organization/",    "website/pages/organization_{}.md"),
     ("/cheats/",          "website/pages/cheats_{}.md"),
     ("/ncpc/",            "website/pages/ncpc_{}.md"),
