@@ -21,22 +21,35 @@
 - [Krita (2D-ritning och animation)](https://krita.org/)
 - [MakeHuman (3D-modeller av människor)](http://www.makehumancommunity.org/)
 - [Simplygon (Optimering av 3D-modeller](https://www.simplygon.com/)
+- [Mixamo (Animera 3D karaktärer)](https://www.mixamo.com/)
 
 ### Verktyg för att skapa ljudeffekter
 
 - [bfxr (Online old school ljudeffektsgenerator)](http://www.bfxr.net/)
 - [Sunvox (Modulär synth / tracker)](http://www.warmplace.ru/soft/sunvox/)
 - [BeepBox (Online chiptune tracker)](http://www.beepbox.co/)
+- [ChipTones (Retro ljudeffekter)](https://sfbgames.itch.io/chiptone)
 
 ### Gratis spelresurser
 
 - [OpenGameArt.org (Allmängods och Creative Commons spelresurser)](http://opengameart.org/)
-- [Itch.io spelresurser](https://itch.io/game-assets)
+- [Itch.io Game Assets](https://itch.io/game-assets/free)
+- [HDRI Haven (HDR / Environment Maps)](https://hdrihaven.com/)
+- [cgbookcase.com (Texturer)](https://www.cgbookcase.com/textures)
+- [Texture Haven (Texturer)](https://texturehaven.com/)
+- [CC0 Textures (Texturer)](https://cc0textures.com/)
+- [textures.com (Texturer)](https://www.textures.com/)
+- [Dev Assets](https://devassets.com/)
+- [game-icons.net (Ikoner)](https://game-icons.net/)
+- [Gameplay Design Patterns](http://virt10.itu.chalmers.se/index.php/Main_Page)
 
 ### Verktyg för att hålla koll på projektet
 
-- [git](https://git-scm.com/)
+- Host
     - [GitLab](http://gitlab.com/)
     - [GitHub](http://github.com/)
-    - [LiU GitLab](https://gitlab.liu.se/)
+    - [Linköping Universitet GitLab](https://gitlab.liu.se/)
+
+- Klienter
+    - [git](https://git-scm.com/)
     - [SourceTree (frontend för git)](https://www.sourcetreeapp.com/)
