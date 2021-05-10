@@ -1,41 +1,9 @@
 <img src="/static/img/logga.png" alt="LiU Game Jam" id="gamejam-logo">
 
-# Spring Game Jam 2021
-*18:00 7th May - 19:00 9th May*
+# Fall Game Jam 2021
+*26th November - 28th November*
 
-It is soon time for this year's edition of Spring Game Jam!  It is time the
-7th-9th May to take out the keyboards, drawing tablets and microphones for a
-weekend filled with game creation. Because of persistent sickness throughout
-the world, this jam will be held remotely via Discord.
-
-- [Discord invite](https://discord.gg/eHgXYMS)
-- [Itch.io jam](https://itch.io/jam/spring-game-jam-2021)
-- [Facebook event](https://www.facebook.com/events/718957842117923) 
-
-### Schedule
-
-All events take place on the LiU Game Jam Discord. Times are given in Central
-European Summer Time (CEST) i.e. UTC+2.
-
-**Friday May 7th:**
-
-- 17:30 - Pre-jam chill (Optional)
-- 18.00 - Introduction stream
-    - Theme generation from submitted theme words
-    - Brainstorming together with other jammers (similar to our physical jams)
-    - Team forming
-
-**Saturday May 8th:**
-
-- 18:00 - Half time review.
-- 22:00 - Night-chill (Optional)
-    - Party games
-
-**Sunday May 9th:**
-
-- 18:00 - Ending stream
-    - Deadline for uploading games to  Itch.io
-    - Playtesting together with other jammers
+Save the date, more info will come.
 
 # What is a game jam?
 

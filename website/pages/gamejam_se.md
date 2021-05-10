@@ -1,42 +1,9 @@
 <img src="/static/img/logga.png" alt="LiU Game Jam" id="gamejam-logo">
 
-# Spring Game Jam 2021
+# Fall Game Jam 2021
+*26e November - 28e November*
 
-*18:00 7:e maj - 19:00 9:e maj*
-
-Snart är det dags för årets upplaga av Spring Game Jam!  Den 7:e-9:e maj är det
-dags att dra fram tangentborden, ritplattorna och mikrofonerna för en helg
-fylld av spelskapande. På grund av ihållande sjukdom i världen kommer detta
-jam ske på distans via Discord.
-
-- [Discordserver](https://discord.gg/eHgXYMS)
-- [Itch.io-jam](https://itch.io/jam/spring-game-jam-2021)
-- [Facebook-event](https://www.facebook.com/events/718957842117923)
-
-### Schema
-
-Alla event sker på LiU Game Jams Discord. Tider är angivna i Central European
-Summer Time (CEST); UTC+2.
-
-**Fredag 7:e maj:**
-
-- 17:30 - Intro-chill (Frivilligt)
-- 18.00 - Intro-stream
-    - Temaskapning
-    - Brainstorming
-    - Lagskapande
-
-**Lördag 8:e maj:**
-
-- 18:00 - Halvtidsredovisning
-- 22:00 - Night-chill (Frivilligt)
-    - Partyspel
-
-**Söndag 9:e maj:**
-
-- 18:00 - Slutpresentation
-    - Deadline för uppladdning av spel
-    - Speltestning
+Spara datumet, mera information kommer!
 
 # Vad är ett game jam?
 
