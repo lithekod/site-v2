@@ -1,9 +1,8 @@
 <img src="/static/img/logga.png" alt="LiU Game Jam" id="gamejam-logo">
 
 # Fall Game Jam 2021
-*26e November - 28e November*
 
-Spara datumet, mera information kommer!
+Mera information kommer!
 
 # Vad är ett game jam?
 
