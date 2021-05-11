@@ -21,7 +21,7 @@
 - [Krita (2D-ritning och animation)](https://krita.org/)
 - [MakeHuman (3D-modeller av människor)](http://www.makehumancommunity.org/)
 - [Simplygon (Optimering av 3D-modeller](https://www.simplygon.com/)
-- [Mixamo (Animera 3D karaktärer)](https://www.mixamo.com/)
+- [Mixamo (Animera 3D-karaktärer)](https://www.mixamo.com/)
 
 ### Verktyg för att skapa ljudeffekter
 
