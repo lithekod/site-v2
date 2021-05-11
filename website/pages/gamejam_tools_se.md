@@ -28,7 +28,7 @@
 - [bfxr (Online old school ljudeffektsgenerator)](http://www.bfxr.net/)
 - [Sunvox (Modulär synth / tracker)](http://www.warmplace.ru/soft/sunvox/)
 - [BeepBox (Online chiptune tracker)](http://www.beepbox.co/)
-- [ChipTones (Retro ljudeffekter)](https://sfbgames.itch.io/chiptone)
+- [ChipTones (Retro-ljudeffekter)](https://sfbgames.itch.io/chiptone)
 
 ### Gratis spelresurser
 
