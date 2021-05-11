@@ -51,5 +51,5 @@
     - [Linköpings universitets GitLab](https://gitlab.liu.se/)
 
 - Klienter
-    - [git](https://git-scm.com/)
+    - [Git](https://git-scm.com/)
     - [SourceTree (frontend för Git)](https://www.sourcetreeapp.com/)
