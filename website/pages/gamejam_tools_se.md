@@ -45,7 +45,7 @@
 
 ### Verktyg för att hålla koll på projektet
 
-- Host
+- Hosting
     - [GitLab](http://gitlab.com/)
     - [GitHub](http://github.com/)
     - [Linköpings universitets GitLab](https://gitlab.liu.se/)
