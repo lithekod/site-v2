@@ -54,4 +54,4 @@ These tools works great for game jams and are mostly free.
 
 - Clients
     - [Git](https://git-scm.com/)
-	- [SourceTree (frontend for git)](https://www.sourcetreeapp.com/)
+	- [SourceTree (frontend for Git)](https://www.sourcetreeapp.com/)
