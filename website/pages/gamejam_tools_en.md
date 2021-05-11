@@ -45,7 +45,7 @@ These tools works great for game jams and are mostly free.
 - [game-icons.net (Icons)](https://game-icons.net/)
 - [Gameplay Design Patterns](http://virt10.itu.chalmers.se/index.php/Main_Page)
 
-### Tools for keeping track of work
+### Tools for keeping track of work (version control)
 
 - Hosts
 	- [GitLab](http://gitlab.com/)
