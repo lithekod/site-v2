@@ -2,7 +2,7 @@
 
 # Fall Game Jam 2021
 
-Mera information kommer!
+Mer information kommer!
 
 # Vad är ett game jam?
 
