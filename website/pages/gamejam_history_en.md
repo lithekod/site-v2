@@ -7,7 +7,7 @@ Check out games from our jams in the [archive collection](https://itch.io/c/6405
 
 ### 2021
 
-- Spring Game Jam 2021 - *"Friendly Frisbee", "Wine Language", "Deadline Capitalism"*- [Itch.io](https://itch.io/jam/spring-game-jam-2021), [Intro](https://www.youtube.com/watch?v=SDf2q96JG9k), [Presentation](https://www.youtube.com/watch?v=0_zV3FEJG04)
+- Spring Game Jam 2021 - *"Friendly Frisbee", "Wine Language", "Deadline Capitalism"* - [Itch.io](https://itch.io/jam/spring-game-jam-2021), [Intro](https://www.youtube.com/watch?v=SDf2q96JG9k), [Presentation](https://www.youtube.com/watch?v=0_zV3FEJG04)
 - Global Game Jam Linköping 2021 - *"Lost and Found"* - [Itch.io](https://itch.io/jam/global-game-jam-linkoping-2021), [Global Game Jam](https://globalgamejam.org/2021/jam-sites/liu-game-jam), [Intro](https://www.youtube.com/watch?v=yKhhIuSa49M), [Presentation](https://www.youtube.com/watch?v=lEk12BYQYgo)
 
 ### 2020
