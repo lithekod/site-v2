@@ -48,7 +48,7 @@
 - Host
     - [GitLab](http://gitlab.com/)
     - [GitHub](http://github.com/)
-    - [Linköping Universitet GitLab](https://gitlab.liu.se/)
+    - [Linköpings universitets GitLab](https://gitlab.liu.se/)
 
 - Klienter
     - [git](https://git-scm.com/)
