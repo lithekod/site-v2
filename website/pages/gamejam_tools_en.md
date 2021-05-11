@@ -50,7 +50,7 @@ These tools works great for game jams and are mostly free.
 - Hosts
 	- [GitLab](http://gitlab.com/)
 	- [GitHub](http://github.com/)
-	- [Linköping University GitLab](https://gitlab.liu.se/)
+	- [Linköping University's GitLab](https://gitlab.liu.se/)
 
 - Clients
     - [Git](https://git-scm.com/)
