@@ -43,7 +43,7 @@
 - [game-icons.net (Ikoner)](https://game-icons.net/)
 - [Gameplay Design Patterns](http://virt10.itu.chalmers.se/index.php/Main_Page)
 
-### Verktyg för att hålla koll på projektet
+### Verktyg för att hålla koll på projektet (versionshantering)
 
 - Hosting
     - [GitLab](http://gitlab.com/)

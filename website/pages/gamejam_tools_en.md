@@ -48,10 +48,10 @@ These tools works great for game jams and are mostly free.
 ### Tools for keeping track of work (version control)
 
 - Hosts
-	- [GitLab](http://gitlab.com/)
-	- [GitHub](http://github.com/)
-	- [Linköping University's GitLab](https://gitlab.liu.se/)
+    - [GitLab](http://gitlab.com/)
+    - [GitHub](http://github.com/)
+    - [Linköping University's GitLab](https://gitlab.liu.se/)
 
 - Clients
     - [Git](https://git-scm.com/)
-	- [SourceTree (frontend for Git)](https://www.sourcetreeapp.com/)
+    - [SourceTree (frontend for Git)](https://www.sourcetreeapp.com/)
