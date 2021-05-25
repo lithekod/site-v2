@@ -21,10 +21,10 @@ Om du inte redan är med i Slack-gruppen så kan du
 <!--Vi har meetups **varje tisdag** i café java kl 17.00. Kom förbi så bjuder vi på fika!-->
 
 <div id="card-container">
-	<div class="profile-card">
-		<img src="/static/img/edvard.png" alt="Edvard Thörnros">
-		<h2>Edvard Thörnros</h2>
-		<p class="profile-card-sub">Ordförande - <a href="mailto:ordf@lithekod.se">ordf@lithekod.se</a></p>
+    <div class="profile-card">
+        <img src="/static/img/edvard.png" alt="Edvard Thörnros">
+        <h2>Edvard Thörnros</h2>
+        <p class="profile-card-sub">Ordförande - <a href="mailto:ordf@lithekod.se">ordf@lithekod.se</a></p>
 <p class="profile-card-desc">
 
 Det finns få roller som är så omtalade och mystiska som ordförande. Jag heter
@@ -50,11 +50,11 @@ Sök ordförande! Detta är en enorm chans att utvecklas som ledare, driva
 föreningen och växa som person. Om du har några frågor är det bara att maila!
 
 </p>
-	</div>
-	<div class="profile-card">
-		<img src="/static/img/victor.png" alt="Victor Lells">
-		<h2>Victor Lells</h2>
-		<p class="profile-card-sub">Kassör - <a href="mailto:kassor@lithekod.se">kassor@lithekod.se</a></p>
+    </div>
+    <div class="profile-card">
+        <img src="/static/img/victor.png" alt="Victor Lells">
+        <h2>Victor Lells</h2>
+        <p class="profile-card-sub">Kassör - <a href="mailto:kassor@lithekod.se">kassor@lithekod.se</a></p>
 <p class="profile-card-desc">
 
 Tjena! Namnet är Victor och jag har suttit som kassör i LiTHe kods styrelse
@@ -91,11 +91,11 @@ positionen kan ni alltid kontakta mig med ett (<a
 href="mailto:kassor@lithekod.se">kassor@lithekod.se</a>) email.
 
 </p>
-	</div>
-	<div class="profile-card">
-		<img src="/static/img/annie.png" alt="Annie Wång">
-		<h2>Annie Wång</h2>
-		<p class="profile-card-sub">Game Jam-ansvarig - <a href="mailto:gamejam@lithekod.se">gamejam@lithekod.se</a></p>
+    </div>
+    <div class="profile-card">
+        <img src="/static/img/annie.png" alt="Annie Wång">
+        <h2>Annie Wång</h2>
+        <p class="profile-card-sub">Game Jam-ansvarig - <a href="mailto:gamejam@lithekod.se">gamejam@lithekod.se</a></p>
 <p class="profile-card-desc">
 
 Hej! Jag heter Annie och har suttit som Game Jam ansvarig i LiTHe kods styrelse
@@ -120,11 +120,11 @@ för läskigt att sitta i en styrelse, kontakta mig (<a href="mailto:gamejam@lit
 få veta hur du kan hjälpa till att hålla denna delen av LiUs studentliv vid liv.
 
 </p>
-	</div>
-	<div class="profile-card">
-		<img src="/static/img/gustav.png" alt="Gustav Sörnäs">
-		<h2>Gustav Sörnäs</h2>
-		<p class="profile-card-sub">Vice ordförande - <a href="mailto:vordf@lithekod.se">vordf@lithekod.se</a></p>
+    </div>
+    <div class="profile-card">
+        <img src="/static/img/gustav.png" alt="Gustav Sörnäs">
+        <h2>Gustav Sörnäs</h2>
+        <p class="profile-card-sub">Vice ordförande - <a href="mailto:vordf@lithekod.se">vordf@lithekod.se</a></p>
 <p class="profile-card-desc">
 
 Hej hallå, mitt namn är Gustav och 20/21 har jag suttit som vice ordförande.
@@ -154,11 +154,11 @@ till på insidan kommer du trivas jättebra som vice ordförande. Skicka gärna 
 mail till mig om du har några frågor!
 
 </p>
-	</div>
-	<div class="profile-card">
-		<img src="/static/img/gabriel.png" alt="Gabriel Tofvesson">
-		<h2>Gabriel Tofvesson</h2>
-		<p class="profile-card-sub">PR - <a href="mailto:pr@lithekod.se">pr@lithekod.se</a></p>
+    </div>
+    <div class="profile-card">
+        <img src="/static/img/gabriel.png" alt="Gabriel Tofvesson">
+        <h2>Gabriel Tofvesson</h2>
+        <p class="profile-card-sub">PR - <a href="mailto:pr@lithekod.se">pr@lithekod.se</a></p>
 <p class="profile-card-desc">
 
 Om ett event faller i skogen men ingen är där och hör det, hände det
@@ -179,11 +179,11 @@ lyssna så har denna roll något att erbjuda! Man kan inte ha event om ingen vet
 att de äger rum, ju, så sök PR nu!
 
 </p>
-	</div>
-	<div class="profile-card">
-		<img src="/static/img/agnes.png" alt="Agnes Wendt">
-		<h2>Agnes Wendt</h2>
-		<p class="profile-card-sub">Verksamhetsansvarig - <a href="mailto:verks@lithekod.se">verks@lithekod.se</a></p>
+    </div>
+    <div class="profile-card">
+        <img src="/static/img/agnes.png" alt="Agnes Wendt">
+        <h2>Agnes Wendt</h2>
+        <p class="profile-card-sub">Verksamhetsansvarig - <a href="mailto:verks@lithekod.se">verks@lithekod.se</a></p>
 <p class="profile-card-desc">
 
 Mitt namn är Agnes och under året har jag suttit som LiTHe kods
@@ -211,11 +211,11 @@ Kontakta mig gärna om ni har frågor om posten! Jag nås på email via <a
 href="mailto:verks@lithekod.se">verks@lithekod.se</a>.
 
 </p>
-	</div>
-	<div class="profile-card">
-		<img src="/static/img/erik.png" alt="Erik Mattfolk">
-		<h2>Erik Mattfolk</h2>
-		<p class="profile-card-sub">Webb - <a href="mailto:webb@lithekod.se">webb@lithekod.se</a></p>
+    </div>
+    <div class="profile-card">
+        <img src="/static/img/erik.png" alt="Erik Mattfolk">
+        <h2>Erik Mattfolk</h2>
+        <p class="profile-card-sub">Webb - <a href="mailto:webb@lithekod.se">webb@lithekod.se</a></p>
 <p class="profile-card-desc">
 
 Hej! Jag är Erik Mattfolk och jag är webbansvarig i LiTHe kods styrelse 20/21.
@@ -253,6 +253,6 @@ med att hantera en databas på över 100 medlemmar som behöver hållas säker o
 förvaras enligt GDPR.
 
 </p>
-	</div>
+    </div>
 </div>
 <p style="text-align: center;">Bilder skapade av Annie Wång</p>
