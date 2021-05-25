@@ -1,5 +1,8 @@
 # Advent of Code
 
+Advent of Code will return in December 2021. See you then!
+
+<!--
 <div id="important-information">
     <p> Hello, this year's advent of code is now over! </p>
 
@@ -81,3 +84,4 @@ Prizes are dealt out according to the following when the competition ends
             src="https://lithekod.lysator.liu.se/leaderboard/?some=true"></iframe>
     </span>
 </div>
+-->

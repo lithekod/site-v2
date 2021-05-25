@@ -1,30 +1,11 @@
 # Advent of Code
 
-<div id="important-information">
-    <p> Hej, nu har årets advent of code tagit slut! </p>
-
-<p>
-    Vi har sammanlagt donerat 6380:- till covid-forskning och 6380:- till
-    skaparen av Advent of Code!
-</p>
-<p>
-    Utöver detta har vi även tio programmerare som vunnit priser! För att hämta ditt pris skickar du
-    ett mail till kassor@lithekod.se från din liu-mail som innehåller en
-    screenshot på settings-fliken på Advent of Codes hemsida. Det är viktigt
-    att du är inloggad på ditt konto på Advent of Code på denna screenshot så att
-    vi kan verifiera din identitet.
-</p>
-<p>
-    Priserna delas ut i form av digitala
-    presentkort som ska kunna köpas och distribueras digitalt. Inkludera därför
-    även vilken hemsida du vill ha presentkort på i mailet. Grattis till alla som
-    vunnit!
-</p>
-</div>
+Advent of Code återkommer igen i december 2021. Vi ses då!
 
 Gå med i vår [leaderboard](https://adventofcode.com/2020/leaderboard)! Koden
 är <b style="font-family: monospace; font-size: 1.3em;">637041-f5ee40da</b>.
 
+<!--
 Varje december så händer något fantastiskt. Programmerare vaknar frivilligt
 klockan 6:00 och löser mysiga små problem i Advent of Code. Julen handlar ju om
 gåvor, så därför kommer LiTHe kod att donera 20kr för varje löst deluppgift.
@@ -76,3 +57,4 @@ Priserna delas ut enligt följande efter tävlingens slut 2020-12-25 23:59.
             src="https://lithekod.lysator.liu.se/leaderboard/?some=true"></iframe>
     </span>
 </div>
+-->
