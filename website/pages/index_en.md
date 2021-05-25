@@ -13,34 +13,34 @@ href="http://lithehack.se/">Lithehack</a>, usually located on Campus Norrköping
 can nowadays be found online for more "traditional" coding help (kodstugor).
 
 <div id="introduction">
-	<div class="intro-card">
-		<h3>Meetups</h3>
-		<i class="symbol fas fa-mug-hot"></i>
-		<p>
-			<!--At 5pm every Tuesday we meet in Café Java to discuss everything related to programming.-->
-			(COVID-19) Meetups are now held in our <a href="https://discord.gg/UG5YYsN">discord server</a>,
-			but will resume as usual in Café Java when COVID-19 subsides.
-		</p>
-	</div>
-	<div class="intro-card">
-		<h3>Other Events</h3>
-		<i class="symbol fas fa-calendar-day"></i>
-		<p>
-			During the year we have lots of interesting events you can attend.
-			See all events in our <a
-			href="https://calendar.google.com/calendar/b/0?cid=bGl0aGVrb2Quc2VfZmE0bXNnbDdxcG1zZG5zNW9jNGZxNDhhZ29AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a>
-			(<a href="https://calendar.google.com/calendar/ical/lithekod.se_fa4msgl7qpmsdns5oc4fq48ago%40group.calendar.google.com/public/basic.ics">iCal</a>).
-		</p>
-	</div>
-	<div class="intro-card">
-		<h3>Contact</h3>
-		<i class="symbol fab fa-slack"></i>
-		<p>
-			Join our <a href="https://lithe-kod.slack.com/">Slack channel</a> where we advertise events and
-			discuss various things.
-			You can also <a href="/contact/en/">contact us</a> in other ways.
-		</p>
-	</div>
+    <div class="intro-card">
+        <h3>Meetups</h3>
+        <i class="symbol fas fa-mug-hot"></i>
+        <p>
+            <!--At 5pm every Tuesday we meet in Café Java to discuss everything related to programming.-->
+            (COVID-19) Meetups are now held in our <a href="https://discord.gg/UG5YYsN">discord server</a>,
+            but will resume as usual in Café Java when COVID-19 subsides.
+        </p>
+    </div>
+    <div class="intro-card">
+        <h3>Other Events</h3>
+        <i class="symbol fas fa-calendar-day"></i>
+        <p>
+            During the year we have lots of interesting events you can attend.
+            See all events in our <a
+            href="https://calendar.google.com/calendar/b/0?cid=bGl0aGVrb2Quc2VfZmE0bXNnbDdxcG1zZG5zNW9jNGZxNDhhZ29AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendar</a>
+            (<a href="https://calendar.google.com/calendar/ical/lithekod.se_fa4msgl7qpmsdns5oc4fq48ago%40group.calendar.google.com/public/basic.ics">iCal</a>).
+        </p>
+    </div>
+    <div class="intro-card">
+        <h3>Contact</h3>
+        <i class="symbol fab fa-slack"></i>
+        <p>
+            Join our <a href="https://lithe-kod.slack.com/">Slack channel</a> where we advertise events and
+            discuss various things.
+            You can also <a href="/contact/en/">contact us</a> in other ways.
+        </p>
+    </div>
 </div>
 
 Here are some links to events we arrange:
