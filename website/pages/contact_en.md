@@ -1,5 +1,6 @@
 # Contact us
 
+<!--
 <div id="important-information">
 
 <p>
@@ -11,6 +12,7 @@ Unfortunately they're only available in Swedish.
 </p>
 
 </div>
+-->
 
 Have a question? Don't hesitate to contact us!
 You can reach us on [Facebook](https://www.facebook.com/LitheKod/),
