@@ -1,5 +1,7 @@
 <!doctype HTML>
-<html lang='{%- if swedish -%}se{%- else -%}en{%- endif -%}'>
+{% set lang = "se" if swedish else "en" %}
+{% set other_lang = "en" if swedish else "se" %}
+<html lang='{{ lang }}'>
     <head>
         <title>LiTHe kod</title>
         <link rel='icon' type='image/png' href='/static/img/icon.png'>
@@ -13,7 +15,10 @@
         <input type="checkbox" name="aoc-trigger" id="aoc-trigger">
         <input name='theme-trigger' id='theme-trigger' type='checkbox'>
         <div id="body">
-        <script>document.getElementById("theme-trigger").checked = window.localStorage.getItem("theme") === "light";</script>
+        <script>
+            const trigger = document.getElementById("theme-trigger");
+            trigger.checked = window.localStorage.getItem("theme") === "light";
+        </script>
         <input name='nav-trigger-toggle' id='nav-trigger-toggle' type='checkbox'>
         <nav id='nav'>
             <label for='nav-trigger-toggle'>
@@ -25,43 +30,22 @@
                 <img id='nav-logo' src='/static/img/logo.png'>
             </div>
             <ul>
-                {%- for (name_se, name_en), nav_url, internal in navigation -%}
+                {%- for (name_se, name_en), nav_url in navigation -%}
                 <li class='item {% if loop.index0 == selected %}selected{% endif %}'
-                    onclick='window.location.href=
-                    {%- if not internal -%}
-                        "{{ nav_url }}"
-                    {%- elif swedish -%}
-                        "{{ nav_url }}se/"
-                    {%- else -%}
-                        "{{ nav_url }}en/"
-                    {%- endif -%};'
-                    >
-                    <a href=
-                    {%- if not internal -%}
-                        '{{ nav_url }}'
-                    {%- elif swedish -%}
-                        '{{ nav_url }}se/'
-                    {%- else -%}
-                        '{{ nav_url }}en/'
-                    {%- endif %}>
-                    {%- if swedish -%}
-                        {{ name_se }}
-                    {%- else -%}
-                        {{ name_en }}
-                    {%- endif -%}
+                    onclick='window.location.href="{{ nav_url }}{{ lang }}/"'
+                >
+                    <a href='{{ nav_url }}{{ lang }}/'>
+                        {{ name_se if swedish else name_en }}
                     </a>
                 </li>
                 {%- endfor -%}
             </ul>
-            {% if swedish %}
-            <a class='button' id='toggle-lang' href="{{ url }}en/">
-                <img  onclick='window.location.href="en"' src='/static/img/en.svg'/>
+            <a class='button' id='toggle-lang' href="{{ url }}{{ other_lang }}/">
+                <img
+                    onclick='window.location.href="{{ other_lang }}"'
+                    src='/static/img/{{ other_lang }}.svg'
+                />
             </a>
-            {% else %}
-            <a class='button' id='toggle-lang' href="{{ url }}se/">
-                <img  src='/static/img/se.svg'/>
-            </a>
-            {% endif %}
             <label class='button' id='toggle-theme' for='theme-trigger'>
                 <img id='dark-theme' src='/static/img/dark-theme.svg'/>
                 <img id='light-theme' src='/static/img/light-theme.svg'/>
@@ -69,28 +53,29 @@
         </nav>
         <header>
             <canvas id="fancy-pants-graphics"></canvas>
-            <a id="header-graphic" href='{%- if swedish -%} /se/ {%- else -%} /en/ {%- endif -%}'>
+            <a id="header-graphic" href='/{{ lang }}/'>
                 <img src='/static/img/totalrippad.svg'>
             </a>
         </header>
         <article>
             <noscript>
                 <h1>Oh snag, no JS!</h1>
-                <p id="no-script">Oh, it looks like you don't have JavaScript enabled, it's understandable really, but some of the functionality on this site won't work. Unfortunately you can't get light or dark theme or automatically switch between English and Swedish.</p>
+                <p id="no-script">
+                    Oh, it looks like you don't have JavaScript enabled, it's
+                    understandable really, but some of the functionality on this
+                    site won't work. Unfortunately you can't get light or dark
+                    theme or automatically switch between English and Swedish.
+                </p>
             </noscript>
             {% block content %}
-            <p> There is no content here!</p>
+            <p>There is no content here!</p>
             {% endblock %}
         </article>
         <div id="footer-bg">
             <footer>
                 <div class="footer-block">
                     <h2>
-                        {%- if swedish -%}
-                            Kontakt
-                        {%- else -%}
-                            Contact us
-                        {%- endif -%}
+                        {{ "Kontakt" if swedish else "Contact us" }}
                     </h2>
                     <p>
                         <a href="https://www.facebook.com/LitheKod/">
@@ -110,11 +95,7 @@
                 </div>
                 <div class="footer-block">
                     <h2>
-                        {%- if swedish -%}
-                            Adress
-                        {%- else -%}
-                            Address
-                        {%- endif -%}
+                        {{ "Adress" if swedish else "Address" }}
                     </h2>
                     <p>LiTHe kod Kårallen, Universitetet</p>
                     <p>581 83 Linköping</p>

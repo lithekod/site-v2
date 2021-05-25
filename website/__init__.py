@@ -13,16 +13,15 @@ app = Flask(__name__, static_folder='static')
 
 # ========== Navigation ==========
 # Elements used to create navigation bar
-# ((Name_se, Name_en), Url, Internal?)
-# TODO: remove or change 'Internal'
+# ((name_se, name_en), url)
 
 navigation = [
-    (("Start", "Start"),               "/",              True),
-    (("Kontakt", "Contact us"),        "/contact/",      True),
-    (("Tävlingar", "Competitions"),    "/competitions/", True),
-    (("Game Jam", "Game Jam"),         "/gamejam/",      True),
-    (("Organisation", "Organization"), "/organization/", True),
-    (("Fusk", "Cheats"),               "/cheats/",       True),
+    (("Start",        "Start"       ), "/"             ),
+    (("Kontakt",      "Contact us"  ), "/contact/"     ),
+    (("Tävlingar",    "Competitions"), "/competitions/"),
+    (("Game Jam",     "Game Jam"    ), "/gamejam/"     ),
+    (("Organisation", "Organization"), "/organization/"),
+    (("Fusk",         "Cheats"      ), "/cheats/"      ),
 ]
 
 # ========== Helper functions ==========
@@ -37,7 +36,7 @@ def render_page(path, url, swedish, injection=""):
     url - The url to the page.
     swedish - Whether the page is in swedish or not (english).
     """
-    nav_index = next((i for i, (_, u, _) in enumerate(navigation) if u == url), -1)
+    nav_index = next((i for i, (_, u) in enumerate(navigation) if u == url), -1)
     return render_template("page.html",
             html=markdown2.markdown_path(path),
             injection=injection,
