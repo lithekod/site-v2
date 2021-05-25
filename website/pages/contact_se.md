@@ -1,5 +1,6 @@
 # Kontakt
 
+<!--
 <div id="important-information">
 
 <p>
@@ -10,6 +11,7 @@ formulär.</a> Läs mer om vad de olika posterna gör här nedan.
 </p>
 
 </div>
+-->
 
 Har du någon fråga? Tveka inte att kontakta oss!
 Vi nås på [Facebook](https://www.facebook.com/LitheKod/),
