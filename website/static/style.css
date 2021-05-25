@@ -700,10 +700,6 @@ img.sponsor {
     float: none;
 }
 
-.highlight {
-    color: var(--highlight-color);
-}
-
 /* Advent of Code leaderboard */
 .leaderboard {
     border: none;
