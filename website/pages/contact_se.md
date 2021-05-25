@@ -22,45 +22,44 @@ Om du inte redan är med i Slack-gruppen så kan du
 
 <div id="card-container">
 <div class="profile-card">
-    <img src="/static/img/edvard.png" alt="Edvard Thörnros">
+    <img src="/static/img/kodapa-profile-picture.png" alt="Edvard Thörnros">
     <h2>Edvard Thörnros</h2>
     <p class="profile-card-sub">Ordförande - <a href="mailto:ordf@lithekod.se">ordf@lithekod.se</a></p>
 </div>
 
 <div class="profile-card">
-    <img src="/static/img/victor.png" alt="Victor Lells">
+    <img src="/static/img/kodapa-profile-picture.png" alt="Victor Lells">
     <h2>Victor Lells</h2>
     <p class="profile-card-sub">Kassör - <a href="mailto:kassor@lithekod.se">kassor@lithekod.se</a></p>
 </div>
 
 <div class="profile-card">
-    <img src="/static/img/annie.png" alt="Annie Wång">
+    <img src="/static/img/kodapa-profile-picture.png" alt="Annie Wång">
     <h2>Annie Wång</h2>
     <p class="profile-card-sub">Game Jam-ansvarig - <a href="mailto:gamejam@lithekod.se">gamejam@lithekod.se</a></p>
 </div>
 
 <div class="profile-card">
-    <img src="/static/img/gustav.png" alt="Gustav Sörnäs">
+    <img src="/static/img/kodapa-profile-picture.png" alt="Gustav Sörnäs">
     <h2>Gustav Sörnäs</h2>
     <p class="profile-card-sub">Vice ordförande - <a href="mailto:vordf@lithekod.se">vordf@lithekod.se</a></p>
 </div>
 
 <div class="profile-card">
-    <img src="/static/img/gabriel.png" alt="Gabriel Tofvesson">
+    <img src="/static/img/kodapa-profile-picture.png" alt="Gabriel Tofvesson">
     <h2>Gabriel Tofvesson</h2>
     <p class="profile-card-sub">PR - <a href="mailto:pr@lithekod.se">pr@lithekod.se</a></p>
 </div>
 
 <div class="profile-card">
-    <img src="/static/img/agnes.png" alt="Agnes Wendt">
+    <img src="/static/img/kodapa-profile-picture.png" alt="Agnes Wendt">
     <h2>Agnes Wendt</h2>
     <p class="profile-card-sub">Verksamhetsansvarig - <a href="mailto:verks@lithekod.se">verks@lithekod.se</a></p>
 </div>
 
 <div class="profile-card">
-    <img src="/static/img/erik.png" alt="Erik Mattfolk">
+    <img src="/static/img/kodapa-profile-picture.png" alt="Erik Mattfolk">
     <h2>Erik Mattfolk</h2>
     <p class="profile-card-sub">Webb - <a href="mailto:webb@lithekod.se">webb@lithekod.se</a></p>
 </div>
 </div>
-<p style="text-align: center;">Bilder skapade av Annie Wång</p>
