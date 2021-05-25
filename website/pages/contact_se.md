@@ -24,37 +24,37 @@ Om du inte redan är med i Slack-gruppen så kan du
 
 <div id="card-container">
 <div class="profile-card">
-    <img src="/static/img/kodapa-profile-picture.png" alt="Kodapan">
+    <img src="/static/img/board-21-22/gustav.png" alt="Gustav">
     <h2>Gustav Sörnäs</h2>
     <p class="profile-card-sub">Ordförande - <a href="mailto:ordf@lithekod.se">ordf@lithekod.se</a></p>
 </div>
 
 <div class="profile-card">
-    <img src="/static/img/kodapa-profile-picture.png" alt="Kodapan">
+    <img src="/static/img/board-21-22/victor.png" alt="Victor">
     <h2>Victor Lells</h2>
     <p class="profile-card-sub">Kassör - <a href="mailto:kassor@lithekod.se">kassor@lithekod.se</a></p>
 </div>
 
 <div class="profile-card">
-    <img src="/static/img/kodapa-profile-picture.png" alt="Kodapan">
+    <img src="/static/img/board-21-22/thea.png" alt="Thea">
     <h2>Thea Carlqvist</h2>
     <p class="profile-card-sub">Game Jam-ansvarig - <a href="mailto:gamejam@lithekod.se">gamejam@lithekod.se</a></p>
 </div>
 
 <div class="profile-card">
-    <img src="/static/img/kodapa-profile-picture.png" alt="Kodapan">
+    <img src="/static/img/board-21-22/lowe.png" alt="Lowe">
     <h2>Lowe Kozak Åslöw</h2>
     <p class="profile-card-sub">Vice ordförande - <a href="mailto:vordf@lithekod.se">vordf@lithekod.se</a></p>
 </div>
 
 <div class="profile-card">
-    <img src="/static/img/kodapa-profile-picture.png" alt="Kodapan">
+    <img src="/static/img/board-21-22/axel.png" alt="Axel">
     <h2>Axel Telenius</h2>
     <p class="profile-card-sub">Verksamhetsansvarig - <a href="mailto:verks@lithekod.se">verks@lithekod.se</a></p>
 </div>
 
 <div class="profile-card">
-    <img src="/static/img/kodapa-profile-picture.png" alt="Kodapan">
+    <img src="/static/img/board-21-22/erik.png" alt="Erik">
     <h2>Erik Mattfolk</h2>
     <p class="profile-card-sub">Webb - <a href="mailto:webb@lithekod.se">webb@lithekod.se</a></p>
 </div>
