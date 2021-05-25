@@ -14,7 +14,7 @@ partly that students who participate can become more sought after in the
 labor market thanks to their documented skills.
 
 More information can be found on the IMPA
-[website](https://www.ida.liu.se/projects/impa/new/)
+[website](https://www.ida.liu.se/projects/impa/new/).
 
 <div id="sponsor-container">
     <img class="sponsor only-dark-theme" src="/static/img/idainfront_dt.png" alt="ida infront">

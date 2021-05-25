@@ -13,7 +13,7 @@ sig bättre i nationella och internationella programmeringstävlingar och dels
 att studenter som deltar ska bli mer eftertraktade på arbetsmarknaden tack vare
 sin dokumenterade kompetens.
 
-Mer information finns på IMPAs [hemsida](https://www.ida.liu.se/projects/impa/new/)
+Mer information finns på IMPAs [hemsida](https://www.ida.liu.se/projects/impa/new/).
 
 <div id="sponsor-container">
     <img class="sponsor only-dark-theme" src="/static/img/idainfront_dt.png" alt="ida infront">
