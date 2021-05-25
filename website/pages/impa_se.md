@@ -1,16 +1,11 @@
 # IMPA
 
-**Uppstartseventet kommer att hållas den 8:e september kl. 17 i
-Universitetsparken (vid Campushallen)**
-
 Välkommen till IDA-Mästerskapet i Programmering och Algoritmer (IMPA).
 Tävlingen riktar sig till studenter på alla nivåer vid Linköpings universitet
 som är intresserade av algoritmer, programmering och problemlösning.
 
 Höstens IMPA-tävling består av 5 omgångar som var och en omfattar 3 veckor.
 Varje omgång är en egen tävling med 3000kr i vinster.
-Första omgången börjar 31:a augusti och sista omgången slutar 13:e december
-2020.
 
 Syftet med IMPA är att studenter vid Linköpings universitet ska bli bättre på
 programmering, algoritmer och problemlösning. Målet är dels att LiU ska placera
