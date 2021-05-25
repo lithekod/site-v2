@@ -47,12 +47,6 @@ Om du inte redan är med i Slack-gruppen så kan du
 
 <div class="profile-card">
     <img src="/static/img/kodapa-profile-picture.png" alt="Kodapan">
-    <h2>Vakantsatt</h2>
-    <p class="profile-card-sub">PR - <a href="mailto:pr@lithekod.se">pr@lithekod.se</a></p>
-</div>
-
-<div class="profile-card">
-    <img src="/static/img/kodapa-profile-picture.png" alt="Kodapan">
     <h2>Axel Telenius</h2>
     <p class="profile-card-sub">Verksamhetsansvarig - <a href="mailto:verks@lithekod.se">verks@lithekod.se</a></p>
 </div>
@@ -61,5 +55,11 @@ Om du inte redan är med i Slack-gruppen så kan du
     <img src="/static/img/kodapa-profile-picture.png" alt="Kodapan">
     <h2>Erik Mattfolk</h2>
     <p class="profile-card-sub">Webb - <a href="mailto:webb@lithekod.se">webb@lithekod.se</a></p>
+</div>
+
+<div class="profile-card">
+    <img src="/static/img/kodapa-profile-picture.png" alt="Kodapan">
+    <h2>Vakantsatt</h2>
+    <p class="profile-card-sub">PR - <a href="mailto:pr@lithekod.se">pr@lithekod.se</a></p>
 </div>
 </div>
