@@ -6,14 +6,13 @@ VENV=venv
 # Start a development server that reloads
 
 server: $(VENV)
-	. $(VENV)/bin/activate && flask run -p 5001 --reload
+	(. $(VENV)/bin/activate && flask run -p 5001 --reload)
 
 # Virtual environments
 
 $(VENV):
-	python3 -m venv $(VENV);\
-	. $(VENV)/bin/activate
-	pip install -r requirements.txt;\
+	python3 -m venv $(VENV)
+	(. $(VENV)/bin/activate && pip install -r requirements.txt)
 
 clean-venv:
 	rm -rf $(VENV)
