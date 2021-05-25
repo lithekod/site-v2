@@ -63,5 +63,5 @@ Om du inte redan är med i Slack-gruppen så kan du
     <img src="/static/img/kodapa-profile-picture.png" alt="Kodapan">
     <h2>Vakantsatt</h2>
     <p class="profile-card-sub">PR - <a href="mailto:pr@lithekod.se">pr@lithekod.se</a></p>
-</div>
-</div>
+</div><!--
+--></div>
