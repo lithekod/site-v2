@@ -1,21 +1,17 @@
-# LiTHe kods website
+# LiTHe kod's website
 
-## Getting started
+## Quickstart
 
-```
+```sh
 git clone git@github.com:lithekod/site-v2.git
 cd site-v2
-python -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-```
-If you are using **fish**, use `source venv/bin/activate.fish` instead.
-
-## Running locally
-```
-flask run
+make
 ```
 
-### Adding new pages
+This will clone the repo, `cd` into it, install dependencies in a virtual
+environment and start a local server.
+
+## Adding new pages
+
 Add new markdown files to `website/pages/` representing a swedish and english
 version of the page. Then add the endpoints to `website/__init__.py`.
