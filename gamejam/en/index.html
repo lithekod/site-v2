@@ -1,0 +1,238 @@
+<!doctype HTML>
+
+
+<html lang='en'>
+    <head>
+        <title>LiTHe kod</title>
+        <link rel='icon' type='image/png' href='/static/img/icon.png'>
+        <link href='/static/style.css' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.9.0/css/all.css">
+        <script src="/static/script.js"></script>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta charset='utf-8'/>
+    </head>
+    <body>
+        <input type="checkbox" name="aoc-trigger" id="aoc-trigger">
+        <input name='theme-trigger' id='theme-trigger' type='checkbox'>
+        <div id="body">
+        <script>
+            const trigger = document.getElementById("theme-trigger");
+            trigger.checked = window.localStorage.getItem("theme") === "light";
+        </script>
+        <input name='nav-trigger-toggle' id='nav-trigger-toggle' type='checkbox'>
+        <nav id='nav'>
+            <label for='nav-trigger-toggle'>
+                <div id='nav-toggle'>
+                    <i class="fas fa-bars"></i>
+                </div>
+            </label>
+            <div id='nav-logo-container'>
+                <img id='nav-logo' src='/static/img/logo.png'>
+            </div>
+            <ul><li class='item '
+                    onclick='window.location.href="/en/"'
+                >
+                    <a href='/en/'>
+                        Start
+                    </a>
+                </li><li class='item '
+                    onclick='window.location.href="/contact/en/"'
+                >
+                    <a href='/contact/en/'>
+                        Contact us
+                    </a>
+                </li><li class='item '
+                    onclick='window.location.href="/competitions/en/"'
+                >
+                    <a href='/competitions/en/'>
+                        Competitions
+                    </a>
+                </li><li class='item selected'
+                    onclick='window.location.href="/gamejam/en/"'
+                >
+                    <a href='/gamejam/en/'>
+                        Game Jam
+                    </a>
+                </li><li class='item '
+                    onclick='window.location.href="/organization/en/"'
+                >
+                    <a href='/organization/en/'>
+                        Organization
+                    </a>
+                </li><li class='item '
+                    onclick='window.location.href="/cheats/en/"'
+                >
+                    <a href='/cheats/en/'>
+                        Cheats
+                    </a>
+                </li></ul>
+            <a class='button' id='toggle-lang' href="/gamejam/se/">
+                <img
+                    onclick='window.location.href="se"'
+                    src='/static/img/se.svg'
+                />
+            </a>
+            <label class='button' id='toggle-theme' for='theme-trigger'>
+                <img id='dark-theme' src='/static/img/dark-theme.svg'/>
+                <img id='light-theme' src='/static/img/light-theme.svg'/>
+            </label>
+        </nav>
+        <header>
+            <canvas id="fancy-pants-graphics"></canvas>
+            <a id="header-graphic" href='/en/'>
+                <img src='/static/img/totalrippad.svg'>
+            </a>
+        </header>
+        <article>
+            <noscript>
+                <h1>Oh snag, no JS!</h1>
+                <p id="no-script">
+                    Oh, it looks like you don't have JavaScript enabled, it's
+                    understandable really, but some of the functionality on this
+                    site won't work. Unfortunately you can't get light or dark
+                    theme or automatically switch between English and Swedish.
+                </p>
+            </noscript>
+            
+<p><img src="/static/img/logga.png" alt="LiU Game Jam" id="gamejam-logo"></p>
+
+<h1>Summer Game Jam 2021</h1>
+
+<p><em>17:00 10th July - 17:00 25th July</em></p>
+
+<p>This summer we are going to host an experimental chill Summer Game Jam. During the jam we are going to experiment with the format. Instead of just having the jam taking place during one weekend it will take place during 3 weekends; one for group forming, second one for half time review and last one for final review. Of course you are free to work as much as you want on the project and can drop in or out as it suits your schedule. We are really curious to see what people can create when they get a little bit more time and are looking forward to the results.</p>
+
+<ul>
+<li><a href="https://discord.gg/eHgXYMS">Discord invite</a></li>
+<li><a href="https://itch.io/jam/liu-summer-jam-2021">Itch.io jam</a></li>
+<li><a href="https://www.facebook.com/events/955355708611524">Facebook event</a></li>
+</ul>
+
+<h3>Schedule</h3>
+
+<p>All events takes place on the LiU Game Jam Discord. All times are given in Central European Summer Time (CEST) i.e. UTC+2.</p>
+
+<p><strong>Saturday 10th July 17:00 in Main Stage</strong></p>
+
+<ul>
+<li>Introduction stream.</li>
+<li>Theme generation from submitted theme words.</li>
+<li>Brainstorming together with other jammers (similar to our physical jams).</li>
+<li>Team forming.</li>
+</ul>
+
+<p><strong>Sunday 11th July 17:00 in Hangout Lounge (Optional)</strong></p>
+
+<ul>
+<li>Party games</li>
+</ul>
+
+<p><strong>Saturday 17th July 17:00 in Main Stage</strong></p>
+
+<ul>
+<li>Half time review</li>
+<li>Playtesting together with other jammers.</li>
+</ul>
+
+<p><strong>Sunday 25th July 17:00 in Main Stage</strong></p>
+
+<ul>
+<li>Ending stream.</li>
+<li>Deadline for uploading games to Itch.io.</li>
+<li>Playtesting together with other jammers.</li>
+</ul>
+
+<hr />
+
+<h1>Fall Game Jam 2021</h1>
+
+<p><em>26th November - 28th November</em></p>
+
+<p>More info will come.</p>
+
+<hr />
+
+<h1>What is a game jam?</h1>
+
+<p>A game jam is an event where programmers, artists and gamers come together to
+create games; both computer games and board games. At our game jam there is a
+48 hours time limit and a randomized theme for inspiration.</p>
+
+<h1>Get news</h1>
+
+<p>New events will be announced in the following channels. </p>
+
+<ul>
+<li><a href="https://discord.gg/eHgXYMS">LiU Game Jam's Discord server</a>. </li>
+<li><a href="https://www.facebook.com/liugamejam/">Facebook page</a> </li>
+<li><a href="https://twitter.com/LiuGameJam">Twitter</a></li>
+<li><a href="http://us12.campaign-archive2.com/home/?u=092a6fffba8f6063437a51495&amp;id=c3863c4bf5">Newsletters</a></li>
+</ul>
+
+<h1>FAQ</h1>
+
+<h3>Am I welcome?</h3>
+
+<p>All are welcome, student and non-student alike. No previous experience is
+needed and the event is free of charge.</p>
+
+<h3>Where are your events held?</h3>
+
+<p>Due to COVID-19 events are held remotely via <a href="https://discord.gg/tP2kDvgQKn">LiU Game Jam's Discord
+server</a>. We hope to return to physical jams once
+that is over.</p>
+
+<h3>How are groups selected? Do I need a team?</h3>
+
+<p>Groups will be randomized for brainstorming purposes, but you are free to work
+with whomever you like. The starting groups will allow you to find people
+sharing similar ideas. We make sure everyone finds someone to work with.</p>
+
+<h3>Do I need to be able to program?</h3>
+
+<p>Not at all! Game design covers all kind of fields such as art, music, design,
+storywriting, level creation and problemsolving. Anyone who is eager to create
+is welcome.</p>
+
+<h1><a href="/gamejam/history/en">History</a></h1>
+
+<h1><a href="/gamejam/tools/en">Jam tools</a></h1>
+
+
+
+        </article>
+        <div id="footer-bg">
+            <footer>
+                <div class="footer-block">
+                    <h2>
+                        Contact us
+                    </h2>
+                    <p>
+                        <a href="https://www.facebook.com/LitheKod/">
+                            <i class="fab fa-facebook"></i> Facebook
+                        </a>
+                    </p>
+                    <p>
+                        <a href="https://lithe-kod.slack.com/">
+                            <i class="fab fa-slack"></i> Slack
+                        </a>
+                    </p>
+                    <p>
+                        <a href="mailto:ordf@lithekod.se">
+                            <i class="fas fa-at"></i> ordf@lithekod.se
+                        </a>
+                    </p>
+                </div>
+                <div class="footer-block">
+                    <h2>
+                        Address
+                    </h2>
+                    <p>LiTHe kod Kårallen, Universitetet</p>
+                    <p>581 83 Linköping</p>
+                </div>
+            </footer>
+        </div>
+        </div>
+        <canvas id="snowflakes"></canvas>
+    </body>
+</html>

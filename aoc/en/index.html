@@ -1,0 +1,195 @@
+<!doctype HTML>
+
+
+<html lang='en'>
+    <head>
+        <title>LiTHe kod</title>
+        <link rel='icon' type='image/png' href='/static/img/icon.png'>
+        <link href='/static/style.css' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.9.0/css/all.css">
+        <script src="/static/script.js"></script>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta charset='utf-8'/>
+    </head>
+    <body>
+        <input type="checkbox" name="aoc-trigger" id="aoc-trigger">
+        <input name='theme-trigger' id='theme-trigger' type='checkbox'>
+        <div id="body">
+        <script>
+            const trigger = document.getElementById("theme-trigger");
+            trigger.checked = window.localStorage.getItem("theme") === "light";
+        </script>
+        <input name='nav-trigger-toggle' id='nav-trigger-toggle' type='checkbox'>
+        <nav id='nav'>
+            <label for='nav-trigger-toggle'>
+                <div id='nav-toggle'>
+                    <i class="fas fa-bars"></i>
+                </div>
+            </label>
+            <div id='nav-logo-container'>
+                <img id='nav-logo' src='/static/img/logo.png'>
+            </div>
+            <ul><li class='item '
+                    onclick='window.location.href="/en/"'
+                >
+                    <a href='/en/'>
+                        Start
+                    </a>
+                </li><li class='item '
+                    onclick='window.location.href="/contact/en/"'
+                >
+                    <a href='/contact/en/'>
+                        Contact us
+                    </a>
+                </li><li class='item '
+                    onclick='window.location.href="/competitions/en/"'
+                >
+                    <a href='/competitions/en/'>
+                        Competitions
+                    </a>
+                </li><li class='item '
+                    onclick='window.location.href="/gamejam/en/"'
+                >
+                    <a href='/gamejam/en/'>
+                        Game Jam
+                    </a>
+                </li><li class='item '
+                    onclick='window.location.href="/organization/en/"'
+                >
+                    <a href='/organization/en/'>
+                        Organization
+                    </a>
+                </li><li class='item '
+                    onclick='window.location.href="/cheats/en/"'
+                >
+                    <a href='/cheats/en/'>
+                        Cheats
+                    </a>
+                </li></ul>
+            <a class='button' id='toggle-lang' href="/aoc/se/">
+                <img
+                    onclick='window.location.href="se"'
+                    src='/static/img/se.svg'
+                />
+            </a>
+            <label class='button' id='toggle-theme' for='theme-trigger'>
+                <img id='dark-theme' src='/static/img/dark-theme.svg'/>
+                <img id='light-theme' src='/static/img/light-theme.svg'/>
+            </label>
+        </nav>
+        <header>
+            <canvas id="fancy-pants-graphics"></canvas>
+            <a id="header-graphic" href='/en/'>
+                <img src='/static/img/totalrippad.svg'>
+            </a>
+        </header>
+        <article>
+            <noscript>
+                <h1>Oh snag, no JS!</h1>
+                <p id="no-script">
+                    Oh, it looks like you don't have JavaScript enabled, it's
+                    understandable really, but some of the functionality on this
+                    site won't work. Unfortunately you can't get light or dark
+                    theme or automatically switch between English and Swedish.
+                </p>
+            </noscript>
+            
+<h1>Advent of Code</h1>
+
+<p>Advent of Code will return in December 2021. See you then!</p>
+
+<!--
+
+
+md5-a3e4c4e9bd20fcfc9eca9801b6349971
+
+
+
+Join our [leaderboard](https://adventofcode.com/2020/leaderboard)! The join code
+is <b style="font-family: monospace; font-size: 1.3em;">637041-f5ee40da</b>.
+
+Every december something amazing happens. Programmers voluntarily wake up at
+6.00am and solve small cozy problems in Advent of Code. Christmas is about
+giving gifts, that is why LiTHe kod is donating 20 sek for every solved
+problem. 10 sek to COVID-19 research and 10 sek to Advent of Code itself. There
+will of course be a kickoff for Advent of Code at the meetup the first of
+December! See you there!
+
+In addition to our Advent of Code leaderboard, we also arrange our own
+competition. We use a sorting that's a little different to the one on Advent of
+Code's site where we primarily sort by number of stars and secondarily by the
+number of points. Only people studying at LiU are eligible to compete but you
+can press a super advanced button below to also show non-competitors. If you
+think that you should be on the competition list but aren't, please contact
+someone on the board and we'll take a look at it. (You can also contact us if
+you don't want to be on the competition list.)
+
+Prizes are dealt out according to the following when the competition ends
+2020-12-25 23.59.
+
+
+
+md5-07372894dba10aef4338249965b3ae1e
+
+
+
+
+
+
+md5-c94bae58669df5dd89b44a24fcb65703
+
+
+
+
+
+md5-616687d99353095867b17bcae116c0ce
+
+
+
+## Competition is now over
+<label class="toggle-aoc" for="aoc-trigger"><span class="only-aoc-some">Show all</span><span class="only-aoc-all">Show eligible</span></label>
+
+
+md5-f7dd1fda824900053565d6ceef8cedf1
+
+
+-->
+
+
+
+        </article>
+        <div id="footer-bg">
+            <footer>
+                <div class="footer-block">
+                    <h2>
+                        Contact us
+                    </h2>
+                    <p>
+                        <a href="https://www.facebook.com/LitheKod/">
+                            <i class="fab fa-facebook"></i> Facebook
+                        </a>
+                    </p>
+                    <p>
+                        <a href="https://lithe-kod.slack.com/">
+                            <i class="fab fa-slack"></i> Slack
+                        </a>
+                    </p>
+                    <p>
+                        <a href="mailto:ordf@lithekod.se">
+                            <i class="fas fa-at"></i> ordf@lithekod.se
+                        </a>
+                    </p>
+                </div>
+                <div class="footer-block">
+                    <h2>
+                        Address
+                    </h2>
+                    <p>LiTHe kod Kårallen, Universitetet</p>
+                    <p>581 83 Linköping</p>
+                </div>
+            </footer>
+        </div>
+        </div>
+        <canvas id="snowflakes"></canvas>
+    </body>
+</html>
