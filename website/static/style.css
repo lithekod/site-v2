@@ -1,6 +1,6 @@
 /* General Configuration */
 :root {
-    --margin: 3em;
+    --margin: 1em;
     --dark-text-color: #606060;
     --max-article-width: 42em;
     --footer-fg-color: #777;
