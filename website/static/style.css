@@ -139,6 +139,7 @@ nav>label {
 }
 
 input[name="nav-trigger-toggle"] {
+    display: none;
     visibility: hidden;
 }
 
@@ -332,8 +333,8 @@ input[type="checkbox"]:checked+#body #dark-theme {
 
 #header-graphic {
     position: relative;
-    display: block;
-    margin-top: 1vh;
+    display: flex;
+    margin-top: 1em;
     width: calc(100vw - 2 * var(--margin));
     max-width: var(--max-article-width);
     max-height: 10em;
