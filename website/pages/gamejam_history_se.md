@@ -3,7 +3,8 @@
 LiU Game Jam har arrangerat events sedan 2012. Det startade som sin egna grupp men slogs samman med LiTHe kod år 2015.
 I samband med jammen har vi också arrangerat workshops för en massa spelmotorer och verktyg.
 
-Om du vill se spel som andra har skapat på våra evenemang, kolla på spelen i vårt [arkiv](https://itch.io/c/64050/liu-game-jam). Du kan också titta på vårt [gamla nyhetsbrev](http://us12.campaign-archive2.com/home/?u=092a6fffba8f6063437a51495&id=c3863c4bf5).
+Om du vill se spel som andra har skapat på våra evenemang, ta en titt på spelen i vårt [arkiv](https://itch.io/c/64050/liu-game-jam).
+Du kan också läsa våra [gamla nyhetsbrev](http://us12.campaign-archive2.com/home/?u=092a6fffba8f6063437a51495&id=c3863c4bf5).
 
 ### 2021
 
