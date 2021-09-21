@@ -6,6 +6,8 @@ In connection to the jams we have also arranged workshops in a number of differe
 Check out games from our jams in the [archive collection](https://itch.io/c/64050/liu-game-jam). 
 You can also have a look at our [old newsletters](http://us12.campaign-archive2.com/home/?u=092a6fffba8f6063437a51495&id=c3863c4bf5).
 
+The following are all jams organized by us, listed together with their theme(s) and relevant links where applicable:
+
 ### 2021
 
 - Summer Game Jam 2021 - *"Animal Hockey", "Anti-Wholesome", "Dog Pistachio"* - [Itch.io](https://itch.io/jam/liu-summer-jam-2021), [Intro](https://www.youtube.com/watch?v=39uLKI7OyIY), [Presentation](https://docs.google.com/presentation/d/e/2PACX-1vQ_8qvsSzfm3go0VfucBzxXQJfAXBsnXXj2PhTu8zVyCYoqMgBOolr9isxPz64Mgh6WcrhcsJsqwvvw/pub?start=false&loop=false&delayms=3000)

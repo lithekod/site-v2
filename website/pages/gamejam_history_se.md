@@ -6,6 +6,8 @@ I samband med jammen har vi också arrangerat workshops för en massa spelmotore
 Om du vill se spel som andra har skapat på våra evenemang, ta en titt på spelen i vårt [arkiv](https://itch.io/c/64050/liu-game-jam).
 Du kan också läsa våra [gamla nyhetsbrev](http://us12.campaign-archive2.com/home/?u=092a6fffba8f6063437a51495&id=c3863c4bf5).
 
+Nedan listas samtliga jam vi har arrangerat tillsammans med deras tema(n) och relevanta länkar i de fall då dessa finns att tillgå:
+
 ### 2021
 
 - Summer Game Jam 2021 - *"Animal Hockey", "Anti-Wholesome", "Dog Pistachio"* - [Itch.io](https://itch.io/jam/liu-summer-jam-2021), [Intro](https://www.youtube.com/watch?v=39uLKI7OyIY), [Presentation](https://docs.google.com/presentation/d/e/2PACX-1vQ_8qvsSzfm3go0VfucBzxXQJfAXBsnXXj2PhTu8zVyCYoqMgBOolr9isxPz64Mgh6WcrhcsJsqwvvw/pub?start=false&loop=false&delayms=3000)
