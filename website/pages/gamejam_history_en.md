@@ -4,6 +4,7 @@ LiU Game Jam has been been around since 2012. It started as its own group but jo
 In connection to the jams we have also arranged workshops in a number of different game engines and tools.
 
 Check out games from our jams in the [archive collection](https://itch.io/c/64050/liu-game-jam). 
+You can also have a look at our [old newsletters](http://us12.campaign-archive2.com/home/?u=092a6fffba8f6063437a51495&id=c3863c4bf5).
 
 ### 2021
 
