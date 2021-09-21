@@ -22,7 +22,7 @@ Om du vill se spel som andra har skapat på våra evenemang, kolla på spelen i 
 ### 2019
 
 - Fall Game Jam 2019 - *"Wild West Planes, but with eyes", "Compost War: Two worlds, one truck", "Musical tentacles"* - [Presentation](https://www.facebook.com/349988561805129/videos/799393110511100)
-- Spring Game Jam 2019 - *"Spinning Change", "GODZILLA In Real Life", "Very large Pizza cutter""* - [Presentation](https://www.facebook.com/349988561805129/videos/297587374524542)
+- Spring Game Jam 2019 - *"Spinning Change", "GODZILLA In Real Life", "Very large Pizza cutter"* - [Presentation](https://www.facebook.com/349988561805129/videos/297587374524542)
 - Global Game Jam Linköping 2019 - *"What home means to you"* - [Global Game Jam](https://globalgamejam.org/2019/jam-sites/liu-game-jam/games), [Presentation](https://docs.google.com/presentation/d/e/2PACX-1vSYxPDiq7GMtCeC_-KOQeQtQECAs2ksc9fTglwDGAaRXVgtL2HMh0GTpfj12873_mC3K98p_rrwW-Sh/pub?start=false&loop=false&delayms=3000)
 
 ### 2018
@@ -47,7 +47,7 @@ Om du vill se spel som andra har skapat på våra evenemang, kolla på spelen i 
 
 - Fall Game Jam 2015 - *"Roundabout Battle", "Raging Change"*
 - Spring Game Jam 2015 - *"Disruptive rabbits"*
-- Linköping Global Game Jam 2015 - *"What do we do now"* - [Global Game Jam](https://globalgamejam.org/2015/jam-sites/liu-game-jam)
+- Global Game Jam 2015 - *"What do we do now"* - [Global Game Jam](https://globalgamejam.org/2015/jam-sites/liu-game-jam)
 
 ### 2014
 
