@@ -61,4 +61,4 @@ Check out games from our jams in the [archive collection](https://itch.io/c/6405
 
 ### 2012
 
-- Global Game Jam 2012 - *"Ouroboros"* 
+- Global Game Jam 2012 - *"Ouroboros"* - [Global Game Jam](http://archive.globalgamejam.org/og/games/18189/list.html)

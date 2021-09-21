@@ -61,4 +61,4 @@ Om du vill se spel som andra har skapat på våra evenemang, kolla på spelen i 
 
 ### 2012
 
-- Global Game Jam 2012 - *"Ouroboros"*
+- Global Game Jam 2012 - *"Ouroboros"* - [Global Game Jam](http://archive.globalgamejam.org/og/games/18189/list.html)
