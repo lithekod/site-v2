@@ -45,11 +45,12 @@ syntax on
 
 " These commands are only enabled for python files.
 augroup python
+    " Clear python augroup (if config is sourced multiple times)
     autocmd!
     " Ctrl-g lets you write a grep command to search all python files.
-    autocmd FileType python nnoremap <C-g> <ESC>:silent copen <BAR> silent grep  *.py<LEFT><LEFT><LEFT><LEFT><LEFT>
+    autocmd FileType python nnoremap <buffer> <C-g> <ESC>:silent copen <BAR> silent grep  *.py<LEFT><LEFT><LEFT><LEFT><LEFT>
     " Save and run (and jump to any error) with <F5>, 
-    autocmd FileType python nnoremap <F5> :w <BAR> :silent make % <BAR> :silent cwindow <BAR> :clast <CR>
+    autocmd FileType python nnoremap <buffer> <F5> :w <BAR> :silent make % <BAR> :silent cwindow <BAR> :clast <CR>
 
 
     " TIP: To work even more effectively, try running the ':copen' command
@@ -57,12 +58,12 @@ augroup python
     " (':cn' and ':cp' will help you here!)
     "
     " Say that we're using python scripts here.
-    autocmd FileType python set makeprg=python3
+    autocmd FileType python setlocal makeprg=python3
     " Make Vim understand what a Python-error is
-    autocmd FileType python set errorformat=%-C\ \ \ \ %.%#,%A\ \ File\ \"%f\"\\,\ line\ %l%.%#\,%Z%[%^\ ]%\\@=%m
+    autocmd FileType python setlocal errorformat=%-C\ \ \ \ %.%#,%A\ \ File\ \"%f\"\\,\ line\ %l%.%#\,%Z%[%^\ ]%\\@=%m
     " Jumps you to the errors, it's pretty speedy.
     " autocmd FileType python compiler pyunit
     " Make sure Vim gets the memo about syntax.
-    autocmd FileType python set syntax=python
+    autocmd FileType python setlocal syntax=python
 augroup END
 
