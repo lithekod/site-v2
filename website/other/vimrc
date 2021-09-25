@@ -76,6 +76,8 @@ colorscheme default
 " According to me it's a real lifesaver.
 nnoremap <C-s> :update<CR>
 inoremap <C-s> <ESC>:update<CR>i
+" Clear search on CTRL-l as well as redraw screen
+nnoremap <C-l> :nohlsearch<CR><CL>
 
 " Syntax highlighting is nice...
 syntax on
