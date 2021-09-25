@@ -91,7 +91,7 @@ augroup python
     " Ctrl-g lets you write a grep command to search all python files.
     autocmd FileType python nnoremap <buffer> <C-g> <ESC>:silent copen <BAR> silent grep  *.py<LEFT><LEFT><LEFT><LEFT><LEFT>
     " Save and run (and jump to any error) with <F5>, 
-    autocmd FileType python nnoremap <buffer> <F5> :w <BAR> :silent make % <BAR> :silent cwindow <BAR> :clast <CR>
+    autocmd FileType python nnoremap <buffer> <F5> :w <BAR> make % <BAR> cwindow <BAR> clast <BAR> redr <CR>
 
 
     " TIP: To work even more effectively, try running the ':copen' command
