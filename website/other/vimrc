@@ -6,23 +6,58 @@
 " This is strictly for Vim, not the ancient Vi.
 set nocompatible
 
-" Keep the undo history, lets you close the buffer and
-" still undo.
-if !isdirectory($HOME."/.vim")
-    call mkdir($HOME."/.vim", "", 0770)
+" Make sure backspace works as expected, already does on most distros
+set backspace=indent,eol,start
+
+" Completion menu for command mode
+set wildmenu
+
+" Show current sequence of pressed characters, for instance if pressing 'g'
+" display it in the command line
+set showcmd
+
+" Set different cursors for different modes
+let &t_SI = "\<Esc>[6 q" " line cursor for insert mode
+let &t_SR = "\<Esc>[4 q" " underscore cursor for replace mode
+let &t_EI = "\<Esc>[2 q" " block cursor for normal mode
+
+" Wait shorter for escape sequences, (enter normal mode faster on escape)
+set ttimeoutlen=50
+
+" Correct indentation and load options for specific filetypes
+filetype plugin indent on
+set autoindent
+
+" Better search options, highlight all search matches and allow incremental
+" search
+set hlsearch
+set incsearch
+
+" Mouse support (if you're feeling naughty)
+set mouse=a
+
+" Allow hiding unsaved buffers, for instance executing ':e test' from an
+" unsaved buffer, on quitting vim will ask to save still
+set hidden
+
+" Longer command history
+set history=10000
+
+" Keep the undo history, lets you close the buffer and still undo.
+" s:data_home for compatibility with neovim
+let s:data_home = has('nvim') ? stdpath('data') : expand('~/.vim')
+if !isdirectory(s:data_home)
+    call mkdir(s:data_home, "", 0770)
 endif
-if !isdirectory($HOME."/.vim/undo-dir")
-    call mkdir($HOME."/.vim/undo-dir", "", 0700)
+let s:undo_dir = s:data_home . '/undo'
+if !isdirectory(s:undo_dir)
+    call mkdir(s:undo_dir, "", 0700)
 endif
-set undodir=~/.vim/undo-dir
+let &undodir = s:undo_dir
 set undofile
 
 " Gives space around the cursor when scrolling.
-set scrolloff=10
-
-" Show where 80 characters is,
-" it's not recommended to go over this.
-set colorcolumn=80
+set scrolloff=5
 
 " Indents your code 'correctly'.
 set tabstop=4 softtabstop=0 expandtab shiftwidth=4 smarttab
@@ -34,6 +69,8 @@ set number
 " it has tab-completion if you run it from
 " command mode. :D
 colorscheme default
+" to use correct colorschemes (use rgb colors), uncomment the next line
+"set termguicolors
 
 " Ctrl-s to save in both normal mode and insert mode.
 " According to me it's a real lifesaver.
@@ -47,6 +84,10 @@ syntax on
 augroup python
     " Clear python augroup (if config is sourced multiple times)
     autocmd!
+    " Show color column at row 81; lines 80 characters or less are
+    " recommended.
+    autocmd FileType python setlocal colorcolumn=80
+
     " Ctrl-g lets you write a grep command to search all python files.
     autocmd FileType python nnoremap <buffer> <C-g> <ESC>:silent copen <BAR> silent grep  *.py<LEFT><LEFT><LEFT><LEFT><LEFT>
     " Save and run (and jump to any error) with <F5>, 
@@ -63,7 +104,11 @@ augroup python
     autocmd FileType python setlocal errorformat=%-C\ \ \ \ %.%#,%A\ \ File\ \"%f\"\\,\ line\ %l%.%#\,%Z%[%^\ ]%\\@=%m
     " Jumps you to the errors, it's pretty speedy.
     " autocmd FileType python compiler pyunit
-    " Make sure Vim gets the memo about syntax.
-    autocmd FileType python setlocal syntax=python
 augroup END
 
+augroup help
+    au!
+    " Make it easier to navigate help pages by following tags with enter
+    " rather than CTRL-]
+    au FileType help nnoremap <buffer> <CR> <C-]>
+augroup end
