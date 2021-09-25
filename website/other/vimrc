@@ -57,7 +57,7 @@ let &undodir = s:undo_dir
 set undofile
 
 " Gives space around the cursor when scrolling.
-set scrolloff=5
+set scrolloff=1
 
 " Indents your code 'correctly'.
 set tabstop=4 softtabstop=0 expandtab shiftwidth=4 smarttab
