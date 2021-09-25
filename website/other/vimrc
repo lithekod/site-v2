@@ -45,19 +45,24 @@ syntax on
 
 " These commands are only enabled for python files.
 augroup python
-    " Ctrl-g now lets you write a grep command to search all python files.
-    nnoremap <C-g> <ESC>:copen <BAR> grep  *.py<LEFT><LEFT><LEFT><LEFT><LEFT>
+    autocmd!
+    " Ctrl-g lets you write a grep command to search all python files.
+    autocmd FileType python nnoremap <C-g> <ESC>:silent copen <BAR> silent grep  *.py<LEFT><LEFT><LEFT><LEFT><LEFT>
+    " Save and run (and jump to any error) with <F5>, 
+    autocmd FileType python nnoremap <F5> :w <BAR> :silent make % <BAR> :silent cwindow <BAR> :clast <CR>
+
 
     " TIP: To work even more effectively, try running the ':copen' command
     " after pressing <F5> and the program didn't run. It's pretty cool!
     " (':cn' and ':cp' will help you here!)
     "
     " Say that we're using python scripts here.
-    set makeprg=python3
+    autocmd FileType python set makeprg=python3
+    " Make Vim understand what a Python-error is
+    autocmd FileType python set errorformat=%-C\ \ \ \ %.%#,%A\ \ File\ \"%f\"\\,\ line\ %l%.%#\,%Z%[%^\ ]%\\@=%m
     " Jumps you to the errors, it's pretty speedy.
-    compiler pyunit
-    " Save and run the python script with <F5>, it's pretty cool.
-    nnoremap <F5> :w <BAR> :make %<CR>
+    " autocmd FileType python compiler pyunit
     " Make sure Vim gets the memo about syntax.
-    set syntax=python
+    autocmd FileType python set syntax=python
 augroup END
+
