@@ -1,5 +1,27 @@
 # NCPC 2021
 
+<div id="important-information">
+
+<p>
+För att anmäla ett lag behöver du kontakta Gustav Sörnäs som är ansvarig för
+LiU-tävlingen i ICPC-systemet. Han nås enklast antingen på mail
+(ordf@lithekod.se), i vår discordserver, på uppvärmningen 2 oktober i (eller i
+närheten av) Cafe Java eller på meetupen 5 oktober i Cafe Java.
+</p>
+
+<p>
+Laganmälan behöver göras helst innan torsdag 7 oktober. För att göra
+organiserandet enklare, skriv om du eller ditt lag är ICPC-berättigade. Läs mer
+om detta längre ner på den här sidan.
+</p>
+
+<p>
+Det går också att kontakta Gustav om du är själv eller har ett lag om två
+personer och letar en ytterligare lagkamrat.
+</p>
+
+</div>
+
 Här finns information om [Nordic Collegiate Programming
 Contest](https://nordic.icpc.io/ncpc2021/) 2021. Tävlingen kommer gå 9 oktober.
 
@@ -32,6 +54,7 @@ och traditionsenliga ballonger för lösta problem på tävlingsdagen. På grund
 reglerna ovan är det inte ett krav för att vara med i tävlingen. För de som
 tävlar på plats kommer arrangemanget börja 10:00 i Ada Lovelace, ingång 27 till
 B-huset, med information om tävlingsreglerna och ord från våra sponsorer.
+Tävlande på distans kommer kunna kolla på en stream i vår discordserver.
 
 Vi kommer också ha en uppvärmning en vecka innan tävlingen (2 oktober) med start
 ~11:00. Det kommer gå en uppvärmningstävling på Kattis för den som vill testa på
@@ -39,14 +62,6 @@ hur systemet ser ut och fungerar. Kom och ställ frågor om tävlingsprogrammeri
 eller NCPC! Det finns inget särskilt schema, så om du undrar hur det här med
 tävlingsprogrammering egentligen fungerar är det ett prima tillfälle att fråga.
 (Det går självfallet utmärkt att komma till oss på en vanlig meetup också.)
-
-Anmälan till tävlingen har inte än öppnat. Kika förbi igen senare!
-
-Om du vill tävla men inte har ett lag och inte vill delta ensam (eller om du
-redan har en lagkamrat och letar efter en tredje person) kan du skicka ett
-e-postmeddelande till <a href="mailto:ordf@lithekod.se">ordf@lithekod.se</a> med
-"ncpc-registrering" någonstans i titeln. Ange om du är ICPC-kvalificerad eller
-inte (se nedan) och om du kan tänka dig att tävla på plats eller inte.
 
 Framsteg till NWERC kan endast erbjudas lag som är [berättigade till
 ICPC](https://icpc.global/regionals/rules), det vill säga om deltagarna:
