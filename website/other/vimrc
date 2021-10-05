@@ -21,9 +21,6 @@ let &t_SI = "\<Esc>[6 q" " line cursor for insert mode
 let &t_SR = "\<Esc>[4 q" " underscore cursor for replace mode
 let &t_EI = "\<Esc>[2 q" " block cursor for normal mode
 
-" Wait shorter for escape sequences, (enter normal mode faster on escape)
-set ttimeoutlen=50
-
 " Correct indentation and load options for specific filetypes
 filetype plugin indent on
 set autoindent
@@ -77,7 +74,7 @@ colorscheme default
 nnoremap <C-s> :update<CR>
 inoremap <C-s> <ESC>:update<CR>i
 " Clear search on CTRL-l as well as redraw screen
-nnoremap <C-l> :nohlsearch<CR><CL>
+nnoremap <C-l> :nohlsearch<CR><C-L>
 
 " Syntax highlighting is nice...
 syntax on
@@ -88,13 +85,12 @@ augroup python
     autocmd!
     " Show color column at row 81; lines 80 characters or less are
     " recommended.
-    autocmd FileType python setlocal colorcolumn=80
+    autocmd FileType python setlocal colorcolumn=81 textwidth=80
 
     " Ctrl-g lets you write a grep command to search all python files.
     autocmd FileType python nnoremap <buffer> <C-g> <ESC>:silent copen <BAR> silent grep  *.py<LEFT><LEFT><LEFT><LEFT><LEFT>
     " Save and run (and jump to any error) with <F5>, 
     autocmd FileType python nnoremap <buffer> <F5> :w <BAR> make % <BAR> cwindow <BAR> clast <BAR> redr <CR>
-
 
     " TIP: To work even more effectively, try running the ':copen' command
     " after pressing <F5> and the program didn't run. It's pretty cool!
