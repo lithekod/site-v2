@@ -1,5 +1,27 @@
 # NCPC
 
+<div id="important-information">
+
+<p>
+To register a team you need to contact Gustav Sörnäs who is responsible för the
+LiU-contest in the ICPC system. He can be reached via email (ordf@lithekod.se),
+in our Discord server, on the warmup contest on October 2nd in (or in the
+vicinity of) Cafe Java, or during the meetup on October 5th in Cafe Java.
+</p>
+
+<p>
+Team registration should be made before or on Thursday October 7th. To make the
+organizing easier, please include whether you or your team is ICPC-eligible.
+Read more about this further down on this page.
+</p>
+
+<p>
+You can also contact Gustav if you're alone or you have a team with two people
+and are looking for an additional teammate.
+</p>
+
+</div>
+
 Here is information about [Nordic Collegiate Programming
 Contest](https://nordic.icpc.io/ncpc2021/) 2021. The competition will take
 place October 9th.
@@ -32,7 +54,8 @@ LiTHe kod will provide access to computer labs, free lunch and baloons for
 solved problems during the competition. But because the rules above it is not a
 must for participating. For those on campus the day starts 10:00am in Ada
 Lovelace, entrance 27 in the B-house, with information about the rules and some
-words from our sponsors.
+words from our sponsors. Contestants contesting from home will have a stream in
+our Discord server.
 
 There will also be a warmup one week before the competition (October 2nd) with
 start ~11:00am. The warmup competition will be on Kattis for anyone who wants
@@ -40,14 +63,6 @@ to test out the system. Come and ask questions about competetive programming or
 NCPC! There is not specific schedule, so if you wonder about how competetive
 programming actually works, this is the time to ask. (You can of course ask us
 on regular meetups as well.)
-
-Registration is not yet open. Come back later!
-
-If you want to compete but don't have a team and don't want to compete alone
-(or if you already have a teammate and is looking for a third) you can send an
-e-mail to <a href="mailto:ordf@lithekod.se">ordf@lithekod.se</a> with
-"ncpc-registration" somewhere in the title. Tell us if you are qualified for
-ICPC or not and if you want to compete on campus or not.
 
 Qualification for NWERC can only be offered to teams that are [qualified for
 ICPC](https://icpc.global/regionals/rules), meaning all team members:
