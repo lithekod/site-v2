@@ -2,7 +2,7 @@
 
 ### Verktyg för att skapa datorspel
 
-- 3D (eller 2D) 
+- 3D (eller 2D)
     - [Unity (C#)](http://unity3d.com/)
     - [Godot (GDScript: Python-lik syntax)](https://godotengine.org/)
     - [Unreal Engine (C++/Visuell scriptning)](https://www.unrealengine.com/)
@@ -20,7 +20,7 @@
 - [MagicaVoxel (Voxelredigerare)](https://ephtracy.github.io/)
 - [Krita (2D-ritning och animation)](https://krita.org/)
 - [MakeHuman (3D-modeller av människor)](http://www.makehumancommunity.org/)
-- [Simplygon (Optimering av 3D-modeller](https://www.simplygon.com/)
+- [Simplygon (Optimering av 3D-modeller)](https://www.simplygon.com/)
 - [Mixamo (Animera 3D-karaktärer)](https://www.mixamo.com/)
 
 ### Verktyg för att skapa ljudeffekter
