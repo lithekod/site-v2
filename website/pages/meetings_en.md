@@ -8,32 +8,22 @@ auditor's review followed by a decision on discharge from liability ("beslut om
 ansvarsfrihet"). During the spring meeting the next financial year's board is
 voted on.
 
-## Spring meeting 2021
+## Fall meeting 2021
 
-The spring meeting will be held in our [Discord
-server](https://discord.gg/F8KNV89), Tuesday 18th of May at 5:15pm. Below
-is the agenda for the meeting.
+The fall meeting will be held Tuesday 16th of November at 5:15pm in (preliminary)
+Ada Lovelace in the B house. All members may participate and vote. Below is the
+agenda for the meeting.
 
 - Election of meeting chairman
 - Election of meeting secretary
 - Choice of adjuster as well as counters
 - Determining the voting list
 - Resolution on the meeting's statutory announcement
-- Report of the financial year
-- Financial report of the board
-- The auditor's review of the boards work
+- Previous boards' report of the previous financial year
+- Financial report of the board for the previous financial year
+- The auditor's review of the previous financial year's board work
 - Decision on discharge from liability of the board of the previous financial year
-- Election of Chairman 21/22
-- Election of Vice Chairman 21/22
-- Election of Cashier 21/22
-- Election of Executive Manager 21/22
-- Election of PR 21/22
-- Election of Web 21/22
-- Election of Game Jam Manager 21/22
-- Election of Auditor 21/22
-- Determining of the budget for 21/22
-- Determining of the member fee for 21/22
 - Motions and bills
 - Other questions
 
-###### 2021-04-08
+###### 2021-10-13

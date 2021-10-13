@@ -8,10 +8,10 @@ nästa verksamhetsårs styrelse in. På både höst- och vårmöten kan motioner
 propositioner lyftas av såväl styrelsen som medlemmar. Nästföljande stormöte
 beskrivs nedan.
 
-## Vårmöte 2021
+## Höstmöte 2021
 
-Vårmötet kommer att hållas i vår [discordserver](https://discord.gg/F8KNV89),
-tisdag 18:e maj kl 17.15. Samtliga medlemmar får närvara med rösträtt.
+Höstmötet kommer att hållas tisdag 16:e november kl 17.15 i (preliminärt) Ada
+Lovelace i B-huset. Samtliga medlemmar får närvara med rösträtt.
 Nedan följer mötets föredragningslista.
 
 - Val av mötesordförande
@@ -19,21 +19,11 @@ Nedan följer mötets föredragningslista.
 - Val av justeringsperson tillika rösträknare
 - Fastställande av röstlängden
 - Beslut om mötets stadgeenliga utlysande
-- Styrelsens verksamhetsberättelse
-- Styrelsens ekomomiska berättelse
-- Revisorns granskning av verksamhetsåret
+- Föregående verksamhetsårs styrelses verksamhetsberättelse
+- Föregående verksamhetsårs styrelses ekomomiska berättelse
+- Revisorns granskning av föregående verksamhetsårs styrelses arbete
 - Beslut om ansvarsfrihet av föregående verksamhetsårs styrelse
-- Val av ordförande 21/22
-- Val av vice ordförande 21/22
-- Val av kassör 21/22
-- Val av verksamhetsansvarig 21/22
-- Val av PR-ansvarig 21/22
-- Val av webansvarig 21/22
-- Val av Game Jam-ansvarig 21/22
-- Val av revisor 21/22
-- Fastställande av föreningens budget 21/22
-- Fastställande av medlemsavgift 21/22
 - Motioner och propositioner
 - Övriga frågor
 
-###### 2021-04-08
+###### 2021-10-13
