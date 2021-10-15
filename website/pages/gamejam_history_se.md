@@ -18,8 +18,8 @@ Nedan listas samtliga jam vi har arrangerat tillsammans med deras tema(n) och re
 
 - Fall Game Jam 2020 - *"Distance Plain", "Giant 2020"* - [Itch.io](https://itch.io/jam/liu-fall-game-jam-2020),
  [Intro](https://www.youtube.com/watch?v=wJ1pcaT8opk), [Presentation](https://www.youtube.com/watch?v=MpBZgX6GBuY)
-- Spring Game Jam 2020 - *"Orange Expansions", "Ghoul Reassembly"* - [Itch.io](https://itch.io/jam/liu-spring-game-jam-2020),      
- [Intro](https://www.youtube.com/watch?v=yKhhIuSa49M), [Presentation](https://www.youtube.com/watch?v=MpBZgX6GBuY)
+- Spring Game Jam 2020 - *"Orange Expansions", "Ghoul Reassembly"* - [Itch.io](https://itch.io/jam/liu-spring-game-jam-2020),
+ [Intro](https://www.youtube.com/watch?v=BXhOfB7rdMs), [Presentation](https://www.youtube.com/watch?v=1-98sMfigc4)
 - Global Game Jam Linköping 2020 - *"Repair"* - [Global Game Jam](https://globalgamejam.org/2020/jam-sites/liu-game-jam-ggj-2020), [Presentation](https://docs.google.com/presentation/d/e/2PACX-1vTXBO6GEullpwOgIFVzQ0z8-3Al8WO-j775CVlnbyFj3hBFoRljemy4-bXKgB-PqJD4C6y-kTZKjbV3/pub?start=false&loop=false&delayms=3000)
 
 ### 2019
@@ -32,7 +32,7 @@ Nedan listas samtliga jam vi har arrangerat tillsammans med deras tema(n) och re
 
 - Fall Game Jam 2018 - *"Metal Time travel", "Navy Nightmare", "Big sound House"* - [Presentation](https://docs.google.com/presentation/d/e/2PACX-1vS0Cu3etDiGNylFSJU0xKftrokjhYdp0Q1Iu2-7dL-pQ_b2TupyQfF5DyaaPcuzNnuZdISjGKraDBWI/pub?start=false&loop=false&delayms=3000)
 - Spring Game Jam 2018 - *"Extreme-dancing King", "Coyote Solitude"* - [Presentation](https://www.facebook.com/349988561805129/videos/1279817882155521)
-- Global Game Jam 2018 Linköping - *"Transmission"* - [Global Game Jam](https://globalgamejam.org/2018/jam-sites/liu-game-jam)     
+- Global Game Jam 2018 Linköping - *"Transmission"* - [Global Game Jam](https://globalgamejam.org/2018/jam-sites/liu-game-jam)
 
 ### 2017
 

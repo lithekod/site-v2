@@ -1,12 +1,13 @@
 # History
 
-LiU Game Jam has been been around since 2012. It started as its own group but joined forces with LiTHe kod in 2015. 
+LiU Game Jam has been been around since 2012. It started as its own group but joined forces with LiTHe kod in 2015.
 In connection to the jams we have also arranged workshops in a number of different game engines and tools.
 
-Check out games from our jams in the [archive collection](https://itch.io/c/64050/liu-game-jam). 
+Check out games from our jams in the [archive collection](https://itch.io/c/64050/liu-game-jam).
 You can also have a look at our [old newsletters](http://us12.campaign-archive2.com/home/?u=092a6fffba8f6063437a51495&id=c3863c4bf5).
 
 The following are all jams organized by us, listed together with their theme(s) and relevant links where applicable:
+
 
 ### 2021
 
@@ -16,10 +17,10 @@ The following are all jams organized by us, listed together with their theme(s) 
 
 ### 2020
 
-- Fall Game Jam 2020 - *"Distance Plain", "Giant 2020"* - [Itch.io](https://itch.io/jam/liu-fall-game-jam-2020), 
+- Fall Game Jam 2020 - *"Distance Plain", "Giant 2020"* - [Itch.io](https://itch.io/jam/liu-fall-game-jam-2020),
  [Intro](https://www.youtube.com/watch?v=wJ1pcaT8opk), [Presentation](https://www.youtube.com/watch?v=MpBZgX6GBuY)
-- Spring Game Jam 2020 - *"Orange Expansions", "Ghoul Reassembly"* - [Itch.io](https://itch.io/jam/liu-spring-game-jam-2020), 
- [Intro](https://www.youtube.com/watch?v=yKhhIuSa49M), [Presentation](https://www.youtube.com/watch?v=MpBZgX6GBuY)
+- Spring Game Jam 2020 - *"Orange Expansions", "Ghoul Reassembly"* - [Itch.io](https://itch.io/jam/liu-spring-game-jam-2020),
+ [Intro](https://www.youtube.com/watch?v=BXhOfB7rdMs), [Presentation](https://www.youtube.com/watch?v=1-98sMfigc4)
 - Global Game Jam Linköping 2020 - *"Repair"* - [Global Game Jam](https://globalgamejam.org/2020/jam-sites/liu-game-jam-ggj-2020), [Presentation](https://docs.google.com/presentation/d/e/2PACX-1vTXBO6GEullpwOgIFVzQ0z8-3Al8WO-j775CVlnbyFj3hBFoRljemy4-bXKgB-PqJD4C6y-kTZKjbV3/pub?start=false&loop=false&delayms=3000)
 
 ### 2019
