@@ -14,7 +14,7 @@ In order to participate in the jam do the following:
 
 1. Join our Discord to get announcements during the jam: [Discord invite](https://discord.gg/eHgXYMS)
 2. Join the itch.io jam page where you will upload the result: [Itch.io jam](https://itch.io/jam/liu-fall-game-jam-2021)
-3. Join the Facebook event: [Facebook event](https://www.facebook.com/events/592287468735232) 
+3. (Optional) Join the Facebook event: [Facebook event](https://www.facebook.com/events/592287468735232) 
 4. Show up at the location 18:00 26th November. Bring the equipment you need in order to create games; laptop, or physical game components.
 
 ### Schedule
@@ -48,7 +48,7 @@ In order to participate in the jam do the following:
 
 ### Themes
 
-The themes is generated at the start of the jam by taking random pairs of words submitted by participants
+The themes are generated at the start of the jam by taking random pairs of words submitted by participants
 
 Theme word rules:
 
@@ -56,7 +56,7 @@ Theme word rules:
 - Should not be a game genre (ex. FPS, RTS).
 - Keep it safe for work. 
 
-Our theme process ensures unique and challenging themes each jam. The theme is there for inspiration during brainstorming and you can pick something else as well.
+Our theme process ensures unique and challenging themes each jam. The themes are there for inspiration during brainstorming and you can pick something else as well.
 
 ---
 
