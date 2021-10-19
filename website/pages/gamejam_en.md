@@ -96,6 +96,7 @@ sharing similar ideas. We make sure everyone finds someone to work with.
 You can work alone or in teams. It is more fun to jam in teams so we highly encourage you to find one.
 
 ### Do I need to follow the theme?
+
 The theme is there for inspiration during brainstorming. If you have your own idea or an already existing project feel free to work on it.
 
 ### Do I need to be able to program?
