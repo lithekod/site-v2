@@ -1,5 +1,5 @@
 <img src="/static/img/gamejam/banner-fgj21.png" alt="Fall Game Jam 2021" id="gamejam-banner">
-
+Fall Game Jam 2021
 *18:00 26:e November - 18:00 28:e November*
 
 Bygg spel tillsammans under en helg. Nu fysiskt på plats!
