@@ -30,9 +30,9 @@ In order to participate in the jam do the following:
 
 - 09:00 Spektrum opens
     - Breakfast
-- 17:00 China buffé order deadline
+- 17:00 China buffet order deadline
 - Around 19:00 when China food arives
-    - Buffé time 
+    - Buffet time 
     - Half time review
 
 **Sunday 28th**
@@ -48,7 +48,7 @@ In order to participate in the jam do the following:
 
 ### Themes
 
-The themes are generated at the start of the jam by taking random pairs of words submitted by participants
+The themes are generated at the start of the jam by taking random pairs of words submitted by participants.
 
 Theme word rules:
 
@@ -56,7 +56,7 @@ Theme word rules:
 - Should not be a game genre (ex. FPS, RTS).
 - Keep it safe for work. 
 
-Our theme process ensures unique and challenging themes each jam. The themes are there for inspiration during brainstorming and you can pick something else as well.
+Our theme process ensures unique and challenging themes each jam. The themes are there for inspiration during brainstorming but you can pick something else as well.
 
 ---
 
@@ -83,7 +83,7 @@ needed and the event is free of charge.
 
 ### Can I join the jam remotely?
 
-Not completely as we want to keep this game jam on site. You are free to work remotely but introduction, review and play testing events will be on site, make sure you can visit for them or have a team member there to represent you.
+Not completely as we want to keep this game jam on site. You are free to work remotely but introduction, review and play testing events will be on site. Make sure you can visit for them or have a team member there to represent you.
 
 ### How are groups selected? Do I need a team?
 
@@ -106,7 +106,7 @@ is welcome.
 
 ### What can I make my game in?
 
-Anything, a lot of jammers favor using game engines for the ease of use but participants have used everything from custom made programming languages to Google spreadsheets.  A good list of resources can be found [here](/gamejam/tools/en).
+Anything, a lot of jammers favor using game engines for the ease of use but participants have used everything from custom made programming languages to Google spreadsheets. A good list of resources can be found [here](/gamejam/tools/en).
 
 ### Can I use assets packs or reuse code?
 
