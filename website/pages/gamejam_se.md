@@ -5,7 +5,7 @@
 Bygg spel tillsammans under en helg. Nu fysiskt på plats!
 
 ### Lokal
-Game jammet kommer vara på [Spektrum, Ebbepark](https://sanktkors.se/lediga-lokaler/linkoping/ebbepark/spektrum/) i Linköping. Lokalen har WiFi men inga fysiska nätverksuttag.
+Game-jammet kommer vara på [Spektrum, Ebbepark](https://sanktkors.se/lediga-lokaler/linkoping/ebbepark/spektrum/) i Linköping. Lokalen har WiFi men inga fysiska nätverksuttag.
 
 ### Delta
 
@@ -14,10 +14,10 @@ Gör följande för att delta på eventet.
 1. Gå med i [vår Discord](https://discord.gg/eHgXYMS) för att få information under jammet.
 2. Gå med på [Itch.io-sidan](https://itch.io/jam/liu-fall-game-jam-2021) där vi kommer ladda upp resultatet.
 3. (Frivilligt) Gå med i [Facebook-eventet](https://www.facebook.com/events/592287468735232).
-4. Kom till Spektrum klockan 18:00 Fredagen den 26th november. Ta med det du behöver för att bygga spel; laptop, eller fysiska spelkomponenter.
+4. Kom till Spektrum klockan 18:00 fredagen den 26:e november. Ta med det du behöver för att bygga spel; laptop eller fysiska spelkomponenter.
 
 ### Schema
-**Fredagen den 26:e**
+**Fredagen den 26:e november**
 
 - 18:00 Introduktion
     - Pizza-beställning
@@ -25,7 +25,7 @@ Gör följande för att delta på eventet.
     - Brainstorming
     - Gruppskapande
 
-**Lördagen den 27:e**
+**Lördagen den 27:e november**
 
 - 09:00 Spektrum öppnar
     - Frukost
@@ -34,7 +34,7 @@ Gör följande för att delta på eventet.
     - Buffé 
     - Halvtidsredovisning
 
-**Söndagen den 28:e**
+**Söndagen den 28:e november**
 
 - 09:00 Spektrum öppnar
     - Frukost
@@ -42,7 +42,7 @@ Gör följande för att delta på eventet.
 - 17:00 Game Jam-deadline
     - Spelen ska vara uppladdade till itch.io
     - Slutredovisning
-    - Deltagare ska ha städat sina bord och omgivning.
+    - Deltagare ska ha städat sina bord och sin omgivning
 - 18:00 Städning
 
 ### Teman
@@ -51,8 +51,8 @@ Teman för eventet skapas under introduktionen genom att ta par av ord inskickad
 
 Regler för tema-ord:
 
-- Ska bara vara ett engelskt ord
-- Kan inte vara en spelgenre (ex. FPS, RTS).
+- Ska bara vara ett engelskt ord.
+- Ska inte vara en spelgenre (ex. FPS, RTS).
 - Ska vara safe for work. 
 
 Vår temaprocess skapar unika och utmanande teman varje jam. De finns som inspiration under brainstormsessionen, men du kan bygga efter egna ideer också.
