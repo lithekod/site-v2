@@ -31,7 +31,7 @@ In order to participate in the jam do the following:
 - 09:00 Spektrum opens
     - Breakfast
 - 17:00 China buffet order deadline
-- Around 19:00 when China food arives
+- Around 19:00 when China food arrives
     - Buffet time 
     - Half time review
 
