@@ -2,4 +2,9 @@
 {% block content %}
 {{ html | safe }}
 {{ injection | safe }}
+<p>
+<small>
+    {{ "Senast uppdaterad" if swedish else "Last updated" }}: {{ last_updated }}
+</small>
+</p>
 {% endblock %}

@@ -1,4 +1,7 @@
 # -*- coding: utf-8 -*-
+import datetime
+import subprocess
+
 import markdown2
 
 from flask import (
@@ -28,6 +31,16 @@ navigation = [
 # These functions make it easy to render files into pages or
 # redirecting to other pages.
 
+def last_updated(path):
+    """Return the author date of the latest commit that touched a path."""
+    # %at is author time as unix timestamp
+    git_cmd = "git log --format=%at -- {}".format(path).split()
+    stdout = subprocess.run(git_cmd, capture_output=True).stdout
+    ts = stdout.split(b"\n")[0]
+    dt = datetime.datetime.fromtimestamp(int(ts)).date().isoformat()
+    return dt
+
+
 def render_page(path, url, swedish, injection=""):
     """Render a Markdown file into a page on the website.
 
@@ -40,6 +53,7 @@ def render_page(path, url, swedish, injection=""):
     return render_template("page.html",
             html=markdown2.markdown_path(path),
             injection=injection,
+            last_updated=last_updated(path),
             url=url,
             navigation=navigation,
             selected=nav_index,
