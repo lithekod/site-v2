@@ -66,14 +66,15 @@ att skapa spel; både datorspel och brädspel. Alla våra game jams har sina egn
 slumpmässigt valda teman för inspiration och en 48-timmarsgräns att skapa sitt
 spel på!
 
-# Nyheter
+# Andra kanaler
 
-Nyheter kan följas i dessa kanaler. 
+LiU Game Jam kan följas i dessa kanaler.
 
-- [LiU Game Jams Discord server](https://discord.gg/eHgXYMS).
-- [Facebook page](https://www.facebook.com/liugamejam/)
+- [Discord](https://discord.gg/eHgXYMS)
+- [Facebook](https://www.facebook.com/liugamejam/)
 - [Twitter](https://twitter.com/LiuGameJam)
 - [Nyhetsbrev](http://us12.campaign-archive2.com/home/?u=092a6fffba8f6063437a51495&id=c3863c4bf5)
+- [Spelarkiv på Itch.io](https://itch.io/c/64050/liu-game-jam)
 
 
 # FAQ
