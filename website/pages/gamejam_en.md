@@ -66,13 +66,14 @@ A game jam is an event where programmers, artists and gamers come together to
 create games; both computer games and board games. At our game jam there is a
 48 hours time limit and a randomized theme for inspiration.
 
-# Get news
-New events will be announced in the following channels. 
+# Other channels
+Follow LiU Game Jam on the following channels.
 
-- [LiU Game Jam's Discord server](https://discord.gg/eHgXYMS). 
+- [Discord server](https://discord.gg/eHgXYMS)
 - [Facebook page](https://www.facebook.com/liugamejam/) 
 - [Twitter](https://twitter.com/LiuGameJam)
-- [Newsletters](http://us12.campaign-archive2.com/home/?u=092a6fffba8f6063437a51495&id=c3863c4bf5)
+- [Newsletter](http://us12.campaign-archive2.com/home/?u=092a6fffba8f6063437a51495&id=c3863c4bf5)
+- [Itch.io game archive](https://itch.io/c/64050/liu-game-jam)
 
 # FAQ
 
