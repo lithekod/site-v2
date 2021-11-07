@@ -1,26 +1,29 @@
 <img src="/static/img/gamejam/banner-fgj21.png" alt="Fall Game Jam 2021" id="gamejam-banner">
-# Fall Game Jam 2021
-*18:00 26:e November - 18:00 28:e November*
 
-Bygg spel tillsammans under en helg. Nu fysiskt på plats!
+# Fall Game Jam 2021
+*18:00 26:e november – 18:00 28:e november*
+
+Bygg spel tillsammans under en helg.
+Nu åter igen fysiskt på plats i en ny lokal!
 
 ### Lokal
-Game-jammet kommer vara på [Spektrum, Ebbepark](https://sanktkors.se/lediga-lokaler/linkoping/ebbepark/spektrum/) i Linköping. Lokalen har WiFi men inga fysiska nätverksuttag.
+Game-jammet kommer vara på [Spektrum, Ebbepark](https://sanktkors.se/lediga-lokaler/linkoping/ebbepark/spektrum/) i Linköping. Lokalen har Wi-Fi men inga fysiska nätverksuttag.
 
 ### Delta
 
-Gör följande för att delta på eventet.
+Gör följande för att delta på eventet:
 
-1. Gå med i [vår Discord](https://discord.gg/eHgXYMS) för att få information under jammet.
+1. Gå med i [vår Discord-server](https://discord.gg/eHgXYMS) för att få ny information under jammet.
 2. Gå med på [Itch.io-sidan](https://itch.io/jam/liu-fall-game-jam-2021) där vi kommer ladda upp resultatet.
-3. (Frivilligt) Gå med i [Facebook-eventet](https://www.facebook.com/events/592287468735232).
+3. (Frivilligt) Gå med i [Facebook-evenemanget](https://www.facebook.com/events/592287468735232).
+<br/>*Det hjälper oss att uppskatta hur många som kommer delta, för att kunna planera jammet bättre.*
 4. Kom till Spektrum klockan 18:00 fredagen den 26:e november. Ta med det du behöver för att bygga spel; laptop eller fysiska spelkomponenter.
 
 ### Schema
 **Fredagen den 26:e november**
 
 - 18:00 Introduktion
-    - Pizza-beställning
+    - Gemensam pizza-beställning
     - Temaskapande
     - Brainstorming
     - Gruppskapande
@@ -28,8 +31,8 @@ Gör följande för att delta på eventet.
 **Lördagen den 27:e november**
 
 - 09:00 Spektrum öppnar
-    - Frukost
-- 17:00 Kinabuffé-beställning
+    - Frukost (gratis)
+- 17:00 Gemensam kinabuffé-beställning (deadline)
 - Runt 19:00 när kinamaten kommer
     - Buffé 
     - Halvtidsredovisning
@@ -37,23 +40,24 @@ Gör följande för att delta på eventet.
 **Söndagen den 28:e november**
 
 - 09:00 Spektrum öppnar
-    - Frukost
-- 12:00 Sushi-beställning
+    - Frukost (gratis)
+- 12:00 Gemensam sushi-beställning (deadline)
 - 17:00 Game Jam-deadline
     - Spelen ska vara uppladdade till itch.io
-    - Slutredovisning
     - Deltagare ska ha städat sina bord och sin omgivning
-- 18:00 Städning
+    - Slutredovisning
+    - Uppvisning och speltestning av varandras spel
+- 18:00 Evenemanget avslutas
 
 ### Teman
 
-Teman för eventet skapas under introduktionen genom att ta par av ord inskickade av deltagarna.
+Teman för eventet skapas under introduktionen genom att para ihop ord som lämnats in av deltagarna.
 
 Regler för tema-ord:
 
-- Ska bara vara ett engelskt ord.
+- Ska bara vara ett enda engelskt ord.
 - Ska inte vara en spelgenre (ex. FPS, RTS).
-- Ska vara safe for work. 
+- Undvik osedligt innehåll. (Ska vara safe for work)
 
 Vår temaprocess skapar unika och utmanande teman varje jam. De finns som inspiration under brainstormsessionen, men du kan bygga efter egna ideer också.
 
