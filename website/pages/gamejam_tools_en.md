@@ -3,6 +3,8 @@
   <h1>LiU Game Jam</h1>
 </div>
 
+[⇦ Back to LiU Game Jam's main page](/gamejam/en)
+
 # Jam tools
 
 These tools works great for game jams and are mostly free.

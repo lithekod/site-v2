@@ -3,6 +3,8 @@
   <h1>LiU Game Jam</h1>
 </div>
 
+[⇦ Tillbaka till huvudsidan för LiU Game Jam](/gamejam/se)
+
 # Bra verktyg
 
 ### Verktyg för att skapa datorspel

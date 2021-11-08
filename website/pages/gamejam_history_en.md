@@ -3,6 +3,8 @@
   <h1>LiU Game Jam</h1>
 </div>
 
+[⇦ Back to LiU Game Jam's main page](/gamejam/en)
+
 # History
 
 LiU Game Jam has been been around since 2012. It started as its own group but joined forces with LiTHe kod in 2015.
