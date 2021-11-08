@@ -1,3 +1,8 @@
+<div id="gamejam-header">
+  <img src="/static/img/gamejam/logo.png" alt="LiU Game Jam">
+  <h1>LiU Game Jam</h1>
+</div>
+
 # Historia
 
 LiU Game Jam har arrangerat events sedan 2012. Det startade som sin egna grupp men slogs samman med LiTHe kod år 2015.

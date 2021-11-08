@@ -1,3 +1,8 @@
+<div id="gamejam-header">
+  <img src="/static/img/gamejam/logo.png" alt="LiU Game Jam">
+  <h1>LiU Game Jam</h1>
+</div>
+
 # Bra verktyg
 
 ### Verktyg för att skapa datorspel

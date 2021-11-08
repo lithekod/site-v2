@@ -1,3 +1,8 @@
+<div id="gamejam-header">
+  <img src="/static/img/gamejam/logo.png" alt="LiU Game Jam">
+  <h1>LiU Game Jam</h1>
+</div>
+
 <img src="/static/img/gamejam/banner-fgj21.png" alt="Fall Game Jam 2021" id="gamejam-banner">
 
 # Fall Game Jam 2021

@@ -1,3 +1,8 @@
+<div id="gamejam-header">
+  <img src="/static/img/gamejam/logo.png" alt="LiU Game Jam">
+  <h1>LiU Game Jam</h1>
+</div>
+
 # History
 
 LiU Game Jam has been been around since 2012. It started as its own group but joined forces with LiTHe kod in 2015.
