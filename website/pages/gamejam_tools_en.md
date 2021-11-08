@@ -1,3 +1,8 @@
+<div id="gamejam-header">
+  <img src="/static/img/gamejam/logo.png" alt="LiU Game Jam">
+  <h1>LiU Game Jam</h1>
+</div>
+
 # Jam tools
 
 These tools works great for game jams and are mostly free.
