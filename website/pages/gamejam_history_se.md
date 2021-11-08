@@ -3,6 +3,8 @@
   <h1>LiU Game Jam</h1>
 </div>
 
+[⇦ Tillbaka till huvudsidan för LiU Game Jam](/gamejam/se)
+
 # Historia
 
 LiU Game Jam har arrangerat events sedan 2012. Det startade som sin egna grupp men slogs samman med LiTHe kod år 2015.
