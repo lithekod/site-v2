@@ -10,7 +10,7 @@ beskrivs nedan.
 
 ## Höstmöte 2021
 
-Höstmötet kommer att hållas tisdag 16:e november kl 17.15 i (preliminärt) Ada
+Höstmötet kommer att hållas tisdag 16:e november kl 18.15 i Ada
 Lovelace i B-huset. Samtliga medlemmar får närvara med rösträtt.
 Nedan följer mötets föredragningslista.
 
@@ -24,6 +24,8 @@ Nedan följer mötets föredragningslista.
 - Revisorns granskning av föregående verksamhetsårs styrelses arbete
 - Beslut om ansvarsfrihet av föregående verksamhetsårs styrelse
 - Motioner och propositioner
+- Stadgeändring om protokollföring för att efterleva GDPR
 - Övriga frågor
 
-###### 2021-10-13
+###### Preliminärt: 2021-10-13
+###### Fastställt: 2021-11-09

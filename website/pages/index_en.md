@@ -2,9 +2,9 @@
 
 <p>
 
-The fall meeting will take place on November 16th at 5.15 PM in Ada Lovelace
-(preliminary room). <a href="/meetings/en">A preliminary agenda has been
-published</a> and will be decided no later than November 9th.
+The fall meeting will take place on November 16th at 6.15 PM in Ada Lovelace.
+<a href="/meetings/en">The agenda has been
+published</a> and decided as of November 9th.
 
 </p>
 
