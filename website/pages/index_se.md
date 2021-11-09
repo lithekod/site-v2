@@ -2,9 +2,9 @@
 
 <p>
 
-Höstmötet kommer gå 16 november 17.15 i Ada Lovelace (preliminär lokal). <a
-href="/meetings/se">Preliminär föredragningslista är publicerad</a> och kommer
-fastställas senast 9 november.
+Höstmötet kommer gå 16 november 18.15 i Ada Lovelace.
+<a href="/meetings/se">Föredragningslistan är publicerad</a> och fastställd
+sedan 9 november.
 
 </p>
 
