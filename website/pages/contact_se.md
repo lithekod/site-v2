@@ -20,7 +20,7 @@ men framförallt i vår [Discord-server](https://discord.gg/UG5YYsN) eller vår 
 Om du inte redan är med i Slack-gruppen så kan du
 [gå med](https://lithe-kod.slack.com/signup) genom att använda din **LiU-mejladress**.
 
-<!--Vi har meetups **varje tisdag** i café java kl 17.00. Kom förbi så bjuder vi på fika!-->
+Vi har meetups **varje tisdag** i Café Java kl 17.15. Kom förbi så bjuder vi på fika!
 
 <div id="card-container">
 <div class="profile-card">
@@ -63,5 +63,6 @@ Om du inte redan är med i Slack-gruppen så kan du
     <img src="/static/img/kodapa-profile-picture.png" alt="Kodapan">
     <h2>Vakantsatt</h2>
     <p class="profile-card-sub">PR - <a href="mailto:pr@lithekod.se">pr@lithekod.se</a></p>
-</div><!--
---></div>
+</div></div>
+
+Alla profilbilder ritade av Annie Wång! Tack :D

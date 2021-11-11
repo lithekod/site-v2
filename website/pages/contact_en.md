@@ -21,7 +21,7 @@ but we are more available in our [Discord server](https://discord.gg/UG5YYsN) or
 If you haven't already joined our Slack group, you can do so using the following
 [link](https://lithe-kod.slack.com/signup), **You need to use your LiU e-mail address**.
 
-<!--We have meetups **every** Tuesday in Café Java at 17.00. Swing by for some free fika!-->
+We have meetups **every** Tuesday in Café Java at 17.15. Swing by for some free fika!
 
 <div id="card-container">
 <div class="profile-card">
@@ -64,5 +64,6 @@ If you haven't already joined our Slack group, you can do so using the following
     <img src="/static/img/kodapa-profile-picture.png" alt="Kodapan">
     <h2>Vakantsatt</h2>
     <p class="profile-card-sub">PR - <a href="mailto:pr@lithekod.se">pr@lithekod.se</a></p>
-</div><!--
---></div>
+</div></div>
+
+All profile images drawn by Annie Wång! Thanks :D
