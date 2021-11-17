@@ -1,15 +1,3 @@
-<div id="important-information">
-
-<p>
-
-The fall meeting will take place on November 16th at 6.15 PM in Ada Lovelace.
-<a href="/meetings/en">The agenda has been
-published</a> and decided as of November 9th.
-
-</p>
-
-</div>
-
 # Who are we?
 
 LiTHe kod is a student association at Linköping University whose mission
