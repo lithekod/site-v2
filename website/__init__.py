@@ -92,7 +92,12 @@ def create_redirect(to):
 
 
 # ========== Temporary pages ==========
-# These pages should be removed when apropriate.
+# These pages should be removed when appropriate.
+
+
+@app.route("/opera")
+def julstuga():
+    return redirect_external("https://forms.gle/VeZVCbgEBGiE85mL7")
 
 
 # ========== Redirects ==========
