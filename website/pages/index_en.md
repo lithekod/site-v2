@@ -38,9 +38,9 @@ changes drastically we'll go back to Discord.
     </div>
     <div class="intro-card">
         <h3>Contact</h3>
-        <i class="symbol fab fa-slack"></i>
+        <i class="symbol fab fa-discord"></i>
         <p>
-            Join our <a href="https://lithe-kod.slack.com/">Slack channel</a> where we advertise events and
+            Join our <a href="https://discord.gg/UG5YYsN">Discord server</a> where we advertise events and
             discuss various things.
             You can also <a href="/contact/en/">contact us</a> in other ways.
         </p>
