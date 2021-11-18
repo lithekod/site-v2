@@ -96,6 +96,7 @@ def create_redirect(to):
 
 
 @app.route("/opera")
+@app.route("/opera/")
 def julstuga():
     return redirect_external("https://forms.gle/VeZVCbgEBGiE85mL7")
 
