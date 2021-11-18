@@ -3,7 +3,7 @@
 Advent of Code återkommer igen i december 2021. Vi ses då!
 
 Gå med i vår [leaderboard](https://adventofcode.com/2020/leaderboard)! Koden
-är <b style="font-family: monospace; font-size: 1.3em;">637041-f5ee40da</b>.
+är <b style="font-family: monospace; font-size: 1.3em;">272152-8e06bd96</b>.
 
 <!--
 Varje december så händer något fantastiskt. Programmerare vaknar frivilligt
