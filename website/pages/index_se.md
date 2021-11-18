@@ -38,9 +38,9 @@ meetups i Discord.
     </div>
     <div class="intro-card">
         <h3>Kontakt</h3>
-        <i class="symbol fab fa-slack"></i>
+        <i class="symbol fab fa-discord"></i>
         <p>
-            Gå med i vår <a href="https://lithe-kod.slack.com/">Slack-kanal</a> där vi
+            Gå med i vår <a href="https://discord.gg/UG5YYsN">Discordserver</a> där vi
             annonserar events och diskuterar allt möjligt.
             Du kan också <a href="/contact/se/">kontakta</a> oss på andra sätt.
         </p>
