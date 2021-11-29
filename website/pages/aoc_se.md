@@ -1,17 +1,16 @@
 # Advent of Code
 
-Advent of Code återkommer igen i december 2021. Vi ses då!
+Gå med i vår [leaderboard](https://adventofcode.com/2021/leaderboard)! Koden är
+<b style="font-family: monospace; font-size: 1.3em;">272152-8e06bd96</b>.
+Notera att det är en ny kod i år så att vi kan se vilka som är med och tävlar.
 
-Gå med i vår [leaderboard](https://adventofcode.com/2020/leaderboard)! Koden
-är <b style="font-family: monospace; font-size: 1.3em;">272152-8e06bd96</b>.
-
-<!--
 Varje december så händer något fantastiskt. Programmerare vaknar frivilligt
 klockan 6:00 och löser mysiga små problem i Advent of Code. Julen handlar ju om
 gåvor, så därför kommer LiTHe kod att donera 20kr för varje löst deluppgift.
-10kr till COVID-19-vaccinforskning och 10kr till att stödja Advent of Code.
-Givetvis kommer vi ha en Advent of Code-kickoff på meetupen den första december!
-Ses där!
+10kr till
+<b>INSERT NON-PROFIT HERE</b>
+och 10kr till att stödja Advent of Code. Vi kommer också ha en liten kick-off
+på meetupen 30 november. Ses där!
 
 Utöver vår Advent of Code-leaderboard håller LiTHe kod i en egen tävling. Vi
 använder en lite annorlunda sortering än den på Advent of Codes hemsida där vi i
@@ -21,7 +20,7 @@ för att även visa icke-tävlande. Om du tycker att du visst studerar på LiU m
 inte är med på listan får du gärna kontakta någon i styrelsen så löser vi det.
 (Du kan också kontakta oss om du inte vill vara med i tävlingen.)
 
-Priserna delas ut enligt följande efter tävlingens slut 2020-12-25 23:59.
+Priserna delas ut enligt följande efter tävlingens slut 2021-12-25 23:59.
 
 <ol start="0">
 <li>1500 SEK</li>
@@ -42,7 +41,6 @@ Priserna delas ut enligt följande efter tävlingens slut 2020-12-25 23:59.
 
 <hr>
 
-## Tävlingen är nu över
 <label class="toggle-aoc" for="aoc-trigger"><span class="only-aoc-some">Visa alla</span><span class="only-aoc-all">Visa tävlande</span></label>
 <div id="leaderboard-container">
     <span class="only-aoc-all">
@@ -57,4 +55,3 @@ Priserna delas ut enligt följande efter tävlingens slut 2020-12-25 23:59.
             src="https://lithekod.lysator.liu.se/leaderboard/?some=true"></iframe>
     </span>
 </div>
--->
