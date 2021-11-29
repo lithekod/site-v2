@@ -1,41 +1,17 @@
 # Advent of Code
 
-Advent of Code will return in December 2021. See you then!
-
-<!--
-<div id="important-information">
-    <p> Hello, this year's advent of code is now over! </p>
-
-<p>
-    We have raised 6380:- in total for covid-research and 6380:- to
-    the creator of Advent of Code!
-</p>
-
-<p>
-    Moreover, there are ten programmers that have won prizes! To claim your
-    prize, send an email to kassor@lithekod.se from your liu-mail containing a
-    screenshot of the settings tab found on the Advent of Code website. It is
-    important that you are logged into your account on this screenshot so we
-    can verify your identity.
-</p>
-
-<p>
-    The prizes are handed out as digital giftcards that can be
-    purchased and distributed online. Include, because of that, also what
-    website you want your giftcard to in the email.
-    Congratulations to everyone who won!
-</p>
-</div>
-
-Join our [leaderboard](https://adventofcode.com/2020/leaderboard)! The join code
-is <b style="font-family: monospace; font-size: 1.3em;">637041-f5ee40da</b>.
+Join our [leaderboard](https://adventofcode.com/2021/leaderboard)! The join code
+is <b style="font-family: monospace; font-size: 1.3em;">272152-8e06bd96</b>.
+Note that we have a new code this year so we can see who has joined the contest.
 
 Every december something amazing happens. Programmers voluntarily wake up at
 6.00am and solve small cozy problems in Advent of Code. Christmas is about
 giving gifts, that is why LiTHe kod is donating 20 sek for every solved
-problem. 10 sek to COVID-19 research and 10 sek to Advent of Code itself. There
-will of course be a kickoff for Advent of Code at the meetup the first of
-December! See you there!
+problem. 10 SEK to
+<b>INSERT NON-PROFIT HERE</b>
+
+and 10 SEK to Advent of Code itself. There will also be a small kick-off on the
+meetup on November 30th. See you there!
 
 In addition to our Advent of Code leaderboard, we also arrange our own
 competition. We use a sorting that's a little different to the one on Advent of
@@ -46,8 +22,8 @@ think that you should be on the competition list but aren't, please contact
 someone on the board and we'll take a look at it. (You can also contact us if
 you don't want to be on the competition list.)
 
-Prizes are dealt out according to the following when the competition ends
-2020-12-25 23.59.
+Prizes are dealt out according to the following when the competition ends at
+2021-12-25 23.59.
 
 <ol start="0">
 <li>1500 SEK</li>
@@ -69,7 +45,6 @@ Prizes are dealt out according to the following when the competition ends
 
 <hr>
 
-## Competition is now over
 <label class="toggle-aoc" for="aoc-trigger"><span class="only-aoc-some">Show all</span><span class="only-aoc-all">Show eligible</span></label>
 <div id="leaderboard-container">
     <span class="only-aoc-all">
@@ -84,4 +59,3 @@ Prizes are dealt out according to the following when the competition ends
             src="https://lithekod.lysator.liu.se/leaderboard/?some=true"></iframe>
     </span>
 </div>
--->
