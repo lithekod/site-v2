@@ -1,17 +1,28 @@
 # Advent of Code
 
-Join our [leaderboard](https://adventofcode.com/2021/leaderboard)! The join code
-is <b style="font-family: monospace; font-size: 1.3em;">272152-8e06bd96</b>.
-Note that we have a new code this year so we can see who has joined the contest.
-
 Every december something amazing happens. Programmers voluntarily wake up at
 6.00am and solve small cozy problems in Advent of Code. Christmas is about
-giving gifts, that is why LiTHe kod is donating 20 sek for every solved
-problem. 10 SEK to
-<b>INSERT NON-PROFIT HERE</b>
+giving gifts, that is why LiTHe kod is donating 20 sek for every solved problem.
+10 SEK to WHO's COVID-19 Solidarity Response Fund and 10 SEK to Advent of Code
+itself. There will also be a small kick-off on the meetup on November 30th. See
+you there!
 
-and 10 SEK to Advent of Code itself. There will also be a small kick-off on the
-meetup on November 30th. See you there!
+How to join our leaderboard and competition:
+
+1. Create a user on
+   [adventofcode.com](https://adventofcode.com/2021/auth/login). If you log in
+   with a Github account you can even showcase your nice solutions.
+2. Join our leaderboard by entering the code <b style="font-family: monospace;
+   font-size: 1.3em;">272152-8e06bd96</b> on [the leaderboard
+   page](https://adventofcode.com/2021/leaderboard/private).  Note that we have
+   a new code this year so we can see who has joined the contest.
+
+Advent of Code is a global advent calendar created by Eric Wastl. The problems
+start quite easy and get more and more difficult the closer they get to
+Christmas. We at LiTHe kod have created a private leaderboard which unlike the
+global leaderboard only contains students at LiU and other friends of LiTHe kod.
+(The global leaderboard is practically filled to the brim with professional
+competitive programmers.)
 
 In addition to our Advent of Code leaderboard, we also arrange our own
 competition. We use a sorting that's a little different to the one on Advent of
@@ -26,12 +37,17 @@ Prizes are dealt out according to the following when the competition ends at
 2021-12-25 23.59.
 
 <ol start="0">
-<li>1500 SEK</li>
-<li>1100 SEK</li>
+<li>1000 SEK</li>
 <li>750 SEK </li>
 <li>500 SEK </li>
 <li>500 SEK </li>
 <li>500 SEK </li>
+<li>500 SEK </li>
+<li>500 SEK </li>
+<li>250 SEK </li>
+<li>250 SEK </li>
+<li>250 SEK </li>
+<li>250 SEK </li>
 <li>250 SEK </li>
 <li>250 SEK </li>
 <li>250 SEK </li>
