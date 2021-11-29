@@ -1,16 +1,28 @@
 # Advent of Code
 
-Gå med i vår [leaderboard](https://adventofcode.com/2021/leaderboard)! Koden är
-<b style="font-family: monospace; font-size: 1.3em;">272152-8e06bd96</b>.
-Notera att det är en ny kod i år så att vi kan se vilka som är med och tävlar.
-
 Varje december så händer något fantastiskt. Programmerare vaknar frivilligt
 klockan 6:00 och löser mysiga små problem i Advent of Code. Julen handlar ju om
 gåvor, så därför kommer LiTHe kod att donera 20kr för varje löst deluppgift.
-10kr till
-<b>INSERT NON-PROFIT HERE</b>
-och 10kr till att stödja Advent of Code. Vi kommer också ha en liten kick-off
-på meetupen 30 november. Ses där!
+10kr till WHO:s COVID-19 Solidarity Response Fund och 10kr till att stödja
+Advent of Code. Vi kommer också ha en liten kick-off på meetupen 30 november.
+Ses där!
+
+Såhär går du med i vår leaderboard och tävling:
+
+1. Skapa en användare på
+   [adventofcode.com](https://adventofcode.com/2021/auth/login). Om du loggar in
+   med ett Github-konto kan du till och med visa upp dina fina lösningar.
+2. Gå med i vår leaderboard genom att skriva in koden <b style="font-family:
+   monospace; font-size: 1.3em;">272152-8e06bd96</b> på
+   [leaderboard-sidan](https://adventofcode.com/2021/leaderboard/private).
+   Notera att det är en ny kod i år så att vi kan se vilka som är med och
+   tävlar.
+
+Advent of Code är en global adventskalender som skapats av Eric Wastl. Problemen
+är ganska enkla i början och blir svårare och svårare närmare julen. LiTHe kod
+har en privat leaderboard som till skillnad från den globala leaderborden bara
+innehåller LiU-studenter och andra av LiTHe kods kompisar. (Den globala leaderboarden
+är i princip enbart fylld med professionella tävlingsprogrammerare.)
 
 Utöver vår Advent of Code-leaderboard håller LiTHe kod i en egen tävling. Vi
 använder en lite annorlunda sortering än den på Advent of Codes hemsida där vi i
@@ -23,12 +35,17 @@ inte är med på listan får du gärna kontakta någon i styrelsen så löser vi
 Priserna delas ut enligt följande efter tävlingens slut 2021-12-25 23:59.
 
 <ol start="0">
-<li>1500 SEK</li>
-<li>1100 SEK</li>
+<li>1000 SEK</li>
 <li>750 SEK </li>
 <li>500 SEK </li>
 <li>500 SEK </li>
 <li>500 SEK </li>
+<li>500 SEK </li>
+<li>500 SEK </li>
+<li>250 SEK </li>
+<li>250 SEK </li>
+<li>250 SEK </li>
+<li>250 SEK </li>
 <li>250 SEK </li>
 <li>250 SEK </li>
 <li>250 SEK </li>
