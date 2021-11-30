@@ -6,7 +6,7 @@
 # Global Game Jam 2022
 *28:e januari – 30:e januari*
 
-Mera info kommer.
+Mer info kommer.
 
 ---
 
