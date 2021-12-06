@@ -713,7 +713,7 @@ img.sponsor {
 /* Advent of Code leaderboard */
 .leaderboard {
     border: none;
-    height: 80em;
+    height: 100em;
 }
 
 #leaderboard-container {
