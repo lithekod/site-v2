@@ -714,6 +714,7 @@ img.sponsor {
 .leaderboard {
     border: none;
     height: 100em;
+    width: 100%;
 }
 
 #leaderboard-container {
