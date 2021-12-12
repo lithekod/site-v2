@@ -8,14 +8,7 @@ Vi grundades hösten 2013 för att anordna kodstugor där studenter kunde träff
 prata och hjälpa varandra med allt kodrelaterat. Vi har sedan dess fortsatt att
 utvecklas och arrangerar idag en rad olika typer av aktiviteter såsom
 studiebesök, workshops, föreläsningar, Game Jams och programmeringstävlingar.
-Kodstugorna har övergått till meetups som vi har varje tisdag klockan 17. <a
-href="http://lithehack.se/">Lithehack</a>, som vanligtvis befinner sig på Campus
-Norrköping, håller för tillfället till online för mer "traditionella" kodstugor.
-
-Under coronapandemin skaffade vi oss <a href="https://discord.gg/UG5YYsN">en
-helt egen Discordserver</a>. Kom förbi och säg hej! Numera har vi gått tillbaka
-till campus-meetups men om världssituationen ändras drastiskt kommer vi ha
-meetups i Discord.
+Kodstugorna har övergått till meetups som vi har varje tisdag klockan 17.
 
 <div id="introduction">
     <div class="intro-card">
@@ -23,8 +16,7 @@ meetups i Discord.
         <i class="symbol fas fa-mug-hot"></i>
         <p>
             Klockan 17 varje tisdag träffas vi i Café Java för att prata om allt
-            relaterat till programmering. Vi hoppas att kunna forsätta träffas
-            på campus under hösten.
+            relaterat till programmering.
         </p>
     </div>
     <div class="intro-card">
@@ -51,6 +43,11 @@ Läs gärna mer om några av de olika evenemang som vi anordnar:
 
 -   [IDA-Mästerskapet i Programmering och Algoritmer (IMPA)](https://www.ida.liu.se/projects/impa/new/)
 -   [LiU Game Jam](https://lithekod.se/gamejam/se/)
+
+LiTHe kod har även en systerförening som heter <a
+href="http://lithehack.se/">LiTHehack</a> för de som befinner sig på Campus
+Norrköping. De är anställda av universitet och ordnar mer "traditionella"
+kodstugor.
 
 # Är du student?
 
