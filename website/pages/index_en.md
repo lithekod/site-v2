@@ -5,7 +5,7 @@ is to promote and inspire the interest for programming,
 software engineering and everything related.
 
 We were founded in the fall of 2013 to organize code meetups where students
-could meet, talk and help each other with everything code related.  We have
+could meet, talk and help each other with everything code related. We have
 since continued to develop and we now arrange several types of activities such
 as study visits, workshops, lectures, Game Jams, programming competitions and of
 course code meetups every Tuesday at 5 pm. <a
@@ -49,8 +49,8 @@ changes drastically we'll go back to Discord.
 
 Here are some links to events we arrange:
 
-* [IDA-Competition in Programming och Algorithms (IMPA)](https://www.ida.liu.se/projects/impa/new/)
-* [LiU Game Jam](https://lithekod.se/gamejam/en/)
+-   [IDA-Competition in Programming och Algorithms (IMPA)](https://www.ida.liu.se/projects/impa/new/)
+-   [LiU Game Jam](https://lithekod.se/gamejam/en/)
 
 # Are you a student?
 

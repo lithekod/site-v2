@@ -6,7 +6,8 @@
 <img src="/static/img/gamejam/banner-ggj22.png" alt="Global Game Jam 2022" id="gamejam-banner">
 
 # Global Game Jam 2022
-*28th January – 30th January*
+
+_28th January – 30th January_
 
 Get ready for this year's edition of Global Game Jam!
 Since COVID-19 is once again wreaking havoc in Sweden, we are hosting this jam remotely in our [Discord server](https://discord.gg/tP2kDvgQKn).
@@ -55,13 +56,14 @@ create games; both computer games and board games. At our game jam there is a
 48 hours time limit and a randomized theme for inspiration.
 
 # Other channels
+
 Follow LiU Game Jam on the following channels.
 
-- [Discord server](https://discord.gg/eHgXYMS)
-- [Facebook page](https://www.facebook.com/liugamejam/) 
-- [Twitter](https://twitter.com/LiuGameJam)
-- [Newsletter](http://us12.campaign-archive2.com/home/?u=092a6fffba8f6063437a51495&id=c3863c4bf5)
-- [Itch.io game archive](https://itch.io/c/64050/liu-game-jam)
+-   [Discord server](https://discord.gg/eHgXYMS)
+-   [Facebook page](https://www.facebook.com/liugamejam/)
+-   [Twitter](https://twitter.com/LiuGameJam)
+-   [Newsletter](http://us12.campaign-archive2.com/home/?u=092a6fffba8f6063437a51495&id=c3863c4bf5)
+-   [Itch.io game archive](https://itch.io/c/64050/liu-game-jam)
 
 # FAQ
 

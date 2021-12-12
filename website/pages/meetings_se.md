@@ -14,18 +14,19 @@ Höstmötet kommer att hållas tisdag 16:e november kl 18.15 i Ada
 Lovelace i B-huset. Samtliga medlemmar får närvara med rösträtt.
 Nedan följer mötets föredragningslista.
 
-- Val av mötesordförande
-- Val av mötessekreterare
-- Val av justeringsperson tillika rösträknare
-- Fastställande av röstlängden
-- Beslut om mötets stadgeenliga utlysande
-- Föregående verksamhetsårs styrelses verksamhetsberättelse
-- Föregående verksamhetsårs styrelses ekomomiska berättelse
-- Revisorns granskning av föregående verksamhetsårs styrelses arbete
-- Beslut om ansvarsfrihet av föregående verksamhetsårs styrelse
-- Motioner och propositioner
-- Stadgeändring om protokollföring för att efterleva GDPR
-- Övriga frågor
+-   Val av mötesordförande
+-   Val av mötessekreterare
+-   Val av justeringsperson tillika rösträknare
+-   Fastställande av röstlängden
+-   Beslut om mötets stadgeenliga utlysande
+-   Föregående verksamhetsårs styrelses verksamhetsberättelse
+-   Föregående verksamhetsårs styrelses ekomomiska berättelse
+-   Revisorns granskning av föregående verksamhetsårs styrelses arbete
+-   Beslut om ansvarsfrihet av föregående verksamhetsårs styrelse
+-   Motioner och propositioner
+-   Stadgeändring om protokollföring för att efterleva GDPR
+-   Övriga frågor
 
 ###### Preliminärt: 2021-10-13
+
 ###### Fastställt: 2021-11-09

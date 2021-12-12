@@ -80,6 +80,7 @@ Priserna delas ut enligt följande efter tävlingens slut 2021-12-25 23:59.
 <hr>
 
 <label class="toggle-aoc" for="aoc-trigger"><span class="only-aoc-some">Visa alla</span><span class="only-aoc-all">Visa tävlande</span></label>
+
 <div id="leaderboard-container">
     <span class="only-aoc-all">
     <iframe class="only-light-theme leaderboard"
