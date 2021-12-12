@@ -8,13 +8,7 @@ We were founded in the fall of 2013 to organize code meetups where students
 could meet, talk and help each other with everything code related. We have
 since continued to develop and we now arrange several types of activities such
 as study visits, workshops, lectures, Game Jams, programming competitions and of
-course code meetups every Tuesday at 5 pm. <a
-href="http://lithehack.se/">Lithehack</a>, usually located on Campus Norrköping,
-can for the time being be found online for more "traditional" coding help (kodstugor).
-
-During the Corona pandemic we got ourselves our very own Discord server. Stop by
-and say hi! We've now returned to campus meetups but if the world situation
-changes drastically we'll go back to Discord.
+course code meetups every Tuesday at 5 pm.
 
 <div id="introduction">
     <div class="intro-card">
@@ -22,8 +16,7 @@ changes drastically we'll go back to Discord.
         <i class="symbol fas fa-mug-hot"></i>
         <p>
             At 5pm every Tuesday we meet in Café Java to discuss everything
-            related to programming. We hope to continue to meet on campus during
-            the fall.
+            related to programming.
         </p>
     </div>
     <div class="intro-card">
@@ -51,6 +44,10 @@ Here are some links to events we arrange:
 
 -   [IDA-Competition in Programming och Algorithms (IMPA)](https://www.ida.liu.se/projects/impa/new/)
 -   [LiU Game Jam](https://lithekod.se/gamejam/en/)
+
+LiTHe kod has a related organization called <a href="http://lithehack.se/">LiTHehack</a>
+for students at Campus Norrköping. They are employed by the university and
+arrange more "traditional" coding help (kodstugor).
 
 # Are you a student?
 
