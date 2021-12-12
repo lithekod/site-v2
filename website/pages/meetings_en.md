@@ -14,18 +14,19 @@ The fall meeting will be held Tuesday 16th of November at 6:15pm in
 Ada Lovelace in the B house. All members may participate and vote. Below is the
 agenda for the meeting.
 
-- Election of meeting chairman
-- Election of meeting secretary
-- Choice of adjuster as well as counters
-- Determining the voting list
-- Resolution on the meeting's statutory announcement
-- Previous boards' report of the previous financial year
-- Financial report of the board for the previous financial year
-- The auditor's review of the previous financial year's board work
-- Decision on discharge from liability of the board of the previous financial year
-- Motions and bills
-- Change in the bylaws regarding protocols to comply with GDPR
-- Other questions
+-   Election of meeting chairman
+-   Election of meeting secretary
+-   Choice of adjuster as well as counters
+-   Determining the voting list
+-   Resolution on the meeting's statutory announcement
+-   Previous boards' report of the previous financial year
+-   Financial report of the board for the previous financial year
+-   The auditor's review of the previous financial year's board work
+-   Decision on discharge from liability of the board of the previous financial year
+-   Motions and bills
+-   Change in the bylaws regarding protocols to comply with GDPR
+-   Other questions
 
 ###### Preliminary: 2021-10-13
+
 ###### Established: 2021-11-09

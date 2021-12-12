@@ -4,7 +4,8 @@
 </div>
 
 # Global Game Jam 2022
-*28:e januari – 30:e januari*
+
+_28:e januari – 30:e januari_
 
 Mer info kommer.
 
@@ -21,12 +22,11 @@ spel på!
 
 LiU Game Jam kan följas i dessa kanaler.
 
-- [Discord](https://discord.gg/eHgXYMS)
-- [Facebook](https://www.facebook.com/liugamejam/)
-- [Twitter](https://twitter.com/LiuGameJam)
-- [Nyhetsbrev](http://us12.campaign-archive2.com/home/?u=092a6fffba8f6063437a51495&id=c3863c4bf5)
-- [Spelarkiv på Itch.io](https://itch.io/c/64050/liu-game-jam)
-
+-   [Discord](https://discord.gg/eHgXYMS)
+-   [Facebook](https://www.facebook.com/liugamejam/)
+-   [Twitter](https://twitter.com/LiuGameJam)
+-   [Nyhetsbrev](http://us12.campaign-archive2.com/home/?u=092a6fffba8f6063437a51495&id=c3863c4bf5)
+-   [Spelarkiv på Itch.io](https://itch.io/c/64050/liu-game-jam)
 
 # FAQ
 

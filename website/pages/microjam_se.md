@@ -14,4 +14,3 @@ om du föredrar det. Dokumentationen hittar du [här](/snake-ribs/)
 
 Jammet hålls lördagen den 3:e oktober 2020 kl 15-20 i salarna U3, U4, U6 och U7
 i C-huset på campus valla.
-

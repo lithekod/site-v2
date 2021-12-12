@@ -14,7 +14,7 @@ How to join our leaderboard and competition:
    with a Github account you can even showcase your nice solutions.
 2. Join our leaderboard by entering the code <b style="font-family: monospace;
    font-size: 1.3em;">272152-8e06bd96</b> on [the leaderboard
-   page](https://adventofcode.com/2021/leaderboard/private).  Note that we have
+   page](https://adventofcode.com/2021/leaderboard/private). Note that we have
    a new code this year so we can see who has joined the contest.
 
 Advent of Code is a global advent calendar created by Eric Wastl. The problems
@@ -54,7 +54,6 @@ Prizes are dealt out according to the following when the competition ends at
 <li>250 SEK </li>
 </ol>
 
-
 <div id="sponsor-container">
     <img class="sponsor" src="/static/img/mindroad_logo.png" alt="Mindroad">
 </div>
@@ -62,6 +61,7 @@ Prizes are dealt out according to the following when the competition ends at
 <hr>
 
 <label class="toggle-aoc" for="aoc-trigger"><span class="only-aoc-some">Show all</span><span class="only-aoc-all">Show eligible</span></label>
+
 <div id="leaderboard-container">
     <span class="only-aoc-all">
     <iframe class="only-light-theme leaderboard"
