@@ -1,5 +1,26 @@
 # Advent of Code
 
+<div id="important-information">
+    <p>
+        Hej, nu har årets advent of code tagit slut. Vi har sammanlagt donerat
+        9450:- till covid-solidarity-fund och 9450:- skaparen till advent of
+        code! Utöver detta har vi även femton programmerare som vunnit priser!
+        För att hämta ut ditt pris om du är en av dessa (du är en av vinnarna
+        om du står på någon av platserna 0-14) så måste du skicka ett mail till
+        kassor@lithekod.se från din liu-mail som innehåller en screenshot på
+        settings-tabben funnen på advent of codes hemsida. Det är viktigt att
+        du är inloggad på ditt konto på advent of code på denna screenshoten så
+        att vi kan verifiera din identitet. Priserna delas ut i form av
+        digitala presentkort som ska kunna köpas och distribueras digitalt.
+        Inkludera därför även vilken hemsida du vill ha presentkort på i
+        mailet. Grattis till alla som vunnit!
+    <p>
+    </p>
+        Deadline (2022-01-26): Priser som inte hämtats innan denna deadline
+        kommer doneras till skaparen till advent of code.
+    <p>
+</div>
+
 Varje december så händer något fantastiskt. Programmerare vaknar frivilligt
 klockan 6:00 och löser mysiga små problem i Advent of Code. Julen handlar ju om
 gåvor, så därför kommer LiTHe kod att donera 20kr för varje löst deluppgift.
