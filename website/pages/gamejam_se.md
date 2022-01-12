@@ -3,10 +3,48 @@
   <h1>LiU Game Jam</h1>
 </div>
 
+<img src="/static/img/gamejam/banner-ggj22.png" alt="Global Game Jam 2022" id="gamejam-banner">
+
 # Global Game Jam 2022
 *28:e januari – 30:e januari*
 
-Mer info kommer.
+Gör er redo för årets upplaga av Global Game Jam!
+Eftersom COVID-19 åter igen orsakar förödelse i Sverige har vi jammet på distans i vår [Discord-server](https://discord.gg/tP2kDvgQKn).
+
+**För att delta**
+
+1. Gå med i vår Discord-server där jammet kommer hållas: [Discord-inbjudan](https://discord.gg/eHgXYMS)
+2. Gå med på vår Global Game Jam-site där du kommer ladda upp det färdiga spelet: [Global Game Jam-site](https://globalgamejam.org/2022/jam-sites/liu-game-jam)
+3. (Valfritt) Gå med i jammet på itch.io där du också gärna får ladda upp det färdiga spelet så att det blir mer lättillgängligt och kan läggas till i vårt spelarkiv: [Itch.io-jam](https://itch.io/jam/global-game-jam-linkping-2022)
+4. (Valfritt) Gå med i vårt evenemang på Facebook: [Facebook-evenemang](https://www.facebook.com/events/592287468735232)
+
+<h4 class="highlight">Schema för Global Game Jam 2022</h4>
+
+**Fredag 28:e januari**
+
+Alla tider är givna i centraleuropeisk tid (CET) d.v.s. UTC+1 och alla schemalagda evenemang hålls i vår Discord-server.
+
+- 17:30
+    - Före-jam-häng och stream med Global Game Jams keynote-video.
+- 18:00
+    - Officiell start för jammet.
+    - Introduktionsstream.
+    - Brainstorming tillsammans med övriga jammare.
+    - Gruppbildning.
+
+**Lördag 29:e januari**
+
+- 18:00
+    - Halvtidsredovisning.
+- 23:00
+    - Natt-häng med aktiviteter och partyspel.
+
+**Söndag 30:e januari**
+
+- 18:00
+    - Avslutningsstream.
+    - Inlämningsdeadline för spel på Itch.io och Global Game Jams sida.
+    - Speltestning tillsammans med övriga jammare.
 
 ---
 

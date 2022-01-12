@@ -3,10 +3,48 @@
   <h1>LiU Game Jam</h1>
 </div>
 
+<img src="/static/img/gamejam/banner-ggj22.png" alt="Global Game Jam 2022" id="gamejam-banner">
+
 # Global Game Jam 2022
 *28th January – 30th January*
 
-More information will come!
+Get ready for this year's edition of Global Game Jam!
+Since COVID-19 is once again wreaking havoc in Sweden, we are hosting this jam remotely in our [Discord server](https://discord.gg/tP2kDvgQKn).
+
+**To participate**
+
+1. Join our Discord where the jam will be held: [Discord invite](https://discord.gg/eHgXYMS)
+2. Join our Global Game Jam site where you will upload the resulting game: [Global Game Jam site](https://globalgamejam.org/2022/jam-sites/liu-game-jam)
+3. (Optional) Join the itch.io jam page where we would like for you to upload the resulting game too, so it is more accesible and can be added to our game archive: [Itch.io jam](https://itch.io/jam/global-game-jam-linkping-2022)
+4. (Optional) Join the Facebook event: [Facebook event](https://www.facebook.com/events/592287468735232)
+
+<h4 class="highlight">Global Game Jam 2022 schedule</h4>
+
+**Friday January 28th**
+
+All times are given in Central European Time (CET) i.e. UTC+1 and all scheduled events are held in our Discord server.
+
+- 17:30
+    - Pre-jam chill and Global Game Jam keynote stream.
+- 18:00
+    - Official start of event.
+    - Introduction stream.
+    - Brainstorming together with other jammers.
+    - Team forming.
+
+**Saturday January 29th**
+
+- 18:00
+    - Half-time review.
+- 23:00
+    - Night-chill activities and party games.
+
+**Sunday January 30st**
+
+- 18:00
+    - Ending stream.
+    - Deadline for uploading games to Itch.io and Global Game Jam's website.
+    - Playtesting together with other jammers.
 
 ---
 
