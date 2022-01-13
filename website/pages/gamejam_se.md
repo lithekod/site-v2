@@ -36,7 +36,7 @@ Alla tider är givna i centraleuropeisk tid (CET) d.v.s. UTC+1 och alla schemala
 
 - 18:00
     - Halvtidsredovisning.
-- 23:00
+- 22:00
     - Natt-häng med aktiviteter och partyspel.
 
 **Söndag 30:e januari**
