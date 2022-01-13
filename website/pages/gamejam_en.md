@@ -36,7 +36,7 @@ All times are given in Central European Time (CET) i.e. UTC+1 and all scheduled 
 
 - 18:00
     - Half-time review.
-- 23:00
+- 22:00
     - Night-chill activities and party games.
 
 **Sunday January 30st**
