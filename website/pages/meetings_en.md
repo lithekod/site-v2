@@ -8,11 +8,16 @@ auditor's review followed by a decision on discharge from liability ("beslut om
 ansvarsfrihet"). During the spring meeting the next financial year's board is
 voted on.
 
-## Fall meeting 2021
+## Extra "Stormöte" 2022
 
-The fall meeting will be held Tuesday 16th of November at 6:15pm in
-Ada Lovelace in the B house. All members may participate and vote. Below is the
+Extrainsatt Stormöte kommer att hållas tisdag 22:e februari kl 18.15 i nära anslutning till
+cafe Java i B-huset alternativt zoom om nöden kräver. Samtliga medlemmar får närvara med rösträtt.
+Nedan följer mötets föredragningslista.
+
+Extra "Stormöte" will be held Tuesday 22nd of November at 6:15 pm in proximity to
+cafe Java in the B house. All members may participate and vote. Below is the
 agenda for the meeting.
+
 
 -   Election of meeting chairman
 -   Election of meeting secretary
@@ -27,6 +32,13 @@ agenda for the meeting.
 -   Change in the bylaws regarding protocols to comply with GDPR
 -   Other questions
 
-###### Preliminary: 2021-10-13
+###### Preliminary: 2022-01-20
 
-###### Established: 2021-11-09
+- Election of meeting chairman
+- Election of meeting secretary
+- Choice of adjuster as well as counters
+- Determining the voting list
+- Resolution on the meeting's statutory announcement
+- Motions and bills
+  - Motion: Elect new board member for the PR role
+- Other questions
