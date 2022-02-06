@@ -130,6 +130,8 @@ pages = [
     ("/microjam/", "website/pages/microjam_{}.md"),
     ("/meetings/", "website/pages/meetings_{}.md"),
     ("/git/", "website/pages/git_{}.md"),
+
+    ("/lodol/", "website/pages/lodol_{}.md"),
 ]
 
 for url, md_file in pages:
