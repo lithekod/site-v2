@@ -8,4 +8,4 @@ Lödölen hålls i samarbete med MindRoad som står för både hårdvara och kom
 på plats. Självfallet kommer dom finnas tillgängliga på plats för frågor om
 sommarjobb och andra möjligheter.
 
-Anmälningsformuläret nås via följande länk: https://forms.gle/XxZNf7swQgnUYPhQ8.
+[Anmälningsformulär](https://forms.gle/XxZNf7swQgnUYPhQ8)
