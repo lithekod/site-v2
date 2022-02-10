@@ -9,4 +9,4 @@ The Lödöl is held in collaboration with MindRoad who will supply both hardware
 and know-how on site. They will also be avaiable for questions about sommarjobb
 and other opportunities.
 
-The sign-up form will be avaiable at this URL shortly, so stay tuned!
+[Sign-up form](https://forms.gle/XxZNf7swQgnUYPhQ8)
