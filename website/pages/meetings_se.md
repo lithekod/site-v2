@@ -25,4 +25,4 @@ Nedan följer mötets föredragningslista.
 
 
 ###### Preliminärt: 2022-01-20
-###### Fastställt: 2022-02-15
+###### Fastställt: 2022-02-16

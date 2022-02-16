@@ -25,5 +25,4 @@ agenda for the meeting.
 - Other questions
 
 ###### Preliminary: 2022-01-20
-###### Confirmed: 2022-02-15
-
+###### Confirmed: 2022-02-16
