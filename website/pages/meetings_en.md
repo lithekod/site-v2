@@ -10,8 +10,8 @@ voted on.
 
 ## Extra "stormöte" 2022
 
-Extra "stormöte" will be held Tuesday 22nd of November at 6:15 pm in proximity to
-cafe Java in the B house or alternatively in Discord. All members may participate and vote. Below is the
+Extra "stormöte" will be held Tuesday 22nd of February at 6:15 pm in proximity to
+Cafe Java in the B house or alternatively in Discord. All members may participate and vote. Below is the
 agenda for the meeting.
 
 
@@ -25,4 +25,5 @@ agenda for the meeting.
 - Other questions
 
 ###### Preliminary: 2022-01-20
+###### Confirmed: 2022-02-15
 
