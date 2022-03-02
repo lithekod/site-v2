@@ -61,8 +61,8 @@ We have meetups **every** Tuesday in Café Java at 17.15. Swing by for some free
 </div>
 
 <div class="profile-card">
-    <img src="/static/img/kodapa-profile-picture.png" alt="Kodapan">
-    <h2>Vakantsatt</h2>
+    <img src="/static/img/board-21-22/henry.png" alt="Henry">
+    <h2>Henry Andersson</h2>
     <p class="profile-card-sub">PR - <a href="mailto:pr@lithekod.se">pr@lithekod.se</a></p>
 </div></div>
 
