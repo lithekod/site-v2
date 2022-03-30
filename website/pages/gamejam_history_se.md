@@ -15,6 +15,10 @@ Du kan också läsa våra [gamla nyhetsbrev](http://us12.campaign-archive2.com/h
 
 Nedan listas samtliga jam vi har arrangerat tillsammans med deras tema(n) och relevanta länkar i de fall då dessa finns att tillgå:
 
+### 2022
+
+-   Global Game Jam Linköping 2022 - _"Duality"_ - [Itch.io](https://itch.io/jam/global-game-jam-linkping-2022), [Global Game Jam](https://globalgamejam.org/2022/jam-sites/liu-game-jam), [Intro](https://www.youtube.com/watch?v=TfqLkhcl_4I), [Presentation](https://www.youtube.com/watch?v=pB0z86u8D-s)
+
 ### 2021
 
 -   Fall Game Jam 2021 - _"Dragon Egg", "Cute Sandwich", "Constructive Bombs"_ - [Itch.io](https://itch.io/jam/liu-fall-game-jam-2021), [Intro](https://docs.google.com/presentation/d/e/2PACX-1vSMsd02sIr97sLytGm9vdSH1lkK1jzBug3eQ1KSDuhNWkpiWBe8grH3vuYRoHneOP34hnud-uXhwrDF/pub?start=false&loop=false&delayms=3000), [Halvtidsredovisning](https://docs.google.com/presentation/d/e/2PACX-1vTkudkXWGC4XbxbzKGACQH6mS6Lmk-nMogFAgHQcE81RuxXydJBa-siG0KGW4Gnhtc104OC7s0vmkYI/pub?start=false&loop=false&delayms=5000), [Presentation](https://docs.google.com/presentation/d/e/2PACX-1vQPeahI0YlsJIW31L3H5CIN9pAom19ZaW_ivshDXmIuvZjkq06WeY-IvHwtHQx0HTU7Afk9dhBWQ7Vj/pub?start=false&loop=false&delayms=3000)
