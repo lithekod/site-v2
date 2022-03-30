@@ -3,49 +3,67 @@
   <h1>LiU Game Jam</h1>
 </div>
 
-<img src="/static/img/gamejam/banner-ggj22.png" alt="Global Game Jam 2022" id="gamejam-banner">
 
-# Global Game Jam 2022
+# Spring Game Jam 2022
+*18:00 20th May  – 18:00 22th May*
 
-_28th January – 30th January_
+Join us and build kickass games together during one weekend. This time IN REAL LIFE!
 
-Get ready for this year's edition of Global Game Jam!
-Since COVID-19 is once again wreaking havoc in Sweden, we are hosting this jam remotely in our [Discord server](https://discord.gg/tP2kDvgQKn).
+### Location
+The game jam will take place on site at [Spektrum, Ebbepark](https://sanktkors.se/lediga-lokaler/linkoping/ebbepark/spektrum/) in Linköping in Sweden. The location has Wi-Fi but no physical network outlets.
 
-**To participate**
+### How to participate
 
-1. Join our Discord where the jam will be held: [Discord invite](https://discord.gg/eHgXYMS)
-2. Join our Global Game Jam site where you will upload the resulting game: [Global Game Jam site](https://globalgamejam.org/2022/jam-sites/liu-game-jam)
-3. (Optional) Join the itch.io jam page where we would like for you to upload the resulting game too, so it is more accesible and can be added to our game archive: [Itch.io jam](https://itch.io/jam/global-game-jam-linkping-2022)
-4. (Optional) Join the Facebook event: [Facebook event](https://www.facebook.com/events/592287468735232)
+In order to participate in the jam do the following:
 
-<h4 class="highlight">Global Game Jam 2022 schedule</h4>
+1. Join our Discord to get announcements during the jam: [Discord invite](https://discord.gg/eHgXYMS)
+2. Join the itch.io jam page where you will upload the result: [Itch.io jam](https://itch.io/jam/spring-game-jam-2022)
+3. (Optional) Join the Facebook event: [Facebook event](https://www.facebook.com/events/1030396497854020/)
+<br/>*This helps us approximate the number of attending jammers for better planning.*
+4. Show up at Spektrum at 18:00 20th May.
+Bring the equipment you need in order to create games: laptop and peripherals, or physical game components.
 
-**Friday January 28th**
+### Schedule
+**Friday 20th**
 
-All times are given in Central European Time (CET) i.e. UTC+1 and all scheduled events are held in our Discord server.
+- 18:00 Introduction
+    - Joint pizza order
+    - Theme generation
+    - Brainstorming
+    - Group forming
 
-- 17:30
-    - Pre-jam chill and Global Game Jam keynote stream.
-- 18:00
-    - Official start of event.
-    - Introduction stream.
-    - Brainstorming together with other jammers.
-    - Team forming.
+**Saturday 21th**
 
-**Saturday January 29th**
+- 09:00 Spektrum opens
+    - Breakfast (free)
+- 17:00 Joint Chinese buffet order deadline
+- Around 19:00 when Chinese food arrives
+    - Buffet time!
+    - Half time review
 
-- 18:00
-    - Half-time review.
-- 22:00
-    - Night-chill activities and party games.
+**Sunday 22th**
 
-**Sunday January 30st**
+- 09:00 Spektrum opens
+    - Breakfast (free)
+- 12:00 Joint sushi order deadline
+- 17:00 Game creation deadline
+    - Resulting games should be uploaded to itch.io
+    - Jammers should have cleaned their tables
+    - Final review
+    - Showcasing and playing each other's games
+- 18:00 End of event
 
-- 18:00
-    - Ending stream.
-    - Deadline for uploading games to Itch.io and Global Game Jam's website.
-    - Playtesting together with other jammers.
+### Themes
+
+The themes are generated at the start of the jam by taking random pairs of words submitted by participants.
+
+Theme word rules:
+
+- Should only be one English word.
+- Should not be a game genre (e.g. FPS, RTS).
+- Keep it safe for work. 
+
+Our theme process ensures unique and challenging themes each jam. The themes are there for inspiration during brainstorming but you can pick something else as well.
 
 ---
 
@@ -56,14 +74,13 @@ create games; both computer games and board games. At our game jam there is a
 48 hours time limit and a randomized theme for inspiration.
 
 # Other channels
-
 Follow LiU Game Jam on the following channels.
 
--   [Discord server](https://discord.gg/eHgXYMS)
--   [Facebook page](https://www.facebook.com/liugamejam/)
--   [Twitter](https://twitter.com/LiuGameJam)
--   [Newsletter](http://us12.campaign-archive2.com/home/?u=092a6fffba8f6063437a51495&id=c3863c4bf5)
--   [Itch.io game archive](https://itch.io/c/64050/liu-game-jam)
+- [Discord server](https://discord.gg/eHgXYMS)
+- [Facebook page](https://www.facebook.com/liugamejam/) 
+- [Twitter](https://twitter.com/LiuGameJam)
+- [Newsletter](http://us12.campaign-archive2.com/home/?u=092a6fffba8f6063437a51495&id=c3863c4bf5)
+- [Itch.io game archive](https://itch.io/c/64050/liu-game-jam)
 
 # FAQ
 
