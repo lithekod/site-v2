@@ -3,49 +3,65 @@
   <h1>LiU Game Jam</h1>
 </div>
 
-<img src="/static/img/gamejam/banner-ggj22.png" alt="Global Game Jam 2022" id="gamejam-banner">
+# Spring Game Jam 2022
+*18:00 20:e maj – 18:00 22:e maj*
 
-# Global Game Jam 2022
+Bygg spel ifrån grunden tillsammans under en helg.
 
-_28:e januari – 30:e januari_
+### Lokal
+Game-jammet kommer vara på [Spektrum, Ebbepark](https://sanktkors.se/lediga-lokaler/linkoping/ebbepark/spektrum/) i Linköping. Lokalen har Wi-Fi men inga fysiska nätverksuttag.
 
-Gör er redo för årets upplaga av Global Game Jam!
-Eftersom COVID-19 åter igen orsakar förödelse i Sverige har vi jammet på distans i vår [Discord-server](https://discord.gg/tP2kDvgQKn).
+### Delta
 
-**För att delta**
+Gör följande för att delta på eventet:
 
-1. Gå med i vår Discord-server där jammet kommer hållas: [Discord-inbjudan](https://discord.gg/eHgXYMS)
-2. Gå med på vår Global Game Jam-site där du kommer ladda upp det färdiga spelet: [Global Game Jam-site](https://globalgamejam.org/2022/jam-sites/liu-game-jam)
-3. (Valfritt) Gå med i jammet på itch.io där du också gärna får ladda upp det färdiga spelet så att det blir mer lättillgängligt och kan läggas till i vårt spelarkiv: [Itch.io-jam](https://itch.io/jam/global-game-jam-linkping-2022)
-4. (Valfritt) Gå med i vårt evenemang på Facebook: [Facebook-evenemang](https://www.facebook.com/events/592287468735232)
+1. Gå med i [vår Discord-server](https://discord.gg/eHgXYMS) för att få ny information under jammet.
+2. Gå med på [Itch.io-sidan](https://itch.io/jam/spring-game-jam-2022) där vi kommer ladda upp resultatet.
+3. (Frivilligt) Gå med i [Facebook-evenemanget](https://www.facebook.com/events/1030396497854020/).
+<br/>*Det hjälper oss att uppskatta hur många som kommer delta, för att kunna planera jammet bättre.*
+4. Kom till Spektrum klockan 18:00 fredagen den 20:e maj. Ta med det du behöver för att bygga spel; laptop eller fysiska spelkomponenter.
 
-<h4 class="highlight">Schema för Global Game Jam 2022</h4>
+### Schema
+**Fredagen den 20:e maj**
 
-**Fredag 28:e januari**
+- 18:00 Introduktion
+    - Gemensam pizza-beställning
+    - Temaskapande
+    - Brainstorming
+    - Gruppskapande
 
-Alla tider är givna i centraleuropeisk tid (CET) d.v.s. UTC+1 och alla schemalagda evenemang hålls i vår Discord-server.
+**Lördagen den 21:a maj**
 
-- 17:30
-    - Före-jam-häng och stream med Global Game Jams keynote-video.
-- 18:00
-    - Officiell start för jammet.
-    - Introduktionsstream.
-    - Brainstorming tillsammans med övriga jammare.
-    - Gruppbildning.
+- 09:00 Spektrum öppnar
+    - Frukost (gratis)
+- 17:00 Gemensam kinabuffé-beställning (deadline)
+- Runt 19:00 när kinamaten kommer
+    - Buffé 
+    - Halvtidsredovisning
 
-**Lördag 29:e januari**
+**Söndagen den 22:e maj**
 
-- 18:00
-    - Halvtidsredovisning.
-- 22:00
-    - Natt-häng med aktiviteter och partyspel.
+- 09:00 Spektrum öppnar
+    - Frukost (gratis)
+- 12:00 Gemensam sushi-beställning (deadline)
+- 17:00 Game Jam-deadline
+    - Spelen ska vara uppladdade till itch.io
+    - Deltagare ska ha städat sina bord och sin omgivning
+    - Slutredovisning
+    - Uppvisning och speltestning av varandras spel
+- 18:00 Evenemanget avslutas
 
-**Söndag 30:e januari**
+### Teman
 
-- 18:00
-    - Avslutningsstream.
-    - Inlämningsdeadline för spel på Itch.io och Global Game Jams sida.
-    - Speltestning tillsammans med övriga jammare.
+Teman för eventet skapas under introduktionen genom att para ihop ord som lämnats in av deltagarna.
+
+Regler för tema-ord:
+
+- Ska bara vara ett enda engelskt ord.
+- Ska inte vara en spelgenre (ex. FPS, RTS).
+- Undvik osedligt innehåll. (Ska vara safe for work)
+
+Vår temaprocess skapar unika och utmanande teman varje jam. De finns som inspiration under brainstormsessionen, men du kan bygga efter egna ideer också.
 
 ---
 
@@ -60,11 +76,12 @@ spel på!
 
 LiU Game Jam kan följas i dessa kanaler.
 
--   [Discord](https://discord.gg/eHgXYMS)
--   [Facebook](https://www.facebook.com/liugamejam/)
--   [Twitter](https://twitter.com/LiuGameJam)
--   [Nyhetsbrev](http://us12.campaign-archive2.com/home/?u=092a6fffba8f6063437a51495&id=c3863c4bf5)
--   [Spelarkiv på Itch.io](https://itch.io/c/64050/liu-game-jam)
+- [Discord](https://discord.gg/eHgXYMS)
+- [Facebook](https://www.facebook.com/liugamejam/)
+- [Twitter](https://twitter.com/LiuGameJam)
+- [Nyhetsbrev](http://us12.campaign-archive2.com/home/?u=092a6fffba8f6063437a51495&id=c3863c4bf5)
+- [Spelarkiv på Itch.io](https://itch.io/c/64050/liu-game-jam)
+
 
 # FAQ
 
