@@ -39,7 +39,7 @@ Gör följande för att delta på eventet:
     - Buffé 
     - Halvtidsredovisning
 
-**Söndagen den 22:e maj**
+**Söndagen den 22:a maj**
 
 - 09:00 Spektrum öppnar
     - Frukost (gratis)
@@ -59,9 +59,9 @@ Regler för tema-ord:
 
 - Ska bara vara ett enda engelskt ord.
 - Ska inte vara en spelgenre (ex. FPS, RTS).
-- Undvik osedligt innehåll. (Ska vara safe for work)
+- Undvik osedligt innehåll. (Ska vara safe for work.)
 
-Vår temaprocess skapar unika och utmanande teman varje jam. De finns som inspiration under brainstormsessionen, men du kan bygga efter egna ideer också.
+Vår temaprocess skapar unika och utmanande teman varje jam. De finns som inspiration under brainstormsessionen, men du kan bygga efter egna idéer också.
 
 ---
 

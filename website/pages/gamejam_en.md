@@ -32,7 +32,7 @@ Bring the equipment you need in order to create games: laptop and peripherals, o
     - Brainstorming
     - Group forming
 
-**Saturday 21th**
+**Saturday 21st**
 
 - 09:00 Spektrum opens
     - Breakfast (free)
@@ -41,7 +41,7 @@ Bring the equipment you need in order to create games: laptop and peripherals, o
     - Buffet time!
     - Half time review
 
-**Sunday 22th**
+**Sunday 22nd**
 
 - 09:00 Spektrum opens
     - Breakfast (free)
