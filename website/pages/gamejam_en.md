@@ -3,6 +3,7 @@
   <h1>LiU Game Jam</h1>
 </div>
 
+ <img src="/static/img/gamejam/banner-sgj22.png" alt="Spring Game Jam 2022" id="gamejam-banner">
 
 # Spring Game Jam 2022
 *18:00 20th May  – 18:00 22th May*
