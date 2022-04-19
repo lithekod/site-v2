@@ -1,3 +1,10 @@
+<div id="important-information">
+
+<p>
+The spring meeting will be held May 10th in Ada Lovelace. <a href="/meetings/en">Agenda</a>.
+
+</div>
+
 # Who are we?
 
 LiTHe kod is a student association at Linköping University whose mission

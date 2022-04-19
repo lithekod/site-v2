@@ -1,3 +1,10 @@
+<div id="important-information">
+
+<p>
+Vårmötet kommer hållas 10 maj i Ada Lovelace. <a href="/meetings/se">Föredragningslista</a>.
+
+</div>
+
 # Vilka är vi?
 
 LiTHe kod är en studentförening vid Linköpings universitet vars syfte
