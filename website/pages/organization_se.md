@@ -8,4 +8,6 @@ Här hittar du dokument och information tillhörande organisationen.
 
 ## [Stadgar](https://github.com/lithekod/bylaws/blob/master/stadgar.pdf)
 
-## [Protokoll](https://github.com/lithekod/protocols)
+## [Stormötesprotokoll](https://github.com/lithekod/stormoten)
+
+## [Nuvarande styrelsens mötesprotokoll](https://github.com/lithekod/styrelseprotokoll-21-22)
