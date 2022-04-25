@@ -33,9 +33,14 @@ medlemmar får närvara med rösträtt. Nedan följer mötets föredragningslist
 - Fastställande av föreningens budget 22/23
 - Fastställande av medlemsavgift 22/23
 - Motioner och propositioner
-  - Uppdatering av stadgarna för efterlevnad av GDPR -- Styrelsen genom Gustav
-    Sörnäs
+  - [Uppdatering av stadgarna för efterlevnad av GDPR -- Styrelsen genom Gustav
+    Sörnäs](https://github.com/lithekod/bylaws/blob/f9f5974ab79b29833d66b1247215d8080d043e13/motioner-och-propositioner/220421-gdpr.pdf)
 - Övriga frågor
 
 ###### Preliminärt: 2022-04-19
+
+### Ändringar
+
+- 2022-04-23: Länk till "Uppdatering av stadgarna för efterlevnad av GDPR".
+
 <!-- ###### Fastställt: 2022-02-16 -->

@@ -33,8 +33,13 @@ members may participate and vote. Below is the agenda for the meeting.
 - Determining of the budget for 22/23
 - Determining of the member fee for 22/23
 - Motions and bills
-  - Update the bylaws for GDPR compliance -- The board via Gustav Sörnäs
+  - [Update the bylaws for GDPR compliance -- The board via Gustav Sörnäs](https://github.com/lithekod/bylaws/blob/f9f5974ab79b29833d66b1247215d8080d043e13/motioner-och-propositioner/220421-gdpr.pdf)
 - Other questions
 
 ###### Preliminary: 2022-04-19
+
+### Changes
+
+- 2022-04-23: Link to "Update the bylaws for GDPR compliance".
+
 <!-- ###### Confirmed: 2022-xx-yy -->
