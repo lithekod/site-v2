@@ -33,7 +33,12 @@ members may participate and vote. Below is the agenda for the meeting.
 - Determining of the budget for 22/23
 - Determining of the member fee for 22/23
 - Motions and bills
-  - [Update the bylaws for GDPR compliance -- The board via Gustav Sörnäs](https://github.com/lithekod/bylaws/blob/f9f5974ab79b29833d66b1247215d8080d043e13/motioner-och-propositioner/220421-gdpr.pdf)
+  - [Update the bylaws for GDPR compliance -- The board](https://github.com/lithekod/bylaws/blob/f9f5974ab79b29833d66b1247215d8080d043e13/motioner-och-propositioner/220421-gdpr.pdf)
+  - [Clearing up fixed timepoints for stormöten -- The board](https://github.com/lithekod/bylaws/blob/a39f0e08edd10fb2f9e862690dd41571daced4b8/motioner-och-propositioner/220428-storm%C3%B6testider/storm%C3%B6testider.pdf)
+  - [Adding a change list to the bylaws --
+    The board](https://github.com/lithekod/bylaws/blob/a39f0e08edd10fb2f9e862690dd41571daced4b8/motioner-och-propositioner/220428-historik/historik.pdf)
+    with
+    [appendix](https://github.com/lithekod/bylaws/blob/a39f0e08edd10fb2f9e862690dd41571daced4b8/motioner-och-propositioner/220428-historik/A1-f%C3%B6rslag.png)
 - Other questions
 
 ###### Preliminary: 2022-04-19
