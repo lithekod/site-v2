@@ -45,8 +45,10 @@ medlemmar får närvara med rösträtt. Nedan följer mötets föredragningslist
 
 ###### Preliminärt: 2022-04-19
 
+###### Fastställt: 2022-05-03
+
 ### Ändringar
 
 - 2022-04-23: Länk till "Uppdatering av stadgarna för efterlevnad av GDPR".
-
-<!-- ###### Fastställt: 2022-02-16 -->
+- 2022-04-29: Länkar till "Förtydligande av hållpunkter inför stormöten" och
+  "införande av ändringshistorik i stadgarna".

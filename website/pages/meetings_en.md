@@ -43,8 +43,10 @@ members may participate and vote. Below is the agenda for the meeting.
 
 ###### Preliminary: 2022-04-19
 
+###### Confirmed: 2022-05-03
+
 ### Changes
 
 - 2022-04-23: Link to "Update the bylaws for GDPR compliance".
-
-<!-- ###### Confirmed: 2022-xx-yy -->
+- 2022-04-29: Links to "Clearing up fixed timepoints for stormöten" and "adding
+  a change list to the bylaws".
