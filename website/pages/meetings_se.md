@@ -8,8 +8,11 @@ nästa verksamhetsårs styrelse in. På både höst- och vårmöten kan motioner
 propositioner lyftas av såväl styrelsen som medlemmar. Nästföljande stormöte
 beskrivs nedan.
 
-## Vårmöte 2022
+## Höstmöte 2022
 
+Mer information i höst.
+
+<!--
 Vårmötet kommer att hållas tisdag 10:e maj kl 18.15 i Ada Lovelace. Samtliga
 medlemmar får närvara med rösträtt. Nedan följer mötets föredragningslista.
 
@@ -52,3 +55,4 @@ medlemmar får närvara med rösträtt. Nedan följer mötets föredragningslist
 - 2022-04-23: Länk till "Uppdatering av stadgarna för efterlevnad av GDPR".
 - 2022-04-29: Länkar till "Förtydligande av hållpunkter inför stormöten" och
   "införande av ändringshistorik i stadgarna".
+-->

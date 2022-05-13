@@ -8,8 +8,11 @@ auditor's review followed by a decision on discharge from liability ("beslut om
 ansvarsfrihet"). During the spring meeting the next financial year's board is
 voted on.
 
-## Spring meeting 2022
+## Fall meeting 2022
 
+More information coming in the fall.
+
+<!--
 The "stormöte" will be held Tuesday May 10 at 6:15 pm in Ada Lovelace. All
 members may participate and vote. Below is the agenda for the meeting.
 
@@ -50,3 +53,4 @@ members may participate and vote. Below is the agenda for the meeting.
 - 2022-04-23: Link to "Update the bylaws for GDPR compliance".
 - 2022-04-29: Links to "Clearing up fixed timepoints for stormöten" and "adding
   a change list to the bylaws".
+-->
