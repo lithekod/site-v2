@@ -8,6 +8,8 @@ nästa verksamhetsårs styrelse in. På både höst- och vårmöten kan motioner
 propositioner lyftas av såväl styrelsen som medlemmar. Nästföljande stormöte
 beskrivs nedan.
 
+Tidigare protokoll finns i [arkivet på vår Github](https://github.com/lithekod/stormoten).
+
 ## Höstmöte 2022
 
 Mer information i höst.

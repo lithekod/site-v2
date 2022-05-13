@@ -8,6 +8,8 @@ auditor's review followed by a decision on discharge from liability ("beslut om
 ansvarsfrihet"). During the spring meeting the next financial year's board is
 voted on.
 
+Old protocols can be found in the [archive on our Github](https://github.com/lithekod/stormoten).
+
 ## Fall meeting 2022
 
 More information coming in the fall.
