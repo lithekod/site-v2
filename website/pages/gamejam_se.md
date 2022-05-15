@@ -27,17 +27,17 @@ Gör följande för att delta på eventet:
 **Fredagen den 20:e maj**
 
 - 18:00 Introduktion
-    - Gemensam pizza-beställning
     - Temaskapande
     - Brainstorming
     - Gruppskapande
+- 18:30 Gemensam pizza-beställning (deadline)
 
 **Lördagen den 21:a maj**
 
 - 09:00 Spektrum öppnar
     - Frukost (gratis)
-- 17:00 Gemensam kinabuffé-beställning (deadline)
-- Runt 19:00 när kinamaten kommer
+- 16:00 Gemensam kinabuffé-beställning (deadline)
+- Runt 18:00 när kinamaten kommer
     - Buffé 
     - Halvtidsredovisning
 

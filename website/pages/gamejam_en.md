@@ -28,17 +28,17 @@ Bring the equipment you need in order to create games: laptop and peripherals, o
 **Friday 20th**
 
 - 18:00 Introduction
-    - Joint pizza order
     - Theme generation
     - Brainstorming
     - Group forming
+- 18:30 Joint pizza buffet order deadline
 
 **Saturday 21st**
 
 - 09:00 Spektrum opens
     - Breakfast (free)
-- 17:00 Joint Chinese buffet order deadline
-- Around 19:00 when Chinese food arrives
+- 16:00 Joint Chinese buffet order deadline
+- Around 18:00 when Chinese food arrives
     - Buffet time!
     - Half time review
 
