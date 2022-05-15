@@ -31,7 +31,7 @@ Bring the equipment you need in order to create games: laptop and peripherals, o
     - Theme generation
     - Brainstorming
     - Group forming
-- 18:30 Joint pizza buffet order deadline
+- 18:30 Joint pizza order deadline
 
 **Saturday 21st**
 
