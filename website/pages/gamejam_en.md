@@ -10,6 +10,10 @@
 
 Join us and build kickass games together during one weekend. This time IN REAL LIFE!
 
+### Information during the jam
+
+- [Introductory presentation](https://docs.google.com/presentation/d/1N16S1CwCrhD45l4MuABPXQyD9EIOmpdiU4mXwLfuH1g/edit?usp=sharing)
+
 ### Location
 The game jam will take place on site at [Spektrum, Ebbepark](https://sanktkors.se/lediga-lokaler/linkoping/ebbepark/spektrum/) in Linköping in Sweden. The location has Wi-Fi but no physical network outlets.
 

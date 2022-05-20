@@ -10,6 +10,10 @@
 
 Bygg spel ifrån grunden tillsammans under en helg.
 
+### Information under jammet
+
+- [Introduktionspresentation](https://docs.google.com/presentation/d/1N16S1CwCrhD45l4MuABPXQyD9EIOmpdiU4mXwLfuH1g/edit?usp=sharing)
+
 ### Lokal
 Game-jammet kommer vara på [Spektrum, Ebbepark](https://sanktkors.se/lediga-lokaler/linkoping/ebbepark/spektrum/) i Linköping. Lokalen har Wi-Fi men inga fysiska nätverksuttag.
 
