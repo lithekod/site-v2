@@ -49,7 +49,7 @@ Gör följande för att delta på eventet:
 
 - 09:00 Spektrum öppnar
     - Frukost (gratis)
-- 12:00 Gemensam sushi-beställning (deadline)
+- 11:00 Gemensam sushi-beställning (deadline)
 - 17:00 Game Jam-deadline
     - Spelen ska vara uppladdade till itch.io
     - Deltagare ska ha städat sina bord och sin omgivning

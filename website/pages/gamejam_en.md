@@ -50,7 +50,7 @@ Bring the equipment you need in order to create games: laptop and peripherals, o
 
 - 09:00 Spektrum opens
     - Breakfast (free)
-- 12:00 Joint sushi order deadline
+- 11:00 Joint sushi order deadline
 - 17:00 Game creation deadline
     - Resulting games should be uploaded to itch.io
     - Jammers should have cleaned their tables
