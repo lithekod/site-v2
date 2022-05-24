@@ -3,9 +3,13 @@
   <h1>LiU Game Jam</h1>
 </div>
 
- <img src="/static/img/gamejam/banner-sgj22.png" alt="Spring Game Jam 2022" id="gamejam-banner">
+<!-- <img src="/static/img/gamejam/banner-sgj22.png" alt="Spring Game Jam 2022" id="gamejam-banner"> -->
 
-# Spring Game Jam 2022
+# Fall Game Jam 2022
+
+Datum kommer snart! Håll ögonen öppna så ses vi i höst.
+
+<!--
 *18:00 20:e maj – 18:00 22:e maj*
 
 Bygg spel ifrån grunden tillsammans under en helg.
@@ -68,6 +72,8 @@ Regler för tema-ord:
 - Undvik osedligt innehåll. (Ska vara safe for work.)
 
 Vår temaprocess skapar unika och utmanande teman varje jam. De finns som inspiration under brainstormsessionen, men du kan bygga efter egna idéer också.
+
+-->
 
 ---
 

@@ -3,9 +3,14 @@
   <h1>LiU Game Jam</h1>
 </div>
 
- <img src="/static/img/gamejam/banner-sgj22.png" alt="Spring Game Jam 2022" id="gamejam-banner">
+<!-- <img src="/static/img/gamejam/banner-sgj22.png" alt="Spring Game Jam 2022" id="gamejam-banner"> -->
 
-# Spring Game Jam 2022
+# Fall Game Jam 2022
+
+The date will be revealed soon! Keep your eyes open. We'll see you in the fall.
+
+<!--
+
 *18:00 20th May  – 18:00 22th May*
 
 Join us and build kickass games together during one weekend. This time IN REAL LIFE!
@@ -69,6 +74,8 @@ Theme word rules:
 - Keep it safe for work. 
 
 Our theme process ensures unique and challenging themes each jam. The themes are there for inspiration during brainstorming but you can pick something else as well.
+
+-->
 
 ---
 
