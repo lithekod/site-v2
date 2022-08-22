@@ -24,44 +24,44 @@ Vi har meetups **varje tisdag** i Café Java kl 17.15. Kom förbi så bjuder vi 
 
 <div id="card-container">
 <div class="profile-card">
-    <img src="/static/img/board-21-22/gustav.png" alt="Gustav">
-    <h2>Gustav Sörnäs</h2>
+    <img src="/static/img/board-22-23/lowe.png" alt="Lowe">
+    <h2>Lowe Kozak Åslöw</h2>
     <p class="profile-card-sub">Ordförande - <a href="mailto:ordf@lithekod.se">ordf@lithekod.se</a></p>
 </div>
 
 <div class="profile-card">
-    <img src="/static/img/board-21-22/victor.png" alt="Victor">
-    <h2>Victor Lells</h2>
+    <img src="/static/img/kodapa-profile-picture.png" alt="Emanuel">
+    <h2>Emanuel Särnhammar</h2>
     <p class="profile-card-sub">Kassör - <a href="mailto:kassor@lithekod.se">kassor@lithekod.se</a></p>
 </div>
 
 <div class="profile-card">
-    <img src="/static/img/board-21-22/thea.png" alt="Thea">
-    <h2>Thea Carlqvist</h2>
+    <img src="/static/img/board-22-23/gustav.png" alt="Gustav">
+    <h2>Gustav Sörnäs</h2>
     <p class="profile-card-sub">Game Jam-ansvarig - <a href="mailto:gamejam@lithekod.se">gamejam@lithekod.se</a></p>
 </div>
 
-<div class="profile-card">
-    <img src="/static/img/board-21-22/lowe.png" alt="Lowe">
-    <h2>Lowe Kozak Åslöw</h2>
-    <p class="profile-card-sub">Vice ordförande - <a href="mailto:vordf@lithekod.se">vordf@lithekod.se</a></p>
-</div>
+<!-- <div class="profile-card"> -->
+<!--     <img src="/static/img/board-21-22/lowe.png" alt="Lowe"> -->
+<!--     <h2>Lowe Kozak Åslöw</h2> -->
+<!--     <p class="profile-card-sub">Vice ordförande - <a href="mailto:vordf@lithekod.se">vordf@lithekod.se</a></p> -->
+<!-- </div> -->
 
 <div class="profile-card">
-    <img src="/static/img/board-21-22/axel.png" alt="Axel">
-    <h2>Axel Telenius</h2>
+    <img src="/static/img/kodapa-profile-picture.png" alt="Henry">
+    <h2>Henry Andersson</h2>
     <p class="profile-card-sub">Verksamhetsansvarig - <a href="mailto:verks@lithekod.se">verks@lithekod.se</a></p>
 </div>
 
 <div class="profile-card">
-    <img src="/static/img/board-21-22/erik.png" alt="Erik">
-    <h2>Erik Mattfolk</h2>
+    <img src="/static/img/board-22-23/simon.png" alt="Simon">
+    <h2>Simon Gutgesell</h2>
     <p class="profile-card-sub">Webb - <a href="mailto:webb@lithekod.se">webb@lithekod.se</a></p>
 </div>
 
 <div class="profile-card">
-    <img src="/static/img/board-21-22/henry.png" alt="Henry">
-    <h2>Henry Andersson</h2>
+    <img src="/static/img/board-22-23/hannah.png" alt="Hannah">
+    <h2>Hannah Bahrehman</h2>
     <p class="profile-card-sub">PR - <a href="mailto:pr@lithekod.se">pr@lithekod.se</a></p>
 </div></div>
 
