@@ -154,6 +154,12 @@ for url, md_file in pages:
 # on the sidebar.
 
 
+@app.route("/nollesvar/")
+def nollesvar():
+    """The answers for the challenge in the nollehandbok"""
+    return render_page("website/pages/nollesvar_se.md", "/nollesvar/", True)
+
+
 @app.route("/gitcheatsheet/")
 def gitcheatsheet():
     """The git cheat-sheet of doom!"""

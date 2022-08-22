@@ -10,6 +10,10 @@ utvecklas och arrangerar idag en rad olika typer av aktiviteter såsom
 studiebesök, workshops, föreläsningar, Game Jams och programmeringstävlingar.
 Kodstugorna har övergått till meetups som vi har varje tisdag klockan 17.
 
+<div id="important-information">
+    <p>Facit till kluringen i nolleboken finns <a href="/nollesvar/">här</a>.</p>
+</div>
+
 <div id="introduction">
     <div class="intro-card">
         <h3>Meetups</h3>
