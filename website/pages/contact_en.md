@@ -26,7 +26,7 @@ We have meetups **every** Tuesday in Café Java at 17.15. Swing by for some free
 <div id="card-container">
 <div class="profile-card">
     <img src="/static/img/board-22-23/lowe.png" alt="Lowe">
-    <h2>Lowe Kozak Åslöw</h2>
+    <h2>Lowe Kozak Åslöv</h2>
     <p class="profile-card-sub">Chairman - <a href="mailto:ordf@lithekod.se">ordf@lithekod.se</a></p>
 </div>
 
