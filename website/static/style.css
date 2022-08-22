@@ -437,18 +437,17 @@ footer a:hover {
     background: var(--footer-bg-color);
     display: inline-block;
     margin: 1em 0em;
-
+    padding: 1em;
     border-radius: 0.5em;
 }
 
 /* Image with ratio 3:4 */
 .profile-card img {
-    width: 15em;
-    height: 20em;
+    width: 18em;
+    height: 24em;
     display: block;
     margin: 0;
     margin-bottom: 0.5em;
-
     border-radius: 0.5em;
 }
 
@@ -477,8 +476,8 @@ footer a:hover {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    justify-content: space-around;
-    align-items: flex-start;
+    justify-content: space-between;
+    /* align-items: flex-start; */
 }
 
 /* ============================================================
