@@ -48,7 +48,7 @@ Vi har meetups **varje tisdag** i Café Java kl 17.15. Kom förbi så bjuder vi 
 <!-- </div> -->
 
 <div class="profile-card">
-    <img src="/static/img/kodapa-profile-picture.png" alt="Henry">
+    <img src="/static/img/board-21-22/henry.png" alt="Henry">
     <h2>Henry Andersson</h2>
     <p class="profile-card-sub">Verksamhetsansvarig - <a href="mailto:verks@lithekod.se">verks@lithekod.se</a></p>
 </div>
