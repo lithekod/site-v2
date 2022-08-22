@@ -110,3 +110,6 @@ venv.bak/
 
 # direnv stuff
 .direnv
+
+# nix stuff
+result
