@@ -16,6 +16,9 @@ labor market thanks to their documented skills.
 More information can be found on the IMPA
 [website](https://www.ida.liu.se/projects/impa/new/).
 
+If you're looking for inspiration to your solutions,
+check out solution proposals for previous rounds [in this repo](https://github.com/lithekod/impa-writeups)
+
 <div id="sponsor-container">
     <img class="sponsor only-dark-theme" src="/static/img/ericsson_dt.svg" alt="ericsson">
     <img class="sponsor only-light-theme" src="/static/img/ericsson_lt.png" alt="ericsson">

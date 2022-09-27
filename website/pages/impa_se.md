@@ -15,6 +15,9 @@ sin dokumenterade kompetens.
 
 Mer information finns på IMPAs [hemsida](https://www.ida.liu.se/projects/impa/new/).
 
+Om du letar inspiration till dina lösningar så kan du se lösningsförslag till
+tidigare omgångar [i detta repo](https://github.com/lithekod/impa-writeups)
+
 <div id="sponsor-container">
     <img class="sponsor only-dark-theme" src="/static/img/ericsson_dt.svg" alt="ericsson">
     <img class="sponsor only-light-theme" src="/static/img/ericsson_lt.png" alt="ericsson">
