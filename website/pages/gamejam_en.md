@@ -4,80 +4,79 @@
 </div>
 
 <!-- <img src="/static/img/gamejam/banner-sgj22.png" alt="Spring Game Jam 2022" id="gamejam-banner"> -->
+**TODO** banner
 
 # Fall Game Jam 2022
 
-The date will be revealed soon! Keep your eyes open. We'll see you in the fall.
+*18:00 18th November  – 18:00 20th November*
+
+Join us and build kickass games together during a weekend. Once again IN REAL LIFE!
 
 <!--
-
-*18:00 20th May  – 18:00 22th May*
-
-Join us and build kickass games together during one weekend. This time IN REAL LIFE!
-
 ### Information during the jam
 
-- [Introductory presentation](https://docs.google.com/presentation/d/1N16S1CwCrhD45l4MuABPXQyD9EIOmpdiU4mXwLfuH1g/edit?usp=sharing)
+**The themes are:**
+
+- Theme 1
+- Theme 2
+- Theme 3
+-->
 
 ### Location
-The game jam will take place on site at [Spektrum, Ebbepark](https://sanktkors.se/lediga-lokaler/linkoping/ebbepark/spektrum/) in Linköping in Sweden. The location has Wi-Fi but no physical network outlets.
+
+The game jam will take place on site at [Spektrum, Ebbepark](https://sanktkors.se/lediga-lokaler/linkoping/ebbepark/spektrum/) in Linköping, Sweden. The location has Wi-Fi but no physical network outlets.
 
 ### How to participate
 
 In order to participate in the jam do the following:
 
 1. Join our Discord to get announcements during the jam: [Discord invite](https://discord.gg/eHgXYMS)
-2. Join the itch.io jam page where you will upload the result: [Itch.io jam](https://itch.io/jam/spring-game-jam-2022)
-3. (Optional) Join the Facebook event: [Facebook event](https://www.facebook.com/events/1030396497854020/)
+2. Join the itch.io jam page where you will upload the result: [Itch.io jam](https://itch.io/jam/liu-fall-game-jam-2022)
+3. (Optional) Join the Facebook event: [Facebook event (TODO)]()
 <br/>*This helps us approximate the number of attending jammers for better planning.*
-4. Show up at Spektrum at 18:00 20th May.
+4. Show up at Spektrum at 18:00 18th November.
 Bring the equipment you need in order to create games: laptop and peripherals, or physical game components.
 
 ### Schedule
-**Friday 20th**
+**Friday 18th November**
 
 - 18:00 Introduction
     - Theme generation
     - Brainstorming
     - Group forming
-- 18:30 Joint pizza order deadline
+- 18:10 Joint pizza order deadline
 
-**Saturday 21st**
+**Saturday 19th November**
 
 - 09:00 Spektrum opens
     - Breakfast (free)
 - 16:00 Joint Chinese buffet order deadline
-- Around 18:00 when Chinese food arrives
-    - Buffet time!
-    - Half time review
+- Around 18:00: Chinese food arrival and buffet
+- Around 18:15: Half time review
 
-**Sunday 22nd**
+**Sunday 20th November**
 
 - 09:00 Spektrum opens
     - Breakfast (free)
 - 11:00 Joint sushi order deadline
-- 17:00 Game creation deadline
+- 18:00 Game creation deadline
     - Resulting games should be uploaded to itch.io
     - Jammers should have cleaned their tables
-    - Final review
-    - Showcasing and playing each other's games
-- 18:00 End of event
+- 18:15 Final review
+- 19:00 Playtesting and showcase
 
 ### Themes
 
-The themes are generated at the start of the jam by taking random pairs of words submitted by participants.
+The themes are generated at the start of the jam by taking random pairs of words
+submitted by participants. They will be added at the top of this page after the start of the jam.
 
 Theme word rules:
 
 - Should only be one English word.
 - Should not be a game genre (e.g. FPS, RTS).
-- Keep it safe for work. 
+- Keep it safe for work.
 
 Our theme process ensures unique and challenging themes each jam. The themes are there for inspiration during brainstorming but you can pick something else as well.
-
--->
-
----
 
 # What is a game jam?
 
@@ -89,7 +88,7 @@ create games; both computer games and board games. At our game jam there is a
 Follow LiU Game Jam on the following channels.
 
 - [Discord server](https://discord.gg/eHgXYMS)
-- [Facebook page](https://www.facebook.com/liugamejam/) 
+- [Facebook page](https://www.facebook.com/liugamejam/)
 - [Twitter](https://twitter.com/LiuGameJam)
 - [Newsletter](http://us12.campaign-archive2.com/home/?u=092a6fffba8f6063437a51495&id=c3863c4bf5)
 - [Itch.io game archive](https://itch.io/c/64050/liu-game-jam)
