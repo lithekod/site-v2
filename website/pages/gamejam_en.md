@@ -4,7 +4,6 @@
 </div>
 
 <!-- <img src="/static/img/gamejam/banner-sgj22.png" alt="Spring Game Jam 2022" id="gamejam-banner"> -->
-**TODO** banner
 
 # Fall Game Jam 2022
 
@@ -38,32 +37,33 @@ In order to participate in the jam do the following:
 Bring the equipment you need in order to create games: laptop and peripherals, or physical game components.
 
 ### Schedule
+
 **Friday 18th November**
 
-- 18:00 Introduction
+- 18:00: Introduction
     - Theme generation
     - Brainstorming
     - Group forming
-- 18:10 Joint pizza order deadline
+- 18:10: Joint pizza order deadline
 
 **Saturday 19th November**
 
-- 09:00 Spektrum opens
+- 09:00: Spektrum opens
     - Breakfast (free)
-- 16:00 Joint Chinese buffet order deadline
+- 16:00: Joint Chinese buffet order deadline
 - Around 18:00: Chinese food arrival and buffet
 - Around 18:15: Half time review
 
 **Sunday 20th November**
 
-- 09:00 Spektrum opens
+- 09:00: Spektrum opens
     - Breakfast (free)
-- 11:00 Joint sushi order deadline
-- 18:00 Game creation deadline
+- 11:00: Joint sushi order deadline
+- 18:00: Game creation deadline
     - Resulting games should be uploaded to itch.io
     - Jammers should have cleaned their tables
-- 18:15 Final review
-- 19:00 Playtesting and showcase
+- 18:15: Final review
+- 19:00: Playtesting and showcase
 
 ### Themes
 
@@ -77,6 +77,8 @@ Theme word rules:
 - Keep it safe for work.
 
 Our theme process ensures unique and challenging themes each jam. The themes are there for inspiration during brainstorming but you can pick something else as well.
+
+---
 
 # What is a game jam?
 
