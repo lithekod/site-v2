@@ -7,18 +7,22 @@
 
 # Fall Game Jam 2022
 
-Datum kommer snart! Håll ögonen öppna så ses vi i höst.
-
-<!--
-*18:00 20:e maj – 18:00 22:e maj*
+*18:00 18 november – 18:00 20 november*
 
 Bygg spel ifrån grunden tillsammans under en helg.
 
+<!--
 ### Information under jammet
 
-- [Introduktionspresentation](https://docs.google.com/presentation/d/1N16S1CwCrhD45l4MuABPXQyD9EIOmpdiU4mXwLfuH1g/edit?usp=sharing)
+Jammets teman är:
+
+- Tema 1
+- Tema 2
+- Tema 3
+-->
 
 ### Lokal
+
 Game-jammet kommer vara på [Spektrum, Ebbepark](https://sanktkors.se/lediga-lokaler/linkoping/ebbepark/spektrum/) i Linköping. Lokalen har Wi-Fi men inga fysiska nätverksuttag.
 
 ### Delta
@@ -26,40 +30,40 @@ Game-jammet kommer vara på [Spektrum, Ebbepark](https://sanktkors.se/lediga-lok
 Gör följande för att delta på eventet:
 
 1. Gå med i [vår Discord-server](https://discord.gg/eHgXYMS) för att få ny information under jammet.
-2. Gå med på [Itch.io-sidan](https://itch.io/jam/spring-game-jam-2022) där vi kommer ladda upp resultatet.
-3. (Frivilligt) Gå med i [Facebook-evenemanget](https://www.facebook.com/events/1030396497854020/).
+2. Gå med på [Itch.io-sidan](https://itch.io/jam/liu-fall-game-jam-2022) där vi kommer ladda upp resultatet.
+3. (Frivilligt) Gå med i [Facebook-evenemanget (TODO)]().
 <br/>*Det hjälper oss att uppskatta hur många som kommer delta, för att kunna planera jammet bättre.*
-4. Kom till Spektrum klockan 18:00 fredagen den 20:e maj. Ta med det du behöver för att bygga spel; laptop eller fysiska spelkomponenter.
+4. Kom till Spektrum klockan 18:00 fredag 18 november. Ta med det du behöver för att bygga spel; laptop eller fysiska spelkomponenter.
 
 ### Schema
-**Fredagen den 20:e maj**
+
+**Fredag 18 november**
 
 - 18:00 Introduktion
     - Temaskapande
     - Brainstorming
     - Gruppskapande
-- 18:30 Gemensam pizza-beställning (deadline)
+- 18:10 Gemensam pizza-beställning (deadline)
 
-**Lördagen den 21:a maj**
+**Lördag 19 november**
 
 - 09:00 Spektrum öppnar
     - Frukost (gratis)
 - 16:00 Gemensam kinabuffé-beställning (deadline)
-- Runt 18:00 när kinamaten kommer
-    - Buffé 
-    - Halvtidsredovisning
+- Runt 18:00: Kinabuffé serveras
+- Runt 18:15: Halvtidsredovisning
 
-**Söndagen den 22:a maj**
+**Söndag 20 november**
 
 - 09:00 Spektrum öppnar
     - Frukost (gratis)
 - 11:00 Gemensam sushi-beställning (deadline)
-- 17:00 Game Jam-deadline
+- 18:00 Game Jam-deadline
     - Spelen ska vara uppladdade till itch.io
     - Deltagare ska ha städat sina bord och sin omgivning
+- 18:15: Slutredovisning
     - Slutredovisning
-    - Uppvisning och speltestning av varandras spel
-- 18:00 Evenemanget avslutas
+- 19:00: Speltestning och uppvisning
 
 ### Teman
 
@@ -72,8 +76,6 @@ Regler för tema-ord:
 - Undvik osedligt innehåll. (Ska vara safe for work.)
 
 Vår temaprocess skapar unika och utmanande teman varje jam. De finns som inspiration under brainstormsessionen, men du kan bygga efter egna idéer också.
-
--->
 
 ---
 
