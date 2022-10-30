@@ -62,7 +62,6 @@ Gör följande för att delta på eventet:
     - Spelen ska vara uppladdade till itch.io
     - Deltagare ska ha städat sina bord och sin omgivning
 - 18:15: Slutredovisning
-    - Slutredovisning
 - 19:00: Speltestning och uppvisning
 
 ### Teman
