@@ -31,7 +31,7 @@ Gör följande för att delta på eventet:
 
 1. Gå med i [vår Discord-server](https://discord.gg/eHgXYMS) för att få ny information under jammet.
 2. Gå med på [Itch.io-sidan](https://itch.io/jam/liu-fall-game-jam-2022) där vi kommer ladda upp resultatet.
-3. (Frivilligt) Gå med i [Facebook-evenemanget (TODO)]().
+3. (Frivilligt) Gå med i [Facebook-evenemanget](https://www.facebook.com/events/799863874422124/).
 <br/>*Det hjälper oss att uppskatta hur många som kommer delta, för att kunna planera jammet bättre.*
 4. Kom till Spektrum klockan 18:00 fredag 18 november. Ta med det du behöver för att bygga spel; laptop eller fysiska spelkomponenter.
 

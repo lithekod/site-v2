@@ -31,7 +31,7 @@ In order to participate in the jam do the following:
 
 1. Join our Discord to get announcements during the jam: [Discord invite](https://discord.gg/eHgXYMS)
 2. Join the itch.io jam page where you will upload the result: [Itch.io jam](https://itch.io/jam/liu-fall-game-jam-2022)
-3. (Optional) Join the Facebook event: [Facebook event (TODO)]()
+3. (Optional) Join the Facebook event: [Facebook event](https://www.facebook.com/events/799863874422124/)
 <br/>*This helps us approximate the number of attending jammers for better planning.*
 4. Show up at Spektrum at 18:00 18th November.
 Bring the equipment you need in order to create games: laptop and peripherals, or physical game components.
