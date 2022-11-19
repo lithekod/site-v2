@@ -11,15 +11,17 @@
 
 Join us and build kickass games together during a weekend. Once again IN REAL LIFE!
 
-<!--
 ### Information during the jam
 
 **The themes are:**
 
-- Theme 1
-- Theme 2
-- Theme 3
--->
+- Roman Cages
+- Inside-out Gardening
+- Radiating Mimics
+
+**Links to presentations:**
+
+- [Intro presentation](https://docs.google.com/presentation/d/1jzRUNTo4vnVF5JossQa-jlZC5vNmzO0d2TLGNs_hJfQ/edit?usp=sharing)
 
 ### Location
 

@@ -11,15 +11,17 @@
 
 Bygg spel ifrån grunden tillsammans under en helg.
 
-<!--
 ### Information under jammet
 
-Jammets teman är:
+**Jammets teman är:**
 
-- Tema 1
-- Tema 2
-- Tema 3
--->
+- Roman Cages
+- Inside-out Gardening
+- Radiating Mimics
+
+**Länkar till presentationer:**
+
+- [Intropresentation](https://docs.google.com/presentation/d/1jzRUNTo4vnVF5JossQa-jlZC5vNmzO0d2TLGNs_hJfQ/edit?usp=sharing)
 
 ### Lokal
 
