@@ -58,7 +58,6 @@ Prizes are dealt out to the winners when the competition ends at 2022-12-25 23:5
     <img class="sponsor" src="/static/img/mindroad_logo.png" alt="Mindroad">
 </div>
 
-<!--
 <hr>
 
 <label class="toggle-aoc" for="aoc-trigger">
@@ -79,4 +78,3 @@ Prizes are dealt out to the winners when the competition ends at 2022-12-25 23:5
             src="https://lithekod.lysator.liu.se/leaderboard/?some=true"></iframe>
     </span>
 </div>
--->

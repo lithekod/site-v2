@@ -57,7 +57,6 @@ Priser till vinnarna delas ut efter tävlingens slut 2022-12-25 23:59.
     <img class="sponsor" src="/static/img/mindroad_logo.png" alt="Mindroad">
 </div>
 
-<!--
 <hr>
 
 <label class="toggle-aoc" for="aoc-trigger">
@@ -78,4 +77,3 @@ Priser till vinnarna delas ut efter tävlingens slut 2022-12-25 23:59.
             src="https://lithekod.lysator.liu.se/leaderboard/?some=true"></iframe>
     </span>
 </div>
--->
