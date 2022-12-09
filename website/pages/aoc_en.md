@@ -1,3 +1,12 @@
+<!--
+UPDATE CHECKLIST
+To update for next year:
+- Create a new leaderboard so the competition is opt-in.
+- Update all mentions of last year to the new year. (Easy to miss. Do a complete
+  search/replace.)
+- Un-freeze the dynamic leaderboard in the iframe at the bottom.
+-->
+
 # Advent of Code
 
 Every december something amazing happens.
