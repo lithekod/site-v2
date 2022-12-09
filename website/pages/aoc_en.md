@@ -11,10 +11,10 @@ See you there!
 How to join our leaderboard and competition:
 
 1. Create a user on
-   [adventofcode.com](https://adventofcode.com/2021/auth/login). If you log in
+   [adventofcode.com](https://adventofcode.com/2022/auth/login). If you log in
    with a Github account you can even showcase your nice solutions.
 2. Join our leaderboard by entering the code `1879790-858765b5` on the
-   [leaderboard page](https://adventofcode.com/2021/leaderboard/private).
+   [leaderboard page](https://adventofcode.com/2022/leaderboard/private).
 
 Advent of Code is a global advent calendar created by Eric Wastl. The problems
 start quite easy and get more and more difficult the closer they get to

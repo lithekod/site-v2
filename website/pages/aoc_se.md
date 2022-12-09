@@ -11,10 +11,10 @@ Ses där!
 Så här går du med i vår leaderboard och tävling:
 
 1. Skapa en användare på
-   [adventofcode.com](https://adventofcode.com/2021/auth/login). Om du loggar in
+   [adventofcode.com](https://adventofcode.com/2022/auth/login). Om du loggar in
    med ett Github-konto kan du till och med visa upp dina fina lösningar.
 2. Gå med i vår leaderboard genom att skriva in koden `1879790-858765b5` på
-   [leaderboard-sidan](https://adventofcode.com/2021/leaderboard/private).
+   [leaderboard-sidan](https://adventofcode.com/2022/leaderboard/private).
 
 Advent of Code är en global adventskalender som skapats av Eric Wastl. Problemen
 är ganska enkla i början och blir svårare och svårare närmare julen. LiTHe kod

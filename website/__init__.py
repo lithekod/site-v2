@@ -21,6 +21,7 @@ app = Flask(__name__, static_folder="static")
 navigation = [
     (("Start", "Start"), "/"),
     (("Kontakt", "Contact us"), "/contact/"),
+    (("Advent of Code", "Advent of Code"), "/aoc/"),
     (("Tävlingar", "Competitions"), "/competitions/"),
     (("Game Jam", "Game Jam"), "/gamejam/"),
     (("Organisation", "Organization"), "/organization/"),
