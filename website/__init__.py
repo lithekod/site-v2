@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 import datetime
+import string
 import subprocess
 
 import markdown2
@@ -39,29 +40,49 @@ def last_updated(path):
     git_cmd = "git log --format=%at -- {}".format(path).split()
     stdout = subprocess.run(git_cmd, capture_output=True).stdout
     ts = stdout.split(b"\n")[0]
+    if not ts:
+        return "ERROR: not tracked in git"
     dt = datetime.datetime.fromtimestamp(int(ts)).date().isoformat()
     return dt
 
 
-def render_page(path, url, swedish, injection=""):
-    """Render a Markdown file into a page on the website.
-
-    Arguments:
-    path - Path to a markdown file.
-    url - The url to the page.
-    swedish - Whether the page is in swedish or not (english).
-    """
+def _render_page(html, last_updated, url, swedish):
     nav_index = next((i for i, (_, u) in enumerate(navigation) if u == url), -1)
     return render_template(
         "page.html",
-        html=markdown2.markdown_path(path),
-        injection=injection,
-        last_updated=last_updated(path),
+        html=html,
+        last_updated=last_updated,
         url=url,
         navigation=navigation,
         selected=nav_index,
         swedish=swedish,
     )
+
+
+def render_page_markdown(path, url, swedish):
+    """Render a Markdown file into a page on the website.
+
+    Arguments:
+    path - Path to a markdown file.
+    url - The url to the page.
+    swedish - Whether the page is in Swedish or not (English).
+    """
+    return _render_page(markdown2.markdown_path(path), last_updated(path), url, swedish)
+
+
+def render_page_markdown_template(path, url, swedish, template_args):
+    """Render a templated Markdown file into a page on the website.
+
+    Arguments:
+    path - Path to a markdnwon file
+    url - The url to the page.
+    swedish - Whether the page is in Swedish or not (English).
+    template_args - Template arguments that are inserted into the markdown file.
+    """
+    with open(path, "r") as f:
+        template = string.Template(f.read())
+    content = template.safe_substitute(template_args)
+    return _render_page(markdown2.markdown(content), last_updated(path), url, swedish)
 
 
 def static_page(path):
@@ -84,7 +105,10 @@ def redirect_external(url):
 
 def create_view(md_file, url, swedish):
     """Return a function that returns a page."""
-    return lambda: render_page(md_file, url, swedish)
+    return lambda: render_page_markdown(md_file, url, swedish)
+
+def create_view_template(md_file, url, swedish, **kwargs):
+    return lambda: render_page_markdown_template(md_file, url, swedish, kwargs)
 
 
 def create_redirect(to):
@@ -158,7 +182,7 @@ for url, md_file in pages:
 @app.route("/nollesvar/")
 def nollesvar():
     """The answers for the challenge in the nollehandbok"""
-    return render_page("website/pages/nollesvar_se.md", "/nollesvar/", True)
+    return render_page_markdown("website/pages/nollesvar_se.md", "/nollesvar/", True)
 
 
 @app.route("/gitcheatsheet/")
@@ -185,6 +209,19 @@ def emacs():
 def lacc():
     """LiTHe kod's Amazing Coding Challenges"""
     return static_page("website/other/lacc.html")
+
+for day in range(1, 25 + 1):
+    url = f"/aoc/{day}/"
+    swedish_url = url + "se/"
+    english_url = url + "en/"
+
+    view = create_view_template("website/pages/aoc_day_template_se.md", url, True, day=day)
+    app.add_url_rule(swedish_url, swedish_url, view)
+
+    # view = create_view("website/pages/aoc_day_template_en.md", url, True)
+    # app.add_url_rule(english_url, english_url, view)
+
+    app.add_url_rule(url, url, create_redirect(swedish_url))
 
 
 # ========== Old redirects ==========
@@ -214,13 +251,13 @@ def posts_en():
 @app.errorhandler(404)
 def not_found(e):
     """404 Page"""
-    return render_page("website/pages/404.md", "/404/", False), 404
+    return render_page_markdown("website/pages/404.md", "/404/", False), 404
 
 
 @app.route("/404.html")
 def not_found_gh_pages():
     """404 page to please GitHub pages"""
-    return render_page("website/pages/404.md", "/404/", False)
+    return render_page_markdown("website/pages/404.md", "/404/", False)
 
 
 # ========== Running ==========
