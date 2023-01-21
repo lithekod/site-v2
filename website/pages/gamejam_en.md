@@ -3,14 +3,16 @@
   <h1>LiU Game Jam</h1>
 </div>
 
-<img src="/static/img/gamejam/banner-fgj22.png" alt="Fall Game Jam 2022" id="gamejam-banner">
+<img src="/static/img/gamejam/banner-ggj23.png" alt="Global Game Jam 2023" id="gamejam-banner">
 
-# Fall Game Jam 2022
+# Global Game Jam 2022
 
-*18:00 18th November  – 18:00 20th November*
+*18:00 3rd February  – 18:00 5th February*
 
-Join us and build kickass games together during a weekend. Once again IN REAL LIFE!
+Get ready for this year's edition of Global Game Jam! Join us and build kickass
+games together during a weekend. Once again IN REAL LIFE!
 
+<!--
 ### Information during the jam
 
 **The themes are:**
@@ -22,24 +24,36 @@ Join us and build kickass games together during a weekend. Once again IN REAL LI
 **Links to presentations:**
 
 - [Intro presentation](https://docs.google.com/presentation/d/1jzRUNTo4vnVF5JossQa-jlZC5vNmzO0d2TLGNs_hJfQ/edit?usp=sharing)
+-->
 
 ### Location
 
-The game jam will take place on site at [Spektrum, Ebbepark](https://sanktkors.se/lediga-lokaler/linkoping/ebbepark/spektrum/) in Linköping, Sweden. The location has Wi-Fi but no physical network outlets.
+The game jam will take place on site at [Spektrum,
+Ebbepark](https://sanktkors.se/lediga-lokaler/linkoping/ebbepark/spektrum/) in
+Linköping, Sweden. The location has Wi-Fi but no physical network outlets.
 
 ### How to participate
 
 In order to participate in the jam do the following:
 
-1. Join our Discord to get announcements during the jam: [Discord invite](https://discord.gg/eHgXYMS)
-2. Join the itch.io jam page where you will upload the result: [Itch.io jam](https://itch.io/jam/liu-fall-game-jam-2022)
-3. (Optional) Join the Facebook event: [Facebook event](https://www.facebook.com/events/799863874422124/)
-<br/>*This helps us approximate the number of attending jammers for better planning.*
-4. Show up at Spektrum at 18:00 18th November.
-Bring the equipment you need in order to create games: laptop and peripherals, or physical game components.
+1. Join our Discord to get announcements during the jam: [Discord
+   invite](https://discord.gg/eHgXYMS)
+2. Join our Global Game Jam site where yo will upload the resulting game:
+   [Global Game Jam site](https://globalgamejam.org/2023/jam-sites/liu-game-jam)
+3. (Optional) Join the itch.io jam page where we would like for you to upload
+   the resulting game too, so it is more accesible and can be added to our game
+   archive: [Itch.io jam](https://itch.io/jam/global-game-jam-linkoping-2023)
+4. (Optional) Join the Facebook event: [TODO Facebook
+   event]() <br/>*This helps us
+   approximate the number of attending jammers for better planning.*
+5. Show up at Spektrum at 18:00 3rd February. Bring the equipment you need in
+   order to create games: laptop and peripherals, or physical game components.
 
 ### Schedule
 
+TODO
+
+<!--
 **Friday 18th November**
 
 - 18:00: Introduction
@@ -66,9 +80,13 @@ Bring the equipment you need in order to create games: laptop and peripherals, o
     - Jammers should have cleaned their tables
 - 18:15: Final review
 - 19:00: Playtesting and showcase
+-->
 
-### Themes
+### Theme
 
+The Global Game Jam theme will be revealed at the start of the jam. No spoilers!
+
+<!--
 The themes are generated at the start of the jam by taking random pairs of words
 submitted by participants. They will be added at the top of this page after the start of the jam.
 
@@ -78,7 +96,10 @@ Theme word rules:
 - Should not be a game genre (e.g. FPS, RTS).
 - Keep it safe for work.
 
-Our theme process ensures unique and challenging themes each jam. The themes are there for inspiration during brainstorming but you can pick something else as well.
+Our theme process ensures unique and challenging themes each jam. The themes are
+there for inspiration during brainstorming but you can pick something else as
+well.
+-->
 
 ---
 
