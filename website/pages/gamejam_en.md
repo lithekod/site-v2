@@ -5,7 +5,7 @@
 
 <img src="/static/img/gamejam/banner-ggj23.png" alt="Global Game Jam 2023" id="gamejam-banner">
 
-# Global Game Jam 2022
+# Global Game Jam 2023
 
 *18:00 3rd February  – 18:00 5th February*
 
@@ -43,8 +43,8 @@ In order to participate in the jam do the following:
 3. (Optional) Join the itch.io jam page where we would like for you to upload
    the resulting game too, so it is more accesible and can be added to our game
    archive: [Itch.io jam](https://itch.io/jam/global-game-jam-linkoping-2023)
-4. (Optional) Join the Facebook event: [TODO Facebook
-   event]() <br/>*This helps us
+4. (Optional) Join the Facebook event: [Facebook
+   event](https://www.facebook.com/events/560130612731700) <br/>*This helps us
    approximate the number of attending jammers for better planning.*
 5. Show up at Spektrum at 18:00 3rd February. Bring the equipment you need in
    order to create games: laptop and peripherals, or physical game components.
