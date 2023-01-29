@@ -3,14 +3,17 @@
   <h1>LiU Game Jam</h1>
 </div>
 
-<img src="/static/img/gamejam/banner-fgj22.png" alt="Fall Game Jam 2022" id="gamejam-banner">
+<img src="/static/img/gamejam/banner-ggj23.png" alt="Global Game Jam 2023" id="gamejam-banner">
 
-# Fall Game Jam 2022
+# Global Game Jam 2023
 
-*18:00 18 november – 18:00 20 november*
+*18:00 3 februari  – 18:00 5 februari*
 
-Bygg spel ifrån grunden tillsammans under en helg.
+För dig redo för årets Global Game Jam!
+Häng med och bygg grymma spel tillsammans under en helg.
+Åter igen fysiskt på plats!
 
+<!--
 ### Information under jammet
 
 **Jammets teman är:**
@@ -22,6 +25,7 @@ Bygg spel ifrån grunden tillsammans under en helg.
 **Länkar till presentationer:**
 
 - [Intropresentation](https://docs.google.com/presentation/d/1jzRUNTo4vnVF5JossQa-jlZC5vNmzO0d2TLGNs_hJfQ/edit?usp=sharing)
+-->
 
 ### Lokal
 
@@ -31,14 +35,17 @@ Game-jammet kommer vara på [Spektrum, Ebbepark](https://sanktkors.se/lediga-lok
 
 Gör följande för att delta på eventet:
 
-1. Gå med i [vår Discord-server](https://discord.gg/eHgXYMS) för att få ny information under jammet.
-2. Gå med på [Itch.io-sidan](https://itch.io/jam/liu-fall-game-jam-2022) där vi kommer ladda upp resultatet.
-3. (Frivilligt) Gå med i [Facebook-evenemanget](https://www.facebook.com/events/799863874422124/).
+1. Gå med i [vår Discord-server](ttps://discord.gg/tP2kDvgQKn) för att få ny information under jammet.
+2. (Frivilligt) Gå med på [Itch.io-sidan](https://itch.io/jam/global-game-jam-linkoping-2023) där där du gärna får ladda ladda upp resultatet så att det är mer tillgängligt och kan läggas till i vårt spelakriv: [Itch.io-arkiv](https://itch.io/jam/global-game-jam-linkoping-2023).
+3. (Frivilligt) Gå med i [Facebook-evenemanget](https://www.facebook.com/events/560130612731700).
 <br/>*Det hjälper oss att uppskatta hur många som kommer delta, för att kunna planera jammet bättre.*
-4. Kom till Spektrum klockan 18:00 fredag 18 november. Ta med det du behöver för att bygga spel; laptop eller fysiska spelkomponenter.
+4. Kom till Spektrum klockan 18:00 fredag 3 februari. Ta med det du behöver för att bygga spel; laptop eller fysiska spelkomponenter.
 
 ### Schema
 
+Kommer snart...
+
+<!--
 **Fredag 18 november**
 
 - 18:00 Introduktion
@@ -65,9 +72,13 @@ Gör följande för att delta på eventet:
     - Deltagare ska ha städat sina bord och sin omgivning
 - 18:15: Slutredovisning
 - 19:00: Speltestning och uppvisning
+-->
 
-### Teman
+### Tema
 
+Temat för Global Jam Jam kommer avslöjas när jammet börjar. Inga spoilers!
+
+<!--
 Teman för eventet skapas under introduktionen genom att para ihop ord som lämnats in av deltagarna.
 
 Regler för tema-ord:
@@ -77,6 +88,7 @@ Regler för tema-ord:
 - Undvik osedligt innehåll. (Ska vara safe for work.)
 
 Vår temaprocess skapar unika och utmanande teman varje jam. De finns som inspiration under brainstormsessionen, men du kan bygga efter egna idéer också.
+-->
 
 ---
 
