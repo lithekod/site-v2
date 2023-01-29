@@ -112,7 +112,7 @@ create games; both computer games and board games. At our game jam there is a
 # Other channels
 Follow LiU Game Jam on the following channels.
 
-- [Discord server](https://discord.gg/eHgXYMS)
+- [Discord server](https://discord.gg/tP2kDvgQKn)
 - [Facebook page](https://www.facebook.com/liugamejam/)
 - [Twitter](https://twitter.com/LiuGameJam)
 - [Newsletter](http://us12.campaign-archive2.com/home/?u=092a6fffba8f6063437a51495&id=c3863c4bf5)
