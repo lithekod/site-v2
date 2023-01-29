@@ -91,7 +91,7 @@ spel på!
 
 LiU Game Jam kan följas i dessa kanaler.
 
-- [Discord](https://discord.gg/eHgXYMS)
+- [Discord](https://discord.gg/tP2kDvgQKn)
 - [Facebook](https://www.facebook.com/liugamejam/)
 - [Twitter](https://twitter.com/LiuGameJam)
 - [Nyhetsbrev](http://us12.campaign-archive2.com/home/?u=092a6fffba8f6063437a51495&id=c3863c4bf5)
