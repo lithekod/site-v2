@@ -38,7 +38,7 @@ In order to participate in the jam do the following:
 
 1. Join our Global Game Jam site where you will upload the resulting game:
    [Global Game Jam site](https://globalgamejam.org/2023/jam-sites/liu-game-jam)
-2. Show up at Spektrum at 18:00 3rd February. Bring the equipment you need in
+2. Show up at Spektrum at (or a bit before) 18:00 3rd February. Bring the equipment you need in
    order to create games: laptop and peripherals, or physical game components.
 
 Optionally:
@@ -55,18 +55,16 @@ Optionally:
 
 ### Schedule
 
-Coming soon...
+**Friday 3rd February**
 
-<!--
-**Friday 18th November**
-
+- From ~17:30: Watchalong of Global Game Jam-stream
 - 18:00: Introduction
-    - Theme generation
+    - Theme reveal
     - Brainstorming
     - Group forming
 - 18:10: Joint pizza order deadline
 
-**Saturday 19th November**
+**Saturday 4th February**
 
 - 09:00: Spektrum opens
     - Breakfast (free)
@@ -74,17 +72,16 @@ Coming soon...
 - Around 18:00: Chinese food arrival and buffet
 - Around 18:15: Half time review
 
-**Sunday 20th November**
+**Sunday 5th February**
 
 - 09:00: Spektrum opens
     - Breakfast (free)
 - 11:00: Joint sushi order deadline
 - 18:00: Game creation deadline
-    - Resulting games should be uploaded to itch.io
+    - Resulting games should be uploaded to globalgamejam.org and itch.io
     - Jammers should have cleaned their tables
 - 18:15: Final review
 - 19:00: Playtesting and showcase
--->
 
 ### Theme
 
