@@ -35,13 +35,18 @@ Game-jammet kommer vara på [Spektrum, Ebbepark](https://sanktkors.se/lediga-lok
 
 Gör följande för att delta på eventet:
 
-1. Gå med i [vår Discord-server](https://discord.gg/tP2kDvgQKn) för att få ny information under jammet.
-2. (Frivilligt) Gå med på [Itch.io-sidan](https://itch.io/jam/global-game-jam-linkoping-2023) där där du gärna får ladda upp resultatet så att det blir mer tillgängligt och kan läggas till i vårt spelakriv:
+1. Gå med i vår Global Game Jam-site för att kunna ladda upp ditt skapade spel efter jammet:
+   [Global Game Jam-site](https://globalgamejam.org/2023/jam-sites/liu-game-jam)
+2. Kom till Spektrum klockan 18:00 fredag 3 februari. Ta med det du behöver för att bygga spel; laptop eller fysiska spelkomponenter.
+
+Valfritt:
+
+3. Gå med på [Itch.io-sidan](https://itch.io/jam/global-game-jam-linkoping-2023) där där du gärna får ladda upp resultatet så att det blir mer tillgängligt och kan läggas till i vårt spelakriv:
 [Itch.io-arkiv](https://itch.io/jam/global-game-jam-linkoping-2023).
-3. (Frivilligt) Gå med i
+4. Gå med i [vår Discord-server](https://discord.gg/tP2kDvgQKn) för att få ny information under jammet.
+5. Gå med i
 [Facebook-evenemanget](https://www.facebook.com/events/560130612731700).
 <br/>*Det hjälper oss att uppskatta hur många som kommer delta, för att kunna planera jammet bättre.*
-4. Kom till Spektrum klockan 18:00 fredag 3 februari. Ta med det du behöver för att bygga spel; laptop eller fysiska spelkomponenter.
 
 ### Schema
 

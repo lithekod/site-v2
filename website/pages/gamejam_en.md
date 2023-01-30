@@ -36,19 +36,22 @@ Linköping, Sweden. The location has Wi-Fi but no physical network outlets.
 
 In order to participate in the jam do the following:
 
-1. Join our Discord to get announcements during the jam:
-   [Discord invite](https://discord.gg/tP2kDvgQKn)
-2. Join our Global Game Jam site where yo will upload the resulting game:
+1. Join our Global Game Jam site where you will upload the resulting game:
    [Global Game Jam site](https://globalgamejam.org/2023/jam-sites/liu-game-jam)
-3. (Optional) Join the itch.io jam page where we would like for you to upload
+2. Show up at Spektrum at 18:00 3rd February. Bring the equipment you need in
+   order to create games: laptop and peripherals, or physical game components.
+
+Optionally:
+
+3. Join the itch.io jam page where we would like for you to upload
    the resulting game too, so it is more accesible and can be added to our game
    archive:
    [Itch.io Archive](https://itch.io/jam/global-game-jam-linkoping-2023)
-4. (Optional) Join the Facebook event:
+4. Join our Discord to get announcements during the jam:
+   [Discord invite](https://discord.gg/tP2kDvgQKn)
+5. Join the Facebook event:
    [Facebook event](https://www.facebook.com/events/560130612731700) <br/>*This helps us
    approximate the number of attending jammers for better planning.*
-5. Show up at Spektrum at 18:00 3rd February. Bring the equipment you need in
-   order to create games: laptop and peripherals, or physical game components.
 
 ### Schedule
 
