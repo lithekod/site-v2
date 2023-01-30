@@ -37,7 +37,7 @@ Gör följande för att delta på eventet:
 
 1. Gå med i vår Global Game Jam-site för att kunna ladda upp ditt skapade spel efter jammet:
    [Global Game Jam-site](https://globalgamejam.org/2023/jam-sites/liu-game-jam)
-2. Kom till Spektrum klockan 18:00 fredag 3 februari. Ta med det du behöver för att bygga spel; laptop eller fysiska spelkomponenter.
+2. Kom till Spektrum klockan 18:00 (eller lite tidigare) fredag 3 februari. Ta med det du behöver för att bygga spel; laptop eller fysiska spelkomponenter.
 
 Valfritt:
 
@@ -50,18 +50,16 @@ Valfritt:
 
 ### Schema
 
-Kommer snart...
+**Fredag 3 februari**
 
-<!--
-**Fredag 18 november**
-
+- Från ~17:30: Watchalong av Global Game Jam-streamen
 - 18:00 Introduktion
-    - Temaskapande
+    - Temareveal
     - Brainstorming
     - Gruppskapande
 - 18:10 Gemensam pizza-beställning (deadline)
 
-**Lördag 19 november**
+**Lördag 4 februari**
 
 - 09:00 Spektrum öppnar
     - Frukost (gratis)
@@ -69,21 +67,20 @@ Kommer snart...
 - Runt 18:00: Kinabuffé serveras
 - Runt 18:15: Halvtidsredovisning
 
-**Söndag 20 november**
+**Söndag 5 februari**
 
 - 09:00 Spektrum öppnar
     - Frukost (gratis)
 - 11:00 Gemensam sushi-beställning (deadline)
 - 18:00 Game Jam-deadline
-    - Spelen ska vara uppladdade till itch.io
+    - Spelen ska vara uppladdade till globalgamejam.org och itch.io
     - Deltagare ska ha städat sina bord och sin omgivning
 - 18:15: Slutredovisning
 - 19:00: Speltestning och uppvisning
--->
 
 ### Tema
 
-Temat för Global Jam Jam kommer avslöjas när jammet börjar. Inga spoilers!
+Temat för Global Game Jam kommer avslöjas när jammet börjar. Inga spoilers!
 
 <!--
 Teman för eventet skapas under introduktionen genom att para ihop ord som lämnats in av deltagarna.
