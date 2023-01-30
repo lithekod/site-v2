@@ -37,7 +37,7 @@ Linköping, Sweden. The location has Wi-Fi but no physical network outlets.
 In order to participate in the jam do the following:
 
 1. Join our Discord to get announcements during the jam:
-   [Discord invite](ttps://discord.gg/tP2kDvgQKn)
+   [Discord invite](https://discord.gg/tP2kDvgQKn)
 2. Join our Global Game Jam site where yo will upload the resulting game:
    [Global Game Jam site](https://globalgamejam.org/2023/jam-sites/liu-game-jam)
 3. (Optional) Join the itch.io jam page where we would like for you to upload

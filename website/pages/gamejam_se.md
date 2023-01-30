@@ -35,7 +35,7 @@ Game-jammet kommer vara på [Spektrum, Ebbepark](https://sanktkors.se/lediga-lok
 
 Gör följande för att delta på eventet:
 
-1. Gå med i [vår Discord-server](ttps://discord.gg/tP2kDvgQKn) för att få ny information under jammet.
+1. Gå med i [vår Discord-server](https://discord.gg/tP2kDvgQKn) för att få ny information under jammet.
 2. (Frivilligt) Gå med på [Itch.io-sidan](https://itch.io/jam/global-game-jam-linkoping-2023) där där du gärna får ladda upp resultatet så att det blir mer tillgängligt och kan läggas till i vårt spelakriv:
 [Itch.io-arkiv](https://itch.io/jam/global-game-jam-linkoping-2023).
 3. (Frivilligt) Gå med i
