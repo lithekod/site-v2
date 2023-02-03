@@ -13,19 +13,11 @@ För dig redo för årets Global Game Jam!
 Häng med och bygg grymma spel tillsammans under en helg.
 Åter igen fysiskt på plats!
 
-<!--
 ### Information under jammet
-
-**Jammets teman är:**
-
-- Roman Cages
-- Inside-out Gardening
-- Radiating Mimics
 
 **Länkar till presentationer:**
 
-- [Intropresentation](https://docs.google.com/presentation/d/1jzRUNTo4vnVF5JossQa-jlZC5vNmzO0d2TLGNs_hJfQ/edit?usp=sharing)
--->
+- [Intropresentation](https://docs.google.com/presentation/d/1EA3n-ThSHvlgNE4G2nQvKbYcvy4TSG7nsjvsMl5ZRXU/edit?usp=sharing)
 
 ### Lokal
 
