@@ -12,19 +12,11 @@
 Get ready for this year's edition of Global Game Jam! Join us and build kickass
 games together during a weekend. Once again IN REAL LIFE!
 
-<!--
 ### Information during the jam
-
-**The themes are:**
-
-- Roman Cages
-- Inside-out Gardening
-- Radiating Mimics
 
 **Links to presentations:**
 
-- [Intro presentation](https://docs.google.com/presentation/d/1jzRUNTo4vnVF5JossQa-jlZC5vNmzO0d2TLGNs_hJfQ/edit?usp=sharing)
--->
+- [Intro presentation](https://docs.google.com/presentation/d/1EA3n-ThSHvlgNE4G2nQvKbYcvy4TSG7nsjvsMl5ZRXU/edit?usp=sharing)
 
 ### Location
 
