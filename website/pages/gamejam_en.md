@@ -16,7 +16,9 @@ games together during a weekend. Once again IN REAL LIFE!
 
 **Links to presentations:**
 
+
 - [Intro presentation](https://docs.google.com/presentation/d/1EA3n-ThSHvlgNE4G2nQvKbYcvy4TSG7nsjvsMl5ZRXU/edit?usp=sharing)
+- [Half-time review](https://docs.google.com/presentation/d/1UjYZYZBvChAFsoXxSmuXvchZZ1m_ujrgJVpx3eva3O8/edit?usp=sharing)
 
 ### Location
 

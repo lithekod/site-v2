@@ -18,6 +18,7 @@ Häng med och bygg grymma spel tillsammans under en helg.
 **Länkar till presentationer:**
 
 - [Intropresentation](https://docs.google.com/presentation/d/1EA3n-ThSHvlgNE4G2nQvKbYcvy4TSG7nsjvsMl5ZRXU/edit?usp=sharing)
+- [Halvtidspresentation](https://docs.google.com/presentation/d/1UjYZYZBvChAFsoXxSmuXvchZZ1m_ujrgJVpx3eva3O8/edit?usp=sharing)
 
 ### Lokal
 
