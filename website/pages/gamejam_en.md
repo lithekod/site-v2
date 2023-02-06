@@ -3,22 +3,35 @@
   <h1>LiU Game Jam</h1>
 </div>
 
+# Spring Game Jam 2023
+
+LiU Game Jam will return in spring with Spring Game Jam 2023. Join [our
+Discord-server](https://discord.gg/tP2kDvgQKn) so you don't miss the date!
+
+---
+
 <img src="/static/img/gamejam/banner-ggj23.png" alt="Global Game Jam 2023" id="gamejam-banner">
 
 # Global Game Jam 2023
 
 *18:00 3rd February  – 18:00 5th February*
 
+**Links to presentations:**
+
+- [Intro presentation](https://docs.google.com/presentation/d/1EA3n-ThSHvlgNE4G2nQvKbYcvy4TSG7nsjvsMl5ZRXU/edit?usp=sharing)
+- [Half-time review](https://docs.google.com/presentation/d/1UjYZYZBvChAFsoXxSmuXvchZZ1m_ujrgJVpx3eva3O8/edit?usp=sharing)
+- [Final presentation](https://docs.google.com/presentation/d/1A9eh3X_v_os2szcBEg5TiPxiJD3irqZCvdezA5mL1Ns/edit?usp=sharing)
+
+If you want to add your game to [our
+Itch-jam](https://itch.io/jam/global-game-jam-linkoping-2023) please write to us
+in Discord.
+
+<!--
 Get ready for this year's edition of Global Game Jam! Join us and build kickass
 games together during a weekend. Once again IN REAL LIFE!
 
 ### Information during the jam
 
-**Links to presentations:**
-
-
-- [Intro presentation](https://docs.google.com/presentation/d/1EA3n-ThSHvlgNE4G2nQvKbYcvy4TSG7nsjvsMl5ZRXU/edit?usp=sharing)
-- [Half-time review](https://docs.google.com/presentation/d/1UjYZYZBvChAFsoXxSmuXvchZZ1m_ujrgJVpx3eva3O8/edit?usp=sharing)
 
 ### Location
 
@@ -81,7 +94,6 @@ Optionally:
 
 The Global Game Jam theme will be revealed at the start of the jam. No spoilers!
 
-<!--
 The themes are generated at the start of the jam by taking random pairs of words
 submitted by participants. They will be added at the top of this page after the start of the jam.
 

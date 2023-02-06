@@ -3,13 +3,31 @@
   <h1>LiU Game Jam</h1>
 </div>
 
+# Spring Game Jam 2023
+
+LiU Game Jam återvänder i vår med Spring Game Jam 2023. Gå med i [vår
+Discordserver](https://discord.gg/tP2kDvgQKn) så du inte missar datumet!
+
+---
+
 <img src="/static/img/gamejam/banner-ggj23.png" alt="Global Game Jam 2023" id="gamejam-banner">
 
 # Global Game Jam 2023
 
 *18:00 3 februari  – 18:00 5 februari*
 
-För dig redo för årets Global Game Jam!
+**Länkar till presentationer:**
+
+- [Intropresentation](https://docs.google.com/presentation/d/1EA3n-ThSHvlgNE4G2nQvKbYcvy4TSG7nsjvsMl5ZRXU/edit?usp=sharing)
+- [Halvtidsredovisning](https://docs.google.com/presentation/d/1UjYZYZBvChAFsoXxSmuXvchZZ1m_ujrgJVpx3eva3O8/edit?usp=sharing)
+- [Slutpresentation](https://docs.google.com/presentation/d/1A9eh3X_v_os2szcBEg5TiPxiJD3irqZCvdezA5mL1Ns/edit?usp=sharing)
+
+Om du vill lägga till ditt spel till [vårt
+Itch-jam](https://itch.io/jam/global-game-jam-linkoping-2023) får du gärna
+skriva till oss på Discord.
+
+<!--
+Gör dig redo för årets Global Game Jam!
 Häng med och bygg grymma spel tillsammans under en helg.
 Åter igen fysiskt på plats!
 
@@ -75,7 +93,6 @@ Valfritt:
 
 Temat för Global Game Jam kommer avslöjas när jammet börjar. Inga spoilers!
 
-<!--
 Teman för eventet skapas under introduktionen genom att para ihop ord som lämnats in av deltagarna.
 
 Regler för tema-ord:

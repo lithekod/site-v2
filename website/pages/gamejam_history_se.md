@@ -15,11 +15,15 @@ Du kan också läsa våra [gamla nyhetsbrev](http://us12.campaign-archive2.com/h
 
 Nedan listas samtliga jam vi har arrangerat tillsammans med deras tema(n) och relevanta länkar i de fall då dessa finns att tillgå:
 
+### 2023
+
+- Global Game Jam Linköping 2023 - _"Roots"_ - [Itch.io](https://itch.io/jam/global-game-jam-linkoping-2023), [Intro](https://docs.google.com/presentation/d/1EA3n-ThSHvlgNE4G2nQvKbYcvy4TSG7nsjvsMl5ZRXU/edit?usp=sharing), [Halvtidsredovisning](https://docs.google.com/presentation/d/1UjYZYZBvChAFsoXxSmuXvchZZ1m_ujrgJVpx3eva3O8/edit?usp=sharing), [Slutpresentation](https://docs.google.com/presentation/d/1A9eh3X_v_os2szcBEg5TiPxiJD3irqZCvdezA5mL1Ns/edit?usp=sharing)
+
 ### 2022
 
+-   Fall Game Jam 2022 - _"Roman Cages", "Inside-out Gardening", "Radiating Mimics"_ - [Itch.io](https://itch.io/jam/liu-fall-game-jam-2022), [Intro](https://docs.google.com/presentation/d/1jzRUNTo4vnVF5JossQa-jlZC5vNmzO0d2TLGNs_hJfQ/edit?usp=sharing), [Halvtidsredovisning](https://docs.google.com/presentation/d/1Z3sl2VyVlKPWGVz1XAX8Gy3D0bwck41sddYiAWMGWnE/edit?usp=sharing), [Presentation](https://docs.google.com/presentation/d/1E-L2Khk5zTP4tLuA2wuJml-4XA4-QzTFbJSypIO7d88/edit?usp=sharing)
 -   Spring Game Jam 2022 - _"Banana Energy", "Coral-reef Monkey", "Cthulhu Capybara"_ - [Itch.io](https://itch.io/jam/spring-game-jam-2022/entries), [Intro](https://docs.google.com/presentation/d/1N16S1CwCrhD45l4MuABPXQyD9EIOmpdiU4mXwLfuH1g/edit?usp=sharing), [Halvtidsredovisning](https://docs.google.com/presentation/d/1ZpSNFklXwhvTgO6uHj-yqyx6l-fvToWHU7DS7ZRBlMA/edit?usp=sharing), [Presentation](https://docs.google.com/presentation/d/1gKwcsF_iCu5AqUBUjfJAWL8zFdzq7CFOMZdumaj0tlQ/edit?usp=sharing)
 -   Global Game Jam Linköping 2022 - _"Duality"_ - [Itch.io](https://itch.io/jam/global-game-jam-linkping-2022), [Global Game Jam](https://globalgamejam.org/2022/jam-sites/liu-game-jam), [Intro](https://www.youtube.com/watch?v=TfqLkhcl_4I), [Presentation](https://www.youtube.com/watch?v=pB0z86u8D-s)
--   Fall Game Jam 2022 - _"Roman Cages", "Inside-out Gardening", "Radiating Mimics"_ - [Itch.io](https://itch.io/jam/liu-fall-game-jam-2022), [Intro](https://docs.google.com/presentation/d/1jzRUNTo4vnVF5JossQa-jlZC5vNmzO0d2TLGNs_hJfQ/edit?usp=sharing), [Halvtidsredovisning](https://docs.google.com/presentation/d/1Z3sl2VyVlKPWGVz1XAX8Gy3D0bwck41sddYiAWMGWnE/edit?usp=sharing), [Presentation](https://docs.google.com/presentation/d/1E-L2Khk5zTP4tLuA2wuJml-4XA4-QzTFbJSypIO7d88/edit?usp=sharing)
 
 ### 2021
 
