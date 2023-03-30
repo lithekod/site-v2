@@ -133,6 +133,7 @@ pages = [
     ("/git/", "website/pages/git_{}.md"),
 
     ("/lodol/", "website/pages/lodol_{}.md"),
+    ("/liu-challenge/", "website/pages/liu_challenge_{}.md"),
 ]
 
 for url, md_file in pages:
