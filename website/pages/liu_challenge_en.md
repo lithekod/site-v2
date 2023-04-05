@@ -2,7 +2,7 @@
 
 LiTHe kod are proud to once again be part of Swedish Coding Cup with LiU Challenge 23. LiU Challenge 23 is a competetive programming contest consisting of problems concieved by LiU students. LiU Challenge is an open contest where you can compete against the best problem solvers in Sweden to determine whose keyboard prestidigitation is the finest!
 
-When? - !5 April, 12.00 intro. Competition start 13.00<br />
+When? - 15 April, 12.00 intro. Competition start 13.00<br />
 Where? - Ada Lovelace, B-huset on campus, door 27<br />
 How? Remote or on-site<br />
 
