@@ -11,7 +11,7 @@ Tidigare protokoll finns i [arkivet på vår Github](https://github.com/lithekod
 
 ## Vårmöte 2023
 
-Vårmötet kommer preliminärt att hållas XX den YY maj kl 18.15 i Ada Lovelace.
+Vårmötet kommer preliminärt att hållas onsdag den 16 maj kl 18.15 i Ada Lovelace.
 Samtliga medlemmar får närvara med rösträtt. Nedan följer mötets preliminära
 föredragningslista.
 
@@ -26,26 +26,30 @@ föredragningslista.
 - Proposition: Testa och utvärdera en intern projektstruktur för föreningens
   verksamhet för nästa verksamhetsår. [Propositionen går att läsa som bilaga A.]
 - Personval för verksamhetsåret 23/24
-  - Styrelsen
-    - Val av styrelsens ordförande
-    - Val av styrelsens vice ordförande
-    - Val av styrelsens kassör
-    - Val av styrelsens verksamhetsansvarig
-    - Val av styrelseledamöter
-  - Projektledare _(om propositionen för intern projektstruktur godtas)_
-    - Val av projektledare för LiU Game Jam (alternativt val av Game
-      Jam-ansvarig)
-    - Val av projektledare för hårdvarugruppen
-    - Val av projektledare för www
-    - Val av projektledare för meetups
-    - Val av projektledare för lokalen
+    - Styrelsen
+        - Val av styrelsens ordförande
+        - Val av styrelsens vice ordförande
+        - Val av styrelsens kassör
+        - Val av styrelsens verksamhetsansvarig
+        - Val av styrelseledamöter
+    - Projektledare _(om propositionen för intern projektstruktur godtas)_
+        - Val av projektledare för LiU Game Jam (alternativt val av Game Jam-ansvarig)
+        - Val av projektledare för hårdvarugruppen
+        - Val av projektledare för www
+        - Val av projektledare för meetups
+        - Val av projektledare för lokalen
+        - Val av projektledare för tävlingsprogrammering
+    - Val av revisor
 - Fastställande av föreningens budget för verksamhetsåret 23/24
 - Fastställande av föreningens medlemsavgift för verksamhetsåret 23/24
 - Motioner och propositioner
-  - Proposition: diverse stavfel i stadgarna
+  <!-- Proposition: diverse stavfel i stadgarna -->
 - Övriga frågor
 
-[Bilaga A: ---]()
+### Bilagor
+
+- [Bilaga A.1: Proposition: projektstruktur](/static/pdf/vårmöte2023-proposition-projekt.pdf)
+- [Bilaga A.2: Rapport om projektstruktur från styrelsen](/static/pdf/vårmöte2023-rapport-projekt.pdf)
 
 <!--
 Exempel på föredragningslistor för vårmöten och höstmöten
@@ -64,19 +68,20 @@ från arkivet, en gammal git-commit eller stadgarna (ew).
 - Föregånde verksamhetsårs styrelses ekomomiska berättelse
 - Revisorns preliminära granskning av verksamhetsåret
 - Personval för verksamhetsåret XX/YY
-  - Styrelsen:
-    - Val av styrelsens ordförande
-    - Val av styrelsens vice ordförande
-    - Val av styrelsens kassör
-    - Val av styrelsens verksamhetsansvarig
-    - Val av styrelseledamöter
-  - Projektledare:
-    - Val av projektledare för LiU Game Jam
-    - Val av projektledare för hårdvarugruppen
-    - Val av projektledare för www
-    - Val av projektledare för meetups
-    - Val av projektledare för lokalen
-  - Val av revisor
+    - Styrelsen
+        - Val av styrelsens ordförande
+        - Val av styrelsens vice ordförande
+        - Val av styrelsens kassör
+        - Val av styrelsens verksamhetsansvarig
+        - Val av styrelseledamöter
+    - Projektledare _(om propositionen för intern projektstruktur godtas)_
+        - Val av projektledare för LiU Game Jam (alternativt val av Game Jam-ansvarig)
+        - Val av projektledare för hårdvarugruppen
+        - Val av projektledare för www
+        - Val av projektledare för meetups
+        - Val av projektledare för lokalen
+        - Val av projektledare för tävlingsprogrammering
+    - Val av revisor
 - Fastställande av föreningens budget för verksamhetsåret XX/YY
 - Fastställande av föreningens medlemsavgift för verksamhetsåret XX/YY
 - Motioner och propositioner
