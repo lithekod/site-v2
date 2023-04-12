@@ -13,7 +13,7 @@ Tidigare protokoll finns i [arkivet på vår Github](https://github.com/lithekod
 
 Vårmötet kommer preliminärt att hållas XX den YY maj kl 18.15 i Ada Lovelace.
 Samtliga medlemmar får närvara med rösträtt. Nedan följer mötets preliminära
-föredrangingslista.
+föredragningslista.
 
 - Val av mötesordförande
 - Val av mötessekreterare
