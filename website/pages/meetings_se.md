@@ -48,8 +48,9 @@ föredragningslista.
 
 ### Bilagor
 
-- [Bilaga A.1: Proposition: projektstruktur](/static/pdf/vårmöte2023-proposition-projekt.pdf)
-- [Bilaga A.2: Rapport om projektstruktur från styrelsen](/static/pdf/vårmöte2023-rapport-projekt.pdf)
+- [Bilaga A.1: Proposition: projektstruktur](/static/pdf/vårmöte2023/proposition-projekt.pdf)
+- [Bilaga A.2: Rapport om projektstruktur från styrelsen](/static/pdf/vårmöte2023/rapport-projekt.pdf)
+- [Bilaga A.3: Förslag till projektdirektiv](/static/pdf/vårmöte2023/rapport-projekt.pdf)
 
 <!--
 Exempel på föredragningslistor för vårmöten och höstmöten
