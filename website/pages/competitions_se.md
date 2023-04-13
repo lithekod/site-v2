@@ -9,3 +9,5 @@ Sidan är kontinuerligt uppdaterad så de senaste tävlingarna ligger längst up
 ## [NCPC](/ncpc/se)
 
 ## [IMPA](/impa/se)
+
+## [LiU Challenge](/liu-challenge/en)
