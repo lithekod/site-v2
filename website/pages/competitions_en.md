@@ -9,3 +9,5 @@ The page is updated continually so that the latest competitions appear first.
 ## [NCPC](/ncpc/en)
 
 ## [IMPA](/impa/en)
+
+## [LiU Challenge](/liu-challenge/en)

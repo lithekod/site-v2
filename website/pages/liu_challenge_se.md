@@ -6,7 +6,6 @@ When? - 15 April, 12.00 intro. Competition start 13.00<br />
 Where? - Ada Lovelace, B-huset on campus, door 27<br />
 How? Remote or on-site<br />
 
-(not online yet)
 Contest URL - [https://liuchallenge23.kattis.com/contests/liuchallenge23](https://liuchallenge23.kattis.com/contests/liuchallenge23)
 
 Competitors on-site can get food/compete for prices by registrating [here](https://docs.google.com/forms/d/e/1FAIpQLSdaItQiHxTImo-TGNbjssCeLzSe1qVLzK-EpczlVrYO0MKwQw/viewform?usp=sf_link)
