@@ -23,7 +23,7 @@ föredragningslista.
 - Föregånde verksamhetsårs styrelses verksamhetsberättelse
 - Föregånde verksamhetsårs styrelses ekomomiska berättelse
 - Revisorns preliminära granskning av verksamhetsåret
-- Proposition: Testa och utvärdera en intern projektstruktur för föreningens
+- Proposition: Testa och utvärdera en undergrupper för föreningens
   verksamhet för nästa verksamhetsår. [Propositionen går att läsa som bilaga A.]
 - Personval för verksamhetsåret 23/24
     - Styrelsen
@@ -32,13 +32,13 @@ föredragningslista.
         - Val av styrelsens kassör
         - Val av styrelsens verksamhetsansvarig
         - Val av styrelseledamöter
-    - Projektledare _(om propositionen för intern projektstruktur godtas)_
-        - Val av projektledare för LiU Game Jam (alternativt val av Game Jam-ansvarig)
-        - Val av projektledare för hårdvarugruppen
-        - Val av projektledare för www
-        - Val av projektledare för meetups
-        - Val av projektledare för lokalen
-        - Val av projektledare för tävlingsprogrammering
+    - Projektledare _(om propositionen för undergrupper godtas)_
+        - Val av gruppledare för LiU Game Jam (alternativt val av Game Jam-ansvarig)
+        - Val av gruppledare för hårdvarugruppen
+        - Val av gruppledare för WWW-gruppen
+        - Val av gruppledare för meetupgruppen
+        - Val av gruppledare för lokalgruppen
+        - Val av gruppledare för tävlingsprogrammeringsgruppen
     - Val av revisor
 - Fastställande av föreningens budget för verksamhetsåret 23/24
 - Fastställande av föreningens medlemsavgift för verksamhetsåret 23/24
@@ -48,9 +48,9 @@ föredragningslista.
 
 ### Bilagor
 
-- [Bilaga A.1: Proposition: projektstruktur](/static/pdf/vårmöte2023/proposition-projekt.pdf)
-- [Bilaga A.2: Rapport om projektstruktur från styrelsen](/static/pdf/vårmöte2023/rapport-projekt.pdf)
-- [Bilaga A.3: Förslag till projektdirektiv](/static/pdf/vårmöte2023/projektdirektiv.pdf)
+- [Bilaga A.1: Proposition: undergrupper](/static/pdf/vårmöte2023/proposition-undergrupper.pdf)
+- [Bilaga A.2: Rapport om undergrupper från styrelsen](/static/pdf/vårmöte2023/rapport-undergrupper.pdf)
+- [Bilaga A.3: Förslag till gruppdirektiv](/static/pdf/vårmöte2023/gruppdirektiv.pdf)
 
 <!--
 Exempel på föredragningslistor för vårmöten och höstmöten
