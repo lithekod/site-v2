@@ -5,38 +5,22 @@
 
 # Spring Game Jam 2023
 
-LiU Game Jam återvänder i vår med Spring Game Jam 2023. Gå med i [vår
-Discordserver](https://discord.gg/tP2kDvgQKn) så du inte missar datumet!
+*18:00 12 maj  – 18:00 14 maj*
 
----
+<div id=important-information>
+<p>
+Medan du väntar, <a href="https://discord.gg/tP2kDvgQKn">kom å häng i vår Discord-server</a>!
+</p>
+</div>
 
-<img src="/static/img/gamejam/banner-ggj23.png" alt="Global Game Jam 2023" id="gamejam-banner">
+<!-- <img src="/static/img/gamejam/banner-ggj23.png" alt="Global Game Jam 2023" id="gamejam-banner"> -->
 
-# Global Game Jam 2023
-
-*18:00 3 februari  – 18:00 5 februari*
-
-**Länkar till presentationer:**
-
-- [Intropresentation](https://docs.google.com/presentation/d/1EA3n-ThSHvlgNE4G2nQvKbYcvy4TSG7nsjvsMl5ZRXU/edit?usp=sharing)
-- [Halvtidsredovisning](https://docs.google.com/presentation/d/1UjYZYZBvChAFsoXxSmuXvchZZ1m_ujrgJVpx3eva3O8/edit?usp=sharing)
-- [Slutpresentation](https://docs.google.com/presentation/d/1A9eh3X_v_os2szcBEg5TiPxiJD3irqZCvdezA5mL1Ns/edit?usp=sharing)
-
-Om du vill lägga till ditt spel till [vårt
-Itch-jam](https://itch.io/jam/global-game-jam-linkoping-2023) får du gärna
-skriva till oss på Discord.
+Gör dig redo för årets Spring Game Jam! Häng med och bygg grymma spel
+tillsammans under en helg. Åter igen fysiskt på plats!
 
 <!--
-Gör dig redo för årets Global Game Jam!
-Häng med och bygg grymma spel tillsammans under en helg.
-Åter igen fysiskt på plats!
-
 ### Information under jammet
-
-**Länkar till presentationer:**
-
-- [Intropresentation](https://docs.google.com/presentation/d/1EA3n-ThSHvlgNE4G2nQvKbYcvy4TSG7nsjvsMl5ZRXU/edit?usp=sharing)
-- [Halvtidspresentation](https://docs.google.com/presentation/d/1UjYZYZBvChAFsoXxSmuXvchZZ1m_ujrgJVpx3eva3O8/edit?usp=sharing)
+-->
 
 ### Lokal
 
@@ -44,33 +28,28 @@ Game-jammet kommer vara på [Spektrum, Ebbepark](https://sanktkors.se/lediga-lok
 
 ### Delta
 
-Gör följande för att delta på eventet:
-
-1. Gå med i vår Global Game Jam-site för att kunna ladda upp ditt skapade spel efter jammet:
-   [Global Game Jam-site](https://globalgamejam.org/2023/jam-sites/liu-game-jam)
-2. Kom till Spektrum klockan 18:00 (eller lite tidigare) fredag 3 februari. Ta med det du behöver för att bygga spel; laptop eller fysiska spelkomponenter.
+För att delta på evenemanget: kom till Spektrum klockan 18:00 (eller lite tidigare) fredag den 12 maj. Ta med det du behöver för att bygga spel; laptop eller fysiska spelkomponenter.
 
 Valfritt:
 
-3. Gå med på [Itch.io-sidan](https://itch.io/jam/global-game-jam-linkoping-2023) där där du gärna får ladda upp resultatet så att det blir mer tillgängligt och kan läggas till i vårt spelakriv:
-[Itch.io-arkiv](https://itch.io/jam/global-game-jam-linkoping-2023).
-4. Gå med i [vår Discord-server](https://discord.gg/tP2kDvgQKn) för att få ny information under jammet.
-5. Gå med i
-[Facebook-evenemanget](https://www.facebook.com/events/560130612731700).
+0. Gå med på [Itch.io-sidan](https://itch.io/jam/liu-spring-game-jam-2023) där där du gärna får ladda upp resultatet så att det blir mer tillgängligt och kan läggas till i vårt spelakriv:
+[Itch.io-arkiv](https://itch.io/c/64050/liu-game-jam).
+0. Gå med i [vår Discord-server](https://discord.gg/tP2kDvgQKn) för att få ny information under jammet.
+0. Gå med i
+[Facebook-evenemanget](https://www.facebook.com/events/786567499340170).
 <br/>*Det hjälper oss att uppskatta hur många som kommer delta, för att kunna planera jammet bättre.*
 
 ### Schema
 
-**Fredag 3 februari**
+**Fredag 12 maj**
 
-- Från ~17:30: Watchalong av Global Game Jam-streamen
 - 18:00 Introduktion
     - Temareveal
     - Brainstorming
     - Gruppskapande
 - 18:10 Gemensam pizza-beställning (deadline)
 
-**Lördag 4 februari**
+**Lördag 13 maj**
 
 - 09:00 Spektrum öppnar
     - Frukost (gratis)
@@ -78,7 +57,7 @@ Valfritt:
 - Runt 18:00: Kinabuffé serveras
 - Runt 18:15: Halvtidsredovisning
 
-**Söndag 5 februari**
+**Söndag 14 maj**
 
 - 09:00 Spektrum öppnar
     - Frukost (gratis)
@@ -91,8 +70,6 @@ Valfritt:
 
 ### Tema
 
-Temat för Global Game Jam kommer avslöjas när jammet börjar. Inga spoilers!
-
 Teman för eventet skapas under introduktionen genom att para ihop ord som lämnats in av deltagarna.
 
 Regler för tema-ord:
@@ -102,7 +79,6 @@ Regler för tema-ord:
 - Undvik osedligt innehåll. (Ska vara safe for work.)
 
 Vår temaprocess skapar unika och utmanande teman varje jam. De finns som inspiration under brainstormsessionen, men du kan bygga efter egna idéer också.
--->
 
 ---
 

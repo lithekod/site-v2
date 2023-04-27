@@ -5,33 +5,22 @@
 
 # Spring Game Jam 2023
 
-LiU Game Jam will return in spring with Spring Game Jam 2023. Join [our
-Discord-server](https://discord.gg/tP2kDvgQKn) so you don't miss the date!
+*18:00 12th May - 18:00 14th May*
 
----
+<div id=important-information>
+<p>
+While you're waiting, come <a href="https://discord.gg/tP2kDvgQKn">hang out in our Discord server</a>!
+</p>
+</div>
 
-<img src="/static/img/gamejam/banner-ggj23.png" alt="Global Game Jam 2023" id="gamejam-banner">
+<!-- <img src="/static/img/gamejam/banner-ggj23.png" alt="Global Game Jam 2023" id="gamejam-banner"> -->
 
-# Global Game Jam 2023
-
-*18:00 3rd February  – 18:00 5th February*
-
-**Links to presentations:**
-
-- [Intro presentation](https://docs.google.com/presentation/d/1EA3n-ThSHvlgNE4G2nQvKbYcvy4TSG7nsjvsMl5ZRXU/edit?usp=sharing)
-- [Half-time review](https://docs.google.com/presentation/d/1UjYZYZBvChAFsoXxSmuXvchZZ1m_ujrgJVpx3eva3O8/edit?usp=sharing)
-- [Final presentation](https://docs.google.com/presentation/d/1A9eh3X_v_os2szcBEg5TiPxiJD3irqZCvdezA5mL1Ns/edit?usp=sharing)
-
-If you want to add your game to [our
-Itch-jam](https://itch.io/jam/global-game-jam-linkoping-2023) please write to us
-in Discord.
-
-<!--
-Get ready for this year's edition of Global Game Jam! Join us and build kickass
+Get ready for this year's edition of Spring Game Jam! Join us and build kickass
 games together during a weekend. Once again IN REAL LIFE!
 
+<!--
 ### Information during the jam
-
+-->
 
 ### Location
 
@@ -41,37 +30,32 @@ Linköping, Sweden. The location has Wi-Fi but no physical network outlets.
 
 ### How to participate
 
-In order to participate in the jam do the following:
+In order to participate in the jam, show up at Spektrum at (or a bit before)
+18:00 12th May. Bring the equipment you need in order to create games:
+laptop and peripherals, or physical game components.
 
-1. Join our Global Game Jam site where you will upload the resulting game:
-   [Global Game Jam site](https://globalgamejam.org/2023/jam-sites/liu-game-jam)
-2. Show up at Spektrum at (or a bit before) 18:00 3rd February. Bring the equipment you need in
-   order to create games: laptop and peripherals, or physical game components.
+Also, optionally:
 
-Optionally:
-
-3. Join the itch.io jam page where we would like for you to upload
+0. Join the [itch.io jam page](https://itch.io/jam/liu-spring-game-jam-2023) where we would like for you to upload
    the resulting game too, so it is more accesible and can be added to our game
    archive:
-   [Itch.io Archive](https://itch.io/jam/global-game-jam-linkoping-2023)
-4. Join our Discord to get announcements during the jam:
+   [Itch.io Archive](https://itch.io/c/64050/liu-game-jam)
+0. Join our Discord to get announcements during the jam:
    [Discord invite](https://discord.gg/tP2kDvgQKn)
-5. Join the Facebook event:
-   [Facebook event](https://www.facebook.com/events/560130612731700) <br/>*This helps us
+0. Join the [Facebook event](https://www.facebook.com/events/786567499340170)<br/>*This helps us
    approximate the number of attending jammers for better planning.*
 
 ### Schedule
 
-**Friday 3rd February**
+**Friday 12th May**
 
-- From ~17:30: Watchalong of Global Game Jam-stream
 - 18:00: Introduction
     - Theme reveal
     - Brainstorming
     - Group forming
 - 18:10: Joint pizza order deadline
 
-**Saturday 4th February**
+**Saturday 13th May**
 
 - 09:00: Spektrum opens
     - Breakfast (free)
@@ -79,7 +63,7 @@ Optionally:
 - Around 18:00: Chinese food arrival and buffet
 - Around 18:15: Half time review
 
-**Sunday 5th February**
+**Sunday 14th May**
 
 - 09:00: Spektrum opens
     - Breakfast (free)
@@ -91,8 +75,6 @@ Optionally:
 - 19:00: Playtesting and showcase
 
 ### Theme
-
-The Global Game Jam theme will be revealed at the start of the jam. No spoilers!
 
 The themes are generated at the start of the jam by taking random pairs of words
 submitted by participants. They will be added at the top of this page after the start of the jam.
@@ -106,7 +88,6 @@ Theme word rules:
 Our theme process ensures unique and challenging themes each jam. The themes are
 there for inspiration during brainstorming but you can pick something else as
 well.
--->
 
 ---
 
