@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 import datetime
 import subprocess
-import os.path
 from glob import glob
+from os.path import basename
 
 import markdown2
 
@@ -69,6 +69,36 @@ def render_page(path, url, swedish, injection=""):
     )
 
 
+def pages_in_dir(url_dir, dir, recurse=False):
+    """Return all pages in a directory.
+    """
+    assert not recurse, "not supported yet"
+
+    # Files are expected to be {slug}_{lang}.md
+    files = []
+    for path in glob(dir):
+        *slug, lang = basename(path).strip(".md").split("_")
+        files.append((path, "-".join(slug), lang))
+    langs = {}
+    paths = {}
+    for (path, slug, lang) in files:
+        if slug not in langs:
+            langs[slug] = []
+            paths[slug] = path
+        langs[slug].append(lang)
+    # Check that we have (only) English and Swedish
+    for slug, langs in langs.items():
+        assert list(sorted(langs)) == ["en", "se"], \
+            "{} has wrong languages: {}".format(paths[slug], ", ".join(langs))
+    return [
+        (
+            f"{url_dir}{slug}/",
+            path.removesuffix("_en.md").removesuffix("_se.md") + "_{}.md"
+        )
+        for (slug, path) in paths.items()
+    ]
+
+
 def static_page(path):
     """
     Renders a file to a static webpage.
@@ -111,13 +141,33 @@ def julstuga():
 
 
 # ========== Redirects ==========
+
+
 # Redirect to the snake-ribs documentation.
-
-
 @app.route("/snake-ribs")
 @app.route("/snake-ribs/")
 def snake_ribs():
     return redirect_external("https://lithekod.github.io/snake-ribs/")
+
+
+# Redirect /competitions/ncpc to the latest ncpc page.
+def get_latest_ncpc():
+    return basename(sorted(glob("website/pages/competitions/ncpc/*_se.md"))[-1]).strip("_se.md")
+
+
+@app.route("/competitions/ncpc/")
+def latest_ncpc():
+    return redirect("/competitions/ncpc/se/")
+
+
+@app.route("/competitions/ncpc/se/")
+def latest_ncpc_se():
+    return redirect("/competitions/ncpc/{}/se/".format(get_latest_ncpc()))
+
+
+@app.route("/competitions/ncpc/en/")
+def latest_ncpc_en():
+    return redirect("/competitions/ncpc/{}/en/".format(get_latest_ncpc()))
 
 
 # ========== Pages ==========
@@ -139,53 +189,24 @@ pages = [
     ("/lodol/", "website/pages/lodol_{}.md"),
 
     # Competetive programming
-    ("/aoc/", "website/pages/aoc_{}.md"),
-    ("/codingcup/", "website/pages/codingcup_{}.md"),
-    ("/competitions/", "website/pages/competitions_{}.md"),
-    ("/impa/", "website/pages/impa_{}.md"),
-    ("/liu-challenge/", "website/pages/liu_challenge_{}.md"),
-    ("/ncpc/", "website/pages/ncpc_{}.md"),
+    ("/competitions/", "website/pages/competitions/index_{}.md"),
+    ("/competitions/aoc/", "website/pages/competitions/aoc_{}.md"),
+    ("/competitions/codingcup/", "website/pages/competitions/codingcup_{}.md"),
+    ("/competitions/impa/", "website/pages/competitions/impa_{}.md"),
+    ("/competitions/liu-challenge/", "website/pages/competitions/liu_challenge_{}.md"),
 
     # Misc
     ("/cheats/", "website/pages/cheats_{}.md"),
     ("/git/", "website/pages/git_{}.md"),
 ]
 
-# Additional main pages
-
-
-def gamejam_jam_pages():
-    # Look for all jam pages in pages/gamejam/jams
-    pages = glob("website/pages/gamejam/jams/*")
-    bnames = [os.path.basename(page) for page in pages]
-    bnames.sort()
-    # Jam files are expected to be {year}_{jam}_{lang}.md
-    jam_files = [bname.strip(".md").split("_") for bname in bnames]
-    for jam in jam_files:
-        assert len(jam) == 3, \
-            "wrong filename format for a jam: {}".format("_".join(jam))
-    # Deduplicate languages
-    jams = {}
-    for (year, jam, lang) in jam_files:
-        key = (year, jam)
-        if key not in jams:
-            jams[key] = []
-        jams[key].append(lang)
-    # Check that we have (only) English and Swedish
-    for (year, jam), langs in jams.items():
-        assert list(sorted(langs)) == ["en", "se"], \
-            "jam {} has wrong languages: {}".format(jam, ", ".join(langs))
-    return [
-        (
-            f"/gamejam/jams/{year}-{jam}/",
-            f"website/pages/gamejam/jams/{year}_{jam}_{{}}.md"
-        )
-        for (year, jam) in jams
-    ]
-
 
 # Add the additional main pages
-pages += gamejam_jam_pages()
+pages += pages_in_dir("/gamejam/jams/", "website/pages/gamejam/jams/*")
+pages += pages_in_dir(
+    "/competitions/ncpc/",
+    "website/pages/competitions/ncpc/*"
+)
 
 # Render the main pages
 for url, md_file in pages:

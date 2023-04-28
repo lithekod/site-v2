@@ -4,10 +4,10 @@ LiTHe kod håller i en hel del programmeringstävlingar under året.
 Nedan finner du information de olika event som vi har.
 Sidan är kontinuerligt uppdaterad så de senaste tävlingarna ligger längst upp.
 
-## [Advent of Code](/aoc/se)
+## [Advent of Code](/competitions/aoc/se)
 
-## [NCPC](/ncpc/se)
+## [NCPC](/competitions/ncpc/se)
 
-## [IMPA](/impa/se)
+## [IMPA](/competitions/impa/se)
 
-## [LiU Challenge](/liu-challenge/en)
+## [LiU Challenge](/competitions/liu-challenge/en)
