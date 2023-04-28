@@ -190,7 +190,6 @@ pages = [
     # Competetive programming
     ("/competitions/", "website/pages/competitions/index_{}.md"),
     ("/competitions/aoc/", "website/pages/competitions/aoc_{}.md"),
-    ("/competitions/codingcup/", "website/pages/competitions/codingcup_{}.md"),
     ("/competitions/impa/", "website/pages/competitions/impa_{}.md"),
     ("/competitions/liu-challenge/", "website/pages/competitions/liu_challenge_{}.md"),
 
@@ -262,7 +261,6 @@ def lacc():
 redirects = [
     ("/posts/", "/meetings/"),
     ("/aoc/", "/competitions/aoc/"),
-    ("/coding-cup/", "/competitions/coding-cup/"),
     ("/impa/", "/competitions/impa/"),
     ("/liu-challenge/", "/competitions/liu-challenge/"),
 ]
