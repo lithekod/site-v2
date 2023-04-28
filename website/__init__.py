@@ -259,80 +259,18 @@ def lacc():
 # These pages used to exist, but not anymore. They redirect to the new content
 # so old links still work.
 
+redirects = [
+    ("/posts/", "/meetings/"),
+    ("/aoc/", "/competitions/aoc/"),
+    ("/coding-cup/", "/competitions/coding-cup/"),
+    ("/impa/", "/competitions/impa/"),
+    ("/liu-challenge/", "/competitions/liu-challenge/"),
+]
 
-@app.route("/posts/")
-def posts_index():
-    return redirect("/meetings/se/")
-
-
-@app.route("/posts/se/")
-def posts_se():
-    return redirect("/meetings/se/")
-
-
-@app.route("/posts/en/")
-def posts_en():
-    return redirect("/meetings/en/")
-
-
-@app.route("/impa/")
-def impa_redirect():
-    return redirect("/competitions/impa/")
-
-
-@app.route("/impa/se/")
-def impa_redirect():
-    return redirect("/competitions/impa/se/")
-
-
-@app.route("/impa/en/")
-def impa_redirect():
-    return redirect("/competitions/impa/en/")
-
-
-@app.route("/aoc/")
-def impa_redirect():
-    return redirect("/competitions/aoc/")
-
-
-@app.route("/aoc/se/")
-def impa_redirect():
-    return redirect("/competitions/aoc/se/")
-
-
-@app.route("/aoc/en/")
-def impa_redirect():
-    return redirect("/competitions/aoc/en/")
-
-
-@app.route("/codingcup/")
-def impa_redirect():
-    return redirect("/competitions/codingcup/")
-
-
-@app.route("/codingcup/se/")
-def impa_redirect():
-    return redirect("/competitions/codingcup/se/")
-
-
-@app.route("/codingcup/en/")
-def impa_redirect():
-    return redirect("/competitions/codingcup/en/")
-
-
-@app.route("/liu-challenge/")
-def impa_redirect():
-    return redirect("/competitions/liu-challenge/")
-
-
-@app.route("/liu-challenge/se/")
-def impa_redirect():
-    return redirect("/competitions/liu-challenge/se/")
-
-
-@app.route("/liu-challenge/en/")
-def impa_redirect():
-    return redirect("/competitions/liu-challenge/en/")
+for (old, new) in redirects:
+    app.add_url_rule(old, old, create_redirect(new))
+    app.add_url_rule(old + "se/", old + "se/", create_redirect(new + "se/"))
+    app.add_url_rule(old + "en/", old + "en/", create_redirect(new + "en/"))
 
 
 # ========== Errorhandlers ==========
