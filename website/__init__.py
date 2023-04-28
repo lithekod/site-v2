@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 import datetime
 import subprocess
+import os.path
+from glob import glob
 
 import markdown2
 
@@ -39,8 +41,10 @@ def last_updated(path):
     git_cmd = "git log --format=%at -- {}".format(path).split()
     stdout = subprocess.run(git_cmd, capture_output=True).stdout
     ts = stdout.split(b"\n")[0]
-    dt = datetime.datetime.fromtimestamp(int(ts)).date().isoformat()
-    return dt
+    if ts:
+        return datetime.datetime.fromtimestamp(int(ts)).date().isoformat()
+    else:
+        return "<no commit found>"
 
 
 def render_page(path, url, swedish, injection=""):
@@ -51,7 +55,8 @@ def render_page(path, url, swedish, injection=""):
     url - The url to the page.
     swedish - Whether the page is in swedish or not (english).
     """
-    nav_index = next((i for i, (_, u) in enumerate(navigation) if u == url), -1)
+    nav_index = next(
+        (i for i, (_, u) in enumerate(navigation) if u == url), -1)
     return render_template(
         "page.html",
         html=markdown2.markdown_path(path),
@@ -96,10 +101,13 @@ def create_redirect(to):
 # These pages should be removed when appropriate.
 
 
+# EXAMPLE:
+"""
 @app.route("/opera")
 @app.route("/opera/")
 def julstuga():
     return redirect_external("https://forms.gle/VeZVCbgEBGiE85mL7")
+"""
 
 
 # ========== Redirects ==========
@@ -116,26 +124,70 @@ def snake_ribs():
 # These are the main pages on the LiTHe kod website.
 
 pages = [
+    # Board
     ("/", "website/pages/index_{}.md"),
     ("/contact/", "website/pages/contact_{}.md"),
-    ("/competitions/", "website/pages/competitions_{}.md"),
-    ("/gamejam/", "website/pages/gamejam_{}.md"),
-    ("/gamejam/history/", "website/pages/gamejam_history_{}.md"),
-    ("/gamejam/tools/", "website/pages/gamejam_tools_{}.md"),
+    ("/meetings/", "website/pages/meetings_{}.md"),
     ("/organization/", "website/pages/organization_{}.md"),
-    ("/cheats/", "website/pages/cheats_{}.md"),
-    ("/ncpc/", "website/pages/ncpc_{}.md"),
-    ("/impa/", "website/pages/impa_{}.md"),
+
+    # Gamejam
+    ("/gamejam/", "website/pages/gamejam/index_{}.md"),
+    ("/gamejam/jams/", "website/pages/gamejam/jams_{}.md"),
+    ("/gamejam/tools/", "website/pages/gamejam/tools_{}.md"),
+
+    # Hardware
+    ("/lodol/", "website/pages/lodol_{}.md"),
+
+    # Competetive programming
     ("/aoc/", "website/pages/aoc_{}.md"),
     ("/codingcup/", "website/pages/codingcup_{}.md"),
-    ("/microjam/", "website/pages/microjam_{}.md"),
-    ("/meetings/", "website/pages/meetings_{}.md"),
-    ("/git/", "website/pages/git_{}.md"),
-
-    ("/lodol/", "website/pages/lodol_{}.md"),
+    ("/competitions/", "website/pages/competitions_{}.md"),
+    ("/impa/", "website/pages/impa_{}.md"),
     ("/liu-challenge/", "website/pages/liu_challenge_{}.md"),
+    ("/ncpc/", "website/pages/ncpc_{}.md"),
+
+    # Misc
+    ("/cheats/", "website/pages/cheats_{}.md"),
+    ("/git/", "website/pages/git_{}.md"),
 ]
 
+# Additional main pages
+
+
+def gamejam_jam_pages():
+    # Look for all jam pages in pages/gamejam/jams
+    pages = glob("website/pages/gamejam/jams/*")
+    bnames = [os.path.basename(page) for page in pages]
+    bnames.sort()
+    # Jam files are expected to be {year}_{jam}_{lang}.md
+    jam_files = [bname.strip(".md").split("_") for bname in bnames]
+    for jam in jam_files:
+        assert len(jam) == 3, \
+            "wrong filename format for a jam: {}".format("_".join(jam))
+    # Deduplicate languages
+    jams = {}
+    for (year, jam, lang) in jam_files:
+        key = (year, jam)
+        if key not in jams:
+            jams[key] = []
+        jams[key].append(lang)
+    # Check that we have (only) English and Swedish
+    for (year, jam), langs in jams.items():
+        assert list(sorted(langs)) == ["en", "se"], \
+            "jam {} has wrong languages: {}".format(jam, ", ".join(langs))
+    return [
+        (
+            f"/gamejam/jams/{year}-{jam}/",
+            f"website/pages/gamejam/jams/{year}_{jam}_{{}}.md"
+        )
+        for (year, jam) in jams
+    ]
+
+
+# Add the additional main pages
+pages += gamejam_jam_pages()
+
+# Render the main pages
 for url, md_file in pages:
     swedish_url = url + "se/"
     english_url = url + "en/"
@@ -151,15 +203,10 @@ for url, md_file in pages:
     # Redirect /url/ -> /url/se/
     app.add_url_rule(url, url, create_redirect(swedish_url))
 
+
 # ========== Other pages ==========
 # These pages can be accessed from a direct link. They do not show up
 # on the sidebar.
-
-
-@app.route("/nollesvar/")
-def nollesvar():
-    """The answers for the challenge in the nollehandbok"""
-    return render_page("website/pages/nollesvar_se.md", "/nollesvar/", True)
 
 
 @app.route("/gitcheatsheet/")
