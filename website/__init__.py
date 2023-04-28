@@ -11,7 +11,6 @@ from flask import (
     render_template,
     redirect,
     send_file,
-    url_for,
 )
 
 app = Flask(__name__, static_folder="static")
@@ -274,6 +273,66 @@ def posts_se():
 @app.route("/posts/en/")
 def posts_en():
     return redirect("/meetings/en/")
+
+
+@app.route("/impa/")
+def impa_redirect():
+    return redirect("/competitions/impa/")
+
+
+@app.route("/impa/se/")
+def impa_redirect():
+    return redirect("/competitions/impa/se/")
+
+
+@app.route("/impa/en/")
+def impa_redirect():
+    return redirect("/competitions/impa/en/")
+
+
+@app.route("/aoc/")
+def impa_redirect():
+    return redirect("/competitions/aoc/")
+
+
+@app.route("/aoc/se/")
+def impa_redirect():
+    return redirect("/competitions/aoc/se/")
+
+
+@app.route("/aoc/en/")
+def impa_redirect():
+    return redirect("/competitions/aoc/en/")
+
+
+@app.route("/codingcup/")
+def impa_redirect():
+    return redirect("/competitions/codingcup/")
+
+
+@app.route("/codingcup/se/")
+def impa_redirect():
+    return redirect("/competitions/codingcup/se/")
+
+
+@app.route("/codingcup/en/")
+def impa_redirect():
+    return redirect("/competitions/codingcup/en/")
+
+
+@app.route("/liu-challenge/")
+def impa_redirect():
+    return redirect("/competitions/liu-challenge/")
+
+
+@app.route("/liu-challenge/se/")
+def impa_redirect():
+    return redirect("/competitions/liu-challenge/se/")
+
+
+@app.route("/liu-challenge/en/")
+def impa_redirect():
+    return redirect("/competitions/liu-challenge/en/")
 
 
 # ========== Errorhandlers ==========
