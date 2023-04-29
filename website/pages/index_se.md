@@ -16,7 +16,7 @@ Kodstugorna har övergått till meetups som vi har varje tisdag klockan 17.
         <i class="symbol fas fa-mug-hot"></i>
         <p>
             Klockan 17 varje tisdag träffas vi i Café Java för att prata om allt
-            relaterat till programmering.
+            relaterat till programmering, och lite till.
         </p>
     </div>
     <div class="intro-card">
@@ -39,10 +39,25 @@ Kodstugorna har övergått till meetups som vi har varje tisdag klockan 17.
     </div>
 </div>
 
-Läs gärna mer om några av de olika evenemang som vi anordnar:
+LiTHe kods verksamhet är numera uppdelad i undergrupper.
 
--   [IDA-Mästerskapet i Programmering och Algoritmer (IMPA)](https://www.ida.liu.se/projects/impa/new/)
--   [LiU Game Jam](https://lithekod.se/gamejam/se/)
+- [**LiU Game Jam**](/gamejam/se/) har anordnat game jams i Linköping sedan
+  2013\. Under ett game jam får du göra ett spel från grunden under en helg,
+  antingen själv eller med andra. LiU Game Jam anordnar vanligtvis tre game jams
+  om året: Fall Game Jam på hösten, Global Game Jam under vintern och Spring
+  Game Jam på våren.
+- [**Tävlingsprogrammeringsgruppen**](/competitions/se/) anordnar olika typer av
+  evenemang som har med tävlingsprogramamering och problemlösning att göra. På
+  hösten anordnar vi [NCPC]() (tidigare programmerings-SM) med möjligheten att
+  skicka vidare lag till [NWERC](). För dig som föredrar att lösa problem i egen
+  takt finns [Advent of Code](/competitions/aoc/se/) (en adventskalender med
+  programmeringsproblem varje december) och [IMPA](/competitions/impa/se/) (en
+  programmeringstävling för universitetsstudenter som pågår under hela läsåret).
+- [**Hårdvarugruppen**](/hardware/se/) är för dig som är intresserad av
+  programmerbar hårdvara och annan hårdvarunära programmering. Vi är ganska nya
+  och har därför inte så många planerade evenemang, så om du är tidigare
+  intresserad eller bara vill lära dig något nytt är du varmt välkommen att höra
+  av dig!
 
 LiTHe kod har även en systerförening som heter <a
 href="http://lithehack.se/">LiTHehack</a> för de som befinner sig på Campus

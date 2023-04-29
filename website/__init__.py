@@ -185,7 +185,8 @@ pages = [
     ("/gamejam/tools/", "website/pages/gamejam/tools_{}.md"),
 
     # Hardware
-    ("/lodol/", "website/pages/lodol_{}.md"),
+    ("/hardware/", "website/pages/hardware/index_{}.md"),
+    ("/hardware/lodol/", "website/pages/hardware/lodol_{}.md"),
 
     # Competetive programming
     ("/competitions/", "website/pages/competitions/index_{}.md"),
@@ -263,6 +264,7 @@ redirects = [
     ("/aoc/", "/competitions/aoc/"),
     ("/impa/", "/competitions/impa/"),
     ("/liu-challenge/", "/competitions/liu-challenge/"),
+    ("/lodol/", "/hardware/lodol/")
 ]
 
 for (old, new) in redirects:
