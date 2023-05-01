@@ -13,7 +13,7 @@ While you're waiting, come <a href="https://discord.gg/tP2kDvgQKn">hang out in o
 </p>
 </div>
 
-<!-- <img src="/static/img/gamejam/banner-ggj23.png" alt="Global Game Jam 2023" id="gamejam-banner"> -->
+<img src="/static/img/gamejam/banner-sgj23.png" alt="Global Game Jam 2023" id="gamejam-banner">
 
 Get ready for this year's edition of Spring Game Jam! Join us and build kickass
 games together during a weekend. Once again IN REAL LIFE!

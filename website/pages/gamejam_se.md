@@ -13,7 +13,7 @@ Medan du väntar, <a href="https://discord.gg/tP2kDvgQKn">kom å häng i vår Di
 </p>
 </div>
 
-<!-- <img src="/static/img/gamejam/banner-ggj23.png" alt="Global Game Jam 2023" id="gamejam-banner"> -->
+<img src="/static/img/gamejam/banner-sgj23.png" alt="Global Game Jam 2023" id="gamejam-banner">
 
 Gör dig redo för årets Spring Game Jam! Häng med och bygg grymma spel
 tillsammans under en helg. Åter igen fysiskt på plats!
