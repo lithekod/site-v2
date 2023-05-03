@@ -11,7 +11,7 @@ Tidigare protokoll finns i [arkivet på vår Github](https://github.com/lithekod
 
 ## Vårmöte 2023
 
-Vårmötet kommer att hållas onsdag den 16 maj kl 18.15 i Ada Lovelace.
+Vårmötet kommer att hållas tisdag den 16 maj kl 18.15 i Ada Lovelace.
 Samtliga medlemmar får närvara med rösträtt. Nedan följer mötets
 föredragningslista.
 
