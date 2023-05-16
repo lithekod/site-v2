@@ -17,8 +17,8 @@ Nedan listas samtliga jam vi har arrangerat tillsammans med deras tema(n) och re
 
 ### 2023
 
-- Global Game Jam Linköping 2023 - _"Roots"_ - [Itch.io](https://itch.io/jam/global-game-jam-linkoping-2023), [Intro](https://docs.google.com/presentation/d/1EA3n-ThSHvlgNE4G2nQvKbYcvy4TSG7nsjvsMl5ZRXU/edit?usp=sharing), [Halvtidsredovisning](https://docs.google.com/presentation/d/1UjYZYZBvChAFsoXxSmuXvchZZ1m_ujrgJVpx3eva3O8/edit?usp=sharing), [Slutpresentation](https://docs.google.com/presentation/d/1A9eh3X_v_os2szcBEg5TiPxiJD3irqZCvdezA5mL1Ns/edit?usp=sharing)
 - Spring Game Jam 2023 - _"Val (fast på engelska) miximum", "Fruit shark", "FOMO - profitable"_ - [Itch.io](https://itch.io/jam/liu-spring-game-jam-2023), [Intro](https://docs.google.com/presentation/d/1FyD0zhU139LQBHl6ymr-HcEqOxinEF9ViDGFM_HAtqA/edit?usp=sharing), [Halvtidsredovisning](https://docs.google.com/presentation/d/11pUub6vZe744Sr2aQ4hMn1AZpjot_E6ThhyElb3sx3E/edit?usp=sharing), [Presentation](https://docs.google.com/presentation/d/1GaNcvpmFdvYKU-Uz-aDNOYLCTcDSkqCmxOyHawLhYoM/edit?usp=sharing)
+- Global Game Jam Linköping 2023 - _"Roots"_ - [Itch.io](https://itch.io/jam/global-game-jam-linkoping-2023), [Intro](https://docs.google.com/presentation/d/1EA3n-ThSHvlgNE4G2nQvKbYcvy4TSG7nsjvsMl5ZRXU/edit?usp=sharing), [Halvtidsredovisning](https://docs.google.com/presentation/d/1UjYZYZBvChAFsoXxSmuXvchZZ1m_ujrgJVpx3eva3O8/edit?usp=sharing), [Slutpresentation](https://docs.google.com/presentation/d/1A9eh3X_v_os2szcBEg5TiPxiJD3irqZCvdezA5mL1Ns/edit?usp=sharing)
 
 ### 2022
 
