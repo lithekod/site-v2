@@ -7,20 +7,29 @@
 
 *18:00 12th May - 18:00 14th May*
 
-<div id=important-information>
-<p>
-While you're waiting, come <a href="https://discord.gg/tP2kDvgQKn">hang out in our Discord server</a>!
-</p>
-</div>
+This year's Spring Game Jam is unfortunately behind us. We hope to see you this
+fall!
 
 <img src="/static/img/gamejam/banner-sgj23.png" alt="Spring Game Jam 2023" id="gamejam-banner">
 
 Get ready for this year's edition of Spring Game Jam! Join us and build kickass
 games together during a weekend. Once again IN REAL LIFE!
 
-<!--
 ### Information during the jam
--->
+
+- Themes
+  - Val (fast på engelska) miximum
+  - Fruit shark
+  - FOMO - profitable
+- Brainstorm
+  - Election shark - valfusk med haj
+  - Minus ten social credit - Var en duktig medborgare
+  - D-lan vs GJ vs UK - Kapitalism
+  - Age of democracy - Nästa val?
+  - Val(ve) - Dörrar och inre demoner?
+- [Intro presentation](https://docs.google.com/presentation/d/1FyD0zhU139LQBHl6ymr-HcEqOxinEF9ViDGFM_HAtqA/edit?usp=sharing)
+- [Half-time review](https://docs.google.com/presentation/d/11pUub6vZe744Sr2aQ4hMn1AZpjot_E6ThhyElb3sx3E/edit?usp=sharing)
+- [Final presentation](https://docs.google.com/presentation/d/1GaNcvpmFdvYKU-Uz-aDNOYLCTcDSkqCmxOyHawLhYoM/edit?usp=sharing)
 
 ### Location
 
