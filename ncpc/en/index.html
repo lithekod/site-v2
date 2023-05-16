@@ -1,0 +1,212 @@
+<!doctype HTML>
+
+
+<html lang='en'>
+    <head>
+        <title>LiTHe kod</title>
+        <link rel='icon' type='image/png' href='/static/img/icon.png'>
+        <link href='/static/style.css' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.9.0/css/all.css">
+        <script src="/static/script.js"></script>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta charset='utf-8'/>
+    </head>
+    <body>
+        <input type="checkbox" name="aoc-trigger" id="aoc-trigger">
+        <input name='theme-trigger' id='theme-trigger' type='checkbox'>
+        <div id="body">
+        <script>
+            const trigger = document.getElementById("theme-trigger");
+            trigger.checked = window.localStorage.getItem("theme") === "light";
+        </script>
+        <input name='nav-trigger-toggle' id='nav-trigger-toggle' type='checkbox'>
+        <nav id='nav'>
+            <label for='nav-trigger-toggle'>
+                <div id='nav-toggle'>
+                    <i class="fas fa-bars"></i>
+                </div>
+            </label>
+            <div id='nav-logo-container'>
+                <img id='nav-logo' src='/static/img/logo.png'>
+            </div>
+            <ul><li class='item '
+                    onclick='window.location.href="/en/"'
+                >
+                    <a href='/en/'>
+                        Start
+                    </a>
+                </li><li class='item '
+                    onclick='window.location.href="/contact/en/"'
+                >
+                    <a href='/contact/en/'>
+                        Contact us
+                    </a>
+                </li><li class='item '
+                    onclick='window.location.href="/aoc/en/"'
+                >
+                    <a href='/aoc/en/'>
+                        Advent of Code
+                    </a>
+                </li><li class='item '
+                    onclick='window.location.href="/competitions/en/"'
+                >
+                    <a href='/competitions/en/'>
+                        Competitions
+                    </a>
+                </li><li class='item '
+                    onclick='window.location.href="/gamejam/en/"'
+                >
+                    <a href='/gamejam/en/'>
+                        Game Jam
+                    </a>
+                </li><li class='item '
+                    onclick='window.location.href="/organization/en/"'
+                >
+                    <a href='/organization/en/'>
+                        Organization
+                    </a>
+                </li><li class='item '
+                    onclick='window.location.href="/cheats/en/"'
+                >
+                    <a href='/cheats/en/'>
+                        Cheats
+                    </a>
+                </li></ul>
+            <a class='button' id='toggle-lang' href="/ncpc/se/">
+                <img
+                    onclick='window.location.href="se"'
+                    src='/static/img/se.svg'
+                />
+            </a>
+            <label class='button' id='toggle-theme' for='theme-trigger'>
+                <img id='dark-theme' src='/static/img/dark-theme.svg'/>
+                <img id='light-theme' src='/static/img/light-theme.svg'/>
+            </label>
+        </nav>
+        <header>
+            <canvas id="fancy-pants-graphics"></canvas>
+            <a id="header-graphic" href='/en/'>
+                <img src='/static/img/totalrippad.svg'>
+            </a>
+        </header>
+        <article>
+            <noscript>
+                <h1>Oh snag, no JS!</h1>
+                <p id="no-script">
+                    Oh, it looks like you don't have JavaScript enabled, it's
+                    understandable really, but some of the functionality on this
+                    site won't work. Unfortunately you can't get light or dark
+                    theme or automatically switch between English and Swedish.
+                </p>
+            </noscript>
+            
+<h1>NCPC - 2022</h1>
+
+<p>Linköpings Universitet will host an on-site competition for the
+The Nordic Collegiate Programming Contest (NCPC) on Saturday October 8th.
+You may compete in teams of up to three persons with one computer together.
+Registration is done via the ICPC site, read more
+<a href="https://nordic.icpc.io/ncpc2022/#registration">here</a>.
+Registration closes 5th October - so make haste!</p>
+
+<p>The top two teams from Linköping will get a chance to qualify further to the
+NWERC contest hosted in Delft, Netherlands!
+Note that your team must be marked as eligible on the ICPC site for this.</p>
+
+<p>In case there should be any changes, please register
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSeMOHEaEjC7M2dK8YDtH-UxnFPXdoBoi9Mk1LAlK3JX42qLsg/viewform">here</a>
+so we can reach you.</p>
+
+<p>Any questions will be answered at
+<a href="mailto:ordf@lithekod.se">ordf@lithekod.se</a>
+by mail.</p>
+
+<h2>Schedule October 8th</h2>
+
+<ul>
+<li>10:00am - Intro presentation</li>
+<li>11:00am - The competition starts!</li>
+<li>1:00pm (circa) - Free lunch for competitors on campus</li>
+<li>4:00pm - End of competition</li>
+<li>4:xxpm - End presentation</li>
+</ul>
+
+<h2>Details</h2>
+
+<p>LiTHe kod will provide access to computer labs, free lunch and baloons for
+solved problems during the competition. But because the rules above it is not a
+must for participating. For those on campus the day starts 10:00am in Ada
+Lovelace, entrance 27 in the B-house, with information about the rules and some
+words from our sponsors. Contestants contesting from home will have a stream in
+our Discord server.</p>
+
+<p>There will also be a warmup one week before the competition (October 2nd) with
+start ~11:00am. The warmup competition will be on Kattis for anyone who wants
+to test out the system. Come and ask questions about competetive programming or
+NCPC! There is not specific schedule, so if you wonder about how competetive
+programming actually works, this is the time to ask. (You can of course ask us
+on regular meetups as well.)</p>
+
+<p>Qualification for NWERC can only be offered to teams that are <a href="https://icpc.global/regionals/rules">qualified for
+ICPC</a>, meaning all team members:</p>
+
+<ul>
+<li>Have not participated in NCPC or similar five different years.</li>
+<li>Have not participated in ICPC two different years.</li>
+<li>Are born 1998 or later.</li>
+<li>Started university studies or equivalent 2017 or later.</li>
+<li>Study at least 50% at a university.</li>
+</ul>
+
+<div id="sponsor-container">
+    <img class="sponsor only-dark-theme" src="/static/img/ericsson_dt.svg" alt="ericsson">
+    <img class="sponsor only-light-theme" src="/static/img/ericsson_lt.png" alt="ericsson">
+    <img class="sponsor only-dark-theme" src="/static/img/opera_dt.png" alt="opera">
+    <img class="sponsor only-light-theme" src="/static/img/opera_lt.png" alt="opera">
+    <img class="sponsor only-dark-theme" src="/static/img/axis_dt.png" alt="axis">
+    <img class="sponsor only-light-theme" src="/static/img/axis_lt.jpg" alt="axis">
+</div>
+
+
+<p>
+<small>
+    Last updated: 2022-09-29
+</small>
+</p>
+
+        </article>
+        <div id="footer-bg">
+            <footer>
+                <div class="footer-block">
+                    <h2>
+                        Contact us
+                    </h2>
+                    <p>
+                        <a href="https://discord.gg/UG5YYsN">
+                            <i class="fab fa-discord"></i> Discord
+                        </a>
+                    </p>
+                    <p>
+                        <a href="https://www.facebook.com/LitheKod/">
+                            <i class="fab fa-facebook"></i> Facebook
+                        </a>
+                    </p>
+                    <p>
+                        <a href="mailto:ordf@lithekod.se">
+                            <i class="fas fa-at"></i> ordf@lithekod.se
+                        </a>
+                    </p>
+                </div>
+                <div class="footer-block">
+                    <h2>
+                        Address
+                    </h2>
+                    <p>LiTHe kod Kårallen, Universitetet</p>
+                    <p>581 83 Linköping</p>
+                </div>
+            </footer>
+        </div>
+        </div>
+        <canvas id="snowflakes"></canvas>
+    </body>
+</html>

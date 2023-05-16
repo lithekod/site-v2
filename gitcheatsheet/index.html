@@ -1,0 +1,217 @@
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta charset="utf-8"/>
+        <link rel='icon' type='image/png' href='https://lithekod.se/static/img/icon.png'>
+        <title>git Cheat Sheet</title>
+<style>
+
+.heart {
+    color: #C11;
+    animation-direction: alternate;
+    animation-name: heart-anim;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes heart-anim {
+    from { color: #000; };
+    to { color: #F33; };
+}
+
+body {
+    padding: 0px;
+    margin: 0px;
+    font-family: serif;
+    width: 80%;
+    max-width: 50em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2em;
+
+    background-color: #EEE;
+}
+
+footer {
+    width: 100%;
+    left: 0px;
+    position: absolute;
+    margin-top: 2em;
+    padding-bottom: 2em;
+    background-color: #222;
+    color: #CCC;
+    text-align: center;
+}
+
+.text-box.terminology {
+    background-color: #CCC;
+    padding: 1em;
+    border-radius: 0.3em;
+}
+
+.text-box.terminology div {
+    margin-top: 2em;
+}
+
+.text-box.terminology .term {
+    font-size: 1.3em;
+    text-decoration: bold;
+    color: #A55;
+    margin-bottom: 0.5em;
+
+}
+
+.text-box.terminology .desc {
+    font-size: 1.0em;
+    text-decoration: bold;
+    margin-top: 0.5em;
+}
+
+.avoid-wrap {
+    display: inline-block;
+}
+
+.text-box.code {
+    padding: 1em;
+    border-radius: 0.3em;
+    background-color: #222;
+    font-family: monospace;
+    font-size: 1.2em;
+    color: #CCC;
+    overflow-x: scroll;
+    white-space: nowrap;
+}
+
+.text-box.code .comment {
+    color: #6A6;
+}
+
+.text-box.code .change-me {
+    color: #A6A;
+}
+
+a {
+    color: #66A;
+}
+
+a:hover {
+    color: #55C;
+    text-decoration: bold;
+}
+
+</style>
+    </head>
+    <body>
+        <h1><span class="avoid-wrap">The ultimate git cheat sheet</span> <span class="avoid-wrap">(of doom)</span></h1>
+        <p>git can be very confusing and hard to grasp. This is a small little
+        cheat sheet with things you might need. If you need further help...
+        ask someone who looks smart.
+        </p>
+        <div>
+            <h2>Table of contents</h2>
+            <ul>
+                <li><a class="toc-link" href="#toc-make-a-git-repo">Make a git repo</a></li>
+                <li><a class="toc-link" href="#toc-show-unstaged-changes">Show unstaged changes</a></li>
+                <li><a class="toc-link" href="#toc-show-staged-changes">Show staged changes (to be committed)</a></li>
+                <li><a class="toc-link" href="#toc-push-changes">Push changes</a></li>
+                <li><a class="toc-link" href="#toc-unstage">Unstage all staged files (opposite of git add)</a></li>
+                <li><a class="toc-link" href="#toc-throw-away">Throw away all unstaged changes</a></li>
+                <li><a class="toc-link" href="#toc-create-and-switch">Create and switch to a new branch</a></li>
+                <li><a class="toc-link" href="#toc-merge-branch">Merge a branch</a></li>
+                <li><a class="toc-link" href="#toc-solve-merge-conflict">Solve a merge conflict</a></li>
+                <li><a class="toc-link" href="#toc-move-to-another-branch">Move un-commited changes to another branch</a></li>
+            </ul>
+        </div>
+        <h2>Why should I bother learning git?</h2>
+        <p>Many of the most powerful tools are hard to learn - git is no different. Learning git will let you work with people more easily on large code bases, move changes over the network, organize your work, structure your team and save you from the horrible effects of hard drive failures. <span class="avoid-wrap">(It will also make you objectively cooler. <span class="heart"><3</span>)</span></p>
+        <div class="text-box terminology">
+            <h2 id="toc-terminology">Terminology</h2>
+            <div>
+                <p class="term">Repository/Repo</p><p class="desc">A project</p>
+            </div>
+            <div>
+                <p class="term">Commit</p><p class="desc">A single snapshot of your files.</p>
+            </div>
+            <div>
+                <p class="term">Staged</p><p class="desc">Mark changes as "I'm going to keep these".</p>
+            </div>
+            <div>
+                <p class="term">Branch</p><p class="desc">Keeps track of a series of commits.</p>
+            </div>
+            <div>
+                <p class="term">Hash</p><p class="desc">A unique identifier, often used to refer to a specific commit. Consists of the hexadecimal digits 0-F, which usually looks like "25bb8e26be86e67c235f47fc37e5". Can also be a shortened version, like "25bb8".</p>
+            </div>
+            <div>
+                <p class="term">Remote</p><p class="desc">The repository, but on a different computer you can interact with.</p>
+            </div>
+        </div>
+        <h2 id="toc-make-a-git-repo">Make a git repo</h2>
+        <div class="text-box code">
+            <p>$ git init</p>
+            <p><span class="comment"># Set the URL to your upstream repo</span></p>
+            <p>$ git remote add origin <span class="change-me">"https://gitlab.liu.se/liuid123/reponame"</span></p>
+        </div>
+        <h2 id="toc-show-unstaged-changes">Show unstaged changes</h2>
+        <div class="text-box code">
+            <p>$ git diff</p>
+        </div>
+        <h2 id="toc-show-staged-changes">Show staged changes (to be committed)</h2>
+        <div class="text-box code">
+            <p>$ git diff --staged</p>
+        </div>
+        <h2 id="toc-push-changes">Push changes</h2>
+        <div class="text-box code">
+            <p><span class="comment"># Tell git what files/directories you want to keep</span></p>
+            <p>$ git add <span class="change-me">file dir/ *.py</span></p>
+            <p><span class="comment"># Make sure the right files are staged</span></p>
+            <p>$ git status</p>
+            <p><span class="comment"># Create the commit and describe it</span></p>
+            <p>$ git commit -m <span class="change-me">"Remove bug"</span></p>
+            <p><span class="comment"># Send them to someone else's computer</span></p>
+            <p>$ git push</p>
+        </div>
+        <h2 id="toc-unstage">Unstage all staged files (opposite of git add)</h2>
+        <div class="text-box code">
+            <p>$ git reset</p>
+        </div>
+        <h2 id="toc-throw-away">Throw away all unstaged changes</h2>
+        <div class="text-box code">
+            <p>$ git checkout -- .</p>
+        </div>
+        <h2 id="toc-create-and-switch">Create and switch to a new branch</h2>
+        <div class="text-box code">
+            <p>$ git checkout -b <span class="change-me">descriptive-branch-name</span></p>
+        </div>
+        <h2 id="toc-merge-branch">Merge a branch</h2>
+        <div class="text-box code">
+            <p><span class="comment"># Move to the branch you want to have both changes on, usually "master"</span></p>
+            <p>$ git checkout <span class="change-me">branch-to-merge-into</span></p>
+            <p><span class="comment"># Merge the other branch</span></p>
+            <p>$ git merge --no-ff <span class="change-me">branch-to-merge</span></p>
+        </div>
+        <h2 id="toc-solve-merge-conflict">Solve a merge conflict</h2>
+        <div class="text-box code">
+            <p><span class="comment"># See which files have conflicts</span></p>
+            <p>$ git status</p>
+            <p><span class="comment"># Edit the files and make sure they look like you want.</span></p>
+            <p><span class="comment"># git adds diff markers (">>>>>>>>>> HEAD") to show where conflicts are</span></p>
+            <p><span class="comment"># When done, add them and commit</span></p>
+            <p>$ git add <span class="change-me">file dir/ *.py</span></p>
+            <p>$ git commit -m <span class="change-me">"Descriptive message"</span></p>
+        </div>
+        <h2 id="toc-move-to-another-branch">Move un-commited changes to another branch</h2>
+        <div class="text-box code">
+            <p><span class="comment"># Put the changes in the stash</span></p>
+            <p>$ git stash</p>
+            <p><span class="comment"># Check out the branch to move to</span></p>
+            <p>$ git checkout <span class="change-me">better-branch</span></p>
+            <p><span class="comment"># Move the changes from the stash</span></p>
+            <p>$ git stash apply</p>
+        </div>
+
+        <footer>
+            <p>Made with <span class="heart"><3</span> by <a href="https://lithekod.se">LiTHe kod</a>.</p>
+            <a href="https://dangitgit.com/">If you really mess up.</a>
+        </footer>
+    </body>
+</html>

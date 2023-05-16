@@ -1,0 +1,256 @@
+<!doctype HTML>
+
+
+<html lang='en'>
+    <head>
+        <title>LiTHe kod</title>
+        <link rel='icon' type='image/png' href='/static/img/icon.png'>
+        <link href='/static/style.css' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.9.0/css/all.css">
+        <script src="/static/script.js"></script>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta charset='utf-8'/>
+    </head>
+    <body>
+        <input type="checkbox" name="aoc-trigger" id="aoc-trigger">
+        <input name='theme-trigger' id='theme-trigger' type='checkbox'>
+        <div id="body">
+        <script>
+            const trigger = document.getElementById("theme-trigger");
+            trigger.checked = window.localStorage.getItem("theme") === "light";
+        </script>
+        <input name='nav-trigger-toggle' id='nav-trigger-toggle' type='checkbox'>
+        <nav id='nav'>
+            <label for='nav-trigger-toggle'>
+                <div id='nav-toggle'>
+                    <i class="fas fa-bars"></i>
+                </div>
+            </label>
+            <div id='nav-logo-container'>
+                <img id='nav-logo' src='/static/img/logo.png'>
+            </div>
+            <ul><li class='item '
+                    onclick='window.location.href="/en/"'
+                >
+                    <a href='/en/'>
+                        Start
+                    </a>
+                </li><li class='item '
+                    onclick='window.location.href="/contact/en/"'
+                >
+                    <a href='/contact/en/'>
+                        Contact us
+                    </a>
+                </li><li class='item '
+                    onclick='window.location.href="/aoc/en/"'
+                >
+                    <a href='/aoc/en/'>
+                        Advent of Code
+                    </a>
+                </li><li class='item '
+                    onclick='window.location.href="/competitions/en/"'
+                >
+                    <a href='/competitions/en/'>
+                        Competitions
+                    </a>
+                </li><li class='item '
+                    onclick='window.location.href="/gamejam/en/"'
+                >
+                    <a href='/gamejam/en/'>
+                        Game Jam
+                    </a>
+                </li><li class='item '
+                    onclick='window.location.href="/organization/en/"'
+                >
+                    <a href='/organization/en/'>
+                        Organization
+                    </a>
+                </li><li class='item '
+                    onclick='window.location.href="/cheats/en/"'
+                >
+                    <a href='/cheats/en/'>
+                        Cheats
+                    </a>
+                </li></ul>
+            <a class='button' id='toggle-lang' href="/gamejam/history/se/">
+                <img
+                    onclick='window.location.href="se"'
+                    src='/static/img/se.svg'
+                />
+            </a>
+            <label class='button' id='toggle-theme' for='theme-trigger'>
+                <img id='dark-theme' src='/static/img/dark-theme.svg'/>
+                <img id='light-theme' src='/static/img/light-theme.svg'/>
+            </label>
+        </nav>
+        <header>
+            <canvas id="fancy-pants-graphics"></canvas>
+            <a id="header-graphic" href='/en/'>
+                <img src='/static/img/totalrippad.svg'>
+            </a>
+        </header>
+        <article>
+            <noscript>
+                <h1>Oh snag, no JS!</h1>
+                <p id="no-script">
+                    Oh, it looks like you don't have JavaScript enabled, it's
+                    understandable really, but some of the functionality on this
+                    site won't work. Unfortunately you can't get light or dark
+                    theme or automatically switch between English and Swedish.
+                </p>
+            </noscript>
+            
+<div id="gamejam-header">
+  <img src="/static/img/gamejam/logo.png" alt="LiU Game Jam">
+  <h1>LiU Game Jam</h1>
+</div>
+
+<p><a href="/gamejam/en">⇦ Back to LiU Game Jam's main page</a></p>
+
+<h1>History</h1>
+
+<p>LiU Game Jam has been been around since 2012. It started as its own group but joined forces with LiTHe kod in 2015.
+In connection to the jams we have also arranged workshops in a number of different game engines and tools.</p>
+
+<p>Check out games from our jams in the <a href="https://itch.io/c/64050/liu-game-jam">archive collection</a>.
+You can also have a look at our <a href="http://us12.campaign-archive2.com/home/?u=092a6fffba8f6063437a51495&amp;id=c3863c4bf5">old newsletters</a>.</p>
+
+<p>The following are all jams organized by us, listed together with their theme(s) and relevant links where applicable:</p>
+
+<h3>2023</h3>
+
+<ul>
+<li>Spring Game Jam 2023 - <em>"Val (fast på engelska) miximum", "Fruit shark", "FOMO - profitable"</em> - <a href="https://itch.io/jam/liu-spring-game-jam-2023">Itch.io</a>, <a href="https://docs.google.com/presentation/d/1FyD0zhU139LQBHl6ymr-HcEqOxinEF9ViDGFM_HAtqA/edit?usp=sharing">Intro</a>, <a href="https://docs.google.com/presentation/d/11pUub6vZe744Sr2aQ4hMn1AZpjot_E6ThhyElb3sx3E/edit?usp=sharing">Half-time review</a>, <a href="https://docs.google.com/presentation/d/1GaNcvpmFdvYKU-Uz-aDNOYLCTcDSkqCmxOyHawLhYoM/edit?usp=sharing">Presentation</a></li>
+<li>Global Game Jam Linköping 2023 - <em>"Roots"</em> - <a href="https://itch.io/jam/global-game-jam-linkoping-2023">Itch.io</a>, <a href="https://docs.google.com/presentation/d/1EA3n-ThSHvlgNE4G2nQvKbYcvy4TSG7nsjvsMl5ZRXU/edit?usp=sharing">Intro</a>, <a href="https://docs.google.com/presentation/d/1UjYZYZBvChAFsoXxSmuXvchZZ1m_ujrgJVpx3eva3O8/edit?usp=sharing">Half-time review</a>, <a href="https://docs.google.com/presentation/d/1A9eh3X_v_os2szcBEg5TiPxiJD3irqZCvdezA5mL1Ns/edit?usp=sharing">Presentation</a></li>
+</ul>
+
+<h3>2022</h3>
+
+<ul>
+<li>Fall Game Jam 2022 - <em>"Roman Cages", "Inside-out Gardening", "Radiating Mimics"</em> - <a href="https://itch.io/jam/liu-fall-game-jam-2022">Itch.io</a>, <a href="https://docs.google.com/presentation/d/1jzRUNTo4vnVF5JossQa-jlZC5vNmzO0d2TLGNs_hJfQ/edit?usp=sharing">Intro</a>, <a href="https://docs.google.com/presentation/d/1Z3sl2VyVlKPWGVz1XAX8Gy3D0bwck41sddYiAWMGWnE/edit?usp=sharing">Half-time review</a>, <a href="https://docs.google.com/presentation/d/1E-L2Khk5zTP4tLuA2wuJml-4XA4-QzTFbJSypIO7d88/edit?usp=sharing">Presentation</a></li>
+<li>Spring Game Jam 2022 - <em>"Banana Energy", "Coral-reef Monkey", "Cthulhu Capybara"</em> - <a href="https://itch.io/jam/spring-game-jam-2022/entries">Itch.io</a>, <a href="https://docs.google.com/presentation/d/1N16S1CwCrhD45l4MuABPXQyD9EIOmpdiU4mXwLfuH1g/edit?usp=sharing">Intro</a>, <a href="https://docs.google.com/presentation/d/1ZpSNFklXwhvTgO6uHj-yqyx6l-fvToWHU7DS7ZRBlMA/edit?usp=sharing">Half-time review</a>, <a href="https://docs.google.com/presentation/d/1gKwcsF_iCu5AqUBUjfJAWL8zFdzq7CFOMZdumaj0tlQ/edit?usp=sharing">Presentation</a></li>
+<li>Global Game Jam Linköping 2022 - <em>"Duality"</em> - <a href="https://itch.io/jam/global-game-jam-linkping-2022">Itch.io</a>, <a href="https://globalgamejam.org/2022/jam-sites/liu-game-jam">Global Game Jam</a>, <a href="https://www.youtube.com/watch?v=TfqLkhcl_4I">Intro</a>, <a href="https://www.youtube.com/watch?v=pB0z86u8D-s">Presentation</a></li>
+</ul>
+
+<h3>2021</h3>
+
+<ul>
+<li>Fall Game Jam 2021 - <em>"Dragon Egg", "Cute Sandwich", "Constructive Bombs"</em> - <a href="https://itch.io/jam/liu-fall-game-jam-2021">Itch.io</a>, <a href="https://docs.google.com/presentation/d/e/2PACX-1vSMsd02sIr97sLytGm9vdSH1lkK1jzBug3eQ1KSDuhNWkpiWBe8grH3vuYRoHneOP34hnud-uXhwrDF/pub?start=false&amp;loop=false&amp;delayms=3000">Intro</a>, <a href="https://docs.google.com/presentation/d/e/2PACX-1vTkudkXWGC4XbxbzKGACQH6mS6Lmk-nMogFAgHQcE81RuxXydJBa-siG0KGW4Gnhtc104OC7s0vmkYI/pub?start=false&amp;loop=false&amp;delayms=5000">Half-time review</a>, <a href="https://docs.google.com/presentation/d/e/2PACX-1vQPeahI0YlsJIW31L3H5CIN9pAom19ZaW_ivshDXmIuvZjkq06WeY-IvHwtHQx0HTU7Afk9dhBWQ7Vj/pub?start=false&amp;loop=false&amp;delayms=3000">Presentation</a></li>
+<li>Summer Game Jam 2021 - <em>"Animal Hockey", "Anti-Wholesome", "Dog Pistachio"</em> - <a href="https://itch.io/jam/liu-summer-jam-2021">Itch.io</a>, <a href="https://www.youtube.com/watch?v=39uLKI7OyIY">Intro</a>, <a href="https://docs.google.com/presentation/d/e/2PACX-1vQ_8qvsSzfm3go0VfucBzxXQJfAXBsnXXj2PhTu8zVyCYoqMgBOolr9isxPz64Mgh6WcrhcsJsqwvvw/pub?start=false&amp;loop=false&amp;delayms=3000">Presentation</a></li>
+<li>Spring Game Jam 2021 - <em>"Friendly Frisbee", "Wine Language", "Deadline Capitalism"</em> - <a href="https://itch.io/jam/spring-game-jam-2021">Itch.io</a>, <a href="https://www.youtube.com/watch?v=SDf2q96JG9k">Intro</a>, <a href="https://www.youtube.com/watch?v=0_zV3FEJG04">Presentation</a></li>
+<li>Global Game Jam Linköping 2021 - <em>"Lost and Found"</em> - <a href="https://itch.io/jam/global-game-jam-linkoping-2021">Itch.io</a>, <a href="https://globalgamejam.org/2021/jam-sites/liu-game-jam">Global Game Jam</a>, <a href="https://www.youtube.com/watch?v=yKhhIuSa49M">Intro</a>, <a href="https://www.youtube.com/watch?v=lEk12BYQYgo">Presentation</a></li>
+</ul>
+
+<h3>2020</h3>
+
+<ul>
+<li>Fall Game Jam 2020 - <em>"Distance Plain", "Giant 2020"</em> - <a href="https://itch.io/jam/liu-fall-game-jam-2020">Itch.io</a>,
+<a href="https://www.youtube.com/watch?v=wJ1pcaT8opk">Intro</a>, <a href="https://www.youtube.com/watch?v=MpBZgX6GBuY">Presentation</a></li>
+<li>Spring Game Jam 2020 - <em>"Orange Expansions", "Ghoul Reassembly"</em> - <a href="https://itch.io/jam/liu-spring-game-jam-2020">Itch.io</a>,
+<a href="https://www.youtube.com/watch?v=BXhOfB7rdMs">Intro</a>, <a href="https://www.youtube.com/watch?v=1-98sMfigc4">Presentation</a></li>
+<li>Global Game Jam Linköping 2020 - <em>"Repair"</em> - <a href="https://globalgamejam.org/2020/jam-sites/liu-game-jam-ggj-2020">Global Game Jam</a>, <a href="https://docs.google.com/presentation/d/e/2PACX-1vTXBO6GEullpwOgIFVzQ0z8-3Al8WO-j775CVlnbyFj3hBFoRljemy4-bXKgB-PqJD4C6y-kTZKjbV3/pub?start=false&amp;loop=false&amp;delayms=3000">Presentation</a></li>
+</ul>
+
+<h3>2019</h3>
+
+<ul>
+<li>Fall Game Jam 2019 - <em>"Wild West Planes, but with eyes", "Compost War: Two worlds, one truck", "Musical tentacles"</em> - <a href="https://www.facebook.com/349988561805129/videos/799393110511100">Presentation</a></li>
+<li>Spring Game Jam 2019 - <em>"Spinning Change", "GODZILLA In Real Life", "Very large Pizza cutter"</em> - <a href="https://www.facebook.com/349988561805129/videos/297587374524542">Presentation</a></li>
+<li>Global Game Jam Linköping 2019 - <em>"What home means to you"</em> - <a href="https://globalgamejam.org/2019/jam-sites/liu-game-jam/games">Global Game Jam</a>, <a href="https://docs.google.com/presentation/d/e/2PACX-1vSYxPDiq7GMtCeC_-KOQeQtQECAs2ksc9fTglwDGAaRXVgtL2HMh0GTpfj12873_mC3K98p_rrwW-Sh/pub?start=false&amp;loop=false&amp;delayms=3000">Presentation</a></li>
+</ul>
+
+<h3>2018</h3>
+
+<ul>
+<li>Fall Game Jam 2018 - <em>"Metal Time travel", "Navy Nightmare", "Big sound House"</em> - <a href="https://docs.google.com/presentation/d/e/2PACX-1vS0Cu3etDiGNylFSJU0xKftrokjhYdp0Q1Iu2-7dL-pQ_b2TupyQfF5DyaaPcuzNnuZdISjGKraDBWI/pub?start=false&amp;loop=false&amp;delayms=3000">Presentation</a></li>
+<li>Spring Game Jam 2018 - <em>"Extreme-dancing King", "Coyote Solitude"</em> - <a href="https://www.facebook.com/349988561805129/videos/1279817882155521">Presentation</a></li>
+<li>Global Game Jam 2018 Linköping - <em>"Transmission"</em> - <a href="https://globalgamejam.org/2018/jam-sites/liu-game-jam">Global Game Jam</a></li>
+</ul>
+
+<h3>2017</h3>
+
+<ul>
+<li>Fall Game Jam 2017 - <em>"Royal Styling", "Flat abuse", "Speedy Cactus"</em> - <a href="https://docs.google.com/presentation/d/e/2PACX-1vRWTXIbYhm5tWQC9cf-3m9GOow5nFtsNVNHsvNg3HatSJctKyNAWbj0bjKktF1BeXYdYFAeQ9TQp08k/pub?start=false&amp;loop=false&amp;delayms=3000">Presentation</a></li>
+<li>Spring Game Jam 2017 - <em>"Highschool Race", "Icecream monsters", "Pixel Erasers"</em> - <a href="https://docs.google.com/presentation/d/e/2PACX-1vRn0hLicCmqP_Sig2LHsfagh3TRj63wjCKMlUCROW0wAWMbnuk7xXgZuY3nD6Qjy0JBhrgeG1VZj4iT/pub?start=false&amp;loop=false&amp;delayms=3000">Presentation</a></li>
+<li>Global Game Jam 2017 Linköping - <em>"Waves"</em> - <a href="https://globalgamejam.org/2017/jam-sites/liu-game-jam">Global Game Jam</a></li>
+</ul>
+
+<h3>2016</h3>
+
+<ul>
+<li>Fall Game Jam 2016 - <em>"Duck Crabs", "Chocolate Guitars", "Angry monkeys (but with more legs)"</em></li>
+<li>Spring Game Jam 2016 - <em>"Zombie Feelings", "Pink Song-contest", "Mountain Chicken"</em></li>
+<li>Global Game Jam 2016 - <em>"Ritual"</em> - <a href="https://globalgamejam.org/2016/jam-sites/liu-game-jam">Global Game Jam</a></li>
+</ul>
+
+<h3>2015</h3>
+
+<ul>
+<li>Fall Game Jam 2015 - <em>"Roundabout Battle", "Raging Change"</em></li>
+<li>Spring Game Jam 2015 - <em>"Disruptive rabbits"</em></li>
+<li>Global Game Jam 2015 - <em>"What do we do now"</em> - <a href="https://globalgamejam.org/2015/jam-sites/liu-game-jam">Global Game Jam</a></li>
+</ul>
+
+<h3>2014</h3>
+
+<ul>
+<li>Fall (of the) Game Jam 2014 - <em>"Rocket Castle"</em></li>
+<li>Global Game Jam 2014 - <em>"We don't see things as they are, we see them as we are"</em> - <a href="https://globalgamejam.org/2014/jam-sites/liu-game-jam">Global Game Jam</a></li>
+</ul>
+
+<h3>2013</h3>
+
+<ul>
+<li>Fall Game Jam 2013 - <em>"Space Stegosaurus"</em></li>
+<li>Spring Game Jam 2013</li>
+</ul>
+
+<h3>2012</h3>
+
+<ul>
+<li>Global Game Jam 2012 - <em>"Ouroboros"</em> - <a href="http://archive.globalgamejam.org/og/games/18189/list.html">Global Game Jam</a></li>
+</ul>
+
+
+<p>
+<small>
+    Last updated: 2023-05-16
+</small>
+</p>
+
+        </article>
+        <div id="footer-bg">
+            <footer>
+                <div class="footer-block">
+                    <h2>
+                        Contact us
+                    </h2>
+                    <p>
+                        <a href="https://discord.gg/UG5YYsN">
+                            <i class="fab fa-discord"></i> Discord
+                        </a>
+                    </p>
+                    <p>
+                        <a href="https://www.facebook.com/LitheKod/">
+                            <i class="fab fa-facebook"></i> Facebook
+                        </a>
+                    </p>
+                    <p>
+                        <a href="mailto:ordf@lithekod.se">
+                            <i class="fas fa-at"></i> ordf@lithekod.se
+                        </a>
+                    </p>
+                </div>
+                <div class="footer-block">
+                    <h2>
+                        Address
+                    </h2>
+                    <p>LiTHe kod Kårallen, Universitetet</p>
+                    <p>581 83 Linköping</p>
+                </div>
+            </footer>
+        </div>
+        </div>
+        <canvas id="snowflakes"></canvas>
+    </body>
+</html>

@@ -1,0 +1,225 @@
+<!doctype HTML>
+
+
+<html lang='se'>
+    <head>
+        <title>LiTHe kod</title>
+        <link rel='icon' type='image/png' href='/static/img/icon.png'>
+        <link href='/static/style.css' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.9.0/css/all.css">
+        <script src="/static/script.js"></script>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta charset='utf-8'/>
+    </head>
+    <body>
+        <input type="checkbox" name="aoc-trigger" id="aoc-trigger">
+        <input name='theme-trigger' id='theme-trigger' type='checkbox'>
+        <div id="body">
+        <script>
+            const trigger = document.getElementById("theme-trigger");
+            trigger.checked = window.localStorage.getItem("theme") === "light";
+        </script>
+        <input name='nav-trigger-toggle' id='nav-trigger-toggle' type='checkbox'>
+        <nav id='nav'>
+            <label for='nav-trigger-toggle'>
+                <div id='nav-toggle'>
+                    <i class="fas fa-bars"></i>
+                </div>
+            </label>
+            <div id='nav-logo-container'>
+                <img id='nav-logo' src='/static/img/logo.png'>
+            </div>
+            <ul><li class='item selected'
+                    onclick='window.location.href="/se/"'
+                >
+                    <a href='/se/'>
+                        Start
+                    </a>
+                </li><li class='item '
+                    onclick='window.location.href="/contact/se/"'
+                >
+                    <a href='/contact/se/'>
+                        Kontakt
+                    </a>
+                </li><li class='item '
+                    onclick='window.location.href="/aoc/se/"'
+                >
+                    <a href='/aoc/se/'>
+                        Advent of Code
+                    </a>
+                </li><li class='item '
+                    onclick='window.location.href="/competitions/se/"'
+                >
+                    <a href='/competitions/se/'>
+                        Tävlingar
+                    </a>
+                </li><li class='item '
+                    onclick='window.location.href="/gamejam/se/"'
+                >
+                    <a href='/gamejam/se/'>
+                        Game Jam
+                    </a>
+                </li><li class='item '
+                    onclick='window.location.href="/organization/se/"'
+                >
+                    <a href='/organization/se/'>
+                        Organisation
+                    </a>
+                </li><li class='item '
+                    onclick='window.location.href="/cheats/se/"'
+                >
+                    <a href='/cheats/se/'>
+                        Fusk
+                    </a>
+                </li></ul>
+            <a class='button' id='toggle-lang' href="/en/">
+                <img
+                    onclick='window.location.href="en"'
+                    src='/static/img/en.svg'
+                />
+            </a>
+            <label class='button' id='toggle-theme' for='theme-trigger'>
+                <img id='dark-theme' src='/static/img/dark-theme.svg'/>
+                <img id='light-theme' src='/static/img/light-theme.svg'/>
+            </label>
+        </nav>
+        <header>
+            <canvas id="fancy-pants-graphics"></canvas>
+            <a id="header-graphic" href='/se/'>
+                <img src='/static/img/totalrippad.svg'>
+            </a>
+        </header>
+        <article>
+            <noscript>
+                <h1>Oh snag, no JS!</h1>
+                <p id="no-script">
+                    Oh, it looks like you don't have JavaScript enabled, it's
+                    understandable really, but some of the functionality on this
+                    site won't work. Unfortunately you can't get light or dark
+                    theme or automatically switch between English and Swedish.
+                </p>
+            </noscript>
+            
+<h1>Vilka är vi?</h1>
+
+<p>LiTHe kod är en studentförening vid Linköpings universitet vars syfte
+är att främja och inspirera intresset för programmering,
+mjukvaruutveckling och allt som hör till.</p>
+
+<p>Vi grundades hösten 2013 för att anordna kodstugor där studenter kunde träffas,
+prata och hjälpa varandra med allt kodrelaterat. Vi har sedan dess fortsatt att
+utvecklas och arrangerar idag en rad olika typer av aktiviteter såsom
+studiebesök, workshops, föreläsningar, Game Jams och programmeringstävlingar.
+Kodstugorna har övergått till meetups som vi har varje tisdag klockan 17.</p>
+
+<div id="introduction">
+    <div class="intro-card">
+        <h3>Meetups</h3>
+        <i class="symbol fas fa-mug-hot"></i>
+        <p>
+            Klockan 17 varje tisdag träffas vi i Café Java för att prata om allt
+            relaterat till programmering.
+        </p>
+    </div>
+    <div class="intro-card">
+        <h3>Andra events</h3>
+        <i class="symbol fas fa-calendar-day"></i>
+        <p>
+            Under året har vi ett flertal intressanta evenemang som du kan se i vår <a
+            href="https://calendar.google.com/calendar/b/0?cid=bGl0aGVrb2Quc2VfZmE0bXNnbDdxcG1zZG5zNW9jNGZxNDhhZ29AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">kalender</a>
+            (<a href="https://calendar.google.com/calendar/ical/lithekod.se_fa4msgl7qpmsdns5oc4fq48ago%40group.calendar.google.com/public/basic.ics">iCal</a>).
+        </p>
+    </div>
+    <div class="intro-card">
+        <h3>Kontakt</h3>
+        <i class="symbol fab fa-discord"></i>
+        <p>
+            Gå med i vår <a href="https://discord.gg/UG5YYsN">Discordserver</a> där vi
+            annonserar events och diskuterar allt möjligt.
+            Du kan också <a href="/contact/se/">kontakta</a> oss på andra sätt.
+        </p>
+    </div>
+</div>
+
+<p>Läs gärna mer om några av de olika evenemang som vi anordnar:</p>
+
+<ul>
+<li><a href="https://www.ida.liu.se/projects/impa/new/">IDA-Mästerskapet i Programmering och Algoritmer (IMPA)</a></li>
+<li><a href="https://lithekod.se/gamejam/se/">LiU Game Jam</a></li>
+</ul>
+
+<p>LiTHe kod har även en systerförening som heter <a
+href="http://lithehack.se/">LiTHehack</a> för de som befinner sig på Campus
+Norrköping. De är anställda av universitet och ordnar mer "traditionella"
+kodstugor.</p>
+
+<h1>Är du student?</h1>
+
+<p>Tokfint! Det är nämligen just dig som vi jobbar för. <strong>Oavsett</strong> dina
+kunskaper finns det alltid någon aktivitet för just dig och dina intressen inom
+programmering.</p>
+
+<p>Kanske du vill lära dig mer om hur versionshantering i git fungerar, höra om
+hur det är att jobba på Spotify eller bara träffa nya människor med liknande
+intressen? Allt det kan LiTHe kod hjälpa dig med!</p>
+
+<h2>Hur blir jag medlem?</h2>
+
+<p>Du kan bli medlem genom att ta kontakt med någon i styrelsen. Det gör du
+enklast genom att gå på en av våra meetups som vi har varje tisdag klockan 17.</p>
+
+<p>Medlemsavgiften är på 20kr och ger dig medlemskap för livet, för att inte nämna
+alla minnen du kommer få!</p>
+
+<h1>Är du företagare?</h1>
+
+<p>LiTHe kod är en knytpunkt där många av de vassaste och mest engagerade data-
+och IT- studenterna vid Linköpings universitet ingår.</p>
+
+<p>Genom att samarbeta med oss och anordna aktiviteter får ni ett utmärkt
+tillfälle att träffa dessa studenter och skapa ett intresse för er som framtida
+arbetsgivare.</p>
+
+
+<p>
+<small>
+    Senast uppdaterad: 2022-09-27
+</small>
+</p>
+
+        </article>
+        <div id="footer-bg">
+            <footer>
+                <div class="footer-block">
+                    <h2>
+                        Kontakt
+                    </h2>
+                    <p>
+                        <a href="https://discord.gg/UG5YYsN">
+                            <i class="fab fa-discord"></i> Discord
+                        </a>
+                    </p>
+                    <p>
+                        <a href="https://www.facebook.com/LitheKod/">
+                            <i class="fab fa-facebook"></i> Facebook
+                        </a>
+                    </p>
+                    <p>
+                        <a href="mailto:ordf@lithekod.se">
+                            <i class="fas fa-at"></i> ordf@lithekod.se
+                        </a>
+                    </p>
+                </div>
+                <div class="footer-block">
+                    <h2>
+                        Adress
+                    </h2>
+                    <p>LiTHe kod Kårallen, Universitetet</p>
+                    <p>581 83 Linköping</p>
+                </div>
+            </footer>
+        </div>
+        </div>
+        <canvas id="snowflakes"></canvas>
+    </body>
+</html>

@@ -1,0 +1,721 @@
+/* General Configuration */
+:root {
+    --margin: 1em;
+    --dark-text-color: #606060;
+    --max-article-width: 42em;
+    --footer-fg-color: #777;
+    --footer-highlight-fg-color: #EEE;
+
+    --dark-background-color: #202020;
+}
+
+/* Configure themes */
+#theme-trigger[type="checkbox"]:checked ~ #body {
+    /* Light theme */
+    --primary-color: #111;
+    --background-color: #FFF;
+    --footer-bg-color: #EEE;
+    --footer-highlight-fg-color: #AAA;
+    --link-color: #228e87;
+    --page-color: #dddcdd;
+    --gray-color: #666;
+    --highlight-color: #ffc600;
+
+    --sidebar-color: #EEE;
+    --sidebar-highlight-color: #EEE;
+    --sidebar-highlight-bg-color: #AAA;
+    --sidebar-accent-color: #2caea5;
+
+    --hide-dark: none;
+}
+
+#theme-trigger[type="checkbox"]:not(:checked) ~ #body {
+    /* Dark theme */
+    --primary-color: #eee;
+    --background-color: var(--dark-background-color);
+    --footer-bg-color: #303030;
+    --footer-highlight-fg-color: #EEE;
+    --link-color: #1ec6ba;
+    --page-color: #dddcdd;
+    --gray-color: #aaa;
+    --highlight-color: #ffc600;
+
+    --sidebar-color: #222;
+    --sidebar-highlight-color: #EEE;
+    --sidebar-highlight-bg-color: #333;
+    --sidebar-accent-color: #1ec6ba;
+
+    --hide-light: none;
+}
+
+#body .only-light-theme {
+    display: var(--hide-light) !important;
+}
+
+#body .only-dark-theme {
+    display: var(--hide-dark) !important;
+}
+
+#aoc-trigger[type="checkbox"]:checked ~ #body {
+    --hide-aoc-all: none;
+}
+
+#aoc-trigger[type="checkbox"]:not(:checked) ~ #body {
+    --hide-aoc-some: none;
+}
+
+#body .only-aoc-some {
+    display: var(--hide-aoc-all) !important;
+}
+
+#body .only-aoc-all {
+    display: var(--hide-aoc-some) !important;
+}
+
+#body {
+    /* Display */
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+
+    /* Flex */
+    display: flex;
+    flex-flow: column nowrap;
+
+    /* Text appearance */
+    line-height: 1.5;
+    font-family: "PT Sans", Helvetica, Arial, sans-serif;
+
+    /* Color */
+    background-color: var(--background-color);
+    color: var(--primary-color);
+
+    /* Other */
+    overflow-x: hidden; /* Hide horizontal scroll bar */
+}
+
+/* ============================================================
+ * Navigation bar
+ * ============================================================ */
+
+nav {
+    /* Position */
+    position: fixed;
+    top: 0px;
+    bottom: 0px;
+    left: calc(-50vw - 2px);
+    z-index: 100;
+
+    scrollbar-width: none;
+
+    /* Display */
+    width: 50vw;
+    max-width: 15em;
+    overflow-y: scroll;
+
+    /* Font */
+    font-size: 1.2em;
+    font-weight: bold;
+
+    /* Color */
+    color: var(--color-light);
+    background-color: var(--sidebar-color);
+    border-right: 2px solid var(--sidebar-accent-color);
+
+    /* Other */
+    transition: 0.2s ease; /* Animation speed of opening navigation bar */
+}
+
+nav::-webkit-scrollbar {
+    display: none;
+}
+
+nav>label {
+    position: fixed;
+}
+
+input[name="nav-trigger-toggle"] {
+    display: none;
+    visibility: hidden;
+}
+
+input[type="checkbox"]:checked + nav {
+    left: 0px;
+}
+
+/* Position of Navigation bar when opened */
+nav.open {
+    left: 0px;
+}
+
+/* Navigation bar toggle button */
+#nav-toggle {
+    /* Display */
+    width: 2em;
+    height: 2em;
+    margin-left: calc(50vw + 2px);
+
+    /* Color */
+    background-color: rgba(0, 0, 0, 0.1);
+
+    /* Other */
+    border-radius: 0em 0.0em 0.5em 0em; /* Round the bottom right corner a bit */
+    cursor: pointer; /* Indicate that the button can be clicked on */
+}
+
+/* Toggle button icon */
+#nav-toggle i {
+    /* Display */
+    width: 100%;
+    height: 100%;
+    margin-top: 0.2em;
+    text-align: center;
+    vertical-align: center;
+
+    /* Color */
+    color: var(--primary-color);
+
+    /* Font */
+    font-size: 1.4em;
+
+    /* Other */
+    user-select: none; /* Prevent user from selecting button TODO: check if this works*/
+}
+
+/* Set Navigation bar width to a constant value if screen is large enough */
+@media screen and (min-width:  35.75em) {
+    nav {
+        left: calc(-15em - 2px);
+    }
+    #nav-toggle {
+        margin-left: calc(15em + 2px);
+    }
+}
+
+/* Logo in the Navigation bar */
+nav #nav-logo {
+    /* Display */
+    margin: auto;
+    padding: 2em;
+    padding-left: calc((100% - 75% - 2em) / 2);
+    width: 75%;
+
+    /* Other */
+    cursor: pointer; /* Indicate that the logo can be clicked on */
+}
+
+@media screen and (max-height: 50em) {
+    nav #nav-logo {
+        /* Display */
+        padding-left: calc((100% - 40% - 0.5em) / 2);
+        width: 40%;
+        padding-bottom: 1em;
+        padding-top: 1em;
+
+        /* Other */
+        cursor: pointer; /* Indicate that the logo can be clicked on */
+    }
+}
+
+nav #nav-logo-container {
+    background: var(--dark-background-color);
+}
+
+/* Navigation bar list */
+nav ul {
+    /* Display */
+    padding: 0px;
+    margin: 0px;
+    text-align: left;
+    list-style: none; /* Remove list bullets */
+}
+
+/* Remove margin from list text */
+nav a {
+    margin: 0px;
+    color: inherit;
+    text-decoration: none;
+}
+
+/* Navigation bar list items */
+nav .item {
+    padding: 0.5em;
+    padding-left: 1em;
+    width: calc(100% - 1.5em);
+    background-color: var(--sidebar-color);
+    color: var(--dark-text-color);
+    text-align: left;
+
+    /* Other */
+    cursor: pointer; /* Indicate that the item can be clicked on */
+}
+
+nav .item.selected {
+    background-color: var(--sidebar-accent-color);
+    color: var(--sidebar-color);
+}
+
+nav .item:hover {
+    background-color: var(--sidebar-highlight-bg-color);
+    color: var(--sidebar-highlight-color)
+}
+
+nav .item.selected:hover {
+    color: var(--sidebar-highlight-color);
+}
+
+#toggle-lang:hover, #toggle-theme:hover {
+    background-color: var(--sidebar-highlight-bg-color);
+}
+
+nav .button {
+    position: absolute;
+    left: calc(0.8em);
+    width: 1.5em;
+    height: 1.5em;
+    padding: 0.5em;
+    cursor: pointer;
+    background-color: var(--sidebar-bg-color);
+    border-radius: 1em;
+}
+
+nav .button img {
+    width: 1.5em;
+    height: 1.5em;
+}
+
+#toggle-theme {
+    left: 3em;
+}
+
+#toggle-theme img {
+    position: absolute;
+}
+
+#light-theme {
+    visibility: visible;
+}
+
+#dark-theme {
+    visibility: hidden;
+}
+
+input[type="checkbox"]:checked+#body #light-theme {
+    visibility: hidden;
+}
+
+input[type="checkbox"]:checked+#body #dark-theme {
+    visibility: visible;
+}
+
+@media screen and not (script) {
+    #toggle-theme {
+        visibility: hidden;
+        z-index: -1000;
+    }
+}
+
+#fancy-pants-graphics {
+    position: absolute;
+    max-height: 10em;
+    height: 25vh;
+    width: 100vw;
+    top: 0px;
+    left: 0px;
+    padding: 0px;
+    background-color: #732764;
+    z-index: 0;
+}
+
+#header-graphic {
+    position: relative;
+    display: flex;
+    margin-top: 1em;
+    width: calc(100vw - 2 * var(--margin));
+    max-width: var(--max-article-width);
+    max-height: 10em;
+    height: 25vh;
+    margin-left: auto;
+    margin-right: auto;
+    z-index: 1;
+}
+
+#header-graphic img {
+    width: 100%;
+}
+
+
+header {
+    max-height: 10em;
+    height: 25vh;
+    flex: 0 0 auto;
+    margin-bottom: 2em;
+}
+
+article {
+    position: relative;
+    z-index: 2;
+    font-size: 1em;
+    max-width: var(--max-article-width);
+    padding-left: var(--margin);
+    padding-right: var(--margin);
+    margin: auto;
+    flex: 1 0 auto;
+}
+
+article img {
+    width: 100%;
+    float: right;
+    margin-left: 1em;
+    margin-bottom: 0.5em;
+    border-radius: 0.5em;
+}
+
+
+@media screen and (min-width: 50em) {
+    article img {
+        width: 30em;
+        float: right;
+    }
+}
+
+article img.banner {
+    width: 100%;
+}
+
+a {
+    color: var(--link-color);
+}
+
+footer {
+    color: var(--footer-fg-color);
+    width 100%;
+    max-width: var(--max-article-width);
+    padding-left: var(--margin);
+    padding-right: var(--margin);
+    padding-top: 0;
+    padding-bottom: 0;
+    top: 0;
+
+    margin: auto;
+
+    flex: 0 0 auto;
+}
+
+footer a {
+    color: var(--footer-fg-color);
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: var(--footer-highlight-fg-color);
+}
+
+.footer-block {
+    vertical-align: top;
+    display: inline-block;
+    margin: 1em 1em;
+}
+
+#footer-bg {
+    margin-top: 2em;
+    position: relative;
+    width: 100vw;
+    background-color: var(--footer-bg-color);
+}
+
+/* ============================================================
+ * Profile card
+ * ============================================================ */
+
+/* A Card which should be placed inside a card-container */
+.profile-card {
+    background: var(--footer-bg-color);
+    display: inline-block;
+    margin: 1em 0em;
+    padding: 1em;
+    border-radius: 0.5em;
+}
+
+/* Image with ratio 3:4 */
+.profile-card img {
+    width: 18em;
+    height: 24em;
+    display: block;
+    margin: 0;
+    margin-bottom: 0.5em;
+    border-radius: 0.5em;
+}
+
+/* Heading for name */
+.profile-card h2 {
+    margin: 0;
+    margin-top: 0.5em;
+    text-align: center;
+}
+
+.profile-card-desc {
+    font-size: 1em;
+    margin: 1em;
+}
+
+/* Heading for role and email */
+.profile-card-sub {
+    font-size: 0.7em;
+    margin-top: 0;
+    margin-bottom: 0.5em;
+    text-align: center;
+}
+
+/* Container for Cards */
+#card-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    /* align-items: flex-start; */
+}
+
+/* ============================================================
+ * Post
+ * ============================================================ */
+
+/* A Post */
+.post {
+    background: var(--background-color);
+    border-radius: 2px;
+    display: inline-block;
+    padding: 0em;
+    padding-bottom: 1em;
+    margin-bottom: 1em;
+}
+
+/* Border to separate posts */
+.post-border {
+    border-style: solid;
+    border-color: var(--primary-color);
+    border-width: 0 0 2px 0;
+}
+
+/* Heading for title */
+.post h1 {
+}
+
+/* Heading for date */
+.post h6 {
+    color: var(--gray-color);
+    text-align: right;
+    margin-top: 0;
+    margin-bottom: 0.5em;
+}
+
+/* Image fills width and keeps ratio */
+.post img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.post p { }
+
+#introduction .intro-card h3 {
+    margin-bottom: 0em;
+    margin-left: 2em;
+}
+
+#introduction .intro-card {
+    width: 100%;
+    text-align: left;
+}
+
+#introduction .intro-card .symbol {
+    width: 100%;
+    font-size: 2em;
+    position: relative;
+    bottom: 1.1em;
+    display: inline-block
+}
+
+#introduction .intro-card p {
+    position: relative;
+    bottom: 3em;
+}
+
+@media screen and (min-width: 40em) {
+    #introduction {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    #introduction .intro-card h3 {
+        margin-left: 0em;
+    }
+
+    #introduction .intro-card {
+        width: 30%;
+        text-align: center;
+    }
+
+    #introduction .intro-card p {
+        bottom: 0em;
+    }
+
+    #introduction .intro-card .symbol {
+        width: 100%;
+        font-size: 7.5em;
+        bottom: 0em;
+        margin-top: 0.1em;
+        margin-bottom: 0.1em;
+    }
+}
+
+.toggle-aoc {
+    border-radius: 2px;
+    padding: 5px;
+    font-weight: bold;
+    box-shadow: 0px 0px 2px 1px var(--highlight-color);
+}
+
+.toggle-aoc:hover {
+    box-shadow: 0px 0px 3px 2px var(--highlight-color);
+    cursor: pointer;
+}
+
+#standings {
+    max-width: 20em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#standings h2 {
+    font-size: 2.2em;
+    text-align: center;
+    margin-bottom: -0.5em;
+}
+
+#standings span.stars {
+    float: right;   
+    text-shadow: 1px 1px 5px gold;
+}
+
+#standings span.placement {
+    float: left;   
+}
+
+#standings .contestant {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+}
+
+#standings ul {
+    padding-left: 0;
+}
+
+#standings ul li:nth-child(1) {
+    font-size: 1.5em;
+    text-shadow: 1px 1px 10px gold;
+}
+
+#standings ul li:nth-child(2) {
+    font-size: 1.25em;
+    text-shadow: 1px 1px 10px silver;
+}
+
+#standings ul li:nth-child(3) {
+    font-size: 1.1em;
+    text-shadow: 1px 1px 10px brown;
+}
+
+#standings ul li:nth-child(10) {
+    padding-bottom: 1em;
+}
+
+
+/* Images for sponsors */
+img.sponsor {
+    display: inline-block;
+    border-radius: 0;
+    width: 12em;
+    height: auto;
+    margin: auto;
+    padding: 1em;
+}
+
+/* Container for sponsor images */
+#sponsor-container {
+    max-width: 28em;
+    margin: auto;
+
+    display: flex;
+    flex-flow: wrap;
+    align-items: center;
+    /*background: var(--footer-bg-color);*/
+}
+
+/* Snow for when it's December */
+#snowflakes {
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    left: 0;
+    top: 0;
+    z-index: 1337;
+    pointer-events: none;
+}
+
+#important-information {
+    padding: 0em 1em;
+
+    background-color: var(--footer-bg-color);
+
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5px;
+    border-color: var(--link-color);
+}
+
+#gamejam-header img {
+    height: 2.5em;
+    width: auto;
+    margin: 0;
+    float: left;
+    left: 0px;
+}
+
+#gamejam-header h1 {
+    font-size: 2.5em;
+    bottom: 0.25em;
+    margin-bottom: -0.25em;
+    position: relative;
+    left: 10px;
+}
+
+#gamejam-logo {
+    width: 15em;
+    margin: auto;
+    display: block;
+    float: none;
+}
+
+#gamejam-banner {
+    width: 100%;
+    margin: auto;
+    display: block;
+    float: none;
+}
+
+/* Advent of Code leaderboard */
+.leaderboard {
+    border: none;
+    height: 100em;
+    width: 100%;
+}
+
+#leaderboard-container {
+    text-align: center;
+}

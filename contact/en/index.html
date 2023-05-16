@@ -1,0 +1,209 @@
+<!doctype HTML>
+
+
+<html lang='en'>
+    <head>
+        <title>LiTHe kod</title>
+        <link rel='icon' type='image/png' href='/static/img/icon.png'>
+        <link href='/static/style.css' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.9.0/css/all.css">
+        <script src="/static/script.js"></script>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta charset='utf-8'/>
+    </head>
+    <body>
+        <input type="checkbox" name="aoc-trigger" id="aoc-trigger">
+        <input name='theme-trigger' id='theme-trigger' type='checkbox'>
+        <div id="body">
+        <script>
+            const trigger = document.getElementById("theme-trigger");
+            trigger.checked = window.localStorage.getItem("theme") === "light";
+        </script>
+        <input name='nav-trigger-toggle' id='nav-trigger-toggle' type='checkbox'>
+        <nav id='nav'>
+            <label for='nav-trigger-toggle'>
+                <div id='nav-toggle'>
+                    <i class="fas fa-bars"></i>
+                </div>
+            </label>
+            <div id='nav-logo-container'>
+                <img id='nav-logo' src='/static/img/logo.png'>
+            </div>
+            <ul><li class='item '
+                    onclick='window.location.href="/en/"'
+                >
+                    <a href='/en/'>
+                        Start
+                    </a>
+                </li><li class='item selected'
+                    onclick='window.location.href="/contact/en/"'
+                >
+                    <a href='/contact/en/'>
+                        Contact us
+                    </a>
+                </li><li class='item '
+                    onclick='window.location.href="/aoc/en/"'
+                >
+                    <a href='/aoc/en/'>
+                        Advent of Code
+                    </a>
+                </li><li class='item '
+                    onclick='window.location.href="/competitions/en/"'
+                >
+                    <a href='/competitions/en/'>
+                        Competitions
+                    </a>
+                </li><li class='item '
+                    onclick='window.location.href="/gamejam/en/"'
+                >
+                    <a href='/gamejam/en/'>
+                        Game Jam
+                    </a>
+                </li><li class='item '
+                    onclick='window.location.href="/organization/en/"'
+                >
+                    <a href='/organization/en/'>
+                        Organization
+                    </a>
+                </li><li class='item '
+                    onclick='window.location.href="/cheats/en/"'
+                >
+                    <a href='/cheats/en/'>
+                        Cheats
+                    </a>
+                </li></ul>
+            <a class='button' id='toggle-lang' href="/contact/se/">
+                <img
+                    onclick='window.location.href="se"'
+                    src='/static/img/se.svg'
+                />
+            </a>
+            <label class='button' id='toggle-theme' for='theme-trigger'>
+                <img id='dark-theme' src='/static/img/dark-theme.svg'/>
+                <img id='light-theme' src='/static/img/light-theme.svg'/>
+            </label>
+        </nav>
+        <header>
+            <canvas id="fancy-pants-graphics"></canvas>
+            <a id="header-graphic" href='/en/'>
+                <img src='/static/img/totalrippad.svg'>
+            </a>
+        </header>
+        <article>
+            <noscript>
+                <h1>Oh snag, no JS!</h1>
+                <p id="no-script">
+                    Oh, it looks like you don't have JavaScript enabled, it's
+                    understandable really, but some of the functionality on this
+                    site won't work. Unfortunately you can't get light or dark
+                    theme or automatically switch between English and Swedish.
+                </p>
+            </noscript>
+            
+<h1>Contact us</h1>
+
+<!--
+
+
+md5-aa73bd3c3e0dc7328d3388b4495a345f
+
+
+-->
+
+<p>Have a question? Don't hesitate to contact us!
+You can reach us on <a href="https://www.facebook.com/LitheKod/">Facebook</a>,
+but we are more available in our <a href="https://discord.gg/UG5YYsN">Discord server</a> or our <a href="https://lithe-kod.slack.com/">Slack group</a>.</p>
+
+<p>If you haven't already joined our Slack group, you can do so using the following
+<a href="https://lithe-kod.slack.com/signup">link</a>, <strong>You need to use your LiU e-mail address</strong>.</p>
+
+<p>We have meetups <strong>every</strong> Tuesday in Café Java at 17.15. Swing by for some free fika!</p>
+
+<div id="card-container">
+<div class="profile-card">
+    <img src="/static/img/board-22-23/lowe.png" alt="Lowe">
+    <h2>Lowe Kozak Åslöv</h2>
+    <p class="profile-card-sub">Chairman - <a href="mailto:ordf@lithekod.se">ordf@lithekod.se</a></p>
+</div>
+
+<div class="profile-card">
+    <img src="/static/img/kodapa-profile-picture.png" alt="Emanuel">
+    <h2>Emanuel Särnhammar</h2>
+    <p class="profile-card-sub">Treasurer - <a href="mailto:kassor@lithekod.se">kassor@lithekod.se</a></p>
+</div>
+
+<div class="profile-card">
+    <img src="/static/img/board-22-23/gustav.png" alt="Gustav">
+    <h2>Gustav Sörnäs</h2>
+    <p class="profile-card-sub">Game Jam Manager - <a href="mailto:gamejam@lithekod.se">gamejam@lithekod.se</a></p>
+</div>
+
+<p><!-- <div class="profile-card"> -->
+<!--     <img src="/static/img/board-21-22/lowe.png" alt="Lowe"> -->
+<!--     <h2>Lowe Kozak Åslöw</h2> -->
+<!--     <p class="profile-card-sub">Vice Chairman - <a href="mailto:vordf@lithekod.se">vordf@lithekod.se</a></p> -->
+<!-- </div> --></p>
+
+<div class="profile-card">
+    <img src="/static/img/board-21-22/henry.png" alt="Henry">
+    <h2>Henry Andersson</h2>
+    <p class="profile-card-sub">Operations Manager - <a href="mailto:verks@lithekod.se">verks@lithekod.se</a></p>
+</div>
+
+<div class="profile-card">
+    <img src="/static/img/board-22-23/simon.png" alt="Simon">
+    <h2>Simon Gutgesell</h2>
+    <p class="profile-card-sub">Web - <a href="mailto:webb@lithekod.se">webb@lithekod.se</a></p>
+</div>
+
+<div class="profile-card">
+    <img src="/static/img/board-22-23/hannah.png" alt="Hannah">
+    <h2>Hannah Bahrehman</h2>
+    <p class="profile-card-sub">PR - <a href="mailto:pr@lithekod.se">pr@lithekod.se</a></p>
+</div></div>
+
+<p>All profile images drawn by Annie Wång! Thanks :D</p>
+
+
+<p>
+<small>
+    Last updated: 2022-08-22
+</small>
+</p>
+
+        </article>
+        <div id="footer-bg">
+            <footer>
+                <div class="footer-block">
+                    <h2>
+                        Contact us
+                    </h2>
+                    <p>
+                        <a href="https://discord.gg/UG5YYsN">
+                            <i class="fab fa-discord"></i> Discord
+                        </a>
+                    </p>
+                    <p>
+                        <a href="https://www.facebook.com/LitheKod/">
+                            <i class="fab fa-facebook"></i> Facebook
+                        </a>
+                    </p>
+                    <p>
+                        <a href="mailto:ordf@lithekod.se">
+                            <i class="fas fa-at"></i> ordf@lithekod.se
+                        </a>
+                    </p>
+                </div>
+                <div class="footer-block">
+                    <h2>
+                        Address
+                    </h2>
+                    <p>LiTHe kod Kårallen, Universitetet</p>
+                    <p>581 83 Linköping</p>
+                </div>
+            </footer>
+        </div>
+        </div>
+        <canvas id="snowflakes"></canvas>
+    </body>
+</html>

@@ -1,0 +1,126 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <link rel='icon' type='image/png' href='https://lithekod.se/static/img/icon.png'>
+        <title>LiTHe kod - Programmerings problem</title>
+<script>
+    window.onload = () => {
+        let title = document.querySelector("#title");
+        let desc = document.querySelector("#desc");
+
+        let problems = [
+            ["Find the sum of primes!",
+             () => {
+                 let s = `What is the sum of the first <span class="interesting">?? prime numbers</span>?`;
+                 return s.replace("??", 9000 + Math.floor(Math.random() * 2000));
+             }],
+
+            ["A bit of change!",
+             () => {
+                 let s = `You're a cashier and want to return <span class="interesting">??kr</span> in change.
+                          You have coins worth <span class="interesting">1kr, 3kr, 5kr and 7kr</span>.<br>
+                          In <span class="interesting">how many ways</span> can you return the change?`;
+                 return s.replace("??", 11 + Math.floor(Math.random() * 10));
+             }],
+            ["Placing the queens!",
+             () => {
+                 return `Chezz (the budget version of chess) is a game played on a <span class="interesting">5x5</span>
+                         board of square tiles.  In this game, there is a piece called the queen. Queens can move up, down, left,
+                         right and along both diagonals. <br>
+                         In <span class="interesting">how many ways</span> can you place 5 queens on a Chezz board so that no two queens can attack eachother?`;
+             }],
+        ];
+
+        let i = Math.round(Math.random() * (problems.length - 1));
+        title.innerHTML = problems[i][0];
+        desc.innerHTML = problems[i][1]();
+    }
+</script>
+    </head>
+<style>
+    body {
+        height: 100vh;
+        background-color: #EEE;
+        color: #111;
+        padding: 0px;
+        margin: 0px;
+    }
+
+    article {
+        width: 80%;
+        max-width: 40em;
+        padding-top: 2em;
+        padding-bottom: 2em;
+        margin: auto;
+    }
+
+    footer {
+        position: absolute;
+        color: #EEE;
+        background-color: #111;
+        bottom: 0em;
+        width: 100vw;
+    }
+
+    footer>* {
+        width: 80%;
+        max-width: 40em;
+        margin: auto;
+    }
+
+    header {
+        width: 100vw;
+        color: #EEE;
+        background-color: #111;
+    }
+
+    header>* {
+        width: 80%;
+        max-width: 40em;
+        margin: auto;
+    }
+
+    header img {
+        margin-top: 2em;
+        margin-bottom: -2em;
+        width: 100%;
+    }
+
+    .heart {
+        color: #C11;
+        animation-direction: alternate;
+        animation-name: heart-anim;
+        animation-duration: 2s;
+    }
+
+    @keyframes heart-anim {
+        from { color: #000; };
+        to { color: #F33; };
+    }
+
+    span {
+        text-decoration: bold underline;
+        background-color: #EEE;
+        color: #F33;
+    }
+</style>
+    <body>
+        <header>
+            <div>
+                <img src='https://lithekod.se/static/img/totalrippad.svg'>
+            </div>
+        </header>
+        <article>
+            <h1>A fun challenge</h1>
+            <div>
+                <p>Bellow you'll find a problem, try to solve it by writing a program in the supplied text editor.
+                If you have any questions, don't be afraid to ask. <br>
+                (Due to safety reasons, we won't allow you to run scripts without talking to us first. <span class="heart"><3</span> )
+                </p>
+            </div>
+            <h1 id="title">Loading...</h1>
+            <div id="desc">Wahooo, we'll have a problem here shortly.</div>
+        </article>
+    </body>
+</html>

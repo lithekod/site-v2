@@ -1,0 +1,270 @@
+<!doctype HTML>
+
+
+<html lang='se'>
+    <head>
+        <title>LiTHe kod</title>
+        <link rel='icon' type='image/png' href='/static/img/icon.png'>
+        <link href='/static/style.css' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.9.0/css/all.css">
+        <script src="/static/script.js"></script>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta charset='utf-8'/>
+    </head>
+    <body>
+        <input type="checkbox" name="aoc-trigger" id="aoc-trigger">
+        <input name='theme-trigger' id='theme-trigger' type='checkbox'>
+        <div id="body">
+        <script>
+            const trigger = document.getElementById("theme-trigger");
+            trigger.checked = window.localStorage.getItem("theme") === "light";
+        </script>
+        <input name='nav-trigger-toggle' id='nav-trigger-toggle' type='checkbox'>
+        <nav id='nav'>
+            <label for='nav-trigger-toggle'>
+                <div id='nav-toggle'>
+                    <i class="fas fa-bars"></i>
+                </div>
+            </label>
+            <div id='nav-logo-container'>
+                <img id='nav-logo' src='/static/img/logo.png'>
+            </div>
+            <ul><li class='item '
+                    onclick='window.location.href="/se/"'
+                >
+                    <a href='/se/'>
+                        Start
+                    </a>
+                </li><li class='item '
+                    onclick='window.location.href="/contact/se/"'
+                >
+                    <a href='/contact/se/'>
+                        Kontakt
+                    </a>
+                </li><li class='item '
+                    onclick='window.location.href="/aoc/se/"'
+                >
+                    <a href='/aoc/se/'>
+                        Advent of Code
+                    </a>
+                </li><li class='item '
+                    onclick='window.location.href="/competitions/se/"'
+                >
+                    <a href='/competitions/se/'>
+                        Tävlingar
+                    </a>
+                </li><li class='item '
+                    onclick='window.location.href="/gamejam/se/"'
+                >
+                    <a href='/gamejam/se/'>
+                        Game Jam
+                    </a>
+                </li><li class='item '
+                    onclick='window.location.href="/organization/se/"'
+                >
+                    <a href='/organization/se/'>
+                        Organisation
+                    </a>
+                </li><li class='item '
+                    onclick='window.location.href="/cheats/se/"'
+                >
+                    <a href='/cheats/se/'>
+                        Fusk
+                    </a>
+                </li></ul>
+            <a class='button' id='toggle-lang' href="/meetings/en/">
+                <img
+                    onclick='window.location.href="en"'
+                    src='/static/img/en.svg'
+                />
+            </a>
+            <label class='button' id='toggle-theme' for='theme-trigger'>
+                <img id='dark-theme' src='/static/img/dark-theme.svg'/>
+                <img id='light-theme' src='/static/img/light-theme.svg'/>
+            </label>
+        </nav>
+        <header>
+            <canvas id="fancy-pants-graphics"></canvas>
+            <a id="header-graphic" href='/se/'>
+                <img src='/static/img/totalrippad.svg'>
+            </a>
+        </header>
+        <article>
+            <noscript>
+                <h1>Oh snag, no JS!</h1>
+                <p id="no-script">
+                    Oh, it looks like you don't have JavaScript enabled, it's
+                    understandable really, but some of the functionality on this
+                    site won't work. Unfortunately you can't get light or dark
+                    theme or automatically switch between English and Swedish.
+                </p>
+            </noscript>
+            
+<h1>Stormöten</h1>
+
+<p>Två gånger om året, en gång på våren och en gång på hösten, hålls ett stormöte i
+enlighet med stadgarna. På höstmötet gås föregående verksamhetsår igenom med en
+verksamhetsberättelse, en ekonomisk berättelse och revisorns granskning av
+styrelsens arbete följt av en röstning om ansvarsfrihet. På vårmötet röstas
+nästa verksamhetsårs styrelse in. På både höst- och vårmöten kan motioner lyftas
+av medlemmar och propositioner av styrelsen.</p>
+
+<p>Tidigare protokoll finns i <a href="https://github.com/lithekod/stormoten">arkivet på vår Github</a>.</p>
+
+<h2>Vårmöte 2023</h2>
+
+<p>Vårmötet kommer att hållas tisdag den 16 maj kl 18.15 i Ada Lovelace.
+Samtliga medlemmar får närvara med rösträtt. Nedan följer mötets
+föredragningslista.</p>
+
+<ul>
+<li>Val av mötesordförande</li>
+<li>Val av mötessekreterare</li>
+<li>Val av justeringsperson tillika rösträknare</li>
+<li>Fastställande av röstlängden</li>
+<li>Beslut om mötets stadgeenliga utlysande</li>
+<li>Föregånde verksamhetsårs styrelses verksamhetsberättelse</li>
+<li>Föregånde verksamhetsårs styrelses ekomomiska berättelse</li>
+<li>Revisorns preliminära granskning av verksamhetsåret</li>
+<li>Proposition: Testa och utvärdera en undergrupper för föreningens
+verksamhet för nästa verksamhetsår. [Propositionen går att läsa som bilaga A.]</li>
+<li>Personval för verksamhetsåret 23/24
+<ul>
+<li>Styrelsen
+<ul>
+<li>Val av styrelsens ordförande</li>
+<li>Val av styrelsens vice ordförande</li>
+<li>Val av styrelsens kassör</li>
+<li>Val av styrelsens verksamhetsansvarig</li>
+<li>Val av styrelseledamöter</li>
+</ul></li>
+<li>Projektledare <em>(om propositionen för undergrupper godtas)</em>
+<ul>
+<li>Val av gruppledare för LiU Game Jam (alternativt val av Game Jam-ansvarig)</li>
+<li>Val av gruppledare för hårdvarugruppen</li>
+<li>Val av gruppledare för WWW-gruppen</li>
+<li>Val av gruppledare för meetupgruppen</li>
+<li>Val av gruppledare för lokalgruppen</li>
+<li>Val av gruppledare för tävlingsprogrammeringsgruppen</li>
+</ul></li>
+<li>Val av revisor</li>
+</ul></li>
+<li>Fastställande av föreningens budget för verksamhetsåret 23/24</li>
+<li>Fastställande av föreningens medlemsavgift för verksamhetsåret 23/24</li>
+<li>Motioner och propositioner
+<!-- Proposition: diverse stavfel i stadgarna --></li>
+<li>Övriga frågor</li>
+</ul>
+
+<h3>Bilagor</h3>
+
+<ul>
+<li><a href="/static/pdf/vårmöte2023/proposition-undergrupper.pdf">Bilaga A.1: Proposition: undergrupper</a></li>
+<li><a href="/static/pdf/vårmöte2023/rapport-undergrupper.pdf">Bilaga A.2: Rapport om undergrupper från styrelsen</a></li>
+<li><a href="/static/pdf/vårmöte2023/gruppdirektiv.pdf">Bilaga A.3: Förslag till gruppdirektiv</a></li>
+</ul>
+
+<p><!--
+Exempel på föredragningslistor för vårmöten och höstmöten</p>
+
+<p><strong>Kopiera</strong> gärna nedastående lista så slipper vi jaga fram föredragningslistor
+från arkivet, en gammal git-commit eller stadgarna (ew).</p>
+
+<h2>Vårmöte</h2>
+
+<ul>
+<li>Val av mötesordförande</li>
+<li>Val av mötessekreterare</li>
+<li>Val av justeringsperson tillika rösträknare</li>
+<li>Fastställande av röstlängden</li>
+<li>Beslut om mötets stadgeenliga utlysande</li>
+<li>Föregånde verksamhetsårs styrelses verksamhetsberättelse</li>
+<li>Föregånde verksamhetsårs styrelses ekomomiska berättelse</li>
+<li>Revisorns preliminära granskning av verksamhetsåret</li>
+<li>Personval för verksamhetsåret XX/YY
+<ul>
+<li>Styrelsen
+<ul>
+<li>Val av styrelsens ordförande</li>
+<li>Val av styrelsens vice ordförande</li>
+<li>Val av styrelsens kassör</li>
+<li>Val av styrelsens verksamhetsansvarig</li>
+<li>Val av styrelseledamöter</li>
+</ul></li>
+<li>Projektledare <em>(om propositionen för intern projektstruktur godtas)</em>
+<ul>
+<li>Val av projektledare för LiU Game Jam (alternativt val av Game Jam-ansvarig)</li>
+<li>Val av projektledare för hårdvarugruppen</li>
+<li>Val av projektledare för www</li>
+<li>Val av projektledare för meetups</li>
+<li>Val av projektledare för lokalen</li>
+<li>Val av projektledare för tävlingsprogrammering</li>
+</ul></li>
+<li>Val av revisor</li>
+</ul></li>
+<li>Fastställande av föreningens budget för verksamhetsåret XX/YY</li>
+<li>Fastställande av föreningens medlemsavgift för verksamhetsåret XX/YY</li>
+<li>Motioner och propositioner</li>
+<li>Övriga frågor</li>
+</ul>
+
+<h2>Höstmöte</h2>
+
+<ul>
+<li>Val av mötesordförande</li>
+<li>Val av mötessekreterare</li>
+<li>Val av justeringsperson tillika rösträknare</li>
+<li>Fastställande av röstlängden</li>
+<li>Beslut om mötets stadgeenliga utlysande</li>
+<li>Föregånde verksamhetsårs styrelses verksamhetsberättelse</li>
+<li>Föregånde verksamhetsårs styrelses ekomomiska berättelse</li>
+<li>Revisorns granskning av föregående verksamhetsårs styrelses arbete</li>
+<li>Beslut om ansvarsfrihet för föregående verksamhetsårs styrelse</li>
+<li>Motioner och propositioner</li>
+<li>Övriga frågor
+--></li>
+</ul>
+
+
+<p>
+<small>
+    Senast uppdaterad: 2023-05-03
+</small>
+</p>
+
+        </article>
+        <div id="footer-bg">
+            <footer>
+                <div class="footer-block">
+                    <h2>
+                        Kontakt
+                    </h2>
+                    <p>
+                        <a href="https://discord.gg/UG5YYsN">
+                            <i class="fab fa-discord"></i> Discord
+                        </a>
+                    </p>
+                    <p>
+                        <a href="https://www.facebook.com/LitheKod/">
+                            <i class="fab fa-facebook"></i> Facebook
+                        </a>
+                    </p>
+                    <p>
+                        <a href="mailto:ordf@lithekod.se">
+                            <i class="fas fa-at"></i> ordf@lithekod.se
+                        </a>
+                    </p>
+                </div>
+                <div class="footer-block">
+                    <h2>
+                        Adress
+                    </h2>
+                    <p>LiTHe kod Kårallen, Universitetet</p>
+                    <p>581 83 Linköping</p>
+                </div>
+            </footer>
+        </div>
+        </div>
+        <canvas id="snowflakes"></canvas>
+    </body>
+</html>

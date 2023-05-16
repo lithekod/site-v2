@@ -1,0 +1,191 @@
+<!doctype HTML>
+
+
+<html lang='en'>
+    <head>
+        <title>LiTHe kod</title>
+        <link rel='icon' type='image/png' href='/static/img/icon.png'>
+        <link href='/static/style.css' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.9.0/css/all.css">
+        <script src="/static/script.js"></script>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta charset='utf-8'/>
+    </head>
+    <body>
+        <input type="checkbox" name="aoc-trigger" id="aoc-trigger">
+        <input name='theme-trigger' id='theme-trigger' type='checkbox'>
+        <div id="body">
+        <script>
+            const trigger = document.getElementById("theme-trigger");
+            trigger.checked = window.localStorage.getItem("theme") === "light";
+        </script>
+        <input name='nav-trigger-toggle' id='nav-trigger-toggle' type='checkbox'>
+        <nav id='nav'>
+            <label for='nav-trigger-toggle'>
+                <div id='nav-toggle'>
+                    <i class="fas fa-bars"></i>
+                </div>
+            </label>
+            <div id='nav-logo-container'>
+                <img id='nav-logo' src='/static/img/logo.png'>
+            </div>
+            <ul><li class='item '
+                    onclick='window.location.href="/en/"'
+                >
+                    <a href='/en/'>
+                        Start
+                    </a>
+                </li><li class='item '
+                    onclick='window.location.href="/contact/en/"'
+                >
+                    <a href='/contact/en/'>
+                        Contact us
+                    </a>
+                </li><li class='item '
+                    onclick='window.location.href="/aoc/en/"'
+                >
+                    <a href='/aoc/en/'>
+                        Advent of Code
+                    </a>
+                </li><li class='item '
+                    onclick='window.location.href="/competitions/en/"'
+                >
+                    <a href='/competitions/en/'>
+                        Competitions
+                    </a>
+                </li><li class='item '
+                    onclick='window.location.href="/gamejam/en/"'
+                >
+                    <a href='/gamejam/en/'>
+                        Game Jam
+                    </a>
+                </li><li class='item '
+                    onclick='window.location.href="/organization/en/"'
+                >
+                    <a href='/organization/en/'>
+                        Organization
+                    </a>
+                </li><li class='item '
+                    onclick='window.location.href="/cheats/en/"'
+                >
+                    <a href='/cheats/en/'>
+                        Cheats
+                    </a>
+                </li></ul>
+            <a class='button' id='toggle-lang' href="/liu-challenge/se/">
+                <img
+                    onclick='window.location.href="se"'
+                    src='/static/img/se.svg'
+                />
+            </a>
+            <label class='button' id='toggle-theme' for='theme-trigger'>
+                <img id='dark-theme' src='/static/img/dark-theme.svg'/>
+                <img id='light-theme' src='/static/img/light-theme.svg'/>
+            </label>
+        </nav>
+        <header>
+            <canvas id="fancy-pants-graphics"></canvas>
+            <a id="header-graphic" href='/en/'>
+                <img src='/static/img/totalrippad.svg'>
+            </a>
+        </header>
+        <article>
+            <noscript>
+                <h1>Oh snag, no JS!</h1>
+                <p id="no-script">
+                    Oh, it looks like you don't have JavaScript enabled, it's
+                    understandable really, but some of the functionality on this
+                    site won't work. Unfortunately you can't get light or dark
+                    theme or automatically switch between English and Swedish.
+                </p>
+            </noscript>
+            
+<h1>LiU Challenge - 2023</h1>
+
+<p>Solutions can now be found: <a href="https://github.com/lowekoz/liu-challenge-23">here</a></p>
+
+<p>LiTHe kod are proud to once again be part of Swedish Coding Cup with LiU Challenge 23. LiU Challenge 23 is a competetive programming contest consisting of problems concieved by LiU students. LiU Challenge is an open contest where you can compete against the best problem solvers in Sweden to determine whose keyboard prestidigitation is the finest!</p>
+
+<p>When? - 15 April, 12.00 intro. Competition start 13.00<br />
+Where? - Ada Lovelace, B-huset on campus, door 27<br />
+How? Remote or on-site<br /></p>
+
+<p>Contest URL - <a href="https://liuchallenge23.kattis.com/contests/liuchallenge23">https://liuchallenge23.kattis.com/contests/liuchallenge23</a></p>
+
+<p>Competitors on-site can get food/compete for prices by registrating <a href="https://docs.google.com/forms/d/e/1FAIpQLSdaItQiHxTImo-TGNbjssCeLzSe1qVLzK-EpczlVrYO0MKwQw/viewform?usp=sf_link">here</a></p>
+
+<p>Prizes: <br />
+    1st place: SEK 2,500 <br />
+    2nd place: SEK 1,500 <br />
+    3rd place: SEK 1,000 <br /></p>
+
+<p>All questions will be answered by email
+<a href="mailto:ordf@lithekod.se">ordf@lithekod.se</a></p>
+
+<h2>Competition timetable 15 April</h2>
+
+<ul>
+<li>12:00 - Intro presentation : Ada Lovelace, B-huset on campus, door 27</li>
+<li>13:00 - Competition starts! : Computer lab rooms</li>
+<li>16:00 - Competition ends</li>
+<li>After competition - Solutions posted to this website</li>
+</ul>
+
+<h2>Details</h2>
+
+<p>The competition will be hosted on Kattis and look very similar to prior competitions in SCC, e.g. <a href="https://liuchallenge19.kattis.com/contests/liuchallenge19">liu-challenge-19</a>.</p>
+
+<p>Competitors will be given 3 hours to solve 5 tasks. You may use your own computer for the competitions, or if you have a valid LiU account use the computers in the labs. </p>
+
+<p>There will be food for competitors on-site.</p>
+
+<p>Special thanks to the organizers and the problem setters.</p>
+
+<div id="sponsor-container">
+    <img class="sponsor only-light-theme" src="/static/img/mindroad_logo.png" alt="mindroad">
+    <img class="sponsor only-dark-theme" src="/static/img/mindroad_logo.png" alt="mindroad">
+</div>
+
+
+<p>
+<small>
+    Last updated: 2023-04-18
+</small>
+</p>
+
+        </article>
+        <div id="footer-bg">
+            <footer>
+                <div class="footer-block">
+                    <h2>
+                        Contact us
+                    </h2>
+                    <p>
+                        <a href="https://discord.gg/UG5YYsN">
+                            <i class="fab fa-discord"></i> Discord
+                        </a>
+                    </p>
+                    <p>
+                        <a href="https://www.facebook.com/LitheKod/">
+                            <i class="fab fa-facebook"></i> Facebook
+                        </a>
+                    </p>
+                    <p>
+                        <a href="mailto:ordf@lithekod.se">
+                            <i class="fas fa-at"></i> ordf@lithekod.se
+                        </a>
+                    </p>
+                </div>
+                <div class="footer-block">
+                    <h2>
+                        Address
+                    </h2>
+                    <p>LiTHe kod Kårallen, Universitetet</p>
+                    <p>581 83 Linköping</p>
+                </div>
+            </footer>
+        </div>
+        </div>
+        <canvas id="snowflakes"></canvas>
+    </body>
+</html>

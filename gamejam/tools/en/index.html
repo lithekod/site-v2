@@ -1,0 +1,230 @@
+<!doctype HTML>
+
+
+<html lang='en'>
+    <head>
+        <title>LiTHe kod</title>
+        <link rel='icon' type='image/png' href='/static/img/icon.png'>
+        <link href='/static/style.css' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.9.0/css/all.css">
+        <script src="/static/script.js"></script>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta charset='utf-8'/>
+    </head>
+    <body>
+        <input type="checkbox" name="aoc-trigger" id="aoc-trigger">
+        <input name='theme-trigger' id='theme-trigger' type='checkbox'>
+        <div id="body">
+        <script>
+            const trigger = document.getElementById("theme-trigger");
+            trigger.checked = window.localStorage.getItem("theme") === "light";
+        </script>
+        <input name='nav-trigger-toggle' id='nav-trigger-toggle' type='checkbox'>
+        <nav id='nav'>
+            <label for='nav-trigger-toggle'>
+                <div id='nav-toggle'>
+                    <i class="fas fa-bars"></i>
+                </div>
+            </label>
+            <div id='nav-logo-container'>
+                <img id='nav-logo' src='/static/img/logo.png'>
+            </div>
+            <ul><li class='item '
+                    onclick='window.location.href="/en/"'
+                >
+                    <a href='/en/'>
+                        Start
+                    </a>
+                </li><li class='item '
+                    onclick='window.location.href="/contact/en/"'
+                >
+                    <a href='/contact/en/'>
+                        Contact us
+                    </a>
+                </li><li class='item '
+                    onclick='window.location.href="/aoc/en/"'
+                >
+                    <a href='/aoc/en/'>
+                        Advent of Code
+                    </a>
+                </li><li class='item '
+                    onclick='window.location.href="/competitions/en/"'
+                >
+                    <a href='/competitions/en/'>
+                        Competitions
+                    </a>
+                </li><li class='item '
+                    onclick='window.location.href="/gamejam/en/"'
+                >
+                    <a href='/gamejam/en/'>
+                        Game Jam
+                    </a>
+                </li><li class='item '
+                    onclick='window.location.href="/organization/en/"'
+                >
+                    <a href='/organization/en/'>
+                        Organization
+                    </a>
+                </li><li class='item '
+                    onclick='window.location.href="/cheats/en/"'
+                >
+                    <a href='/cheats/en/'>
+                        Cheats
+                    </a>
+                </li></ul>
+            <a class='button' id='toggle-lang' href="/gamejam/tools/se/">
+                <img
+                    onclick='window.location.href="se"'
+                    src='/static/img/se.svg'
+                />
+            </a>
+            <label class='button' id='toggle-theme' for='theme-trigger'>
+                <img id='dark-theme' src='/static/img/dark-theme.svg'/>
+                <img id='light-theme' src='/static/img/light-theme.svg'/>
+            </label>
+        </nav>
+        <header>
+            <canvas id="fancy-pants-graphics"></canvas>
+            <a id="header-graphic" href='/en/'>
+                <img src='/static/img/totalrippad.svg'>
+            </a>
+        </header>
+        <article>
+            <noscript>
+                <h1>Oh snag, no JS!</h1>
+                <p id="no-script">
+                    Oh, it looks like you don't have JavaScript enabled, it's
+                    understandable really, but some of the functionality on this
+                    site won't work. Unfortunately you can't get light or dark
+                    theme or automatically switch between English and Swedish.
+                </p>
+            </noscript>
+            
+<div id="gamejam-header">
+  <img src="/static/img/gamejam/logo.png" alt="LiU Game Jam">
+  <h1>LiU Game Jam</h1>
+</div>
+
+<p><a href="/gamejam/en">⇦ Back to LiU Game Jam's main page</a></p>
+
+<h1>Jam tools</h1>
+
+<p>These tools works great for game jams and are mostly free.</p>
+
+<h3>Tools for making computer games</h3>
+
+<ul>
+<li><p>3D (or 2D)</p>
+
+<ul>
+<li><a href="http://unity3d.com/">Unity (C#)</a></li>
+<li><a href="https://godotengine.org/">Godot (GDScript: Python-like syntax)</a></li>
+<li><a href="https://www.unrealengine.com/">Unreal Engine (C++/Visual Scripting)</a></li>
+</ul></li>
+<li><p>2D</p>
+
+<ul>
+<li><a href="https://www.scirra.com/">Construct (Visual Scripting)</a></li>
+<li><a href="http://www.pygame.org/">Pygame (Python)</a></li>
+<li><a href="https://love2d.org/">Löve (Lua)</a></li>
+<li><a href="http://haxeflixel.com/">Haxeflixel (Haxe)</a></li>
+<li><a href="https://scratch.mit.edu/">Scratch (Visual Scripting)</a></li>
+</ul></li>
+</ul>
+
+<h3>Tools for making graphics</h3>
+
+<ul>
+<li><a href="https://www.blender.org/">Blender 3D (3D modelling and more)</a></li>
+<li><a href="https://ephtracy.github.io/">MagicaVoxel (Voxel editor)</a></li>
+<li><a href="https://krita.org/">Krita (2D drawing and animation)</a></li>
+<li><a href="http://www.makehumancommunity.org/">MakeHuman (3D-models of humans)</a></li>
+<li><a href="https://www.simplygon.com/">Simplygon (3D-model optimization)</a></li>
+<li><a href="https://www.mixamo.com/">Mixamo (Autorig and animate humanoid 3D characters)</a></li>
+</ul>
+
+<h3>Tools for making sound effects</h3>
+
+<ul>
+<li><a href="http://www.bfxr.net/">bfxr (Online old school sound effect generator)</a></li>
+<li><a href="http://www.warmplace.ru/soft/sunvox/">Sunvox (Modular synthesizer / tracker for music)</a></li>
+<li><a href="http://www.beepbox.co/">BeepBox (Online chiptune music tracker)</a></li>
+<li><a href="https://sfbgames.itch.io/chiptone">ChipTones (Old school sound effect generator)</a></li>
+</ul>
+
+<h3>Free game resources</h3>
+
+<ul>
+<li><a href="http://opengameart.org/">OpenGameArt.org (Public domain and creative commons game assets)</a></li>
+<li><a href="https://itch.io/game-assets/free">Itch.io Game Assets</a></li>
+<li><a href="https://hdrihaven.com/">HDRI Haven (HDR / Environment Maps)</a></li>
+<li><a href="https://www.cgbookcase.com/textures">cgbookcase.com (Textures)</a></li>
+<li><a href="https://texturehaven.com/">Texture Haven (Textures)</a></li>
+<li><a href="https://cc0textures.com/">CC0 Textures (Textures)</a></li>
+<li><a href="https://www.textures.com/">textures.com (Textures)</a></li>
+<li><a href="https://devassets.com/">Dev Assets</a></li>
+<li><a href="https://game-icons.net/">game-icons.net (Icons)</a></li>
+<li><a href="http://virt10.itu.chalmers.se/index.php/Main_Page">Gameplay Design Patterns</a></li>
+</ul>
+
+<h3>Tools for keeping track of work (version control)</h3>
+
+<ul>
+<li><p>Hosts</p>
+
+<ul>
+<li><a href="http://gitlab.com/">GitLab</a></li>
+<li><a href="http://github.com/">GitHub</a></li>
+<li><a href="https://gitlab.liu.se/">Linköping University's GitLab</a></li>
+</ul></li>
+<li><p>Clients</p>
+
+<ul>
+<li><a href="https://git-scm.com/">Git</a></li>
+<li><a href="https://www.sourcetreeapp.com/">SourceTree (frontend for Git)</a></li>
+</ul></li>
+</ul>
+
+
+<p>
+<small>
+    Last updated: 2021-12-12
+</small>
+</p>
+
+        </article>
+        <div id="footer-bg">
+            <footer>
+                <div class="footer-block">
+                    <h2>
+                        Contact us
+                    </h2>
+                    <p>
+                        <a href="https://discord.gg/UG5YYsN">
+                            <i class="fab fa-discord"></i> Discord
+                        </a>
+                    </p>
+                    <p>
+                        <a href="https://www.facebook.com/LitheKod/">
+                            <i class="fab fa-facebook"></i> Facebook
+                        </a>
+                    </p>
+                    <p>
+                        <a href="mailto:ordf@lithekod.se">
+                            <i class="fas fa-at"></i> ordf@lithekod.se
+                        </a>
+                    </p>
+                </div>
+                <div class="footer-block">
+                    <h2>
+                        Address
+                    </h2>
+                    <p>LiTHe kod Kårallen, Universitetet</p>
+                    <p>581 83 Linköping</p>
+                </div>
+            </footer>
+        </div>
+        </div>
+        <canvas id="snowflakes"></canvas>
+    </body>
+</html>

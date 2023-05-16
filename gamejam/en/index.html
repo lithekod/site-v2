@@ -1,0 +1,334 @@
+<!doctype HTML>
+
+
+<html lang='en'>
+    <head>
+        <title>LiTHe kod</title>
+        <link rel='icon' type='image/png' href='/static/img/icon.png'>
+        <link href='/static/style.css' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.9.0/css/all.css">
+        <script src="/static/script.js"></script>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta charset='utf-8'/>
+    </head>
+    <body>
+        <input type="checkbox" name="aoc-trigger" id="aoc-trigger">
+        <input name='theme-trigger' id='theme-trigger' type='checkbox'>
+        <div id="body">
+        <script>
+            const trigger = document.getElementById("theme-trigger");
+            trigger.checked = window.localStorage.getItem("theme") === "light";
+        </script>
+        <input name='nav-trigger-toggle' id='nav-trigger-toggle' type='checkbox'>
+        <nav id='nav'>
+            <label for='nav-trigger-toggle'>
+                <div id='nav-toggle'>
+                    <i class="fas fa-bars"></i>
+                </div>
+            </label>
+            <div id='nav-logo-container'>
+                <img id='nav-logo' src='/static/img/logo.png'>
+            </div>
+            <ul><li class='item '
+                    onclick='window.location.href="/en/"'
+                >
+                    <a href='/en/'>
+                        Start
+                    </a>
+                </li><li class='item '
+                    onclick='window.location.href="/contact/en/"'
+                >
+                    <a href='/contact/en/'>
+                        Contact us
+                    </a>
+                </li><li class='item '
+                    onclick='window.location.href="/aoc/en/"'
+                >
+                    <a href='/aoc/en/'>
+                        Advent of Code
+                    </a>
+                </li><li class='item '
+                    onclick='window.location.href="/competitions/en/"'
+                >
+                    <a href='/competitions/en/'>
+                        Competitions
+                    </a>
+                </li><li class='item selected'
+                    onclick='window.location.href="/gamejam/en/"'
+                >
+                    <a href='/gamejam/en/'>
+                        Game Jam
+                    </a>
+                </li><li class='item '
+                    onclick='window.location.href="/organization/en/"'
+                >
+                    <a href='/organization/en/'>
+                        Organization
+                    </a>
+                </li><li class='item '
+                    onclick='window.location.href="/cheats/en/"'
+                >
+                    <a href='/cheats/en/'>
+                        Cheats
+                    </a>
+                </li></ul>
+            <a class='button' id='toggle-lang' href="/gamejam/se/">
+                <img
+                    onclick='window.location.href="se"'
+                    src='/static/img/se.svg'
+                />
+            </a>
+            <label class='button' id='toggle-theme' for='theme-trigger'>
+                <img id='dark-theme' src='/static/img/dark-theme.svg'/>
+                <img id='light-theme' src='/static/img/light-theme.svg'/>
+            </label>
+        </nav>
+        <header>
+            <canvas id="fancy-pants-graphics"></canvas>
+            <a id="header-graphic" href='/en/'>
+                <img src='/static/img/totalrippad.svg'>
+            </a>
+        </header>
+        <article>
+            <noscript>
+                <h1>Oh snag, no JS!</h1>
+                <p id="no-script">
+                    Oh, it looks like you don't have JavaScript enabled, it's
+                    understandable really, but some of the functionality on this
+                    site won't work. Unfortunately you can't get light or dark
+                    theme or automatically switch between English and Swedish.
+                </p>
+            </noscript>
+            
+<div id="gamejam-header">
+  <img src="/static/img/gamejam/logo.png" alt="LiU Game Jam">
+  <h1>LiU Game Jam</h1>
+</div>
+
+<h1>Spring Game Jam 2023</h1>
+
+<p><em>18:00 12th May - 18:00 14th May</em></p>
+
+<p>This year's Spring Game Jam is unfortunately behind us. We hope to see you this
+fall!</p>
+
+<p><img src="/static/img/gamejam/banner-sgj23.png" alt="Spring Game Jam 2023" id="gamejam-banner"></p>
+
+<p>Get ready for this year's edition of Spring Game Jam! Join us and build kickass
+games together during a weekend. Once again IN REAL LIFE!</p>
+
+<h3>Information during the jam</h3>
+
+<ul>
+<li>Themes
+<ul>
+<li>Val (fast på engelska) miximum</li>
+<li>Fruit shark</li>
+<li>FOMO - profitable</li>
+</ul></li>
+<li>Brainstorm
+<ul>
+<li>Election shark - valfusk med haj</li>
+<li>Minus ten social credit - Var en duktig medborgare</li>
+<li>D-lan vs GJ vs UK - Kapitalism</li>
+<li>Age of democracy - Nästa val?</li>
+<li>Val(ve) - Dörrar och inre demoner?</li>
+</ul></li>
+<li><a href="https://docs.google.com/presentation/d/1FyD0zhU139LQBHl6ymr-HcEqOxinEF9ViDGFM_HAtqA/edit?usp=sharing">Intro presentation</a></li>
+<li><a href="https://docs.google.com/presentation/d/11pUub6vZe744Sr2aQ4hMn1AZpjot_E6ThhyElb3sx3E/edit?usp=sharing">Half-time review</a></li>
+<li><a href="https://docs.google.com/presentation/d/1GaNcvpmFdvYKU-Uz-aDNOYLCTcDSkqCmxOyHawLhYoM/edit?usp=sharing">Final presentation</a></li>
+</ul>
+
+<h3>Location</h3>
+
+<p>The game jam will take place on site at <a href="https://sanktkors.se/lediga-lokaler/linkoping/ebbepark/spektrum/">Spektrum,
+Ebbepark</a> in
+Linköping, Sweden. The location has Wi-Fi but no physical network outlets.</p>
+
+<h3>How to participate</h3>
+
+<p>In order to participate in the jam, show up at Spektrum at (or a bit before)
+18:00 12th May. Bring the equipment you need in order to create games:
+laptop and peripherals, or physical game components.</p>
+
+<p>Also, optionally:</p>
+
+<ol>
+<li>Join the <a href="https://itch.io/jam/liu-spring-game-jam-2023">itch.io jam page</a> where we would like for you to upload
+the resulting game too, so it is more accesible and can be added to our game
+archive:
+<a href="https://itch.io/c/64050/liu-game-jam">Itch.io Archive</a></li>
+<li>Join our Discord to get announcements during the jam:
+<a href="https://discord.gg/tP2kDvgQKn">Discord invite</a></li>
+<li>Join the <a href="https://www.facebook.com/events/786567499340170">Facebook event</a><br/><em>This helps us
+approximate the number of attending jammers for better planning.</em></li>
+</ol>
+
+<h3>Schedule</h3>
+
+<p><strong>Friday 12th May</strong></p>
+
+<ul>
+<li>18:00: Introduction
+<ul>
+<li>Theme reveal</li>
+<li>Brainstorming</li>
+<li>Group forming</li>
+</ul></li>
+<li>18:10: Joint pizza order deadline</li>
+</ul>
+
+<p><strong>Saturday 13th May</strong></p>
+
+<ul>
+<li>09:00: Spektrum opens
+<ul>
+<li>Breakfast (free)</li>
+</ul></li>
+<li>16:00: Joint Chinese buffet order deadline</li>
+<li>Around 18:00: Chinese food arrival and buffet</li>
+<li>Around 18:15: Half time review</li>
+</ul>
+
+<p><strong>Sunday 14th May</strong></p>
+
+<ul>
+<li>09:00: Spektrum opens
+<ul>
+<li>Breakfast (free)</li>
+</ul></li>
+<li>11:00: Joint sushi order deadline</li>
+<li>18:00: Game creation deadline
+<ul>
+<li>Resulting games should be uploaded to globalgamejam.org and itch.io</li>
+<li>Jammers should have cleaned their tables</li>
+</ul></li>
+<li>18:15: Final review</li>
+<li>19:00: Playtesting and showcase</li>
+</ul>
+
+<h3>Theme</h3>
+
+<p>The themes are generated at the start of the jam by taking random pairs of words
+submitted by participants. They will be added at the top of this page after the start of the jam.</p>
+
+<p>Theme word rules:</p>
+
+<ul>
+<li>Should only be one English word.</li>
+<li>Should not be a game genre (e.g. FPS, RTS).</li>
+<li>Keep it safe for work.</li>
+</ul>
+
+<p>Our theme process ensures unique and challenging themes each jam. The themes are
+there for inspiration during brainstorming but you can pick something else as
+well.</p>
+
+<hr />
+
+<h1>What is a game jam?</h1>
+
+<p>A game jam is an event where programmers, artists and gamers come together to
+create games; both computer games and board games. At our game jam there is a
+48 hours time limit and a randomized theme for inspiration.</p>
+
+<h1>Other channels</h1>
+
+<p>Follow LiU Game Jam on the following channels.</p>
+
+<ul>
+<li><a href="https://discord.gg/tP2kDvgQKn">Discord server</a></li>
+<li><a href="https://www.facebook.com/liugamejam/">Facebook page</a></li>
+<li><a href="https://twitter.com/LiuGameJam">Twitter</a></li>
+<li><a href="http://us12.campaign-archive2.com/home/?u=092a6fffba8f6063437a51495&amp;id=c3863c4bf5">Newsletter</a></li>
+<li><a href="https://itch.io/c/64050/liu-game-jam">Itch.io game archive</a></li>
+</ul>
+
+<h1>FAQ</h1>
+
+<h3>Am I welcome?</h3>
+
+<p>All are welcome, student and non-student alike. No previous experience is
+needed and the event is free of charge.</p>
+
+<h3>Can I join the jam remotely?</h3>
+
+<p>Not completely as we want to keep this game jam on site. You are free to work remotely but introduction, review and play testing events will be on site. Make sure you can visit for them or have a team member there to represent you.</p>
+
+<h3>How are groups selected? Do I need a team?</h3>
+
+<p>Groups will be randomized for brainstorming purposes, but you are free to work
+with whomever you like. The starting groups will allow you to find people
+sharing similar ideas. We make sure everyone finds someone to work with.</p>
+
+<h3>Do I need to have a team to participate?</h3>
+
+<p>You can work alone or in teams. It is more fun to jam in teams so we highly encourage you to find one.</p>
+
+<h3>Do I need to follow the theme?</h3>
+
+<p>The theme is there for inspiration during brainstorming. If you have your own idea or an already existing project feel free to work on it.</p>
+
+<h3>Do I need to be able to program?</h3>
+
+<p>Not at all! Game design covers all kind of fields such as art, music, design,
+storywriting, level creation and problemsolving. Anyone who is eager to create
+is welcome.</p>
+
+<h3>What can I make my game in?</h3>
+
+<p>Anything, a lot of jammers favor using game engines for the ease of use but participants have used everything from custom made programming languages to Google spreadsheets. A good list of resources can be found <a href="/gamejam/tools/en">here</a>.</p>
+
+<h3>Can I use assets packs or reuse code?</h3>
+
+<p>Yes, feel free to use anything you have to make a kickass game.</p>
+
+<hr />
+
+<h1><a href="/gamejam/history/en">History</a></h1>
+
+<h1><a href="/gamejam/tools/en">Jam tools</a></h1>
+
+
+<p>
+<small>
+    Last updated: 2023-05-14
+</small>
+</p>
+
+        </article>
+        <div id="footer-bg">
+            <footer>
+                <div class="footer-block">
+                    <h2>
+                        Contact us
+                    </h2>
+                    <p>
+                        <a href="https://discord.gg/UG5YYsN">
+                            <i class="fab fa-discord"></i> Discord
+                        </a>
+                    </p>
+                    <p>
+                        <a href="https://www.facebook.com/LitheKod/">
+                            <i class="fab fa-facebook"></i> Facebook
+                        </a>
+                    </p>
+                    <p>
+                        <a href="mailto:ordf@lithekod.se">
+                            <i class="fas fa-at"></i> ordf@lithekod.se
+                        </a>
+                    </p>
+                </div>
+                <div class="footer-block">
+                    <h2>
+                        Address
+                    </h2>
+                    <p>LiTHe kod Kårallen, Universitetet</p>
+                    <p>581 83 Linköping</p>
+                </div>
+            </footer>
+        </div>
+        </div>
+        <canvas id="snowflakes"></canvas>
+    </body>
+</html>
